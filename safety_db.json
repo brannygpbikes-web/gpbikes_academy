@@ -1,8 +1,8 @@
 {
     "branny": {
-        "safety": 145,
-        "races": 4,
-        "contacts": 4,
+        "safety": 105,
+        "races": 6,
+        "contacts": 12,
         "clean_races": 2
     },
     "pr1c3y": {
@@ -18,9 +18,9 @@
         "clean_races": 2
     },
     "nuno": {
-        "safety": 140,
-        "races": 5,
-        "contacts": 9,
+        "safety": 125,
+        "races": 6,
+        "contacts": 12,
         "clean_races": 3
     },
     "Ergabibbooo": {
@@ -42,9 +42,9 @@
         "clean_races": 1
     },
     "cookie": {
-        "safety": 145,
-        "races": 1,
-        "contacts": 0,
+        "safety": 125,
+        "races": 3,
+        "contacts": 4,
         "clean_races": 1
     },
     "Justice": {
@@ -72,16 +72,16 @@
         "clean_races": 1
     },
     "tobimayer29 on ig": {
-        "safety": 195,
-        "races": 6,
-        "contacts": 2,
+        "safety": 190,
+        "races": 7,
+        "contacts": 3,
         "clean_races": 4
     },
     "RaK": {
-        "safety": 180,
-        "races": 4,
-        "contacts": 1,
-        "clean_races": 3
+        "safety": 220,
+        "races": 10,
+        "contacts": 5,
+        "clean_races": 6
     },
     "chilliams": {
         "safety": 170,
@@ -96,10 +96,10 @@
         "clean_races": 3
     },
     "EgoMan": {
-        "safety": 165,
-        "races": 5,
-        "contacts": 4,
-        "clean_races": 3
+        "safety": 130,
+        "races": 11,
+        "contacts": 19,
+        "clean_races": 5
     },
     "Giancarlos13": {
         "safety": 145,
@@ -108,10 +108,10 @@
         "clean_races": 1
     },
     "AhyaAL": {
-        "safety": 190,
-        "races": 5,
-        "contacts": 3,
-        "clean_races": 4
+        "safety": 230,
+        "races": 11,
+        "contacts": 7,
+        "clean_races": 7
     },
     "teeds": {
         "safety": 185,
@@ -120,9 +120,9 @@
         "clean_races": 3
     },
     "27diegomartinez_": {
-        "safety": 110,
-        "races": 5,
-        "contacts": 15,
+        "safety": 60,
+        "races": 7,
+        "contacts": 25,
         "clean_races": 3
     },
     "Mohze": {
@@ -144,22 +144,22 @@
         "clean_races": 3
     },
     "Lou": {
-        "safety": 165,
-        "races": 2,
-        "contacts": 0,
+        "safety": 40,
+        "races": 3,
+        "contacts": 25,
         "clean_races": 2
     },
     "Sturdy": {
-        "safety": 145,
-        "races": 4,
+        "safety": 165,
+        "races": 5,
         "contacts": 4,
-        "clean_races": 2
+        "clean_races": 3
     },
     "Lanzo": {
-        "safety": 125,
-        "races": 4,
-        "contacts": 8,
-        "clean_races": 2
+        "safety": 150,
+        "races": 10,
+        "contacts": 15,
+        "clean_races": 5
     },
     "Santos47": {
         "safety": 120,
@@ -168,22 +168,22 @@
         "clean_races": 2
     },
     "romeo": {
-        "safety": 110,
-        "races": 2,
-        "contacts": 7,
+        "safety": 90,
+        "races": 3,
+        "contacts": 11,
         "clean_races": 1
     },
     "filipknigge20": {
-        "safety": 125,
-        "races": 3,
-        "contacts": 4,
+        "safety": 115,
+        "races": 5,
+        "contacts": 6,
         "clean_races": 1
     },
     "Matteo 42": {
-        "safety": 110,
-        "races": 3,
-        "contacts": 7,
-        "clean_races": 1
+        "safety": 100,
+        "races": 6,
+        "contacts": 13,
+        "clean_races": 2
     },
     "Carrasco": {
         "safety": 125,
@@ -204,27 +204,27 @@
         "clean_races": 2
     },
     "JorgeGuti": {
-        "safety": 135,
-        "races": 2,
-        "contacts": 2,
-        "clean_races": 1
+        "safety": 130,
+        "races": 5,
+        "contacts": 7,
+        "clean_races": 2
     },
     "TheJr": {
-        "safety": 155,
-        "races": 3,
-        "contacts": 2,
+        "safety": 90,
+        "races": 7,
+        "contacts": 15,
         "clean_races": 2
     },
     "Eder Merino": {
-        "safety": 110,
-        "races": 2,
-        "contacts": 7,
+        "safety": 105,
+        "races": 3,
+        "contacts": 8,
         "clean_races": 1
     },
     "AwashMicrobe": {
-        "safety": 95,
-        "races": 2,
-        "contacts": 6,
+        "safety": 0,
+        "races": 4,
+        "contacts": 35,
         "clean_races": 0
     },
     "KeyWay22": {
@@ -234,30 +234,168 @@
         "clean_races": 1
     },
     "Shoop46": {
-        "safety": 85,
-        "races": 2,
+        "safety": 105,
+        "races": 3,
         "contacts": 8,
-        "clean_races": 0
+        "clean_races": 1
     },
     "thecrivi28": {
-        "safety": 75,
-        "races": 2,
-        "contacts": 10,
+        "safety": 55,
+        "races": 3,
+        "contacts": 14,
         "clean_races": 0
     },
     "Miquel_Sinke60": {
-        "safety": 115,
-        "races": 1,
-        "contacts": 2,
-        "clean_races": 0
-    },
-    "moe": {
-        "safety": 145,
-        "races": 1,
-        "contacts": 0,
+        "safety": 100,
+        "races": 4,
+        "contacts": 9,
         "clean_races": 1
     },
+    "moe": {
+        "safety": 165,
+        "races": 2,
+        "contacts": 0,
+        "clean_races": 2
+    },
     "Zachy12345": {
+        "safety": 110,
+        "races": 2,
+        "contacts": 3,
+        "clean_races": 0
+    },
+    "adrix": {
+        "safety": 85,
+        "races": 1,
+        "contacts": 8,
+        "clean_races": 0
+    },
+    "Thunberg": {
+        "safety": 70,
+        "races": 3,
+        "contacts": 11,
+        "clean_races": 0
+    },
+    "washed": {
+        "safety": 100,
+        "races": 3,
+        "contacts": 5,
+        "clean_races": 0
+    },
+    "pableko": {
+        "safety": 85,
+        "races": 3,
+        "contacts": 8,
+        "clean_races": 0
+    },
+    "waldodj": {
+        "safety": 115,
+        "races": 5,
+        "contacts": 6,
+        "clean_races": 1
+    },
+    "aleso262004": {
+        "safety": 85,
+        "races": 5,
+        "contacts": 16,
+        "clean_races": 2
+    },
+    "MARCO": {
+        "safety": 25,
+        "races": 5,
+        "contacts": 20,
+        "clean_races": 0
+    },
+    "zrezke": {
+        "safety": 60,
+        "races": 5,
+        "contacts": 13,
+        "clean_races": 0
+    },
+    "Cummin Jizzwood": {
+        "safety": 95,
+        "races": 2,
+        "contacts": 6,
+        "clean_races": 0
+    },
+    "milanberendsen": {
+        "safety": 110,
+        "races": 1,
+        "contacts": 3,
+        "clean_races": 0
+    },
+    "jpspeed16": {
+        "safety": 120,
+        "races": 1,
+        "contacts": 1,
+        "clean_races": 0
+    },
+    "Eneko Garcia #14": {
+        "safety": 120,
+        "races": 1,
+        "contacts": 1,
+        "clean_races": 0
+    },
+    "Ger_CarloS": {
+        "safety": 80,
+        "races": 3,
+        "contacts": 9,
+        "clean_races": 0
+    },
+    "Rayo__Wombat": {
+        "safety": 85,
+        "races": 4,
+        "contacts": 8,
+        "clean_races": 0
+    },
+    "Ricoway46": {
+        "safety": 95,
+        "races": 2,
+        "contacts": 6,
+        "clean_races": 0
+    },
+    "Tardos37Racing": {
+        "safety": 130,
+        "races": 2,
+        "contacts": 3,
+        "clean_races": 1
+    },
+    "Benji": {
+        "safety": 90,
+        "races": 2,
+        "contacts": 7,
+        "clean_races": 0
+    },
+    "Dani": {
+        "safety": 70,
+        "races": 3,
+        "contacts": 11,
+        "clean_races": 0
+    },
+    "21vitalio": {
+        "safety": 105,
+        "races": 2,
+        "contacts": 4,
+        "clean_races": 0
+    },
+    "Tonton_flingueur": {
+        "safety": 110,
+        "races": 1,
+        "contacts": 3,
+        "clean_races": 0
+    },
+    "agomoto1975": {
+        "safety": 165,
+        "races": 2,
+        "contacts": 0,
+        "clean_races": 2
+    },
+    "Tarmacsurfer": {
+        "safety": 110,
+        "races": 1,
+        "contacts": 3,
+        "clean_races": 0
+    },
+    "Michiel Oom": {
         "safety": 120,
         "races": 1,
         "contacts": 1,
