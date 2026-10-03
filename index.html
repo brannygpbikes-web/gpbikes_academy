@@ -3,16 +3,26 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
   <title>GP Bikes Academy Ranked</title>
 
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
   <link rel="stylesheet" href="./style.css">
 
   <style>
+    /* LEADERBOARD COLUMNS */
     .player {
-      grid-template-columns: 70px minmax(180px, 1fr) 110px 100px 100px 110px;
+      grid-template-columns:
+        60px
+        minmax(170px, 1fr)
+        95px
+        145px
+        80px
+        80px
+        90px;
     }
 
+    /* SORT BUTTONS */
     .sort-button {
       border: 0;
       padding: 0;
@@ -29,7 +39,7 @@
 
     .sort-button:hover,
     .sort-button.active {
-      color: white;
+      color: #ffffff;
     }
 
     .sort-button i {
@@ -41,6 +51,7 @@
       color: #df252d;
     }
 
+    /* EXTRA STATS */
     .races {
       color: #d1d5db;
       font-weight: bold;
@@ -51,14 +62,139 @@
       font-weight: bold;
     }
 
-    @media (max-width: 700px) {
+    /* ==============================
+       SAFETY RATING
+       ============================== */
+
+    .safety-rating {
+      display: inline-flex;
+      align-items: stretch;
+
+      height: 34px;
+
+      border: 3px solid;
+      border-radius: 18px 3px 3px 18px;
+
+      overflow: hidden;
+
+      background: #2d2d2d;
+
+      font-weight: bold;
+    }
+
+    .safety-grade {
+      width: 40px;
+
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+      font-size: 18px;
+
+      border-right: 3px solid;
+    }
+
+    .safety-score {
+      min-width: 55px;
+
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+      padding: 0 9px;
+
+      color: #ffffff;
+
+      font-size: 14px;
+    }
+
+    /* S */
+    .safety-s {
+      border-color: #008c2a;
+    }
+
+    .safety-s .safety-grade {
+      color: #008c2a;
+      border-color: #008c2a;
+    }
+
+    /* A */
+    .safety-a {
+      border-color: #00e52b;
+    }
+
+    .safety-a .safety-grade {
+      color: #00e52b;
+      border-color: #00e52b;
+    }
+
+    /* B */
+    .safety-b {
+      border-color: #a7e600;
+    }
+
+    .safety-b .safety-grade {
+      color: #a7e600;
+      border-color: #a7e600;
+    }
+
+    /* C */
+    .safety-c {
+      border-color: #ffd21c;
+    }
+
+    .safety-c .safety-grade {
+      color: #ffd21c;
+      border-color: #ffd21c;
+    }
+
+    /* D */
+    .safety-d {
+      border-color: #ff851b;
+    }
+
+    .safety-d .safety-grade {
+      color: #ff851b;
+      border-color: #ff851b;
+    }
+
+    /* E */
+    .safety-e {
+      border-color: #ef3340;
+    }
+
+    .safety-e .safety-grade {
+      color: #ef3340;
+      border-color: #ef3340;
+    }
+
+    /* No safety data */
+    .safety-none {
+      border-color: #666b74;
+    }
+
+    .safety-none .safety-grade {
+      color: #8b929d;
+      border-color: #666b74;
+    }
+
+    /* MOBILE */
+    @media (max-width: 800px) {
       .leaderboard {
         overflow-x: auto;
       }
 
       .player {
-        width: 650px;
-        grid-template-columns: 45px 180px 90px 80px 80px 90px;
+        width: 780px;
+
+        grid-template-columns:
+          50px
+          170px
+          80px
+          135px
+          70px
+          70px
+          80px;
       }
     }
   </style>
@@ -74,6 +210,7 @@
 </header>
 
 <nav class="sidebar">
+
   <a href="./index.html" class="active">
     <i class="fa-solid fa-trophy"></i>
     <span>Ranked</span>
@@ -91,16 +228,21 @@
 
   <div class="sidebar-divider"></div>
 
-  <a href="https://discord.gg/NGwKCQ96m8" target="_blank" rel="noopener noreferrer">
+  <a href="https://discord.gg/NGwKCQ96m8"
+     target="_blank"
+     rel="noopener noreferrer">
     <i class="fa-brands fa-discord"></i>
     <span>Join the Discord</span>
   </a>
+
 </nav>
 
 <main class="page">
+
   <div class="page-content">
 
     <div class="page-title">
+
       <div>
         <h1>Ranked</h1>
         <p>GP Bikes Academy competitive standings</p>
@@ -110,237 +252,567 @@
         <span class="live-dot"></span>
         2026 Season
       </div>
+
     </div>
 
     <section class="panel">
 
       <div class="panel-title">
+
         <div>
           <i class="fa-solid fa-ranking-star"></i>
           Leaderboard
         </div>
 
-        <span id="sort-description">Elo • Highest first</span>
+        <span id="sort-description">
+          Elo • Highest first
+        </span>
+
       </div>
 
       <div class="leaderboard">
 
         <div class="player leaderboard-header">
+
           <div>Rank</div>
 
           <div>
             <button class="sort-button" data-sort="name">
-              Player <i class="fa-solid fa-sort"></i>
+              Player
+              <i class="fa-solid fa-sort"></i>
             </button>
           </div>
 
           <div>
             <button class="sort-button active" data-sort="elo">
-              Elo <i class="fa-solid fa-arrow-down"></i>
+              Elo
+              <i class="fa-solid fa-arrow-down"></i>
+            </button>
+          </div>
+
+          <div>
+            <button class="sort-button" data-sort="safety">
+              Safety
+              <i class="fa-solid fa-sort"></i>
             </button>
           </div>
 
           <div>
             <button class="sort-button" data-sort="wins">
-              Wins <i class="fa-solid fa-sort"></i>
+              Wins
+              <i class="fa-solid fa-sort"></i>
             </button>
           </div>
 
           <div>
             <button class="sort-button" data-sort="races">
-              Races <i class="fa-solid fa-sort"></i>
+              Races
+              <i class="fa-solid fa-sort"></i>
             </button>
           </div>
 
           <div>
             <button class="sort-button" data-sort="podiums">
-              Podiums <i class="fa-solid fa-sort"></i>
+              Podiums
+              <i class="fa-solid fa-sort"></i>
             </button>
           </div>
+
         </div>
 
         <div id="players">
+
           <div class="status-message">
             <i class="fa-solid fa-spinner fa-spin"></i>
             Loading rankings...
           </div>
+
         </div>
 
       </div>
+
     </section>
 
   </div>
+
 </main>
 
 <script>
-const ELO_URL = "https://raw.githubusercontent.com/brannygpbikes-web/brannygpbikes.github.io/refs/heads/main/elo_db.json";
+const ELO_URL =
+  "https://raw.githubusercontent.com/brannygpbikes-web/brannygpbikes.github.io/refs/heads/main/elo_db.json";
+
+const SAFETY_URL =
+  "https://raw.githubusercontent.com/brannygpbikes-web/brannygpbikes.github.io/refs/heads/main/safety_db.json";
 
 let playerData = [];
 let sortBy = "elo";
 let sortDirection = "desc";
 
+
+/* SAFETY GRADES */
+
+function getSafetyGrade(score) {
+  if (score >= 250) return "S";
+  if (score >= 165) return "A";
+  if (score >= 125) return "B";
+  if (score >= 100) return "C";
+  if (score >= 70) return "D";
+
+  return "E";
+}
+
+
+/* LOAD DATABASES */
+
 async function loadPlayers() {
-  const container = document.getElementById("players");
+  const container =
+    document.getElementById("players");
 
   try {
-    const response = await fetch(ELO_URL + "?v=" + Date.now(), {
-      cache: "no-store"
-    });
+    const cacheBuster =
+      "?v=" + Date.now();
 
-    if (!response.ok) {
-      throw new Error("HTTP " + response.status);
+    const [eloResponse, safetyResponse] =
+      await Promise.all([
+        fetch(ELO_URL + cacheBuster, {
+          cache: "no-store"
+        }),
+
+        fetch(SAFETY_URL + cacheBuster, {
+          cache: "no-store"
+        })
+      ]);
+
+    if (!eloResponse.ok) {
+      throw new Error(
+        "Elo database HTTP " +
+        eloResponse.status
+      );
     }
 
-    const json = await response.json();
+    if (!safetyResponse.ok) {
+      throw new Error(
+        "Safety database HTTP " +
+        safetyResponse.status
+      );
+    }
 
-    playerData = Object.entries(json).map(([name, stats]) => ({
-      name,
-      elo: Number(stats.elo) || 0,
-      wins: Number(stats.wins) || 0,
-      races: Number(stats.races) || 0,
-      podiums: Number(stats.podiums) || 0
-    }));
+    const eloData =
+      await eloResponse.json();
+
+    const safetyData =
+      await safetyResponse.json();
+
+
+    playerData =
+      Object.entries(eloData).map(
+        ([name, stats]) => {
+
+          const safetyStats =
+            safetyData[name];
+
+          const hasSafety =
+            safetyStats !== undefined;
+
+          return {
+            name: name,
+
+            elo:
+              Number(stats.elo) || 0,
+
+            wins:
+              Number(stats.wins) || 0,
+
+            races:
+              Number(stats.races) || 0,
+
+            podiums:
+              Number(stats.podiums) || 0,
+
+            safety:
+              hasSafety
+                ? Number(safetyStats.safety) || 0
+                : null
+          };
+        }
+      );
 
     sortAndRender();
 
   } catch (error) {
-    console.error(error);
+    console.error(
+      "Leaderboard error:",
+      error
+    );
 
     container.innerHTML = `
       <div class="status-message error-message">
+
         <i class="fa-solid fa-triangle-exclamation"></i>
-        <strong>Rankings could not be loaded.</strong>
-        <small>${escapeHTML(error.message)}</small>
+
+        <strong>
+          Rankings could not be loaded.
+        </strong>
+
+        <small>
+          ${escapeHTML(error.message)}
+        </small>
+
       </div>
     `;
   }
 }
 
+
+/* SORT */
+
 function sortAndRender() {
+
   playerData.sort((a, b) => {
 
     if (sortBy === "name") {
-      const result = a.name.localeCompare(b.name, undefined, {
-        sensitivity: "base"
-      });
 
-      return sortDirection === "asc" ? result : -result;
+      const result =
+        a.name.localeCompare(
+          b.name,
+          undefined,
+          {
+            sensitivity: "base"
+          }
+        );
+
+      return sortDirection === "asc"
+        ? result
+        : -result;
     }
 
-    const aValue = a[sortBy];
-    const bValue = b[sortBy];
+
+    /*
+      Players with no safety rating
+      always go below rated players
+      when sorting Safety.
+    */
+
+    if (sortBy === "safety") {
+
+      if (
+        a.safety === null &&
+        b.safety !== null
+      ) {
+        return 1;
+      }
+
+      if (
+        b.safety === null &&
+        a.safety !== null
+      ) {
+        return -1;
+      }
+
+      if (
+        a.safety === null &&
+        b.safety === null
+      ) {
+        return b.elo - a.elo;
+      }
+    }
+
+
+    const aValue =
+      Number(a[sortBy]) || 0;
+
+    const bValue =
+      Number(b[sortBy]) || 0;
+
 
     if (aValue === bValue) {
-      if (sortBy !== "elo" && a.elo !== b.elo) {
+
+      if (
+        sortBy !== "elo" &&
+        a.elo !== b.elo
+      ) {
         return b.elo - a.elo;
       }
 
-      return a.name.localeCompare(b.name);
+      return a.name.localeCompare(
+        b.name
+      );
     }
+
 
     return sortDirection === "desc"
       ? bValue - aValue
       : aValue - bValue;
   });
 
+
   renderPlayers();
   updateSortDisplay();
 }
 
+
+/* RENDER */
+
 function renderPlayers() {
-  const container = document.getElementById("players");
+
+  const container =
+    document.getElementById("players");
+
   container.innerHTML = "";
 
+
   if (playerData.length === 0) {
+
     container.innerHTML = `
       <div class="status-message">
         No ranked players yet.
       </div>
     `;
+
     return;
   }
 
-  playerData.forEach((player, index) => {
-    const row = document.createElement("div");
-    row.className = "player";
 
-    let rankClass = "";
+  playerData.forEach(
+    (player, index) => {
 
-    if (index === 0) rankClass = "rank-gold";
-    if (index === 1) rankClass = "rank-silver";
-    if (index === 2) rankClass = "rank-bronze";
+      const row =
+        document.createElement("div");
 
-    row.innerHTML = `
-      <div class="rank ${rankClass}">${index + 1}</div>
-      <div class="player-name">${escapeHTML(player.name)}</div>
-      <div class="elo">${player.elo}</div>
-      <div class="wins">${player.wins}</div>
-      <div class="races">${player.races}</div>
-      <div class="podiums">${player.podiums}</div>
-    `;
+      row.className =
+        "player";
 
-    container.appendChild(row);
-  });
+
+      let rankClass = "";
+
+      if (index === 0) {
+        rankClass = "rank-gold";
+      }
+
+      if (index === 1) {
+        rankClass = "rank-silver";
+      }
+
+      if (index === 2) {
+        rankClass = "rank-bronze";
+      }
+
+
+      let safetyHTML;
+
+
+      if (player.safety === null) {
+
+        safetyHTML = `
+          <div class="safety-rating safety-none">
+
+            <div class="safety-grade">
+              —
+            </div>
+
+            <div class="safety-score">
+              N/A
+            </div>
+
+          </div>
+        `;
+
+      } else {
+
+        const grade =
+          getSafetyGrade(
+            player.safety
+          );
+
+        safetyHTML = `
+          <div class="safety-rating safety-${grade.toLowerCase()}">
+
+            <div class="safety-grade">
+              ${grade}
+            </div>
+
+            <div class="safety-score">
+              ${player.safety}
+            </div>
+
+          </div>
+        `;
+      }
+
+
+      row.innerHTML = `
+
+        <div class="rank ${rankClass}">
+          ${index + 1}
+        </div>
+
+        <div class="player-name">
+          ${escapeHTML(player.name)}
+        </div>
+
+        <div class="elo">
+          ${player.elo}
+        </div>
+
+        <div>
+          ${safetyHTML}
+        </div>
+
+        <div class="wins">
+          ${player.wins}
+        </div>
+
+        <div class="races">
+          ${player.races}
+        </div>
+
+        <div class="podiums">
+          ${player.podiums}
+        </div>
+
+      `;
+
+
+      container.appendChild(
+        row
+      );
+    }
+  );
 }
 
-document.querySelectorAll(".sort-button").forEach(button => {
-  button.addEventListener("click", () => {
-    const selected = button.dataset.sort;
 
-    if (selected === sortBy) {
-      sortDirection = sortDirection === "desc" ? "asc" : "desc";
-    } else {
-      sortBy = selected;
-      sortDirection = selected === "name" ? "asc" : "desc";
-    }
+/* SORT BUTTONS */
 
-    sortAndRender();
+document
+  .querySelectorAll(".sort-button")
+  .forEach(button => {
+
+    button.addEventListener(
+      "click",
+      () => {
+
+        const selected =
+          button.dataset.sort;
+
+
+        if (selected === sortBy) {
+
+          sortDirection =
+            sortDirection === "desc"
+              ? "asc"
+              : "desc";
+
+        } else {
+
+          sortBy =
+            selected;
+
+          sortDirection =
+            selected === "name"
+              ? "asc"
+              : "desc";
+        }
+
+
+        sortAndRender();
+      }
+    );
+
   });
-});
+
+
+/* SORT DISPLAY */
 
 function updateSortDisplay() {
+
   const labels = {
     name: "Player",
     elo: "Elo",
+    safety: "Safety",
     wins: "Wins",
     races: "Races",
     podiums: "Podiums"
   };
 
-  document.querySelectorAll(".sort-button").forEach(button => {
-    const icon = button.querySelector("i");
 
-    button.classList.remove("active");
-    icon.className = "fa-solid fa-sort";
+  document
+    .querySelectorAll(".sort-button")
+    .forEach(button => {
 
-    if (button.dataset.sort === sortBy) {
-      button.classList.add("active");
+      const icon =
+        button.querySelector("i");
 
-      icon.className = sortDirection === "desc"
-        ? "fa-solid fa-arrow-down"
-        : "fa-solid fa-arrow-up";
-    }
-  });
+      button.classList.remove(
+        "active"
+      );
+
+      icon.className =
+        "fa-solid fa-sort";
+
+
+      if (
+        button.dataset.sort ===
+        sortBy
+      ) {
+
+        button.classList.add(
+          "active"
+        );
+
+        icon.className =
+          sortDirection === "desc"
+            ? "fa-solid fa-arrow-down"
+            : "fa-solid fa-arrow-up";
+      }
+
+    });
+
 
   let directionText;
 
+
   if (sortBy === "name") {
-    directionText = sortDirection === "asc" ? "A–Z" : "Z–A";
+
+    directionText =
+      sortDirection === "asc"
+        ? "A–Z"
+        : "Z–A";
+
   } else {
-    directionText = sortDirection === "desc"
-      ? "Highest first"
-      : "Lowest first";
+
+    directionText =
+      sortDirection === "desc"
+        ? "Highest first"
+        : "Lowest first";
   }
 
-  document.getElementById("sort-description").textContent =
-    labels[sortBy] + " • " + directionText;
+
+  document
+    .getElementById(
+      "sort-description"
+    )
+    .textContent =
+      labels[sortBy] +
+      " • " +
+      directionText;
 }
 
+
+/* SAFE PLAYER NAMES */
+
 function escapeHTML(value) {
-  const div = document.createElement("div");
-  div.textContent = String(value ?? "");
+
+  const div =
+    document.createElement("div");
+
+  div.textContent =
+    String(value ?? "");
+
   return div.innerHTML;
 }
+
+
+/* START */
 
 loadPlayers();
 </script>
