@@ -90,10 +90,10 @@
         "clean_races": 5
     },
     "Simone Ghilardini": {
-        "safety": 145,
-        "races": 8,
+        "safety": 155,
+        "races": 11,
         "contacts": 12,
-        "clean_races": 5
+        "clean_races": 8
     },
     "EgoMan": {
         "safety": 130,
@@ -246,16 +246,16 @@
         "clean_races": 0
     },
     "Miquel_Sinke60": {
-        "safety": 65,
-        "races": 12,
-        "contacts": 20,
+        "safety": 50,
+        "races": 14,
+        "contacts": 23,
         "clean_races": 3
     },
     "moe": {
-        "safety": 125,
-        "races": 15,
+        "safety": 130,
+        "races": 16,
         "contacts": 19,
-        "clean_races": 7
+        "clean_races": 8
     },
     "Zachy12345": {
         "safety": 110,
@@ -324,9 +324,9 @@
         "clean_races": 0
     },
     "jpspeed16": {
-        "safety": 120,
-        "races": 1,
-        "contacts": 1,
+        "safety": 110,
+        "races": 3,
+        "contacts": 3,
         "clean_races": 0
     },
     "Eneko Garcia #14": {
@@ -576,9 +576,33 @@
         "clean_races": 1
     },
     "NJIRK5211": {
-        "safety": 135,
-        "races": 2,
+        "safety": 140,
+        "races": 3,
         "contacts": 0,
-        "clean_races": 2
+        "clean_races": 3
+    },
+    "hlillomico": {
+        "safety": 130,
+        "races": 1,
+        "contacts": 0,
+        "clean_races": 1
+    },
+    "Rk_44": {
+        "safety": 130,
+        "races": 1,
+        "contacts": 0,
+        "clean_races": 1
+    },
+    "JM": {
+        "safety": 125,
+        "races": 2,
+        "contacts": 1,
+        "clean_races": 1
+    },
+    "Danislav1746": {
+        "safety": 130,
+        "races": 1,
+        "contacts": 0,
+        "clean_races": 1
     }
 }

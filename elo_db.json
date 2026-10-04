@@ -42,10 +42,10 @@
         "podiums": 0
     },
     "Miquel_Sinke60": {
-        "elo": 1089,
+        "elo": 1090,
         "wins": 4,
-        "races": 17,
-        "podiums": 8
+        "races": 19,
+        "podiums": 10
     },
     "AhyaAL": {
         "elo": 1185,
@@ -72,10 +72,10 @@
         "podiums": 0
     },
     "Simone Ghilardini": {
-        "elo": 986,
+        "elo": 983,
         "wins": 0,
-        "races": 12,
-        "podiums": 1
+        "races": 14,
+        "podiums": 2
     },
     "Noa1nl": {
         "elo": 1070,
@@ -162,10 +162,10 @@
         "podiums": 5
     },
     "NJIRK5211": {
-        "elo": 989,
-        "wins": 1,
-        "races": 3,
-        "podiums": 2
+        "elo": 992,
+        "wins": 2,
+        "races": 4,
+        "podiums": 3
     },
     "Sturdy": {
         "elo": 940,
@@ -300,10 +300,10 @@
         "podiums": 1
     },
     "Danislav1746": {
-        "elo": 1025,
-        "wins": 2,
-        "races": 2,
-        "podiums": 2
+        "elo": 1030,
+        "wins": 3,
+        "races": 3,
+        "podiums": 3
     },
     "AL": {
         "elo": 1036,
@@ -354,10 +354,10 @@
         "podiums": 0
     },
     "hlillomico": {
-        "elo": 983,
+        "elo": 980,
         "wins": 0,
-        "races": 1,
-        "podiums": 0
+        "races": 2,
+        "podiums": 1
     },
     "erik.zobel": {
         "elo": 1004,
@@ -540,10 +540,10 @@
         "podiums": 1
     },
     "jpspeed16": {
-        "elo": 1010,
-        "wins": 0,
-        "races": 1,
-        "podiums": 0
+        "elo": 1013,
+        "wins": 1,
+        "races": 3,
+        "podiums": 1
     },
     "milanberendsen": {
         "elo": 1006,
@@ -736,5 +736,11 @@
         "wins": 1,
         "races": 2,
         "podiums": 2
+    },
+    "JM": {
+        "elo": 995,
+        "wins": 0,
+        "races": 2,
+        "podiums": 1
     }
 }
