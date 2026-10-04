@@ -54,10 +54,10 @@
         "clean_races": 2
     },
     "vegasan88": {
-        "safety": 180,
-        "races": 4,
+        "safety": 190,
+        "races": 5,
         "contacts": 1,
-        "clean_races": 3
+        "clean_races": 4
     },
     "AL": {
         "safety": 170,
@@ -156,9 +156,9 @@
         "clean_races": 5
     },
     "Lanzo": {
-        "safety": 185,
-        "races": 13,
-        "contacts": 16,
+        "safety": 175,
+        "races": 14,
+        "contacts": 18,
         "clean_races": 7
     },
     "Santos47": {
@@ -246,16 +246,16 @@
         "clean_races": 0
     },
     "Miquel_Sinke60": {
-        "safety": 95,
-        "races": 5,
-        "contacts": 10,
+        "safety": 90,
+        "races": 6,
+        "contacts": 11,
         "clean_races": 1
     },
     "moe": {
-        "safety": 175,
-        "races": 3,
+        "safety": 185,
+        "races": 4,
         "contacts": 0,
-        "clean_races": 3
+        "clean_races": 4
     },
     "Zachy12345": {
         "safety": 110,
@@ -432,15 +432,15 @@
         "clean_races": 0
     },
     "Mikrowelle": {
-        "safety": 125,
-        "races": 2,
+        "safety": 135,
+        "races": 3,
         "contacts": 1,
-        "clean_races": 1
+        "clean_races": 2
     },
     "Nuno": {
-        "safety": 125,
-        "races": 2,
-        "contacts": 1,
+        "safety": 110,
+        "races": 3,
+        "contacts": 4,
         "clean_races": 1
     },
     "vNoHxpe_KJ45": {
