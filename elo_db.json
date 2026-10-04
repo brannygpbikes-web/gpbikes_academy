@@ -30,9 +30,9 @@
         "podiums": 1
     },
     "moe": {
-        "elo": 1005,
+        "elo": 1004,
         "wins": 0,
-        "races": 7,
+        "races": 8,
         "podiums": 2
     },
     "jackthebikeguy": {
@@ -42,9 +42,9 @@
         "podiums": 0
     },
     "Miquel_Sinke60": {
-        "elo": 1105,
+        "elo": 1062,
         "wins": 3,
-        "races": 9,
+        "races": 10,
         "podiums": 5
     },
     "AhyaAL": {
@@ -144,10 +144,10 @@
         "podiums": 6
     },
     "Mikrowelle": {
-        "elo": 992,
+        "elo": 982,
         "wins": 0,
-        "races": 2,
-        "podiums": 0
+        "races": 4,
+        "podiums": 1
     },
     "dja": {
         "elo": 976,
@@ -174,9 +174,9 @@
         "podiums": 3
     },
     "filipknigge20": {
-        "elo": 1109,
+        "elo": 1085,
         "wins": 1,
-        "races": 10,
+        "races": 11,
         "podiums": 5
     },
     "Billy Jones": {
@@ -186,10 +186,10 @@
         "podiums": 1
     },
     "patrickfaderl98": {
-        "elo": 1019,
+        "elo": 1038,
         "wins": 0,
-        "races": 6,
-        "podiums": 2
+        "races": 7,
+        "podiums": 3
     },
     "Danny Hinkelmann14": {
         "elo": 949,
@@ -402,10 +402,10 @@
         "podiums": 0
     },
     "vegasan88": {
-        "elo": 974,
+        "elo": 987,
         "wins": 0,
-        "races": 3,
-        "podiums": 1
+        "races": 4,
+        "podiums": 2
     },
     "teeds": {
         "elo": 992,
@@ -420,9 +420,9 @@
         "podiums": 0
     },
     "RaK": {
-        "elo": 835,
+        "elo": 816,
         "wins": 0,
-        "races": 10,
+        "races": 12,
         "podiums": 0
     },
     "Giancarlos13": {
@@ -640,5 +640,17 @@
         "wins": 0,
         "races": 1,
         "podiums": 0
+    },
+    "Nuno": {
+        "elo": 1054,
+        "wins": 2,
+        "races": 2,
+        "podiums": 2
+    },
+    "vNoHxpe_KJ45": {
+        "elo": 1012,
+        "wins": 0,
+        "races": 1,
+        "podiums": 1
     }
 }
