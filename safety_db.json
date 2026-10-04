@@ -31,9 +31,9 @@
     },
     "patrickfaderl98": {
         "safety": 85,
-        "races": 5,
-        "contacts": 12,
-        "clean_races": 1
+        "races": 7,
+        "contacts": 14,
+        "clean_races": 2
     },
     "Shai3ackHurts": {
         "safety": 145,
@@ -48,9 +48,9 @@
         "clean_races": 1
     },
     "Justice": {
-        "safety": 165,
-        "races": 2,
-        "contacts": 0,
+        "safety": 140,
+        "races": 4,
+        "contacts": 5,
         "clean_races": 2
     },
     "vegasan88": {
@@ -84,16 +84,16 @@
         "clean_races": 8
     },
     "chilliams": {
-        "safety": 140,
-        "races": 7,
-        "contacts": 9,
-        "clean_races": 3
+        "safety": 135,
+        "races": 9,
+        "contacts": 14,
+        "clean_races": 4
     },
     "Simone Ghilardini": {
-        "safety": 155,
-        "races": 5,
-        "contacts": 6,
-        "clean_races": 3
+        "safety": 145,
+        "races": 8,
+        "contacts": 12,
+        "clean_races": 5
     },
     "EgoMan": {
         "safety": 130,
@@ -108,9 +108,9 @@
         "clean_races": 1
     },
     "AhyaAL": {
-        "safety": 275,
-        "races": 19,
-        "contacts": 13,
+        "safety": 265,
+        "races": 20,
+        "contacts": 15,
         "clean_races": 12
     },
     "teeds": {
@@ -174,10 +174,10 @@
         "clean_races": 1
     },
     "filipknigge20": {
-        "safety": 95,
-        "races": 7,
-        "contacts": 11,
-        "clean_races": 2
+        "safety": 105,
+        "races": 10,
+        "contacts": 13,
+        "clean_races": 3
     },
     "Matteo 42": {
         "safety": 100,
@@ -246,16 +246,16 @@
         "clean_races": 0
     },
     "Miquel_Sinke60": {
-        "safety": 70,
-        "races": 10,
-        "contacts": 17,
-        "clean_races": 2
+        "safety": 65,
+        "races": 12,
+        "contacts": 20,
+        "clean_races": 3
     },
     "moe": {
-        "safety": 160,
-        "races": 8,
-        "contacts": 7,
-        "clean_races": 5
+        "safety": 150,
+        "races": 11,
+        "contacts": 11,
+        "clean_races": 6
     },
     "Zachy12345": {
         "safety": 110,
@@ -439,9 +439,9 @@
     },
     "Nuno": {
         "safety": 60,
-        "races": 7,
-        "contacts": 14,
-        "clean_races": 1
+        "races": 9,
+        "contacts": 16,
+        "clean_races": 2
     },
     "vNoHxpe_KJ45": {
         "safety": 130,
@@ -450,15 +450,15 @@
         "clean_races": 1
     },
     "sbara": {
-        "safety": 115,
-        "races": 3,
+        "safety": 145,
+        "races": 5,
         "contacts": 4,
-        "clean_races": 1
+        "clean_races": 3
     },
     "N1rmata": {
-        "safety": 105,
-        "races": 3,
-        "contacts": 6,
+        "safety": 85,
+        "races": 4,
+        "contacts": 10,
         "clean_races": 1
     },
     "JKR": {
@@ -480,21 +480,39 @@
         "clean_races": 0
     },
     "jorgeguti160": {
-        "safety": 110,
-        "races": 2,
-        "contacts": 3,
+        "safety": 95,
+        "races": 3,
+        "contacts": 6,
         "clean_races": 0
     },
     "niggaboy#46": {
-        "safety": 115,
-        "races": 1,
-        "contacts": 2,
+        "safety": 85,
+        "races": 3,
+        "contacts": 8,
         "clean_races": 0
     },
     "Dede": {
+        "safety": 95,
+        "races": 3,
+        "contacts": 6,
+        "clean_races": 0
+    },
+    "Uri": {
         "safety": 110,
         "races": 1,
         "contacts": 3,
         "clean_races": 0
+    },
+    "Bonzo": {
+        "safety": 120,
+        "races": 1,
+        "contacts": 1,
+        "clean_races": 0
+    },
+    "Konyandi": {
+        "safety": 125,
+        "races": 2,
+        "contacts": 2,
+        "clean_races": 1
     }
 }
