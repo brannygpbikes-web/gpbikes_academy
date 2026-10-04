@@ -90,10 +90,10 @@
         "clean_races": 5
     },
     "Simone Ghilardini": {
-        "safety": 155,
-        "races": 11,
+        "safety": 160,
+        "races": 12,
         "contacts": 12,
-        "clean_races": 8
+        "clean_races": 9
     },
     "EgoMan": {
         "safety": 130,
@@ -144,16 +144,16 @@
         "clean_races": 3
     },
     "Lou": {
-        "safety": 40,
+        "safety": 80,
         "races": 3,
         "contacts": 25,
         "clean_races": 2
     },
     "Sturdy": {
-        "safety": 190,
-        "races": 7,
+        "safety": 195,
+        "races": 8,
         "contacts": 4,
-        "clean_races": 5
+        "clean_races": 6
     },
     "Lanzo": {
         "safety": 175,
@@ -222,7 +222,7 @@
         "clean_races": 1
     },
     "AwashMicrobe": {
-        "safety": 0,
+        "safety": 80,
         "races": 4,
         "contacts": 35,
         "clean_races": 0
@@ -240,15 +240,15 @@
         "clean_races": 4
     },
     "thecrivi28": {
-        "safety": 55,
-        "races": 3,
-        "contacts": 14,
+        "safety": 50,
+        "races": 4,
+        "contacts": 15,
         "clean_races": 0
     },
     "Miquel_Sinke60": {
-        "safety": 50,
-        "races": 14,
-        "contacts": 23,
+        "safety": 45,
+        "races": 15,
+        "contacts": 24,
         "clean_races": 3
     },
     "moe": {
@@ -294,7 +294,7 @@
         "clean_races": 3
     },
     "aleso262004": {
-        "safety": 85,
+        "safety": 80,
         "races": 5,
         "contacts": 16,
         "clean_races": 2
@@ -324,10 +324,10 @@
         "clean_races": 0
     },
     "jpspeed16": {
-        "safety": 110,
-        "races": 3,
+        "safety": 120,
+        "races": 5,
         "contacts": 3,
-        "clean_races": 0
+        "clean_races": 2
     },
     "Eneko Garcia #14": {
         "safety": 120,
@@ -468,10 +468,10 @@
         "clean_races": 0
     },
     "Honza Ehl": {
-        "safety": 110,
-        "races": 2,
+        "safety": 115,
+        "races": 3,
         "contacts": 3,
-        "clean_races": 0
+        "clean_races": 1
     },
     "Fabio_34": {
         "safety": 95,
