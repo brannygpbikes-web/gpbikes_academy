@@ -30,10 +30,10 @@
         "podiums": 1
     },
     "moe": {
-        "elo": 1023,
+        "elo": 1053,
         "wins": 0,
-        "races": 9,
-        "podiums": 3
+        "races": 12,
+        "podiums": 4
     },
     "jackthebikeguy": {
         "elo": 948,
@@ -42,16 +42,16 @@
         "podiums": 0
     },
     "Miquel_Sinke60": {
-        "elo": 1040,
-        "wins": 3,
-        "races": 11,
-        "podiums": 5
+        "elo": 1066,
+        "wins": 4,
+        "races": 15,
+        "podiums": 7
     },
     "AhyaAL": {
-        "elo": 1186,
-        "wins": 2,
-        "races": 16,
-        "podiums": 8
+        "elo": 1220,
+        "wins": 3,
+        "races": 20,
+        "podiums": 11
     },
     "ola13": {
         "elo": 992,
@@ -96,10 +96,10 @@
         "podiums": 1
     },
     "N1rmata": {
-        "elo": 1070,
-        "wins": 2,
-        "races": 3,
-        "podiums": 3
+        "elo": 1127,
+        "wins": 3,
+        "races": 6,
+        "podiums": 5
     },
     "Yung Savade": {
         "elo": 994,
@@ -144,9 +144,9 @@
         "podiums": 6
     },
     "Mikrowelle": {
-        "elo": 957,
+        "elo": 954,
         "wins": 0,
-        "races": 5,
+        "races": 6,
         "podiums": 1
     },
     "dja": {
@@ -174,9 +174,9 @@
         "podiums": 3
     },
     "filipknigge20": {
-        "elo": 1085,
+        "elo": 1095,
         "wins": 1,
-        "races": 11,
+        "races": 12,
         "podiums": 5
     },
     "Billy Jones": {
@@ -186,9 +186,9 @@
         "podiums": 1
     },
     "patrickfaderl98": {
-        "elo": 1038,
+        "elo": 1013,
         "wins": 0,
-        "races": 7,
+        "races": 10,
         "podiums": 3
     },
     "Danny Hinkelmann14": {
@@ -204,10 +204,10 @@
         "podiums": 1
     },
     "chilliams": {
-        "elo": 1005,
+        "elo": 1013,
         "wins": 1,
-        "races": 5,
-        "podiums": 1
+        "races": 8,
+        "podiums": 2
     },
     "Lou": {
         "elo": 986,
@@ -282,9 +282,9 @@
         "podiums": 0
     },
     "Lanzo": {
-        "elo": 1042,
+        "elo": 1011,
         "wins": 1,
-        "races": 15,
+        "races": 17,
         "podiums": 4
     },
     "oskar.bohlin 69": {
@@ -294,9 +294,9 @@
         "podiums": 0
     },
     "sbara": {
-        "elo": 996,
+        "elo": 997,
         "wins": 0,
-        "races": 1,
+        "races": 3,
         "podiums": 0
     },
     "Danislav1746": {
@@ -402,10 +402,10 @@
         "podiums": 0
     },
     "vegasan88": {
-        "elo": 1020,
+        "elo": 1038,
         "wins": 1,
-        "races": 5,
-        "podiums": 3
+        "races": 6,
+        "podiums": 4
     },
     "teeds": {
         "elo": 992,
@@ -420,9 +420,9 @@
         "podiums": 0
     },
     "RaK": {
-        "elo": 816,
+        "elo": 800,
         "wins": 0,
-        "races": 12,
+        "races": 13,
         "podiums": 0
     },
     "Giancarlos13": {
@@ -456,9 +456,9 @@
         "podiums": 0
     },
     "Romainlpz6": {
-        "elo": 974,
+        "elo": 955,
         "wins": 0,
-        "races": 2,
+        "races": 3,
         "podiums": 0
     },
     "JorgeGuti": {
@@ -642,15 +642,51 @@
         "podiums": 0
     },
     "Nuno": {
-        "elo": 1045,
-        "wins": 2,
-        "races": 3,
-        "podiums": 2
+        "elo": 1063,
+        "wins": 3,
+        "races": 7,
+        "podiums": 4
     },
     "vNoHxpe_KJ45": {
         "elo": 1012,
         "wins": 0,
         "races": 1,
         "podiums": 1
+    },
+    "Fabio_34": {
+        "elo": 981,
+        "wins": 0,
+        "races": 2,
+        "podiums": 0
+    },
+    "Honza Ehl": {
+        "elo": 968,
+        "wins": 0,
+        "races": 2,
+        "podiums": 0
+    },
+    "jorgeguti160": {
+        "elo": 982,
+        "wins": 0,
+        "races": 2,
+        "podiums": 0
+    },
+    "JKR": {
+        "elo": 985,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
+    },
+    "niggaboy#46": {
+        "elo": 993,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
+    },
+    "Dede": {
+        "elo": 983,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
     }
 }
