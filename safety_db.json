@@ -90,10 +90,10 @@
         "clean_races": 5
     },
     "Simone Ghilardini": {
-        "safety": 106,
-        "races": 19,
-        "contacts": 25,
-        "clean_races": 10
+        "safety": 110,
+        "races": 21,
+        "contacts": 27,
+        "clean_races": 11
     },
     "EgoMan": {
         "safety": 130,
@@ -216,10 +216,10 @@
         "clean_races": 2
     },
     "Eder Merino": {
-        "safety": 120,
-        "races": 4,
+        "safety": 135,
+        "races": 6,
         "contacts": 8,
-        "clean_races": 2
+        "clean_races": 4
     },
     "AwashMicrobe": {
         "safety": 75,
@@ -234,9 +234,9 @@
         "clean_races": 1
     },
     "Shoop46": {
-        "safety": 130,
-        "races": 7,
-        "contacts": 10,
+        "safety": 127,
+        "races": 8,
+        "contacts": 11,
         "clean_races": 4
     },
     "thecrivi28": {
@@ -270,10 +270,10 @@
         "clean_races": 0
     },
     "Thunberg": {
-        "safety": 75,
-        "races": 5,
-        "contacts": 14,
-        "clean_races": 1
+        "safety": 83,
+        "races": 7,
+        "contacts": 15,
+        "clean_races": 2
     },
     "washed": {
         "safety": 100,
@@ -288,10 +288,10 @@
         "clean_races": 0
     },
     "waldodj": {
-        "safety": 88,
-        "races": 13,
+        "safety": 113,
+        "races": 16,
         "contacts": 17,
-        "clean_races": 3
+        "clean_races": 6
     },
     "aleso262004": {
         "safety": 80,
@@ -300,9 +300,9 @@
         "clean_races": 2
     },
     "MARCO": {
-        "safety": 59,
-        "races": 7,
-        "contacts": 26,
+        "safety": 57,
+        "races": 8,
+        "contacts": 27,
         "clean_races": 0
     },
     "zrezke": {
@@ -366,15 +366,15 @@
         "clean_races": 0
     },
     "Dani": {
-        "safety": 42,
-        "races": 5,
-        "contacts": 19,
+        "safety": 40,
+        "races": 6,
+        "contacts": 20,
         "clean_races": 0
     },
     "21vitalio": {
-        "safety": 79,
-        "races": 4,
-        "contacts": 11,
+        "safety": 77,
+        "races": 5,
+        "contacts": 12,
         "clean_races": 0
     },
     "Tonton_flingueur": {
@@ -456,10 +456,10 @@
         "clean_races": 6
     },
     "N1rmata": {
-        "safety": 85,
-        "races": 4,
-        "contacts": 10,
-        "clean_races": 1
+        "safety": 92,
+        "races": 6,
+        "contacts": 11,
+        "clean_races": 2
     },
     "JKR": {
         "safety": 100,
@@ -717,6 +717,18 @@
         "safety": 135,
         "races": 1,
         "contacts": 0,
+        "clean_races": 1
+    },
+    "Wally": {
+        "safety": 127,
+        "races": 2,
+        "contacts": 1,
+        "clean_races": 1
+    },
+    "BNJMN": {
+        "safety": 132,
+        "races": 2,
+        "contacts": 1,
         "clean_races": 1
     }
 }
