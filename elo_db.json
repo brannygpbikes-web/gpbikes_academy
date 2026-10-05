@@ -48,10 +48,10 @@
         "podiums": 12
     },
     "AhyaAL": {
-        "elo": 1185,
+        "elo": 1182,
         "wins": 3,
-        "races": 21,
-        "podiums": 11
+        "races": 24,
+        "podiums": 13
     },
     "ola13": {
         "elo": 997,
@@ -96,9 +96,9 @@
         "podiums": 1
     },
     "N1rmata": {
-        "elo": 1089,
+        "elo": 1081,
         "wins": 4,
-        "races": 9,
+        "races": 10,
         "podiums": 6
     },
     "Yung Savade": {
@@ -108,10 +108,10 @@
         "podiums": 0
     },
     "BNJMN": {
-        "elo": 960,
-        "wins": 1,
-        "races": 4,
-        "podiums": 2
+        "elo": 984,
+        "wins": 3,
+        "races": 7,
+        "podiums": 5
     },
     "Spud": {
         "elo": 977,
@@ -156,10 +156,10 @@
         "podiums": 0
     },
     "Gonzalo Molina": {
-        "elo": 1101,
-        "wins": 7,
-        "races": 8,
-        "podiums": 8
+        "elo": 1106,
+        "wins": 8,
+        "races": 11,
+        "podiums": 10
     },
     "NJIRK5211": {
         "elo": 992,
@@ -342,9 +342,9 @@
         "podiums": 1
     },
     "Damien VTEC [TRC]": {
-        "elo": 1035,
+        "elo": 1029,
         "wins": 1,
-        "races": 7,
+        "races": 9,
         "podiums": 7
     },
     "suuuuup": {
@@ -372,10 +372,10 @@
         "podiums": 1
     },
     "Wally": {
-        "elo": 993,
+        "elo": 1000,
         "wins": 1,
-        "races": 4,
-        "podiums": 3
+        "races": 7,
+        "podiums": 5
     },
     "JorgeNsr": {
         "elo": 996,
@@ -486,9 +486,9 @@
         "podiums": 1
     },
     "Shoop46": {
-        "elo": 955,
+        "elo": 948,
         "wins": 0,
-        "races": 6,
+        "races": 7,
         "podiums": 1
     },
     "Zachy12345": {
@@ -786,9 +786,9 @@
         "podiums": 0
     },
     "sergio14moto": {
-        "elo": 978,
+        "elo": 969,
         "wins": 0,
-        "races": 4,
+        "races": 7,
         "podiums": 0
     },
     "Postal": {
@@ -807,6 +807,12 @@
         "elo": 996,
         "wins": 0,
         "races": 1,
+        "podiums": 0
+    },
+    "adrianrufin7": {
+        "elo": 998,
+        "wins": 0,
+        "races": 2,
         "podiums": 0
     }
 }
