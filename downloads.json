@@ -19,7 +19,12 @@
                     "name": "Moto3 - 2026",
                     "description": "GP Bikes bike download.",
                     "link": "https://gpb-mods.com/moto-3-2026-v0-1/",
-                    "setups": []
+                    "setups": [
+                        {
+                            "name": "Honda NSF250RW",
+                            "link": "https://mega.nz/file/JqZFXALZ#tGnHW7C-aCXk7PIeYmHGg_LSlA_kolq7dNwpW9nDnTI"
+                        }
+                    ]
                 },
                 {
                     "name": "WSBK 24",
@@ -33,6 +38,18 @@
                         {
                             "name": "Ducati Aruba.it Racing",
                             "link": "https://mega.nz/file/VuIUAJrZ#RKNnqo6uMs-wDofDrmvQMTqEaXoDsVNI1T377qZO0OY"
+                        },
+                        {
+                            "name": "Ducati Motocorsa Racing",
+                            "link": "https://mega.nz/file/cj5TxYCY#yqyR67ViixucCwRHdDspDubA4MzIUH2B7NUggAZec3E"
+                        },
+                        {
+                            "name": "BMW ROKIT Motorrad Team",
+                            "link": "https://mega.nz/file/trRTyABB#ZxHNHPXegmnQyoxmTV7K-d5NQjGUAezjLpnSQ3PW7wk"
+                        },
+                        {
+                            "name": "Kawasaki Racing Team",
+                            "link": "https://mega.nz/file/h3hGAJoQ#WlUdKJ1xpWsNC4paNaQcI8u5TbPYcTV-MW1RyY13oM4"
                         }
                     ]
                 },
@@ -40,7 +57,12 @@
                     "name": "Moto2 - 2026",
                     "description": "GP Bikes bike download.",
                     "link": "https://gpb-mods.com/moto2-2026/",
-                    "setups": []
+                    "setups": [
+                        {
+                            "name": "BOSCOSCURO",
+                            "link": "https://mega.nz/file/wrAhnCBT#hJ0KVHAjxAxlbk-AoUxMZ7Cbd6FgZb-9kk0xfoZlT9Y"
+                        }
+                    ]
                 },
                 {
                     "name": "WSSP 24",
