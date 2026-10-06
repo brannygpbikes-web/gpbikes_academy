@@ -42,9 +42,9 @@
         "podiums": 1
     },
     "Miquel_Sinke60": {
-        "elo": 1083,
+        "elo": 1093,
         "wins": 5,
-        "races": 23,
+        "races": 27,
         "podiums": 12
     },
     "AhyaAL": {
@@ -114,9 +114,9 @@
         "podiums": 7
     },
     "Spud": {
-        "elo": 977,
+        "elo": 979,
         "wins": 0,
-        "races": 2,
+        "races": 4,
         "podiums": 0
     },
     "gabriel_tesini#4": {
@@ -156,10 +156,10 @@
         "podiums": 0
     },
     "Gonzalo Molina": {
-        "elo": 1066,
-        "wins": 8,
-        "races": 19,
-        "podiums": 12
+        "elo": 1095,
+        "wins": 10,
+        "races": 21,
+        "podiums": 14
     },
     "NJIRK5211": {
         "elo": 992,
@@ -180,21 +180,21 @@
         "podiums": 13
     },
     "Billy Jones": {
-        "elo": 1105,
+        "elo": 1116,
         "wins": 4,
-        "races": 9,
-        "podiums": 7
+        "races": 11,
+        "podiums": 9
     },
     "patrickfaderl98": {
-        "elo": 1046,
-        "wins": 0,
-        "races": 19,
-        "podiums": 7
+        "elo": 1075,
+        "wins": 2,
+        "races": 21,
+        "podiums": 9
     },
     "Danny Hinkelmann14": {
-        "elo": 966,
+        "elo": 948,
         "wins": 0,
-        "races": 12,
+        "races": 14,
         "podiums": 0
     },
     "Santos47": {
@@ -210,9 +210,9 @@
         "podiums": 3
     },
     "Lou": {
-        "elo": 996,
+        "elo": 1004,
         "wins": 0,
-        "races": 8,
+        "races": 10,
         "podiums": 1
     },
     "Riccardo": {
@@ -240,9 +240,9 @@
         "podiums": 0
     },
     "AwashMicrobe": {
-        "elo": 1007,
+        "elo": 984,
         "wins": 1,
-        "races": 6,
+        "races": 8,
         "podiums": 1
     },
     "JW2Stupid": {
@@ -366,9 +366,9 @@
         "podiums": 1
     },
     "Dimitry": {
-        "elo": 980,
+        "elo": 983,
         "wins": 0,
-        "races": 5,
+        "races": 9,
         "podiums": 1
     },
     "Wally": {
@@ -444,10 +444,10 @@
         "podiums": 0
     },
     "KSBR": {
-        "elo": 1025,
+        "elo": 1065,
         "wins": 0,
-        "races": 7,
-        "podiums": 2
+        "races": 11,
+        "podiums": 6
     },
     "Matteo 42": {
         "elo": 993,
@@ -522,10 +522,10 @@
         "podiums": 3
     },
     "waldodj": {
-        "elo": 1171,
+        "elo": 1167,
         "wins": 3,
-        "races": 16,
-        "podiums": 13
+        "races": 20,
+        "podiums": 15
     },
     "aleso262004": {
         "elo": 1080,
@@ -648,9 +648,9 @@
         "podiums": 10
     },
     "vNoHxpe_KJ45": {
-        "elo": 1013,
+        "elo": 997,
         "wins": 0,
-        "races": 3,
+        "races": 5,
         "podiums": 1
     },
     "Fabio_34": {
@@ -834,7 +834,13 @@
         "podiums": 5
     },
     "Quidel Gaétan": {
-        "elo": 976,
+        "elo": 960,
+        "wins": 0,
+        "races": 8,
+        "podiums": 0
+    },
+    "The Gyatt": {
+        "elo": 946,
         "wins": 0,
         "races": 4,
         "podiums": 0

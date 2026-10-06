@@ -31,10 +31,11 @@
         "clean_races": 1
     },
     "patrickfaderl98": {
-        "safety": 63,
-        "races": 14,
-        "contacts": 23,
-        "clean_races": 4
+        "safety": 57,
+        "races": 15,
+        "contacts": 25,
+        "clean_races": 4,
+        "large_lobby_clean_streak": 0
     },
     "Shai3ackHurts": {
         "safety": 145,
@@ -139,9 +140,9 @@
         "clean_races": 1
     },
     "Danny Hinkelmann14": {
-        "safety": 109,
-        "races": 8,
-        "contacts": 16,
+        "safety": 100,
+        "races": 9,
+        "contacts": 19,
         "clean_races": 3,
         "large_lobby_clean_streak": 0
     },
@@ -153,9 +154,9 @@
         "large_lobby_clean_streak": 1
     },
     "Lou": {
-        "safety": 77,
-        "races": 4,
-        "contacts": 26,
+        "safety": 71,
+        "races": 5,
+        "contacts": 28,
         "clean_races": 2,
         "large_lobby_clean_streak": 0
     },
@@ -203,11 +204,11 @@
         "large_lobby_clean_streak": 1
     },
     "KSBR": {
-        "safety": 164,
-        "races": 6,
+        "safety": 184,
+        "races": 8,
         "contacts": 4,
-        "clean_races": 4,
-        "large_lobby_clean_streak": 0
+        "clean_races": 6,
+        "large_lobby_clean_streak": 1
     },
     "Romainlpz6": {
         "safety": 190,
@@ -234,10 +235,11 @@
         "clean_races": 4
     },
     "AwashMicrobe": {
-        "safety": 75,
-        "races": 5,
-        "contacts": 36,
-        "clean_races": 0
+        "safety": 72,
+        "races": 6,
+        "contacts": 37,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0
     },
     "KeyWay22": {
         "safety": 115,
@@ -259,10 +261,10 @@
         "clean_races": 0
     },
     "Miquel_Sinke60": {
-        "safety": 40,
-        "races": 18,
-        "contacts": 27,
-        "clean_races": 4,
+        "safety": 47,
+        "races": 20,
+        "contacts": 28,
+        "clean_races": 5,
         "large_lobby_clean_streak": 0
     },
     "moe": {
@@ -303,10 +305,11 @@
         "clean_races": 0
     },
     "waldodj": {
-        "safety": 113,
-        "races": 16,
-        "contacts": 17,
-        "clean_races": 6
+        "safety": 114,
+        "races": 18,
+        "contacts": 20,
+        "clean_races": 7,
+        "large_lobby_clean_streak": 0
     },
     "aleso262004": {
         "safety": 80,
@@ -462,10 +465,11 @@
         "clean_races": 3
     },
     "vNoHxpe_KJ45": {
-        "safety": 123,
-        "races": 3,
+        "safety": 133,
+        "races": 4,
         "contacts": 2,
-        "clean_races": 1
+        "clean_races": 2,
+        "large_lobby_clean_streak": 0
     },
     "sbara": {
         "safety": 154,
@@ -637,11 +641,11 @@
         "large_lobby_clean_streak": 0
     },
     "Gonzalo Molina": {
-        "safety": 109,
-        "races": 11,
+        "safety": 119,
+        "races": 12,
         "contacts": 19,
-        "clean_races": 5,
-        "large_lobby_clean_streak": 0
+        "clean_races": 6,
+        "large_lobby_clean_streak": 1
     },
     "Scuderia Silence (tascione)": {
         "safety": 115,
@@ -714,10 +718,11 @@
         "clean_races": 1
     },
     "Dimitry": {
-        "safety": 69,
-        "races": 4,
-        "contacts": 13,
-        "clean_races": 0
+        "safety": 51,
+        "races": 6,
+        "contacts": 19,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0
     },
     "Postal": {
         "safety": 89,
@@ -791,24 +796,38 @@
         "large_lobby_clean_streak": 0
     },
     "Billy Jones": {
-        "safety": 110,
-        "races": 3,
-        "contacts": 5,
+        "safety": 107,
+        "races": 4,
+        "contacts": 6,
         "clean_races": 0,
         "large_lobby_clean_streak": 0
     },
     "Quidel Gaétan": {
-        "safety": 139,
-        "races": 2,
-        "contacts": 2,
+        "safety": 121,
+        "races": 4,
+        "contacts": 8,
         "clean_races": 1,
-        "large_lobby_clean_streak": 1
+        "large_lobby_clean_streak": 0
     },
     "collinlanger96": {
-        "safety": 145,
+        "safety": 136,
+        "races": 2,
+        "contacts": 3,
+        "clean_races": 1,
+        "large_lobby_clean_streak": 0
+    },
+    "The Gyatt": {
+        "safety": 132,
+        "races": 2,
+        "contacts": 1,
+        "clean_races": 1,
+        "large_lobby_clean_streak": 0
+    },
+    "Spud": {
+        "safety": 135,
         "races": 1,
         "contacts": 0,
         "clean_races": 1,
-        "large_lobby_clean_streak": 1
+        "large_lobby_clean_streak": 0
     }
 }
