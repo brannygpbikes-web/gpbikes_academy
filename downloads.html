@@ -11,6 +11,76 @@
         href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
   <link rel="stylesheet" href="./style.css">
+
+  <style>
+    .download-item { border-bottom: 1px solid rgba(255,255,255,.07); }
+    .download-item:last-child { border-bottom: 0; }
+
+    .setup-toggle {
+      width: 100%;
+      border: 0;
+      border-top: 1px solid rgba(255,255,255,.06);
+      background: rgba(255,255,255,.025);
+      color: #d1d5db;
+      padding: 11px 18px;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 9px;
+      font: inherit;
+      font-size: 13px;
+      font-weight: 700;
+      text-align: left;
+    }
+
+    .setup-toggle:hover { background: rgba(255,255,255,.06); color: #fff; }
+    .setup-toggle .setup-arrow { margin-left: auto; transition: transform .18s ease; }
+    .setup-toggle.open .setup-arrow { transform: rotate(180deg); }
+
+    .setup-panel {
+      display: none;
+      padding: 10px 18px 16px 58px;
+      background: rgba(0,0,0,.12);
+    }
+
+    .setup-panel.open { display: block; }
+    .setup-empty { color: #8f96a3; font-size: 13px; padding: 5px 0; }
+
+    .setup-row {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      padding: 10px 0;
+      border-bottom: 1px solid rgba(255,255,255,.06);
+    }
+
+    .setup-row:last-child { border-bottom: 0; }
+    .setup-info { flex: 1; min-width: 0; }
+    .setup-name { color: #fff; font-weight: 700; margin-bottom: 3px; }
+    .setup-description { color: #9ca3af; font-size: 12px; }
+
+    .setup-download {
+      display: inline-flex;
+      align-items: center;
+      gap: 7px;
+      padding: 8px 12px;
+      border-radius: 4px;
+      background: #b5161d;
+      color: #fff;
+      text-decoration: none;
+      font-size: 12px;
+      font-weight: 700;
+      white-space: nowrap;
+    }
+
+    .setup-download:hover { background: #d11c24; }
+
+    @media (max-width: 650px) {
+      .setup-panel { padding-left: 18px; }
+      .setup-row { align-items: flex-start; flex-direction: column; }
+    }
+  </style>
+
 </head>
 
 <body>
@@ -144,6 +214,9 @@ async function loadDownloads() {
         `;
       } else {
         category.downloads.forEach(item => {
+          const wrapper = document.createElement("div");
+          wrapper.className = "download-item";
+
           const card = document.createElement("div");
           card.className = "download-card";
 
@@ -173,7 +246,69 @@ async function loadDownloads() {
             </a>
           `;
 
-          list.appendChild(card);
+          wrapper.appendChild(card);
+
+          const isBikeCategory =
+            String(category.name || "").toLowerCase() === "bikes";
+
+          if (isBikeCategory) {
+            const setups = Array.isArray(item.setups) ? item.setups : [];
+
+            const toggle = document.createElement("button");
+            toggle.type = "button";
+            toggle.className = "setup-toggle";
+            toggle.innerHTML = `
+              <i class="fa-solid fa-wrench"></i>
+              <span>Setups (${setups.length})</span>
+              <i class="fa-solid fa-chevron-down setup-arrow"></i>
+            `;
+
+            const panel = document.createElement("div");
+            panel.className = "setup-panel";
+
+            if (setups.length === 0) {
+              panel.innerHTML =
+                '<div class="setup-empty">No setups available yet.</div>';
+            } else {
+              setups.forEach(setup => {
+                const row = document.createElement("div");
+                row.className = "setup-row";
+
+                row.innerHTML = `
+                  <div class="setup-info">
+                    <div class="setup-name">
+                      ${escapeHTML(setup.name || "Setup")}
+                    </div>
+                    <div class="setup-description">
+                      ${escapeHTML(setup.description || "")}
+                    </div>
+                  </div>
+
+                  <a
+                    class="setup-download"
+                    href="${safeURL(setup.link)}"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <i class="fa-solid fa-download"></i>
+                    <span>Download Setup</span>
+                  </a>
+                `;
+
+                panel.appendChild(row);
+              });
+            }
+
+            toggle.addEventListener("click", () => {
+              toggle.classList.toggle("open");
+              panel.classList.toggle("open");
+            });
+
+            wrapper.appendChild(toggle);
+            wrapper.appendChild(panel);
+          }
+
+          list.appendChild(wrapper);
         });
       }
 
