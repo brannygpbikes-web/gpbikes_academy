@@ -43,16 +43,6 @@
     @media(max-width:700px) {
       #profile { padding: 16px 14px 20px; }
     }
-    /* Safety score - colour coded by grade */
-    .profile-safety-score { }
-    .profile-safety-score.safety-s { color: #008c2a; }
-    .profile-safety-score.safety-a { color: #00e52b; }
-    .profile-safety-score.safety-b { color: #a7e600; }
-    .profile-safety-score.safety-c { color: #ffd21c; }
-    .profile-safety-score.safety-d { color: #ff851b; }
-    .profile-safety-score.safety-e { color: #ef3340; }
-    .profile-safety-score.safety-none { color: #8b929d; }
-
 
   </style>
 </head>
@@ -83,11 +73,6 @@ const n=(v,d=1)=>v==null?"—":Number(v).toFixed(d).replace(/\.0$/,"");
 const pos=v=>v==null?"—":v+({1:"st",2:"nd",3:"rd"}[v]||"th");
 const lap=v=>{if(v==null)return"—";let m=Math.floor(v/60),s=v-m*60;return m?m+":"+s.toFixed(3).padStart(6,"0"):s.toFixed(3)+"s"};
 function grade(v){v=Number(v||0);return v>=250?"S":v>=165?"A":v>=125?"B":v>=100?"C":v>=70?"D":"E"}
-function safetyBadge(v){
-  if(v==null)return '<span class="profile-safety-score safety-none">—</span>';
-  const g=grade(v);
-  return `<span class="profile-safety-score safety-${g.toLowerCase()}">${v}</span>`;
-}
 function find(obj,name){if(!obj)return null;if(obj[name]!=null)return obj[name];const k=Object.keys(obj).find(k=>k.toLowerCase()===name.toLowerCase());return k?obj[k]:null}
 async function j(name,opt=false){try{const r=await fetch(BASE+name+"?v="+Date.now(),{cache:"no-store"});if(!r.ok)throw Error(name);return await r.json()}catch(e){if(opt)return{};throw e}}
 (async()=>{try{[data,elo,safety,history]=await Promise.all([j("race_analytics.json"),j("elo_db.json",true),j("safety_db.json",true),j("elo_history.json",true)]);document.getElementById("loading").innerHTML='Search for a rider above.'}catch(e){document.getElementById("loading").innerHTML='<i class="fa-solid fa-triangle-exclamation"></i> race_analytics.json could not be loaded.'}})();
@@ -99,7 +84,7 @@ function show(g){
  let races=(data.races||[]).map(z=>{let rr=(z.riders||[]).find(y=>y.guid===g);return rr?{...rr,track:z.track,date:z.date}:null}).filter(Boolean).sort((a,b)=>new Date(b.date)-new Date(a.date));
  let tracks=Object.entries(r.tracks||{}).sort((a,b)=>b[1].races-a[1].races),bikes=Object.entries(r.bikes||{}).sort((a,b)=>b[1].races-a[1].races);
  profile.innerHTML=`<div class="rider-heading"><div><h2>${esc(r.name)}</h2><div class="muted">GP Bikes Academy rider profile</div></div></div>
- <div class="stat-cards"><div class="stat-card"><strong>${ev??"—"}</strong><span>Elo</span></div><div class="stat-card"><strong>${safetyBadge(sv)}</strong><span>Safety</span></div><div class="stat-card"><strong>${r.races}</strong><span>Races</span></div><div class="stat-card"><strong>${r.wins}</strong><span>Wins</span></div><div class="stat-card"><strong>${r.podiums}</strong><span>Podiums</span></div><div class="stat-card"><strong>${n(r.win_rate)}%</strong><span>Win rate</span></div></div>
+ <div class="stat-cards"><div class="stat-card"><strong>${ev??"—"}</strong><span>Elo</span></div><div class="stat-card"><strong>${sv==null?"—":grade(sv)+" "+sv}</strong><span>Safety</span></div><div class="stat-card"><strong>${r.races}</strong><span>Races</span></div><div class="stat-card"><strong>${r.wins}</strong><span>Wins</span></div><div class="stat-card"><strong>${r.podiums}</strong><span>Podiums</span></div><div class="stat-card"><strong>${n(r.win_rate)}%</strong><span>Win rate</span></div></div>
  <div class="subpanel"><div class="subpanel-title"><i class="fa-solid fa-chart-line"></i>Elo History</div><div id="chart" class="chartbox"></div></div>
  <div class="subpanel"><div class="subpanel-title">Performance</div><div class="stats-grid">${mini("Podium rate",n(r.podium_rate)+"%")}${mini("Average finish",n(r.average_finish,2))}${mini("Average start",n(r.average_start,2))}${mini("Avg positions gained",n(r.average_positions_gained,2))}</div></div>
  <div class="subpanel"><div class="subpanel-title">Safety & Contacts</div><div class="stats-grid">${mini("Total contacts",r.contacts)}${mini("Contacts / race",n(r.contacts_per_race,2))}${mini("Clean races",r.clean_races)}${mini("Clean race %",n(r.clean_race_percent)+"%")}${mini("Worst severity",n(r.worst_contact_severity,2))}</div></div>
