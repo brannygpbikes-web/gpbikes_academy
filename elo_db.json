@@ -90,10 +90,10 @@
         "podiums": 0
     },
     "tacticworks": {
-        "elo": 976,
+        "elo": 990,
         "wins": 0,
-        "races": 9,
-        "podiums": 1
+        "races": 11,
+        "podiums": 3
     },
     "N1rmata": {
         "elo": 1081,
@@ -156,10 +156,10 @@
         "podiums": 0
     },
     "Gonzalo Molina": {
-        "elo": 1095,
-        "wins": 10,
-        "races": 21,
-        "podiums": 14
+        "elo": 1109,
+        "wins": 12,
+        "races": 23,
+        "podiums": 16
     },
     "NJIRK5211": {
         "elo": 992,
@@ -600,10 +600,10 @@
         "podiums": 0
     },
     "21vitalio": {
-        "elo": 968,
+        "elo": 974,
         "wins": 0,
-        "races": 11,
-        "podiums": 2
+        "races": 13,
+        "podiums": 4
     },
     "Tarmacsurfer": {
         "elo": 979,
@@ -786,9 +786,9 @@
         "podiums": 0
     },
     "sergio14moto": {
-        "elo": 902,
+        "elo": 896,
         "wins": 0,
-        "races": 14,
+        "races": 16,
         "podiums": 0
     },
     "Postal": {
@@ -834,9 +834,9 @@
         "podiums": 5
     },
     "Quidel Gaétan": {
-        "elo": 1030,
+        "elo": 1005,
         "wins": 2,
-        "races": 16,
+        "races": 18,
         "podiums": 8
     },
     "The Gyatt": {
@@ -864,9 +864,9 @@
         "podiums": 2
     },
     "Mopee": {
-        "elo": 985,
+        "elo": 981,
         "wins": 0,
-        "races": 2,
+        "races": 4,
         "podiums": 0
     }
 }

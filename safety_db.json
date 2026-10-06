@@ -396,10 +396,10 @@
         "clean_races": 0
     },
     "21vitalio": {
-        "safety": 59,
-        "races": 8,
+        "safety": 69,
+        "races": 9,
         "contacts": 18,
-        "clean_races": 0,
+        "clean_races": 1,
         "large_lobby_clean_streak": 0
     },
     "Tonton_flingueur": {
@@ -565,10 +565,11 @@
         "large_lobby_clean_streak": 0
     },
     "tacticworks": {
-        "safety": 105,
-        "races": 5,
-        "contacts": 6,
-        "clean_races": 1
+        "safety": 93,
+        "races": 6,
+        "contacts": 10,
+        "clean_races": 1,
+        "large_lobby_clean_streak": 0
     },
     "troyalberto9": {
         "safety": 107,
@@ -648,10 +649,10 @@
         "large_lobby_clean_streak": 0
     },
     "Gonzalo Molina": {
-        "safety": 119,
-        "races": 12,
+        "safety": 129,
+        "races": 13,
         "contacts": 19,
-        "clean_races": 6,
+        "clean_races": 7,
         "large_lobby_clean_streak": 1
     },
     "Scuderia Silence (tascione)": {
@@ -705,9 +706,9 @@
         "clean_races": 1
     },
     "sergio14moto": {
-        "safety": 118,
-        "races": 12,
-        "contacts": 15,
+        "safety": 106,
+        "races": 13,
+        "contacts": 19,
         "clean_races": 5,
         "large_lobby_clean_streak": 0
     },
@@ -811,10 +812,10 @@
         "large_lobby_clean_streak": 0
     },
     "Quidel Gaétan": {
-        "safety": 111,
-        "races": 9,
+        "safety": 121,
+        "races": 10,
         "contacts": 18,
-        "clean_races": 3,
+        "clean_races": 4,
         "large_lobby_clean_streak": 0
     },
     "collinlanger96": {
@@ -860,10 +861,10 @@
         "large_lobby_clean_streak": 0
     },
     "Mopee": {
-        "safety": 104,
-        "races": 1,
+        "safety": 114,
+        "races": 2,
         "contacts": 7,
-        "clean_races": 0,
+        "clean_races": 1,
         "large_lobby_clean_streak": 0
     }
 }
