@@ -6,10 +6,10 @@
         "podiums": 0
     },
     "branny": {
-        "elo": 941,
-        "wins": 8,
-        "races": 13,
-        "podiums": 6
+        "elo": 989,
+        "wins": 12,
+        "races": 17,
+        "podiums": 10
     },
     "non1nr": {
         "elo": 1028,
@@ -42,9 +42,9 @@
         "podiums": 1
     },
     "Miquel_Sinke60": {
-        "elo": 1089,
+        "elo": 1083,
         "wins": 5,
-        "races": 22,
+        "races": 23,
         "podiums": 12
     },
     "AhyaAL": {
@@ -72,10 +72,10 @@
         "podiums": 0
     },
     "Simone Ghilardini": {
-        "elo": 976,
+        "elo": 972,
         "wins": 1,
-        "races": 24,
-        "podiums": 7
+        "races": 27,
+        "podiums": 8
     },
     "Noa1nl": {
         "elo": 1070,
@@ -306,10 +306,10 @@
         "podiums": 5
     },
     "AL": {
-        "elo": 1036,
+        "elo": 1045,
         "wins": 0,
-        "races": 9,
-        "podiums": 2
+        "races": 13,
+        "podiums": 5
     },
     "FastAF": {
         "elo": 979,
@@ -444,9 +444,9 @@
         "podiums": 0
     },
     "KSBR": {
-        "elo": 1018,
+        "elo": 1011,
         "wins": 0,
-        "races": 4,
+        "races": 5,
         "podiums": 2
     },
     "Matteo 42": {
@@ -516,10 +516,10 @@
         "podiums": 0
     },
     "Cummin Jizzwood": {
-        "elo": 1045,
+        "elo": 1057,
         "wins": 0,
-        "races": 2,
-        "podiums": 1
+        "races": 4,
+        "podiums": 3
     },
     "waldodj": {
         "elo": 1171,
@@ -654,9 +654,9 @@
         "podiums": 1
     },
     "Fabio_34": {
-        "elo": 981,
+        "elo": 984,
         "wins": 0,
-        "races": 2,
+        "races": 3,
         "podiums": 0
     },
     "Honza Ehl": {
@@ -768,9 +768,9 @@
         "podiums": 1
     },
     "Boomgamertony": {
-        "elo": 1003,
+        "elo": 1001,
         "wins": 1,
-        "races": 1,
+        "races": 2,
         "podiums": 1
     },
     "will 77": {
@@ -786,16 +786,16 @@
         "podiums": 0
     },
     "sergio14moto": {
-        "elo": 969,
+        "elo": 956,
         "wins": 0,
-        "races": 7,
+        "races": 8,
         "podiums": 0
     },
     "Postal": {
-        "elo": 1003,
+        "elo": 1000,
         "wins": 0,
-        "races": 2,
-        "podiums": 1
+        "races": 3,
+        "podiums": 2
     },
     "purple": {
         "elo": 993,
@@ -813,6 +813,18 @@
         "elo": 998,
         "wins": 0,
         "races": 2,
+        "podiums": 0
+    },
+    "DOMISQ14": {
+        "elo": 975,
+        "wins": 0,
+        "races": 3,
+        "podiums": 1
+    },
+    "Andro": {
+        "elo": 986,
+        "wins": 0,
+        "races": 1,
         "podiums": 0
     }
 }

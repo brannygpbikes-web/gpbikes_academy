@@ -1,9 +1,10 @@
 {
     "branny": {
-        "safety": 150,
-        "races": 14,
-        "contacts": 14,
-        "clean_races": 8
+        "safety": 172,
+        "races": 18,
+        "contacts": 15,
+        "clean_races": 11,
+        "large_lobby_clean_streak": 0
     },
     "pr1c3y": {
         "safety": 135,
@@ -60,10 +61,11 @@
         "clean_races": 4
     },
     "AL": {
-        "safety": 165,
-        "races": 6,
-        "contacts": 8,
-        "clean_races": 4
+        "safety": 179,
+        "races": 10,
+        "contacts": 10,
+        "clean_races": 7,
+        "large_lobby_clean_streak": 0
     },
     "Jardoo": {
         "safety": 145,
@@ -90,10 +92,11 @@
         "clean_races": 5
     },
     "Simone Ghilardini": {
-        "safety": 110,
-        "races": 21,
+        "safety": 135,
+        "races": 24,
         "contacts": 27,
-        "clean_races": 11
+        "clean_races": 14,
+        "large_lobby_clean_streak": 0
     },
     "EgoMan": {
         "safety": 130,
@@ -192,10 +195,11 @@
         "clean_races": 1
     },
     "KSBR": {
-        "safety": 160,
-        "races": 4,
+        "safety": 170,
+        "races": 5,
         "contacts": 2,
-        "clean_races": 3
+        "clean_races": 4,
+        "large_lobby_clean_streak": 0
     },
     "Romainlpz6": {
         "safety": 190,
@@ -246,10 +250,11 @@
         "clean_races": 0
     },
     "Miquel_Sinke60": {
-        "safety": 30,
-        "races": 17,
+        "safety": 40,
+        "races": 18,
         "contacts": 27,
-        "clean_races": 3
+        "clean_races": 4,
+        "large_lobby_clean_streak": 0
     },
     "moe": {
         "safety": 150,
@@ -312,10 +317,11 @@
         "clean_races": 0
     },
     "Cummin Jizzwood": {
-        "safety": 95,
-        "races": 2,
-        "contacts": 6,
-        "clean_races": 0
+        "safety": 99,
+        "races": 4,
+        "contacts": 8,
+        "clean_races": 1,
+        "large_lobby_clean_streak": 0
     },
     "milanberendsen": {
         "safety": 110,
@@ -474,10 +480,11 @@
         "clean_races": 1
     },
     "Fabio_34": {
-        "safety": 95,
-        "races": 2,
+        "safety": 105,
+        "races": 3,
         "contacts": 6,
-        "clean_races": 0
+        "clean_races": 1,
+        "large_lobby_clean_streak": 0
     },
     "jorgeguti160": {
         "safety": 78,
@@ -648,10 +655,11 @@
         "clean_races": 1
     },
     "Boomgamertony": {
-        "safety": 145,
-        "races": 2,
+        "safety": 155,
+        "races": 3,
         "contacts": 0,
-        "clean_races": 2
+        "clean_races": 3,
+        "large_lobby_clean_streak": 0
     },
     "Lucce39": {
         "safety": 115,
@@ -666,10 +674,11 @@
         "clean_races": 1
     },
     "sergio14moto": {
-        "safety": 103,
-        "races": 7,
+        "safety": 113,
+        "races": 8,
         "contacts": 10,
-        "clean_races": 2
+        "clean_races": 3,
+        "large_lobby_clean_streak": 0
     },
     "Blizz": {
         "safety": 135,
@@ -690,10 +699,11 @@
         "clean_races": 0
     },
     "Postal": {
-        "safety": 110,
-        "races": 3,
-        "contacts": 6,
-        "clean_races": 1
+        "safety": 107,
+        "races": 4,
+        "contacts": 7,
+        "clean_races": 1,
+        "large_lobby_clean_streak": 0
     },
     "JorgeNsr": {
         "safety": 115,
@@ -736,5 +746,19 @@
         "races": 2,
         "contacts": 5,
         "clean_races": 1
+    },
+    "DOMISQ14": {
+        "safety": 150,
+        "races": 3,
+        "contacts": 0,
+        "clean_races": 3,
+        "large_lobby_clean_streak": 0
+    },
+    "Andro": {
+        "safety": 135,
+        "races": 1,
+        "contacts": 0,
+        "clean_races": 1,
+        "large_lobby_clean_streak": 0
     }
 }
