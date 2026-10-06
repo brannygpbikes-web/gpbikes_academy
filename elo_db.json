@@ -6,10 +6,10 @@
         "podiums": 0
     },
     "branny": {
-        "elo": 1030,
-        "wins": 11,
-        "races": 20,
-        "podiums": 13
+        "elo": 1084,
+        "wins": 13,
+        "races": 26,
+        "podiums": 17
     },
     "non1nr": {
         "elo": 1028,
@@ -30,9 +30,9 @@
         "podiums": 1
     },
     "moe": {
-        "elo": 1080,
+        "elo": 1076,
         "wins": 1,
-        "races": 26,
+        "races": 30,
         "podiums": 12
     },
     "jackthebikeguy": {
@@ -48,9 +48,9 @@
         "podiums": 12
     },
     "AhyaAL": {
-        "elo": 1182,
+        "elo": 1141,
         "wins": 3,
-        "races": 24,
+        "races": 28,
         "podiums": 13
     },
     "ola13": {
@@ -108,9 +108,9 @@
         "podiums": 0
     },
     "BNJMN": {
-        "elo": 1006,
+        "elo": 1034,
         "wins": 5,
-        "races": 11,
+        "races": 17,
         "podiums": 7
     },
     "Spud": {
@@ -156,9 +156,9 @@
         "podiums": 0
     },
     "Gonzalo Molina": {
-        "elo": 1106,
+        "elo": 1040,
         "wins": 8,
-        "races": 11,
+        "races": 17,
         "podiums": 10
     },
     "NJIRK5211": {
@@ -180,10 +180,10 @@
         "podiums": 13
     },
     "Billy Jones": {
-        "elo": 1020,
-        "wins": 0,
-        "races": 3,
-        "podiums": 1
+        "elo": 1078,
+        "wins": 2,
+        "races": 7,
+        "podiums": 5
     },
     "patrickfaderl98": {
         "elo": 1046,
@@ -204,15 +204,15 @@
         "podiums": 1
     },
     "chilliams": {
-        "elo": 1039,
+        "elo": 1038,
         "wins": 1,
-        "races": 11,
+        "races": 15,
         "podiums": 3
     },
     "Lou": {
-        "elo": 986,
+        "elo": 996,
         "wins": 0,
-        "races": 6,
+        "races": 8,
         "podiums": 1
     },
     "Riccardo": {
@@ -246,10 +246,10 @@
         "podiums": 1
     },
     "JW2Stupid": {
-        "elo": 1010,
+        "elo": 1051,
         "wins": 0,
-        "races": 6,
-        "podiums": 2
+        "races": 12,
+        "podiums": 6
     },
     "fisherman": {
         "elo": 1001,
@@ -294,9 +294,9 @@
         "podiums": 0
     },
     "sbara": {
-        "elo": 1054,
+        "elo": 1052,
         "wins": 2,
-        "races": 12,
+        "races": 14,
         "podiums": 7
     },
     "Danislav1746": {
@@ -324,9 +324,9 @@
         "podiums": 4
     },
     "titonagom08": {
-        "elo": 1008,
+        "elo": 981,
         "wins": 0,
-        "races": 2,
+        "races": 4,
         "podiums": 1
     },
     "Eneko Garcia #14": {
@@ -384,9 +384,9 @@
         "podiums": 1
     },
     "tobimayer29 on ig": {
-        "elo": 1133,
+        "elo": 1071,
         "wins": 4,
-        "races": 8,
+        "races": 14,
         "podiums": 5
     },
     "Justice": {
@@ -732,10 +732,10 @@
         "podiums": 1
     },
     "moleo": {
-        "elo": 1002,
+        "elo": 1044,
         "wins": 1,
-        "races": 2,
-        "podiums": 2
+        "races": 6,
+        "podiums": 4
     },
     "JM": {
         "elo": 995,
@@ -762,9 +762,9 @@
         "podiums": 0
     },
     "RecklesMD": {
-        "elo": 997,
+        "elo": 970,
         "wins": 0,
-        "races": 1,
+        "races": 3,
         "podiums": 1
     },
     "Boomgamertony": {
@@ -780,9 +780,9 @@
         "podiums": 0
     },
     "Blizz": {
-        "elo": 970,
+        "elo": 960,
         "wins": 0,
-        "races": 7,
+        "races": 11,
         "podiums": 0
     },
     "sergio14moto": {
@@ -792,9 +792,9 @@
         "podiums": 0
     },
     "Postal": {
-        "elo": 1000,
+        "elo": 973,
         "wins": 0,
-        "races": 3,
+        "races": 5,
         "podiums": 2
     },
     "purple": {
@@ -828,9 +828,15 @@
         "podiums": 0
     },
     "Mikey 93": {
-        "elo": 1012,
+        "elo": 1049,
+        "wins": 2,
+        "races": 7,
+        "podiums": 5
+    },
+    "Quidel Gaétan": {
+        "elo": 994,
         "wins": 0,
-        "races": 1,
-        "podiums": 1
+        "races": 2,
+        "podiums": 0
     }
 }
