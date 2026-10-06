@@ -83,7 +83,16 @@
                     "name": "GP500",
                     "description": "GP Bikes bike download.",
                     "link": "https://gpb-mods.com/gp500-v1-5/",
-                    "setups": []
+                    "setups": [
+                        {
+                            "name": "Honda NSR 02",
+                            "link": "https://mega.nz/file/c75USBzK#VSFzBeS2PImjPzMe1jDjO33WbOfl4uWt1RUDxDWUVlg"
+                        },
+                        {
+                            "name": "Honda NSR 92",
+                            "link": "https://mega.nz/file/kiBCyawb#FrHB5sBioV04dIAF8XPUq_WZGjZeZ-RgHrkfvfLZCZk"
+                        }
+                    ]
                 },
                 {
                     "name": "Yamaha YZF R1M 2021",
@@ -108,6 +117,17 @@
                         {
                             "name": "Ducati GP06 2006",
                             "link": "https://mega.nz/file/YiwzyTxT#k6EDMt5XqF-TjBoB7Zfl0YN3E1iqjjZBY97_nGkGhRM"
+                        }
+                    ]
+                },
+                {
+                    "name": "OEM Superbikes",
+                    "description": "GP Bikes bike download.",
+                    "link": "https://gpb-mods.com/oem-superbikes/",
+                    "setups": [
+                        {
+                            "name": "Ducati PanigaleV4R 2026",
+                            "link": "https://mega.nz/file/Jup2UQoA#k4qY6xEeIGsU5N-svRDCDG8kJp9uo9L8JbVUIOwSX38"
                         }
                     ]
                 }
