@@ -1,8 +1,8 @@
 {
     "branny": {
-        "safety": 172,
-        "races": 18,
-        "contacts": 15,
+        "safety": 169,
+        "races": 19,
+        "contacts": 16,
         "clean_races": 11,
         "large_lobby_clean_streak": 0
     },
@@ -238,10 +238,11 @@
         "clean_races": 1
     },
     "Shoop46": {
-        "safety": 124,
-        "races": 9,
-        "contacts": 12,
-        "clean_races": 4
+        "safety": 118,
+        "races": 11,
+        "contacts": 14,
+        "clean_races": 4,
+        "large_lobby_clean_streak": 0
     },
     "thecrivi28": {
         "safety": 50,
@@ -456,10 +457,11 @@
         "clean_races": 1
     },
     "sbara": {
-        "safety": 155,
-        "races": 10,
-        "contacts": 7,
-        "clean_races": 6
+        "safety": 152,
+        "races": 11,
+        "contacts": 8,
+        "clean_races": 6,
+        "large_lobby_clean_streak": 0
     },
     "N1rmata": {
         "safety": 80,
@@ -547,16 +549,18 @@
         "clean_races": 1
     },
     "troyalberto9": {
-        "safety": 115,
-        "races": 6,
-        "contacts": 7,
-        "clean_races": 2
+        "safety": 119,
+        "races": 9,
+        "contacts": 9,
+        "clean_races": 3,
+        "large_lobby_clean_streak": 0
     },
     "ola13": {
-        "safety": 100,
-        "races": 6,
-        "contacts": 7,
-        "clean_races": 1
+        "safety": 97,
+        "races": 7,
+        "contacts": 8,
+        "clean_races": 1,
+        "large_lobby_clean_streak": 0
     },
     "Abraham Avila": {
         "safety": 95,
@@ -613,10 +617,11 @@
         "clean_races": 2
     },
     "Damien VTEC [TRC]": {
-        "safety": 84,
-        "races": 8,
-        "contacts": 13,
-        "clean_races": 2
+        "safety": 81,
+        "races": 9,
+        "contacts": 14,
+        "clean_races": 2,
+        "large_lobby_clean_streak": 0
     },
     "Gonzalo Molina": {
         "safety": 133,
@@ -736,10 +741,11 @@
         "clean_races": 2
     },
     "BNJMN": {
-        "safety": 120,
-        "races": 5,
+        "safety": 135,
+        "races": 7,
         "contacts": 5,
-        "clean_races": 1
+        "clean_races": 3,
+        "large_lobby_clean_streak": 0
     },
     "adrianrufin7": {
         "safety": 120,
