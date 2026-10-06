@@ -29,6 +29,21 @@
     #elo-canvas{width:100%;height:100%}
     @media(max-width:900px){.stat-cards{grid-template-columns:repeat(3,1fr)}.stats-grid{grid-template-columns:repeat(2,1fr)}.stats-columns{grid-template-columns:1fr}}
     @media(max-width:700px){.stat-cards{grid-template-columns:repeat(2,1fr)}.race-row{grid-template-columns:90px 1fr 65px}.race-row>*:nth-child(3),.race-row>*:nth-child(5),.race-row>*:nth-child(6){display:none}}
+
+    /* Rider stats panel spacing fix */
+    #profile { padding: 22px 24px 26px; }
+    #loading { padding: 24px; }
+    .rider-heading { margin-bottom: 4px; }
+    .subpanel { padding-top: 4px; }
+    .stats-columns .subpanel { min-width: 0; }
+    .stats-table th:first-child,
+    .stats-table td:first-child { padding-left: 4px; }
+    .stats-table th:last-child,
+    .stats-table td:last-child { padding-right: 4px; }
+    @media(max-width:700px) {
+      #profile { padding: 16px 14px 20px; }
+    }
+
   </style>
 </head>
 <body>
@@ -71,7 +86,7 @@ function show(g){
  profile.innerHTML=`<div class="rider-heading"><div><h2>${esc(r.name)}</h2><div class="muted">GP Bikes Academy rider profile</div></div></div>
  <div class="stat-cards"><div class="stat-card"><strong>${ev??"—"}</strong><span>Elo</span></div><div class="stat-card"><strong>${sv==null?"—":grade(sv)+" "+sv}</strong><span>Safety</span></div><div class="stat-card"><strong>${r.races}</strong><span>Races</span></div><div class="stat-card"><strong>${r.wins}</strong><span>Wins</span></div><div class="stat-card"><strong>${r.podiums}</strong><span>Podiums</span></div><div class="stat-card"><strong>${n(r.win_rate)}%</strong><span>Win rate</span></div></div>
  <div class="subpanel"><div class="subpanel-title"><i class="fa-solid fa-chart-line"></i>Elo History</div><div id="chart" class="chartbox"></div></div>
- <div class="subpanel"><div class="subpanel-title">Performance</div><div class="stats-grid">${mini("Podium rate",n(r.podium_rate)+"%")}${mini("Average finish",n(r.average_finish,2))}${mini("Average start",n(r.average_start,2))}${mini("Avg positions gained",n(r.average_positions_gained,2))}${mini("Best finish",pos(r.best_finish))}${mini("Best recorded lap",lap(r.best_recorded_lap))}${mini("Average gap",n(r.average_gap_percent,2)+"%")}</div></div>
+ <div class="subpanel"><div class="subpanel-title">Performance</div><div class="stats-grid">${mini("Podium rate",n(r.podium_rate)+"%")}${mini("Average finish",n(r.average_finish,2))}${mini("Average start",n(r.average_start,2))}${mini("Avg positions gained",n(r.average_positions_gained,2))}</div></div>
  <div class="subpanel"><div class="subpanel-title">Safety & Contacts</div><div class="stats-grid">${mini("Total contacts",r.contacts)}${mini("Contacts / race",n(r.contacts_per_race,2))}${mini("Clean races",r.clean_races)}${mini("Clean race %",n(r.clean_race_percent)+"%")}${mini("Worst severity",n(r.worst_contact_severity,2))}</div></div>
  <div class="stats-columns"><div class="subpanel"><div class="subpanel-title">Track Performance</div><table class="stats-table"><tr><th>Track</th><th>Races</th><th>Wins</th><th>Avg</th></tr>${tracks.map(([k,x])=>`<tr><td>${esc(k)}</td><td>${x.races}</td><td>${x.wins}</td><td>${n(x.average_finish,2)}</td></tr>`).join("")}</table></div>
  <div class="subpanel"><div class="subpanel-title">Bike Performance</div><table class="stats-table"><tr><th>Bike</th><th>Races</th><th>Wins</th><th>Podiums</th></tr>${bikes.map(([k,x])=>`<tr><td>${esc(k)}</td><td>${x.races}</td><td>${x.wins}</td><td>${x.podiums}</td></tr>`).join("")}</table></div></div>
