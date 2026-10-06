@@ -6,10 +6,10 @@
         "podiums": 0
     },
     "branny": {
-        "elo": 1084,
+        "elo": 1101,
         "wins": 13,
-        "races": 26,
-        "podiums": 17
+        "races": 28,
+        "podiums": 19
     },
     "non1nr": {
         "elo": 1028,
@@ -48,9 +48,9 @@
         "podiums": 12
     },
     "AhyaAL": {
-        "elo": 1141,
+        "elo": 1105,
         "wins": 3,
-        "races": 28,
+        "races": 30,
         "podiums": 13
     },
     "ola13": {
@@ -108,9 +108,9 @@
         "podiums": 0
     },
     "BNJMN": {
-        "elo": 1034,
+        "elo": 1042,
         "wins": 5,
-        "races": 17,
+        "races": 19,
         "podiums": 7
     },
     "Spud": {
@@ -156,10 +156,10 @@
         "podiums": 0
     },
     "Gonzalo Molina": {
-        "elo": 1040,
+        "elo": 1066,
         "wins": 8,
-        "races": 17,
-        "podiums": 10
+        "races": 19,
+        "podiums": 12
     },
     "NJIRK5211": {
         "elo": 992,
@@ -180,10 +180,10 @@
         "podiums": 13
     },
     "Billy Jones": {
-        "elo": 1078,
-        "wins": 2,
-        "races": 7,
-        "podiums": 5
+        "elo": 1105,
+        "wins": 4,
+        "races": 9,
+        "podiums": 7
     },
     "patrickfaderl98": {
         "elo": 1046,
@@ -192,9 +192,9 @@
         "podiums": 7
     },
     "Danny Hinkelmann14": {
-        "elo": 940,
+        "elo": 966,
         "wins": 0,
-        "races": 10,
+        "races": 12,
         "podiums": 0
     },
     "Santos47": {
@@ -204,9 +204,9 @@
         "podiums": 1
     },
     "chilliams": {
-        "elo": 1038,
+        "elo": 1036,
         "wins": 1,
-        "races": 15,
+        "races": 17,
         "podiums": 3
     },
     "Lou": {
@@ -246,9 +246,9 @@
         "podiums": 1
     },
     "JW2Stupid": {
-        "elo": 1051,
+        "elo": 1043,
         "wins": 0,
-        "races": 12,
+        "races": 14,
         "podiums": 6
     },
     "fisherman": {
@@ -294,9 +294,9 @@
         "podiums": 0
     },
     "sbara": {
-        "elo": 1052,
+        "elo": 1034,
         "wins": 2,
-        "races": 14,
+        "races": 16,
         "podiums": 7
     },
     "Danislav1746": {
@@ -444,9 +444,9 @@
         "podiums": 0
     },
     "KSBR": {
-        "elo": 1011,
+        "elo": 1025,
         "wins": 0,
-        "races": 5,
+        "races": 7,
         "podiums": 2
     },
     "Matteo 42": {
@@ -732,9 +732,9 @@
         "podiums": 1
     },
     "moleo": {
-        "elo": 1044,
+        "elo": 1046,
         "wins": 1,
-        "races": 6,
+        "races": 8,
         "podiums": 4
     },
     "JM": {
@@ -792,9 +792,9 @@
         "podiums": 0
     },
     "Postal": {
-        "elo": 973,
+        "elo": 948,
         "wins": 0,
-        "races": 5,
+        "races": 7,
         "podiums": 2
     },
     "purple": {
@@ -828,15 +828,15 @@
         "podiums": 0
     },
     "Mikey 93": {
-        "elo": 1049,
+        "elo": 1036,
         "wins": 2,
-        "races": 7,
+        "races": 9,
         "podiums": 5
     },
     "Quidel Gaétan": {
-        "elo": 994,
+        "elo": 976,
         "wins": 0,
-        "races": 2,
+        "races": 4,
         "podiums": 0
     }
 }
