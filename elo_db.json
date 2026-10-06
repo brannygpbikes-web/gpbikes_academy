@@ -114,9 +114,9 @@
         "podiums": 7
     },
     "Spud": {
-        "elo": 991,
+        "elo": 979,
         "wins": 0,
-        "races": 6,
+        "races": 8,
         "podiums": 2
     },
     "gabriel_tesini#4": {
@@ -168,10 +168,10 @@
         "podiums": 3
     },
     "Sturdy": {
-        "elo": 940,
-        "wins": 1,
-        "races": 11,
-        "podiums": 4
+        "elo": 974,
+        "wins": 3,
+        "races": 15,
+        "podiums": 8
     },
     "filipknigge20": {
         "elo": 1134,
@@ -318,9 +318,9 @@
         "podiums": 0
     },
     "Dario Andreoni": {
-        "elo": 971,
+        "elo": 953,
         "wins": 0,
-        "races": 10,
+        "races": 12,
         "podiums": 4
     },
     "titonagom08": {
@@ -378,9 +378,9 @@
         "podiums": 5
     },
     "JorgeNsr": {
-        "elo": 996,
+        "elo": 966,
         "wins": 0,
-        "races": 3,
+        "races": 7,
         "podiums": 1
     },
     "tobimayer29 on ig": {
@@ -522,15 +522,15 @@
         "podiums": 3
     },
     "waldodj": {
-        "elo": 1172,
-        "wins": 3,
-        "races": 22,
-        "podiums": 17
+        "elo": 1186,
+        "wins": 5,
+        "races": 24,
+        "podiums": 19
     },
     "aleso262004": {
-        "elo": 1080,
+        "elo": 1068,
         "wins": 0,
-        "races": 5,
+        "races": 7,
         "podiums": 2
     },
     "pableko": {
@@ -558,10 +558,10 @@
         "podiums": 0
     },
     "MARCO": {
-        "elo": 1006,
-        "wins": 0,
-        "races": 8,
-        "podiums": 2
+        "elo": 1022,
+        "wins": 2,
+        "races": 10,
+        "podiums": 4
     },
     "Benji": {
         "elo": 975,
@@ -600,10 +600,10 @@
         "podiums": 0
     },
     "21vitalio": {
-        "elo": 955,
+        "elo": 968,
         "wins": 0,
-        "races": 5,
-        "podiums": 0
+        "races": 11,
+        "podiums": 2
     },
     "Tarmacsurfer": {
         "elo": 979,
@@ -648,10 +648,10 @@
         "podiums": 10
     },
     "vNoHxpe_KJ45": {
-        "elo": 997,
+        "elo": 1003,
         "wins": 0,
-        "races": 7,
-        "podiums": 1
+        "races": 11,
+        "podiums": 3
     },
     "Fabio_34": {
         "elo": 984,
@@ -666,9 +666,9 @@
         "podiums": 2
     },
     "jorgeguti160": {
-        "elo": 942,
+        "elo": 927,
         "wins": 0,
-        "races": 5,
+        "races": 7,
         "podiums": 0
     },
     "JKR": {
@@ -714,9 +714,9 @@
         "podiums": 1
     },
     "MATRIX#86": {
-        "elo": 969,
+        "elo": 944,
         "wins": 1,
-        "races": 7,
+        "races": 11,
         "podiums": 1
     },
     "troyalberto9": {
@@ -786,9 +786,9 @@
         "podiums": 0
     },
     "sergio14moto": {
-        "elo": 924,
+        "elo": 902,
         "wins": 0,
-        "races": 12,
+        "races": 14,
         "podiums": 0
     },
     "Postal": {
@@ -834,10 +834,10 @@
         "podiums": 5
     },
     "Quidel Gaétan": {
-        "elo": 960,
-        "wins": 0,
-        "races": 8,
-        "podiums": 0
+        "elo": 1030,
+        "wins": 2,
+        "races": 16,
+        "podiums": 8
     },
     "The Gyatt": {
         "elo": 946,
@@ -846,9 +846,27 @@
         "podiums": 0
     },
     "marty_debruyne": {
-        "elo": 1029,
+        "elo": 998,
         "wins": 2,
+        "races": 6,
+        "podiums": 2
+    },
+    "ismaelito": {
+        "elo": 1020,
+        "wins": 0,
         "races": 2,
         "podiums": 2
+    },
+    "BS": {
+        "elo": 1008,
+        "wins": 0,
+        "races": 2,
+        "podiums": 2
+    },
+    "Mopee": {
+        "elo": 985,
+        "wins": 0,
+        "races": 2,
+        "podiums": 0
     }
 }
