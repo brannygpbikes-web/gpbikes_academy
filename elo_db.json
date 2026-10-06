@@ -6,10 +6,10 @@
         "podiums": 0
     },
     "branny": {
-        "elo": 1001,
-        "wins": 10,
-        "races": 18,
-        "podiums": 11
+        "elo": 1030,
+        "wins": 11,
+        "races": 20,
+        "podiums": 13
     },
     "non1nr": {
         "elo": 1028,
@@ -30,10 +30,10 @@
         "podiums": 1
     },
     "moe": {
-        "elo": 1078,
+        "elo": 1080,
         "wins": 1,
-        "races": 24,
-        "podiums": 11
+        "races": 26,
+        "podiums": 12
     },
     "jackthebikeguy": {
         "elo": 952,
@@ -54,9 +54,9 @@
         "podiums": 13
     },
     "ola13": {
-        "elo": 986,
+        "elo": 977,
         "wins": 0,
-        "races": 9,
+        "races": 10,
         "podiums": 2
     },
     "fast46": {
@@ -108,10 +108,10 @@
         "podiums": 0
     },
     "BNJMN": {
-        "elo": 983,
-        "wins": 4,
-        "races": 9,
-        "podiums": 6
+        "elo": 1006,
+        "wins": 5,
+        "races": 11,
+        "podiums": 7
     },
     "Spud": {
         "elo": 977,
@@ -234,9 +234,9 @@
         "podiums": 1
     },
     "Ricoway46": {
-        "elo": 984,
+        "elo": 987,
         "wins": 0,
-        "races": 9,
+        "races": 10,
         "podiums": 0
     },
     "AwashMicrobe": {
@@ -246,9 +246,9 @@
         "podiums": 1
     },
     "JW2Stupid": {
-        "elo": 1012,
+        "elo": 1010,
         "wins": 0,
-        "races": 5,
+        "races": 6,
         "podiums": 2
     },
     "fisherman": {
@@ -294,9 +294,9 @@
         "podiums": 0
     },
     "sbara": {
-        "elo": 1066,
+        "elo": 1054,
         "wins": 2,
-        "races": 11,
+        "races": 12,
         "podiums": 7
     },
     "Danislav1746": {
@@ -330,9 +330,9 @@
         "podiums": 1
     },
     "Eneko Garcia #14": {
-        "elo": 950,
+        "elo": 937,
         "wins": 0,
-        "races": 3,
+        "races": 4,
         "podiums": 0
     },
     "gordonk": {
@@ -384,9 +384,9 @@
         "podiums": 1
     },
     "tobimayer29 on ig": {
-        "elo": 1130,
+        "elo": 1133,
         "wins": 4,
-        "races": 7,
+        "races": 8,
         "podiums": 5
     },
     "Justice": {
@@ -402,10 +402,10 @@
         "podiums": 0
     },
     "vegasan88": {
-        "elo": 1038,
+        "elo": 1050,
         "wins": 1,
-        "races": 6,
-        "podiums": 4
+        "races": 8,
+        "podiums": 5
     },
     "teeds": {
         "elo": 992,
@@ -516,9 +516,9 @@
         "podiums": 0
     },
     "Cummin Jizzwood": {
-        "elo": 1057,
+        "elo": 1060,
         "wins": 0,
-        "races": 4,
+        "races": 5,
         "podiums": 3
     },
     "waldodj": {
@@ -720,9 +720,9 @@
         "podiums": 1
     },
     "troyalberto9": {
-        "elo": 1002,
+        "elo": 985,
         "wins": 1,
-        "races": 8,
+        "races": 10,
         "podiums": 5
     },
     "Abraham Avila": {
@@ -780,15 +780,15 @@
         "podiums": 0
     },
     "Blizz": {
-        "elo": 977,
+        "elo": 970,
         "wins": 0,
-        "races": 5,
+        "races": 7,
         "podiums": 0
     },
     "sergio14moto": {
-        "elo": 956,
+        "elo": 936,
         "wins": 0,
-        "races": 8,
+        "races": 10,
         "podiums": 0
     },
     "Postal": {
@@ -822,9 +822,15 @@
         "podiums": 1
     },
     "Andro": {
-        "elo": 986,
+        "elo": 980,
+        "wins": 0,
+        "races": 2,
+        "podiums": 0
+    },
+    "Mikey 93": {
+        "elo": 1012,
         "wins": 0,
         "races": 1,
-        "podiums": 0
+        "podiums": 1
     }
 }
