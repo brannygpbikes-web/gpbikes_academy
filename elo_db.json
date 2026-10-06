@@ -114,10 +114,10 @@
         "podiums": 7
     },
     "Spud": {
-        "elo": 979,
+        "elo": 991,
         "wins": 0,
-        "races": 4,
-        "podiums": 0
+        "races": 6,
+        "podiums": 2
     },
     "gabriel_tesini#4": {
         "elo": 1015,
@@ -318,9 +318,9 @@
         "podiums": 0
     },
     "Dario Andreoni": {
-        "elo": 998,
+        "elo": 971,
         "wins": 0,
-        "races": 8,
+        "races": 10,
         "podiums": 4
     },
     "titonagom08": {
@@ -522,10 +522,10 @@
         "podiums": 3
     },
     "waldodj": {
-        "elo": 1167,
+        "elo": 1172,
         "wins": 3,
-        "races": 20,
-        "podiums": 15
+        "races": 22,
+        "podiums": 17
     },
     "aleso262004": {
         "elo": 1080,
@@ -650,7 +650,7 @@
     "vNoHxpe_KJ45": {
         "elo": 997,
         "wins": 0,
-        "races": 5,
+        "races": 7,
         "podiums": 1
     },
     "Fabio_34": {
@@ -714,9 +714,9 @@
         "podiums": 1
     },
     "MATRIX#86": {
-        "elo": 975,
+        "elo": 969,
         "wins": 1,
-        "races": 5,
+        "races": 7,
         "podiums": 1
     },
     "troyalberto9": {
@@ -786,9 +786,9 @@
         "podiums": 0
     },
     "sergio14moto": {
-        "elo": 936,
+        "elo": 924,
         "wins": 0,
-        "races": 10,
+        "races": 12,
         "podiums": 0
     },
     "Postal": {
@@ -844,5 +844,11 @@
         "wins": 0,
         "races": 4,
         "podiums": 0
+    },
+    "marty_debruyne": {
+        "elo": 1029,
+        "wins": 2,
+        "races": 2,
+        "podiums": 2
     }
 }
