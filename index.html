@@ -197,6 +197,34 @@
           80px;
       }
     }
+
+    /* RIDER SEARCH */
+    .rider-search {
+      position: relative;
+      margin: 0 0 18px;
+      max-width: 520px;
+    }
+    .rider-search i {
+      position: absolute;
+      left: 15px;
+      top: 50%;
+      transform: translateY(-50%);
+      color: #737b87;
+      pointer-events: none;
+    }
+    .rider-search input {
+      width: 100%;
+      height: 44px;
+      padding: 0 16px 0 42px;
+      border: 1px solid #343a44;
+      border-radius: 7px;
+      outline: none;
+      background: #171a20;
+      color: #fff;
+      font: inherit;
+    }
+    .rider-search input:focus { border-color: #df252d; }
+
   </style>
 </head>
 
@@ -214,6 +242,11 @@
   <a href="./index.html" class="active">
     <i class="fa-solid fa-trophy"></i>
     <span>Ranked</span>
+  </a>
+
+  <a href="./stats.html">
+    <i class="fa-solid fa-chart-line"></i>
+    <span>Rider Stats</span>
   </a>
 
   <a href="./announcements.html">
@@ -253,6 +286,11 @@
         2026 Season
       </div>
 
+    </div>
+
+    <div class="rider-search">
+      <i class="fa-solid fa-magnifying-glass"></i>
+      <input id="rider-search" type="search" placeholder="Search your in-game name..." autocomplete="off">
     </div>
 
     <section class="panel">
@@ -573,8 +611,31 @@ function renderPlayers() {
   }
 
 
-  playerData.forEach(
-    (player, index) => {
+  const query =
+    (document.getElementById("rider-search")?.value || "")
+      .trim()
+      .toLowerCase();
+
+  const visiblePlayers =
+    query
+      ? playerData.filter(player =>
+          player.name.toLowerCase().includes(query)
+        )
+      : playerData;
+
+  if (visiblePlayers.length === 0) {
+    container.innerHTML = `
+      <div class="status-message">
+        No matching rider found.
+      </div>
+    `;
+    return;
+  }
+
+  visiblePlayers.forEach(
+    (player) => {
+
+      const index = playerData.indexOf(player);
 
       const row =
         document.createElement("div");
@@ -810,6 +871,13 @@ function escapeHTML(value) {
 
   return div.innerHTML;
 }
+
+
+/* RIDER SEARCH */
+
+document
+  .getElementById("rider-search")
+  .addEventListener("input", renderPlayers);
 
 
 /* START */

@@ -1,225 +1,87 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width,initial-scale=1.0">
-<title>Rider Stats | GP Bikes Academy</title>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
-<style>
-*{box-sizing:border-box}
-:root{--red:#c0181f;--darkred:#8f1116;--side:210px;--top:64px}
-html,body{margin:0;min-height:100%}
-body{font-family:Arial,Helvetica,sans-serif;color:#fff;background:#111 url("background.png") center/cover fixed no-repeat}
-body:before{content:"";position:fixed;inset:0;background:rgba(0,0,0,.58);z-index:-1}
-.topbar{position:fixed;left:0;right:0;top:0;height:var(--top);background:linear-gradient(180deg,var(--red),var(--darkred));display:flex;align-items:center;padding:0 22px;z-index:20;box-shadow:0 3px 12px #0008}
-.brand{font-weight:800;font-size:20px}
-.sidebar{position:fixed;top:var(--top);left:0;bottom:0;width:var(--side);background:rgba(14,16,20,.96);border-right:1px solid #ffffff12;padding:18px 10px;z-index:15}
-.sidebar a{display:flex;gap:11px;align-items:center;color:#d7d9de;text-decoration:none;padding:12px;border-radius:6px;margin:3px 0;font-weight:700;font-size:14px}
-.sidebar a:hover,.sidebar a.active{background:#c0181f;color:#fff}
-.sidebar .divider{height:1px;background:#ffffff18;margin:12px 8px}
-main{margin-left:var(--side);padding:calc(var(--top) + 32px) 26px 50px}
-.wrap{max-width:1100px;margin:auto}
-.hero{text-align:center;margin-bottom:24px}
-.hero h1{font-size:36px;margin:0 0 8px}
-.hero p{margin:0;color:#b9bec8}
-.searchbox{max-width:680px;margin:24px auto 8px;position:relative}
-.searchbox i{position:absolute;left:16px;top:50%;transform:translateY(-50%);color:#8f96a3}
-.searchbox input{width:100%;padding:15px 16px 15px 44px;border-radius:8px;border:1px solid #3a3e47;background:#15181e;color:#fff;font-size:16px;outline:none}
-.searchbox input:focus{border-color:var(--red)}
-.matches{max-width:680px;margin:0 auto;background:#171a20;border:1px solid #30343d;border-radius:7px;overflow:hidden;display:none}
-.match{padding:11px 15px;border-bottom:1px solid #ffffff0f;cursor:pointer}
-.match:last-child{border:0}.match:hover{background:#ffffff0d}
-.hidden{display:none!important}
-.profile{margin-top:26px}
-.profile-head{background:linear-gradient(135deg,#1b1e25,#111318);border:1px solid #30343d;border-left:5px solid var(--red);border-radius:10px;padding:22px}
-.profile-head h2{margin:0;font-size:30px}.sub{color:#9ca3af;margin-top:5px}
-.cards{display:grid;grid-template-columns:repeat(6,1fr);gap:10px;margin:14px 0}
-.card,.panel{background:rgba(20,23,29,.95);border:1px solid #30343d;border-radius:8px}
-.card{padding:14px;text-align:center}.card .v{font-size:23px;font-weight:800}.card .k{font-size:11px;text-transform:uppercase;color:#969da9;margin-top:5px}
-.panel{padding:18px;margin-top:14px}.panel h3{margin:0 0 15px;font-size:17px}
-.statsgrid{display:grid;grid-template-columns:repeat(4,1fr);gap:10px}
-.stat{background:#11141a;border-radius:6px;padding:12px}.stat span{display:block;color:#8f96a3;font-size:11px;text-transform:uppercase;margin-bottom:5px}.stat b{font-size:17px}
-.tables{display:grid;grid-template-columns:1fr 1fr;gap:14px}
-table{width:100%;border-collapse:collapse;font-size:13px}th,td{padding:10px 8px;border-bottom:1px solid #ffffff10;text-align:left}th{color:#9ca3af;font-size:11px;text-transform:uppercase}
-.chart-wrap{height:280px;position:relative}.chart-empty{height:100%;display:flex;align-items:center;justify-content:center;text-align:center;color:#8f96a3}
-canvas{width:100%;height:100%}
-.race{display:grid;grid-template-columns:110px 1.6fr 1.2fr 70px 70px 70px;gap:8px;padding:11px 6px;border-bottom:1px solid #ffffff10;align-items:center;font-size:13px}
-.race.head{color:#8f96a3;font-size:11px;text-transform:uppercase;font-weight:700}
-.good{color:#45d483}.bad{color:#ff767d}.accent{color:#ff5960}
-.loading,.error{text-align:center;color:#aeb4bf;padding:30px}
-@media(max-width:900px){.cards{grid-template-columns:repeat(3,1fr)}.statsgrid{grid-template-columns:repeat(2,1fr)}.tables{grid-template-columns:1fr}}
-@media(max-width:700px){:root{--side:0px}.sidebar{position:fixed;top:var(--top);width:100%;height:auto;bottom:auto;display:flex;overflow-x:auto;padding:6px;background:#14161b}.sidebar a{white-space:nowrap;padding:9px}.sidebar .divider{display:none}main{margin-left:0;padding-top:130px}.race{grid-template-columns:90px 1fr 60px}.race>*:nth-child(3),.race>*:nth-child(5),.race>*:nth-child(6){display:none}.hero h1{font-size:29px}}
-</style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Rider Stats | GP Bikes Academy Ranked</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  <link rel="stylesheet" href="./style.css">
+  <style>
+    .stats-search{position:relative;max-width:620px;margin-bottom:18px}
+    .stats-search i{position:absolute;left:15px;top:50%;transform:translateY(-50%);color:#737b87}
+    .stats-search input{width:100%;height:46px;padding:0 16px 0 43px;border:1px solid #343a44;border-radius:7px;background:#171a20;color:#fff;font:inherit;outline:none}
+    .stats-search input:focus{border-color:#df252d}
+    .matches{display:none;max-width:620px;margin-top:-12px;margin-bottom:18px;background:#171a20;border:1px solid #343a44;border-radius:7px;overflow:hidden}
+    .match{padding:11px 14px;border-bottom:1px solid rgba(255,255,255,.07);cursor:pointer}.match:last-child{border:0}.match:hover{background:rgba(255,255,255,.05)}
+    .stats-hidden{display:none}
+    .rider-heading{display:flex;justify-content:space-between;gap:16px;align-items:center;flex-wrap:wrap}
+    .rider-heading h2{margin:0;font-size:27px}.muted{color:#8b929d}
+    .stat-cards{display:grid;grid-template-columns:repeat(6,1fr);gap:10px;margin:16px 0}
+    .stat-card{background:rgba(255,255,255,.035);border:1px solid rgba(255,255,255,.08);border-radius:7px;padding:15px;text-align:center}
+    .stat-card strong{display:block;font-size:23px}.stat-card span{display:block;margin-top:5px;color:#8b929d;font-size:11px;text-transform:uppercase}
+    .stats-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:10px}
+    .mini-stat{background:rgba(255,255,255,.035);border:1px solid rgba(255,255,255,.07);border-radius:6px;padding:12px}.mini-stat span{display:block;color:#8b929d;font-size:11px;text-transform:uppercase;margin-bottom:5px}
+    .stats-columns{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-top:18px}
+    .stats-table{width:100%;border-collapse:collapse}.stats-table th,.stats-table td{padding:10px 8px;border-bottom:1px solid rgba(255,255,255,.07);text-align:left;font-size:13px}.stats-table th{color:#8b929d;font-size:11px;text-transform:uppercase}
+    .subpanel{margin-top:18px}.subpanel-title{font-weight:bold;margin-bottom:13px}.subpanel-title i{color:#df252d;margin-right:7px}
+    .race-row{display:grid;grid-template-columns:100px 1.5fr 1.2fr 65px 65px 70px;gap:8px;padding:10px 7px;border-bottom:1px solid rgba(255,255,255,.07);font-size:13px;align-items:center}.race-row.header{color:#8b929d;font-size:11px;text-transform:uppercase;font-weight:bold}
+    .chartbox{height:260px;position:relative}.chart-empty{height:100%;display:flex;align-items:center;justify-content:center;color:#8b929d;text-align:center}
+    #elo-canvas{width:100%;height:100%}
+    @media(max-width:900px){.stat-cards{grid-template-columns:repeat(3,1fr)}.stats-grid{grid-template-columns:repeat(2,1fr)}.stats-columns{grid-template-columns:1fr}}
+    @media(max-width:700px){.stat-cards{grid-template-columns:repeat(2,1fr)}.race-row{grid-template-columns:90px 1fr 65px}.race-row>*:nth-child(3),.race-row>*:nth-child(5),.race-row>*:nth-child(6){display:none}}
+  </style>
 </head>
 <body>
-<div class="topbar"><div class="brand">GP Bikes Academy</div></div>
+<header class="topbar"><div class="brand"><i class="fa-solid fa-flag-checkered"></i><span>GP Bikes Academy Ranked</span></div></header>
 <nav class="sidebar">
-<a href="index.html"><i class="fa-solid fa-ranking-star"></i> Ranked</a>
-<a class="active" href="stats.html"><i class="fa-solid fa-chart-line"></i> Rider Stats</a>
-<a href="announcements.html"><i class="fa-solid fa-bullhorn"></i> Announcements</a>
-<a href="downloads.html"><i class="fa-solid fa-download"></i> Downloads</a>
-<div class="divider"></div>
-<a href="https://discord.gg/NGwKCQ96m8" target="_blank"><i class="fa-brands fa-discord"></i> Discord</a>
+  <a href="./index.html"><i class="fa-solid fa-trophy"></i><span>Ranked</span></a>
+  <a href="./stats.html" class="active"><i class="fa-solid fa-chart-line"></i><span>Rider Stats</span></a>
+  <a href="./announcements.html"><i class="fa-solid fa-bullhorn"></i><span>Announcements</span></a>
+  <a href="./downloads.html"><i class="fa-solid fa-download"></i><span>Downloads</span></a>
+  <div class="sidebar-divider"></div>
+  <a href="https://discord.gg/NGwKCQ96m8" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-discord"></i><span>Join the Discord</span></a>
 </nav>
-
-<main><div class="wrap">
-<section class="hero">
-<h1>Rider Statistics</h1>
-<p>Search your exact GP Bikes in-game name to see your racing history.</p>
-<div class="searchbox"><i class="fa-solid fa-magnifying-glass"></i><input id="search" autocomplete="off" placeholder="Search rider name..."></div>
-<div id="matches" class="matches"></div>
-</section>
-<div id="status" class="loading">Loading race analytics…</div>
-<section id="profile" class="profile hidden"></section>
+<main class="page"><div class="page-content">
+  <div class="page-title"><div><h1>Rider Stats</h1><p>Search your GP Bikes in-game name</p></div><div class="season-badge"><span class="live-dot"></span>2026 Season</div></div>
+  <div class="stats-search"><i class="fa-solid fa-magnifying-glass"></i><input id="search" type="search" placeholder="Search your in-game name..." autocomplete="off"></div>
+  <div id="matches" class="matches"></div>
+  <section class="panel"><div class="panel-title"><div><i class="fa-solid fa-chart-simple"></i> Rider Analytics</div><span id="panel-status">Select a rider</span></div>
+    <div id="loading" class="status-message"><i class="fa-solid fa-spinner fa-spin"></i> Loading analytics...</div>
+    <div id="profile" class="stats-hidden"></div>
+  </section>
 </div></main>
-
 <script>
-const RAW="https://raw.githubusercontent.com/brannygpbikes-web/brannygpbikes.github.io/refs/heads/main/";
-let analytics=null, elo={}, safety={}, eloHistory={};
-
-const $=s=>document.querySelector(s);
-const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[c]));
-const num=(v,d=1)=>v==null?"—":Number(v).toFixed(d).replace(/\.0$/,"");
-const pos=v=>v==null?"—":`${v}${({1:"st",2:"nd",3:"rd"}[v]||"th")}`;
-const time=v=>{if(v==null)return"—";let m=Math.floor(v/60),s=v-m*60;return m?`${m}:${s.toFixed(3).padStart(6,"0")}`:`${s.toFixed(3)}s`};
-function safetyGrade(n){n=Number(n||0);return n>=250?"S":n>=165?"A":n>=125?"B":n>=100?"C":n>=70?"D":"E"}
-
-async function getJSON(name, optional=false){
- try{
-  const r=await fetch(RAW+name+"?v="+Date.now(),{cache:"no-store"});
-  if(!r.ok) throw new Error(name);
-  return await r.json();
- }catch(e){if(optional)return {};throw e}
+const BASE="https://raw.githubusercontent.com/brannygpbikes-web/brannygpbikes.github.io/refs/heads/main/";
+let data=null,elo={},safety={},history={};
+const esc=v=>{const d=document.createElement("div");d.textContent=String(v??"");return d.innerHTML};
+const n=(v,d=1)=>v==null?"—":Number(v).toFixed(d).replace(/\.0$/,"");
+const pos=v=>v==null?"—":v+({1:"st",2:"nd",3:"rd"}[v]||"th");
+const lap=v=>{if(v==null)return"—";let m=Math.floor(v/60),s=v-m*60;return m?m+":"+s.toFixed(3).padStart(6,"0"):s.toFixed(3)+"s"};
+function grade(v){v=Number(v||0);return v>=250?"S":v>=165?"A":v>=125?"B":v>=100?"C":v>=70?"D":"E"}
+function find(obj,name){if(!obj)return null;if(obj[name]!=null)return obj[name];const k=Object.keys(obj).find(k=>k.toLowerCase()===name.toLowerCase());return k?obj[k]:null}
+async function j(name,opt=false){try{const r=await fetch(BASE+name+"?v="+Date.now(),{cache:"no-store"});if(!r.ok)throw Error(name);return await r.json()}catch(e){if(opt)return{};throw e}}
+(async()=>{try{[data,elo,safety,history]=await Promise.all([j("race_analytics.json"),j("elo_db.json",true),j("safety_db.json",true),j("elo_history.json",true)]);document.getElementById("loading").innerHTML='Search for a rider above.'}catch(e){document.getElementById("loading").innerHTML='<i class="fa-solid fa-triangle-exclamation"></i> race_analytics.json could not be loaded.'}})();
+search.addEventListener("input",()=>{if(!data)return;let q=search.value.trim().toLowerCase(),m=document.getElementById("matches");if(!q){m.style.display="none";return}let a=data.riders.filter(x=>x.name.toLowerCase().includes(q)).slice(0,12);m.innerHTML=a.length?a.map(x=>`<div class="match" data-g="${esc(x.guid)}">${esc(x.name)} <span class="muted">• ${x.races} races</span></div>`).join(""):'<div class="match">No rider found</div>';m.style.display="block";m.querySelectorAll("[data-g]").forEach(x=>x.onclick=()=>show(x.dataset.g))});
+search.addEventListener("keydown",e=>{if(e.key==="Enter"&&data){let q=search.value.trim().toLowerCase(),r=data.riders.find(x=>x.name.toLowerCase()===q)||data.riders.find(x=>x.name.toLowerCase().includes(q));if(r)show(r.guid)}});
+function show(g){
+ let r=data.riders.find(x=>x.guid===g);if(!r)return;search.value=r.name;matches.style.display="none";
+ let e=find(elo,r.name),s=find(safety,r.name),ev=typeof e==="object"?e.elo:e,sv=typeof s==="object"?(s.safety??s.rating??s.score):s;
+ let races=(data.races||[]).map(z=>{let rr=(z.riders||[]).find(y=>y.guid===g);return rr?{...rr,track:z.track,date:z.date}:null}).filter(Boolean).sort((a,b)=>new Date(b.date)-new Date(a.date));
+ let tracks=Object.entries(r.tracks||{}).sort((a,b)=>b[1].races-a[1].races),bikes=Object.entries(r.bikes||{}).sort((a,b)=>b[1].races-a[1].races);
+ profile.innerHTML=`<div class="rider-heading"><div><h2>${esc(r.name)}</h2><div class="muted">GP Bikes Academy rider profile</div></div></div>
+ <div class="stat-cards"><div class="stat-card"><strong>${ev??"—"}</strong><span>Elo</span></div><div class="stat-card"><strong>${sv==null?"—":grade(sv)+" "+sv}</strong><span>Safety</span></div><div class="stat-card"><strong>${r.races}</strong><span>Races</span></div><div class="stat-card"><strong>${r.wins}</strong><span>Wins</span></div><div class="stat-card"><strong>${r.podiums}</strong><span>Podiums</span></div><div class="stat-card"><strong>${n(r.win_rate)}%</strong><span>Win rate</span></div></div>
+ <div class="subpanel"><div class="subpanel-title"><i class="fa-solid fa-chart-line"></i>Elo History</div><div id="chart" class="chartbox"></div></div>
+ <div class="subpanel"><div class="subpanel-title">Performance</div><div class="stats-grid">${mini("Podium rate",n(r.podium_rate)+"%")}${mini("Average finish",n(r.average_finish,2))}${mini("Average start",n(r.average_start,2))}${mini("Avg positions gained",n(r.average_positions_gained,2))}${mini("Best finish",pos(r.best_finish))}${mini("Best recorded lap",lap(r.best_recorded_lap))}${mini("Average gap",n(r.average_gap_percent,2)+"%")}</div></div>
+ <div class="subpanel"><div class="subpanel-title">Safety & Contacts</div><div class="stats-grid">${mini("Total contacts",r.contacts)}${mini("Contacts / race",n(r.contacts_per_race,2))}${mini("Clean races",r.clean_races)}${mini("Clean race %",n(r.clean_race_percent)+"%")}${mini("Worst severity",n(r.worst_contact_severity,2))}</div></div>
+ <div class="stats-columns"><div class="subpanel"><div class="subpanel-title">Track Performance</div><table class="stats-table"><tr><th>Track</th><th>Races</th><th>Wins</th><th>Avg</th></tr>${tracks.map(([k,x])=>`<tr><td>${esc(k)}</td><td>${x.races}</td><td>${x.wins}</td><td>${n(x.average_finish,2)}</td></tr>`).join("")}</table></div>
+ <div class="subpanel"><div class="subpanel-title">Bike Performance</div><table class="stats-table"><tr><th>Bike</th><th>Races</th><th>Wins</th><th>Podiums</th></tr>${bikes.map(([k,x])=>`<tr><td>${esc(k)}</td><td>${x.races}</td><td>${x.wins}</td><td>${x.podiums}</td></tr>`).join("")}</table></div></div>
+ <div class="subpanel"><div class="subpanel-title">Race History</div><div class="race-row header"><div>Date</div><div>Track</div><div>Bike</div><div>Start</div><div>Finish</div><div>Contacts</div></div>${races.map(x=>`<div class="race-row"><div>${new Date(x.date).toLocaleDateString("en-GB")}</div><div>${esc(x.track)}</div><div>${esc(x.bike)}</div><div>${pos(x.start_position)}</div><div>${pos(x.finish_position)}</div><div>${x.contacts??0}</div></div>`).join("")}</div>`;
+ loading.classList.add("stats-hidden");profile.classList.remove("stats-hidden");document.getElementById("panel-status").textContent=r.races+" races recorded";draw(r.name,ev)
 }
-
-async function init(){
- try{
-  [analytics,elo,safety,eloHistory]=await Promise.all([
-   getJSON("race_analytics.json"),
-   getJSON("elo_db.json",true),
-   getJSON("safety_db.json",true),
-   getJSON("elo_history.json",true)
-  ]);
-  $("#status").classList.add("hidden");
-  $("#search").focus();
- }catch(e){
-  $("#status").className="error";
-  $("#status").textContent="Could not load race_analytics.json. Make sure it is uploaded to the repository.";
- }
+function mini(a,b){return `<div class="mini-stat"><span>${a}</span><strong>${b}</strong></div>`}
+function draw(name,current){
+ let h=find(history,name)||[];if(!Array.isArray(h))h=[];if(!h.length&&current!=null)h=[{label:"Current",elo:Number(current)}];let box=document.getElementById("chart");
+ if(h.length<2){box.innerHTML=`<div class="chart-empty">Current Elo: ${current??"—"}<br>Elo history will appear here as future races are recorded.</div>`;return}
+ let c=document.createElement("canvas");c.id="elo-canvas";box.innerHTML="";box.appendChild(c);let d=window.devicePixelRatio||1,w=box.clientWidth,H=box.clientHeight;c.width=w*d;c.height=H*d;let x=c.getContext("2d");x.scale(d,d);let vs=h.map(z=>Number(z.elo)),mn=Math.min(...vs),mx=Math.max(...vs),pd=Math.max(10,(mx-mn)*.2);mn-=pd;mx+=pd;let L=48,R=15,T=15,B=35,W=w-L-R,HH=H-T-B;x.font="11px Arial";x.fillStyle="#8b929d";x.strokeStyle="rgba(255,255,255,.09)";for(let i=0;i<5;i++){let y=T+HH*i/4,v=mx-(mx-mn)*i/4;x.beginPath();x.moveTo(L,y);x.lineTo(w-R,y);x.stroke();x.fillText(Math.round(v),5,y+4)}let pts=h.map((z,i)=>({x:L+W*i/(h.length-1),y:T+(mx-Number(z.elo))/(mx-mn)*HH}));x.strokeStyle="#df252d";x.lineWidth=3;x.beginPath();pts.forEach((p,i)=>i?x.lineTo(p.x,p.y):x.moveTo(p.x,p.y));x.stroke();x.fillStyle="#fff";pts.forEach(p=>{x.beginPath();x.arc(p.x,p.y,4,0,Math.PI*2);x.fill()})
 }
-init();
-
-$("#search").addEventListener("input",e=>{
- if(!analytics)return;
- const q=e.target.value.trim().toLowerCase(), box=$("#matches");
- if(!q){box.style.display="none";return}
- const found=analytics.riders.filter(r=>r.name.toLowerCase().includes(q)).slice(0,12);
- box.innerHTML=found.length?found.map(r=>`<div class="match" data-guid="${esc(r.guid)}">${esc(r.name)} <span style="color:#777">— ${r.races} races</span></div>`).join(""):`<div class="match">No rider found</div>`;
- box.style.display="block";
- box.querySelectorAll("[data-guid]").forEach(x=>x.onclick=()=>showRider(x.dataset.guid));
-});
-$("#search").addEventListener("keydown",e=>{
- if(e.key==="Enter"&&analytics){
-  const q=e.target.value.trim().toLowerCase();
-  const r=analytics.riders.find(x=>x.name.toLowerCase()===q)||analytics.riders.find(x=>x.name.toLowerCase().includes(q));
-  if(r)showRider(r.guid);
- }
-});
-
-function lookupByName(obj,name){
- if(!obj)return null;
- if(obj[name]!=null)return obj[name];
- const k=Object.keys(obj).find(k=>k.toLowerCase()===name.toLowerCase());
- return k?obj[k]:null;
-}
-
-function showRider(guid){
- const r=analytics.riders.find(x=>x.guid===guid); if(!r)return;
- $("#search").value=r.name; $("#matches").style.display="none";
- const e=lookupByName(elo,r.name), s=lookupByName(safety,r.name);
- const eloVal=typeof e==="object"?e.elo:e;
- const safetyVal=typeof s==="object"?(s.safety??s.rating??s.score):s;
- const riderRaces=(analytics.races||[]).map(x=>{
-   const rr=(x.riders||[]).find(y=>y.guid===guid);
-   return rr?{...rr,track:x.track,date:x.date,field_size:x.field_size}:null
- }).filter(Boolean).sort((a,b)=>new Date(b.date)-new Date(a.date));
-
- const tracks=Object.entries(r.tracks||{}).sort((a,b)=>b[1].races-a[1].races);
- const bikes=Object.entries(r.bikes||{}).sort((a,b)=>b[1].races-a[1].races);
-
- $("#profile").innerHTML=`
- <div class="profile-head"><h2>${esc(r.name)}</h2><div class="sub">GP Bikes Academy rider profile</div></div>
- <div class="cards">
-  <div class="card"><div class="v">${eloVal??"—"}</div><div class="k">Elo</div></div>
-  <div class="card"><div class="v">${safetyVal??"—"}${safetyVal!=null?` <small>${safetyGrade(safetyVal)}</small>`:""}</div><div class="k">Safety</div></div>
-  <div class="card"><div class="v">${r.races}</div><div class="k">Races</div></div>
-  <div class="card"><div class="v">${r.wins}</div><div class="k">Wins</div></div>
-  <div class="card"><div class="v">${r.podiums}</div><div class="k">Podiums</div></div>
-  <div class="card"><div class="v">${num(r.win_rate)}%</div><div class="k">Win rate</div></div>
- </div>
-
- <div class="panel"><h3><i class="fa-solid fa-chart-line accent"></i> Elo History</h3><div class="chart-wrap" id="eloChart"></div></div>
-
- <div class="panel"><h3>Performance</h3><div class="statsgrid">
-  <div class="stat"><span>Podium rate</span><b>${num(r.podium_rate)}%</b></div>
-  <div class="stat"><span>Average finish</span><b>${num(r.average_finish,2)}</b></div>
-  <div class="stat"><span>Average start</span><b>${num(r.average_start,2)}</b></div>
-  <div class="stat"><span>Avg positions gained</span><b>${num(r.average_positions_gained,2)}</b></div>
-  <div class="stat"><span>Best finish</span><b>${pos(r.best_finish)}</b></div>
-  <div class="stat"><span>Best recorded lap</span><b>${time(r.best_recorded_lap)}</b></div>
-  <div class="stat"><span>Average gap</span><b>${num(r.average_gap_percent,2)}%</b></div>
-  <div class="stat"><span>Race number</span><b>${riderRaces[0]?.race_num||"—"}</b></div>
- </div></div>
-
- <div class="panel"><h3>Safety & Contacts</h3><div class="statsgrid">
-  <div class="stat"><span>Total contacts</span><b>${r.contacts}</b></div>
-  <div class="stat"><span>Contacts / race</span><b>${num(r.contacts_per_race,2)}</b></div>
-  <div class="stat"><span>Clean races</span><b>${r.clean_races}</b></div>
-  <div class="stat"><span>Clean race %</span><b>${num(r.clean_race_percent)}%</b></div>
-  <div class="stat"><span>Worst severity</span><b>${num(r.worst_contact_severity,2)}</b></div>
- </div></div>
-
- <div class="tables">
-  <div class="panel"><h3>Track Performance</h3><table><thead><tr><th>Track</th><th>Races</th><th>Wins</th><th>Podiums</th><th>Avg</th></tr></thead><tbody>
-  ${tracks.map(([n,x])=>`<tr><td>${esc(n)}</td><td>${x.races}</td><td>${x.wins}</td><td>${x.podiums}</td><td>${num(x.average_finish,2)}</td></tr>`).join("")}
-  </tbody></table></div>
-  <div class="panel"><h3>Bike Performance</h3><table><thead><tr><th>Bike</th><th>Races</th><th>Wins</th><th>Podiums</th></tr></thead><tbody>
-  ${bikes.map(([n,x])=>`<tr><td>${esc(n)}</td><td>${x.races}</td><td>${x.wins}</td><td>${x.podiums}</td></tr>`).join("")}
-  </tbody></table></div>
- </div>
-
- <div class="panel"><h3>Race History</h3>
-  <div class="race head"><div>Date</div><div>Track</div><div>Bike</div><div>Start</div><div>Finish</div><div>Contacts</div></div>
-  ${riderRaces.map(x=>`<div class="race"><div>${new Date(x.date).toLocaleDateString("en-GB")}</div><div>${esc(x.track)}</div><div>${esc(x.bike)}</div><div>${pos(x.start_position)}</div><div class="${x.finish_position===1?"good":""}">${pos(x.finish_position)}</div><div>${x.contacts??0}</div></div>`).join("")}
- </div>`;
- $("#profile").classList.remove("hidden");
- drawElo(r.name,eloVal);
- $("#profile").scrollIntoView({behavior:"smooth",block:"start"});
-}
-
-function drawElo(name,current){
- const host=$("#eloChart");
- let hist=lookupByName(eloHistory,name)||[];
- if(!Array.isArray(hist))hist=[];
- if(!hist.length&&current!=null)hist=[{label:"Current",elo:Number(current)}];
- if(hist.length<2){
-  host.innerHTML=`<div class="chart-empty">Current Elo: <b style="margin-left:6px">${current??"—"}</b><br><span style="margin-left:8px">History will build as elo_history.json records future races.</span></div>`;
-  return;
- }
- const canvas=document.createElement("canvas");host.innerHTML="";host.appendChild(canvas);
- const dpr=window.devicePixelRatio||1,w=host.clientWidth,h=host.clientHeight;
- canvas.width=w*dpr;canvas.height=h*dpr;const c=canvas.getContext("2d");c.scale(dpr,dpr);
- const vals=hist.map(x=>Number(x.elo)).filter(Number.isFinite);if(!vals.length)return;
- let min=Math.min(...vals),max=Math.max(...vals);let pad=Math.max(10,(max-min)*.18);min-=pad;max+=pad;
- const L=48,R=18,T=18,B=38,iw=w-L-R,ih=h-T-B;
- c.strokeStyle="#ffffff18";c.lineWidth=1;c.fillStyle="#9299a5";c.font="11px Arial";
- for(let i=0;i<5;i++){let y=T+ih*i/4,v=max-(max-min)*i/4;c.beginPath();c.moveTo(L,y);c.lineTo(w-R,y);c.stroke();c.fillText(Math.round(v),6,y+4)}
- const pts=hist.map((x,i)=>({x:L+(hist.length===1?iw/2:iw*i/(hist.length-1)),y:T+(max-Number(x.elo))/(max-min)*ih}));
- c.strokeStyle="#e52b32";c.lineWidth=3;c.beginPath();pts.forEach((p,i)=>i?c.lineTo(p.x,p.y):c.moveTo(p.x,p.y));c.stroke();
- c.fillStyle="#fff";pts.forEach(p=>{c.beginPath();c.arc(p.x,p.y,4,0,Math.PI*2);c.fill()});
- const labels=[0,Math.floor((hist.length-1)/2),hist.length-1].filter((v,i,a)=>a.indexOf(v)===i);
- c.fillStyle="#9299a5";c.textAlign="center";labels.forEach(i=>c.fillText(String(hist[i].label||hist[i].date||i+1).slice(0,18),pts[i].x,h-12));
- }
-</script>
-</body>
-</html>
+</script></body></html>
