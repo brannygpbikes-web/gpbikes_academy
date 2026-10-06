@@ -44,66 +44,13 @@
       #profile { padding: 16px 14px 20px; }
     }
 
-
-    /* Safety badge - same grade colours as Ranked */
-    .profile-safety {
-      display: inline-flex;
-      align-items: stretch;
-      height: 34px;
-      border: 3px solid;
-      border-radius: 18px 3px 3px 18px;
-      overflow: hidden;
-      background: #2d2d2d;
-      font-weight: bold;
-      vertical-align: middle;
-    }
-    .profile-safety-grade {
-      width: 40px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      font-size: 18px;
-      border-right: 3px solid;
-    }
-    .profile-safety-score {
-      min-width: 55px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      padding: 0 9px;
-      color: #fff;
-      font-size: 14px;
-    }
-    .profile-safety.safety-s,.profile-safety.safety-s .profile-safety-grade{border-color:#008c2a}.profile-safety.safety-s .profile-safety-grade{color:#008c2a}
-    .profile-safety.safety-a,.profile-safety.safety-a .profile-safety-grade{border-color:#00e52b}.profile-safety.safety-a .profile-safety-grade{color:#00e52b}
-    .profile-safety.safety-b,.profile-safety.safety-b .profile-safety-grade{border-color:#a7e600}.profile-safety.safety-b .profile-safety-grade{color:#a7e600}
-    .profile-safety.safety-c,.profile-safety.safety-c .profile-safety-grade{border-color:#ffd21c}.profile-safety.safety-c .profile-safety-grade{color:#ffd21c}
-    .profile-safety.safety-d,.profile-safety.safety-d .profile-safety-grade{border-color:#ff851b}.profile-safety.safety-d .profile-safety-grade{color:#ff851b}
-    .profile-safety.safety-e,.profile-safety.safety-e .profile-safety-grade{border-color:#ef3340}.profile-safety.safety-e .profile-safety-grade{color:#ef3340}
-    .profile-safety.safety-none,.profile-safety.safety-none .profile-safety-grade{border-color:#666b74}.profile-safety.safety-none .profile-safety-grade{color:#8b929d}
-
-    /* Rider Stats sidebar dropdown indicator */
-    .sidebar .stats-nav {
-      position: relative;
-    }
-    .sidebar .stats-nav .nav-arrow {
-      margin-left: auto;
-      font-size: 10px;
-      color: #8b929d;
-      transition: transform .18s ease;
-    }
-    .sidebar .stats-nav.active .nav-arrow {
-      color: #fff;
-      transform: rotate(90deg);
-    }
-
   </style>
 </head>
 <body>
 <header class="topbar"><div class="brand"><i class="fa-solid fa-flag-checkered"></i><span>GP Bikes Academy Ranked</span></div></header>
 <nav class="sidebar">
   <a href="./index.html"><i class="fa-solid fa-trophy"></i><span>Ranked</span></a>
-  <a href="./stats.html" class="active stats-nav"><i class="fa-solid fa-chart-line"></i><span>Rider Stats</span><i class="fa-solid fa-chevron-right nav-arrow"></i></a>
+  <a href="./stats.html" class="active"><i class="fa-solid fa-chart-line"></i><span>Rider Stats</span></a>
   <a href="./announcements.html"><i class="fa-solid fa-bullhorn"></i><span>Announcements</span></a>
   <a href="./downloads.html"><i class="fa-solid fa-download"></i><span>Downloads</span></a>
   <div class="sidebar-divider"></div>
@@ -126,11 +73,6 @@ const n=(v,d=1)=>v==null?"—":Number(v).toFixed(d).replace(/\.0$/,"");
 const pos=v=>v==null?"—":v+({1:"st",2:"nd",3:"rd"}[v]||"th");
 const lap=v=>{if(v==null)return"—";let m=Math.floor(v/60),s=v-m*60;return m?m+":"+s.toFixed(3).padStart(6,"0"):s.toFixed(3)+"s"};
 function grade(v){v=Number(v||0);return v>=250?"S":v>=165?"A":v>=125?"B":v>=100?"C":v>=70?"D":"E"}
-function safetyBadge(v){
-  if(v==null)return '<div class="profile-safety safety-none"><div class="profile-safety-grade">—</div><div class="profile-safety-score">N/A</div></div>';
-  const g=grade(v);
-  return `<div class="profile-safety safety-${g.toLowerCase()}"><div class="profile-safety-grade">${g}</div><div class="profile-safety-score">${v}</div></div>`;
-}
 function find(obj,name){if(!obj)return null;if(obj[name]!=null)return obj[name];const k=Object.keys(obj).find(k=>k.toLowerCase()===name.toLowerCase());return k?obj[k]:null}
 async function j(name,opt=false){try{const r=await fetch(BASE+name+"?v="+Date.now(),{cache:"no-store"});if(!r.ok)throw Error(name);return await r.json()}catch(e){if(opt)return{};throw e}}
 (async()=>{try{[data,elo,safety,history]=await Promise.all([j("race_analytics.json"),j("elo_db.json",true),j("safety_db.json",true),j("elo_history.json",true)]);document.getElementById("loading").innerHTML='Search for a rider above.'}catch(e){document.getElementById("loading").innerHTML='<i class="fa-solid fa-triangle-exclamation"></i> race_analytics.json could not be loaded.'}})();
@@ -142,7 +84,7 @@ function show(g){
  let races=(data.races||[]).map(z=>{let rr=(z.riders||[]).find(y=>y.guid===g);return rr?{...rr,track:z.track,date:z.date}:null}).filter(Boolean).sort((a,b)=>new Date(b.date)-new Date(a.date));
  let tracks=Object.entries(r.tracks||{}).sort((a,b)=>b[1].races-a[1].races),bikes=Object.entries(r.bikes||{}).sort((a,b)=>b[1].races-a[1].races);
  profile.innerHTML=`<div class="rider-heading"><div><h2>${esc(r.name)}</h2><div class="muted">GP Bikes Academy rider profile</div></div></div>
- <div class="stat-cards"><div class="stat-card"><strong>${ev??"—"}</strong><span>Elo</span></div><div class="stat-card"><strong>${safetyBadge(sv)}</strong><span>Safety</span></div><div class="stat-card"><strong>${r.races}</strong><span>Races</span></div><div class="stat-card"><strong>${r.wins}</strong><span>Wins</span></div><div class="stat-card"><strong>${r.podiums}</strong><span>Podiums</span></div><div class="stat-card"><strong>${n(r.win_rate)}%</strong><span>Win rate</span></div></div>
+ <div class="stat-cards"><div class="stat-card"><strong>${ev??"—"}</strong><span>Elo</span></div><div class="stat-card"><strong>${sv==null?"—":grade(sv)+" "+sv}</strong><span>Safety</span></div><div class="stat-card"><strong>${r.races}</strong><span>Races</span></div><div class="stat-card"><strong>${r.wins}</strong><span>Wins</span></div><div class="stat-card"><strong>${r.podiums}</strong><span>Podiums</span></div><div class="stat-card"><strong>${n(r.win_rate)}%</strong><span>Win rate</span></div></div>
  <div class="subpanel"><div class="subpanel-title"><i class="fa-solid fa-chart-line"></i>Elo History</div><div id="chart" class="chartbox"></div></div>
  <div class="subpanel"><div class="subpanel-title">Performance</div><div class="stats-grid">${mini("Podium rate",n(r.podium_rate)+"%")}${mini("Average finish",n(r.average_finish,2))}${mini("Average start",n(r.average_start,2))}${mini("Avg positions gained",n(r.average_positions_gained,2))}</div></div>
  <div class="subpanel"><div class="subpanel-title">Safety & Contacts</div><div class="stats-grid">${mini("Total contacts",r.contacts)}${mini("Contacts / race",n(r.contacts_per_race,2))}${mini("Clean races",r.clean_races)}${mini("Clean race %",n(r.clean_race_percent)+"%")}${mini("Worst severity",n(r.worst_contact_severity,2))}</div></div>
