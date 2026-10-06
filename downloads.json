@@ -1,4 +1,3 @@
-
 {
     "categories": [
         {
@@ -19,40 +18,46 @@
                 {
                     "name": "Moto3 - 2026",
                     "description": "GP Bikes bike download.",
-                    "link": "https://gpb-mods.com/moto-3-2026-v0-1/"
+                    "link": "https://gpb-mods.com/moto-3-2026-v0-1/",
+                    "setups": []
                 },
                 {
                     "name": "WSBK 24",
                     "description": "GP Bikes bike download.",
-                    "link": "https://gpb-mods.com/sbk-24/"
+                    "link": "https://gpb-mods.com/sbk-24/",
+                    "setups": []
                 },
                 {
                     "name": "Moto2 - 2026",
                     "description": "GP Bikes bike download.",
-                    "link": "https://gpb-mods.com/moto2-2026/"
+                    "link": "https://gpb-mods.com/moto2-2026/",
+                    "setups": []
                 },
                 {
                     "name": "WSSP 24",
                     "description": "GP Bikes bike download.",
-                    "link": "https://gpb-mods.com/wssp-2024-v0-1/"
+                    "link": "https://gpb-mods.com/wssp-2024-v0-1/",
+                    "setups": []
                 },
                 {
                     "name": "GP500",
                     "description": "GP Bikes bike download.",
-                    "link": "https://gpb-mods.com/gp500-v1-5/"
+                    "link": "https://gpb-mods.com/gp500-v1-5/",
+                    "setups": []
                 },
                 {
                     "name": "Yamaha YZF R1M 2021",
                     "description": "GP Bikes bike download.",
-                    "link": "https://gpb-mods.com/racing-modified-1000cc-yamaha-yzf-r1m-2021/" 
+                    "link": "https://gpb-mods.com/racing-modified-1000cc-yamaha-yzf-r1m-2021/",
+                    "setups": []
                 },
                 {
                     "name": "MotoGP Historical",
                     "description": "GP Bikes bike download.",
-                    "link": "https://gpb-mods.com/motogp-historical-mod-v1-0/"
+                    "link": "https://gpb-mods.com/motogp-historical-mod-v1-0/",
+                    "setups": []
                 }
             ]
         }
     ]
 }
-
