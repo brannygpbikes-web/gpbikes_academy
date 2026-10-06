@@ -50,6 +50,10 @@
                         {
                             "name": "Kawasaki Racing Team",
                             "link": "https://mega.nz/file/h3hGAJoQ#WlUdKJ1xpWsNC4paNaQcI8u5TbPYcTV-MW1RyY13oM4"
+                        },
+                        {
+                            "name": "PATA Prometeon Yamaha",
+                            "link": "https://mega.nz/file/BrRlGJBS#5sZHk_GeGBzTxnKBywYOLNLp0W5RxDAvSn-SyEFPo_k"
                         }
                     ]
                 },
@@ -68,7 +72,12 @@
                     "name": "WSSP 24",
                     "description": "GP Bikes bike download.",
                     "link": "https://gpb-mods.com/wssp-2024-v0-1/",
-                    "setups": []
+                    "setups": [
+                        {
+                            "name": "Yamaha R6",
+                            "link": "https://mega.nz/file/wyRSEKIb#YqHNAE4U627fUXLbdsghKKuqE5ltTZ48LAWem2QQFto"
+                        }
+                    ]
                 },
                 {
                     "name": "GP500",
@@ -80,13 +89,27 @@
                     "name": "Yamaha YZF R1M 2021",
                     "description": "GP Bikes bike download.",
                     "link": "https://gpb-mods.com/racing-modified-1000cc-yamaha-yzf-r1m-2021/",
-                    "setups": []
+                    "setups": [
+                        {
+                            "name": "Yamaha YZF-R1M 2021",
+                            "link": "https://mega.nz/file/0uhGkSiD#p07Ws_7kkEV5yVnln0oLOIo6JGY6i1F6p6xOSOeFbEk"
+                        }
+                    ]
                 },
                 {
                     "name": "MotoGP Historical",
                     "description": "GP Bikes bike download.",
                     "link": "https://gpb-mods.com/motogp-historical-mod-v1-0/",
-                    "setups": []
+                    "setups": [
+                        {
+                            "name": "Yamaha YZR-M1 2006",
+                            "link": "https://mega.nz/file/Nz5lET5C#5Nw6E3LGoEoL06205ai9x0A6D5hQVrnT3Q7IsMsKnrs"
+                        },
+                        {
+                            "name": "Ducati GP06 2006",
+                            "link": "https://mega.nz/file/YiwzyTxT#k6EDMt5XqF-TjBoB7Zfl0YN3E1iqjjZBY97_nGkGhRM"
+                        }
+                    ]
                 }
             ]
         }
