@@ -1,9 +1,13 @@
-
 {
     "announcements": [
         {
+            "title": "Ranked - new beta!",
+            "date": "10 October 2026",
+            "message": "Ranks will most likely be reset at the end of the month after I refine the ranked system/ safety rating. This update means players are rewarded more for wins and punished more for losses. This means that top riders should be able to reach around 1600 elo eventually. In addition, the player base should become more spread out."
+        },
+        {
             "title": "Welcome to GP Bikes Academy Ranked",
-            "date": "1 October 2026",
+            "date": "6 October 2026",
             "type": "Update",
             "message": "Welcome to the GP Bikes Academy Ranked website. Announcements about ranked racing, events and updates will appear here."
         },
@@ -15,7 +19,7 @@
         },
         {
             "title": "2026 Ranked Season",
-            "date": "10 October 2026",
+            "date": "4 October 2026",
             "type": "Update",
             "message": "Safety Rating (SR) is Live! Riders get -5 safety points per collision. When riders reach below 20 SR they will be suspended for 24 hrs. Repeat offenders will be suspended in increasing intervals."
         }
