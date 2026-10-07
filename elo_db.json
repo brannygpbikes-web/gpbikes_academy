@@ -246,10 +246,10 @@
         "podiums": 1
     },
     "JW2Stupid": {
-        "elo": 1043,
-        "wins": 0,
-        "races": 14,
-        "podiums": 6
+        "elo": 1063,
+        "wins": 2,
+        "races": 16,
+        "podiums": 8
     },
     "fisherman": {
         "elo": 1001,
@@ -522,10 +522,10 @@
         "podiums": 3
     },
     "waldodj": {
-        "elo": 1196,
+        "elo": 1198,
         "wins": 7,
-        "races": 26,
-        "podiums": 21
+        "races": 28,
+        "podiums": 23
     },
     "aleso262004": {
         "elo": 1068,
@@ -660,9 +660,9 @@
         "podiums": 0
     },
     "Honza Ehl": {
-        "elo": 1006,
+        "elo": 1002,
         "wins": 6,
-        "races": 12,
+        "races": 14,
         "podiums": 10
     },
     "jorgeguti160": {
@@ -714,9 +714,9 @@
         "podiums": 1
     },
     "MATRIX#86": {
-        "elo": 934,
+        "elo": 918,
         "wins": 1,
-        "races": 13,
+        "races": 15,
         "podiums": 1
     },
     "troyalberto9": {
@@ -882,10 +882,10 @@
         "podiums": 0
     },
     "Hopperle#12": {
-        "elo": 992,
+        "elo": 998,
         "wins": 0,
-        "races": 8,
-        "podiums": 4
+        "races": 10,
+        "podiums": 6
     },
     "d9rko": {
         "elo": 996,
@@ -906,9 +906,9 @@
         "podiums": 0
     },
     "Rk_44": {
-        "elo": 978,
+        "elo": 968,
         "wins": 0,
-        "races": 2,
+        "races": 4,
         "podiums": 0
     }
 }

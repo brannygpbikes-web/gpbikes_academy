@@ -237,6 +237,15 @@
             "track": "",
             "finish": 2,
             "race_id": "f7ce5c949ab344bb910a0978084411957f317c2a34c09c57d785bf612ed225e6"
+        },
+        {
+            "date": "2026-10-07T22:52:53",
+            "elo": 995,
+            "elo_before": 992,
+            "change": 3,
+            "track": "",
+            "finish": 3,
+            "race_id": "47497de632e728171d7e2e0e230fe7318fc952843283f4cd82a8cf73aa7ef36d"
         }
     ],
     "d9rko": [
@@ -412,6 +421,15 @@
             "track": "",
             "finish": 3,
             "race_id": "f7ce5c949ab344bb910a0978084411957f317c2a34c09c57d785bf612ed225e6"
+        },
+        {
+            "date": "2026-10-07T22:52:53",
+            "elo": 1004,
+            "elo_before": 1006,
+            "change": -2,
+            "track": "",
+            "finish": 4,
+            "race_id": "47497de632e728171d7e2e0e230fe7318fc952843283f4cd82a8cf73aa7ef36d"
         }
     ],
     "Dario Andreoni": [
@@ -434,6 +452,15 @@
             "track": "",
             "finish": 1,
             "race_id": "f7ce5c949ab344bb910a0978084411957f317c2a34c09c57d785bf612ed225e6"
+        },
+        {
+            "date": "2026-10-07T22:52:53",
+            "elo": 1197,
+            "elo_before": 1196,
+            "change": 1,
+            "track": "",
+            "finish": 2,
+            "race_id": "47497de632e728171d7e2e0e230fe7318fc952843283f4cd82a8cf73aa7ef36d"
         }
     ],
     "sergio14moto": [
@@ -456,6 +483,15 @@
             "track": "",
             "finish": 5,
             "race_id": "f7ce5c949ab344bb910a0978084411957f317c2a34c09c57d785bf612ed225e6"
+        },
+        {
+            "date": "2026-10-07T22:52:53",
+            "elo": 926,
+            "elo_before": 934,
+            "change": -8,
+            "track": "",
+            "finish": 6,
+            "race_id": "47497de632e728171d7e2e0e230fe7318fc952843283f4cd82a8cf73aa7ef36d"
         }
     ],
     "Rk_44": [
@@ -467,6 +503,26 @@
             "track": "",
             "finish": 6,
             "race_id": "f7ce5c949ab344bb910a0978084411957f317c2a34c09c57d785bf612ed225e6"
+        },
+        {
+            "date": "2026-10-07T22:52:53",
+            "elo": 973,
+            "elo_before": 978,
+            "change": -5,
+            "track": "",
+            "finish": 5,
+            "race_id": "47497de632e728171d7e2e0e230fe7318fc952843283f4cd82a8cf73aa7ef36d"
+        }
+    ],
+    "JW2Stupid": [
+        {
+            "date": "2026-10-07T22:52:53",
+            "elo": 1053,
+            "elo_before": 1043,
+            "change": 10,
+            "track": "",
+            "finish": 1,
+            "race_id": "47497de632e728171d7e2e0e230fe7318fc952843283f4cd82a8cf73aa7ef36d"
         }
     ]
 }
