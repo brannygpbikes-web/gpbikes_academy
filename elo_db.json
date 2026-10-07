@@ -522,10 +522,10 @@
         "podiums": 3
     },
     "waldodj": {
-        "elo": 1186,
-        "wins": 5,
-        "races": 24,
-        "podiums": 19
+        "elo": 1196,
+        "wins": 7,
+        "races": 26,
+        "podiums": 21
     },
     "aleso262004": {
         "elo": 1068,
@@ -660,10 +660,10 @@
         "podiums": 0
     },
     "Honza Ehl": {
-        "elo": 1002,
+        "elo": 1006,
         "wins": 6,
-        "races": 10,
-        "podiums": 8
+        "races": 12,
+        "podiums": 10
     },
     "jorgeguti160": {
         "elo": 927,
@@ -714,9 +714,9 @@
         "podiums": 1
     },
     "MATRIX#86": {
-        "elo": 944,
+        "elo": 934,
         "wins": 1,
-        "races": 11,
+        "races": 13,
         "podiums": 1
     },
     "troyalberto9": {
@@ -786,9 +786,9 @@
         "podiums": 0
     },
     "sergio14moto": {
-        "elo": 896,
+        "elo": 898,
         "wins": 0,
-        "races": 16,
+        "races": 18,
         "podiums": 0
     },
     "Postal": {
@@ -882,10 +882,10 @@
         "podiums": 0
     },
     "Hopperle#12": {
-        "elo": 978,
+        "elo": 992,
         "wins": 0,
-        "races": 6,
-        "podiums": 2
+        "races": 8,
+        "podiums": 4
     },
     "d9rko": {
         "elo": 996,
@@ -901,6 +901,12 @@
     },
     "Branny": {
         "elo": 1002,
+        "wins": 0,
+        "races": 2,
+        "podiums": 0
+    },
+    "Rk_44": {
+        "elo": 978,
         "wins": 0,
         "races": 2,
         "podiums": 0

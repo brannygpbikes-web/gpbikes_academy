@@ -228,6 +228,15 @@
             "track": "",
             "finish": 3,
             "race_id": "6ee09b433f0a9c02f51b6065efe4fce4266b002a7f68aa0a08c5f0476ead1fd1"
+        },
+        {
+            "date": "2026-10-07T22:38:35",
+            "elo": 985,
+            "elo_before": 978,
+            "change": 7,
+            "track": "",
+            "finish": 2,
+            "race_id": "f7ce5c949ab344bb910a0978084411957f317c2a34c09c57d785bf612ed225e6"
         }
     ],
     "d9rko": [
@@ -394,6 +403,15 @@
             "track": "",
             "finish": 2,
             "race_id": "6ee09b433f0a9c02f51b6065efe4fce4266b002a7f68aa0a08c5f0476ead1fd1"
+        },
+        {
+            "date": "2026-10-07T22:38:35",
+            "elo": 1004,
+            "elo_before": 1002,
+            "change": 2,
+            "track": "",
+            "finish": 3,
+            "race_id": "f7ce5c949ab344bb910a0978084411957f317c2a34c09c57d785bf612ed225e6"
         }
     ],
     "Dario Andreoni": [
@@ -405,6 +423,50 @@
             "track": "",
             "finish": 3,
             "race_id": "a74e6e7bee58b926651a0222407664f697ee4b3b35030909fa572f817401fe68"
+        }
+    ],
+    "waldodj": [
+        {
+            "date": "2026-10-07T22:38:35",
+            "elo": 1191,
+            "elo_before": 1186,
+            "change": 5,
+            "track": "",
+            "finish": 1,
+            "race_id": "f7ce5c949ab344bb910a0978084411957f317c2a34c09c57d785bf612ed225e6"
+        }
+    ],
+    "sergio14moto": [
+        {
+            "date": "2026-10-07T22:38:35",
+            "elo": 897,
+            "elo_before": 896,
+            "change": 1,
+            "track": "",
+            "finish": 4,
+            "race_id": "f7ce5c949ab344bb910a0978084411957f317c2a34c09c57d785bf612ed225e6"
+        }
+    ],
+    "MATRIX#86": [
+        {
+            "date": "2026-10-07T22:38:35",
+            "elo": 939,
+            "elo_before": 944,
+            "change": -5,
+            "track": "",
+            "finish": 5,
+            "race_id": "f7ce5c949ab344bb910a0978084411957f317c2a34c09c57d785bf612ed225e6"
+        }
+    ],
+    "Rk_44": [
+        {
+            "date": "2026-10-07T22:38:35",
+            "elo": 989,
+            "elo_before": 1000,
+            "change": -11,
+            "track": "",
+            "finish": 6,
+            "race_id": "f7ce5c949ab344bb910a0978084411957f317c2a34c09c57d785bf612ed225e6"
         }
     ]
 }
