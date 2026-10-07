@@ -31,10 +31,10 @@
         "clean_races": 1
     },
     "patrickfaderl98": {
-        "safety": 57,
-        "races": 15,
-        "contacts": 25,
-        "clean_races": 4,
+        "safety": 53,
+        "races": 19,
+        "contacts": 28,
+        "clean_races": 5,
         "large_lobby_clean_streak": 0
     },
     "Shai3ackHurts": {
@@ -56,9 +56,9 @@
         "clean_races": 2
     },
     "vegasan88": {
-        "safety": 176,
-        "races": 8,
-        "contacts": 5,
+        "safety": 164,
+        "races": 10,
+        "contacts": 9,
         "clean_races": 4,
         "large_lobby_clean_streak": 0
     },
@@ -140,10 +140,10 @@
         "clean_races": 1
     },
     "Danny Hinkelmann14": {
-        "safety": 100,
-        "races": 9,
+        "safety": 105,
+        "races": 10,
         "contacts": 19,
-        "clean_races": 3,
+        "clean_races": 4,
         "large_lobby_clean_streak": 0
     },
     "JW2Stupid": {
@@ -186,10 +186,11 @@
         "clean_races": 1
     },
     "filipknigge20": {
-        "safety": 89,
-        "races": 18,
-        "contacts": 24,
-        "clean_races": 6
+        "safety": 98,
+        "races": 21,
+        "contacts": 26,
+        "clean_races": 8,
+        "large_lobby_clean_streak": 0
     },
     "Matteo 42": {
         "safety": 100,
@@ -352,10 +353,10 @@
         "clean_races": 2
     },
     "Eneko Garcia #14": {
-        "safety": 114,
-        "races": 2,
+        "safety": 124,
+        "races": 3,
         "contacts": 3,
-        "clean_races": 0,
+        "clean_races": 1,
         "large_lobby_clean_streak": 0
     },
     "Ger_CarloS": {
@@ -464,10 +465,11 @@
         "clean_races": 2
     },
     "Nuno": {
-        "safety": 80,
-        "races": 14,
+        "safety": 100,
+        "races": 16,
         "contacts": 24,
-        "clean_races": 3
+        "clean_races": 5,
+        "large_lobby_clean_streak": 0
     },
     "vNoHxpe_KJ45": {
         "safety": 137,
@@ -477,10 +479,10 @@
         "large_lobby_clean_streak": 0
     },
     "sbara": {
-        "safety": 154,
-        "races": 14,
+        "safety": 164,
+        "races": 15,
         "contacts": 14,
-        "clean_races": 7,
+        "clean_races": 8,
         "large_lobby_clean_streak": 1
     },
     "N1rmata": {
@@ -565,9 +567,9 @@
         "large_lobby_clean_streak": 0
     },
     "tacticworks": {
-        "safety": 93,
-        "races": 6,
-        "contacts": 10,
+        "safety": 87,
+        "races": 7,
+        "contacts": 12,
         "clean_races": 1,
         "large_lobby_clean_streak": 0
     },
@@ -599,10 +601,10 @@
         "large_lobby_clean_streak": 0
     },
     "moleo": {
-        "safety": 128,
-        "races": 5,
+        "safety": 133,
+        "races": 6,
         "contacts": 5,
-        "clean_races": 2,
+        "clean_races": 3,
         "large_lobby_clean_streak": 0
     },
     "SAGGAs Hemkokta": {
@@ -642,9 +644,9 @@
         "clean_races": 2
     },
     "Damien VTEC [TRC]": {
-        "safety": 81,
-        "races": 9,
-        "contacts": 14,
+        "safety": 78,
+        "races": 10,
+        "contacts": 15,
         "clean_races": 2,
         "large_lobby_clean_streak": 0
     },
@@ -819,9 +821,9 @@
         "large_lobby_clean_streak": 0
     },
     "collinlanger96": {
-        "safety": 136,
-        "races": 2,
-        "contacts": 3,
+        "safety": 127,
+        "races": 4,
+        "contacts": 6,
         "clean_races": 1,
         "large_lobby_clean_streak": 0
     },
@@ -864,6 +866,27 @@
         "safety": 114,
         "races": 2,
         "contacts": 7,
+        "clean_races": 1,
+        "large_lobby_clean_streak": 0
+    },
+    "skalf": {
+        "safety": 122,
+        "races": 1,
+        "contacts": 1,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0
+    },
+    "Hopperle#12": {
+        "safety": 119,
+        "races": 1,
+        "contacts": 2,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0
+    },
+    "d9rko": {
+        "safety": 135,
+        "races": 1,
+        "contacts": 0,
         "clean_races": 1,
         "large_lobby_clean_streak": 0
     }
