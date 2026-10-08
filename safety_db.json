@@ -1,9 +1,9 @@
 {
     "branny": {
-        "safety": 203,
-        "races": 25,
-        "contacts": 22,
-        "clean_races": 15,
+        "safety": 193,
+        "races": 28,
+        "contacts": 27,
+        "clean_races": 16,
         "large_lobby_clean_streak": 0
     },
     "pr1c3y": {
@@ -76,9 +76,9 @@
         "clean_races": 1
     },
     "tobimayer29 on ig": {
-        "safety": 178,
-        "races": 11,
-        "contacts": 12,
+        "safety": 160,
+        "races": 13,
+        "contacts": 18,
         "clean_races": 5,
         "large_lobby_clean_streak": 0
     },
@@ -96,10 +96,10 @@
         "large_lobby_clean_streak": 0
     },
     "Simone Ghilardini": {
-        "safety": 142,
-        "races": 27,
+        "safety": 152,
+        "races": 28,
         "contacts": 28,
-        "clean_races": 16,
+        "clean_races": 17,
         "large_lobby_clean_streak": 0
     },
     "EgoMan": {
@@ -168,10 +168,11 @@
         "large_lobby_clean_streak": 0
     },
     "Lanzo": {
-        "safety": 195,
-        "races": 18,
-        "contacts": 20,
-        "clean_races": 10
+        "safety": 194,
+        "races": 21,
+        "contacts": 22,
+        "clean_races": 11,
+        "large_lobby_clean_streak": 0
     },
     "Santos47": {
         "safety": 120,
@@ -353,10 +354,10 @@
         "clean_races": 2
     },
     "Eneko Garcia #14": {
-        "safety": 124,
-        "races": 3,
-        "contacts": 3,
-        "clean_races": 1,
+        "safety": 130,
+        "races": 6,
+        "contacts": 6,
+        "clean_races": 3,
         "large_lobby_clean_streak": 0
     },
     "Ger_CarloS": {
@@ -465,10 +466,10 @@
         "clean_races": 2
     },
     "Nuno": {
-        "safety": 100,
-        "races": 16,
-        "contacts": 24,
-        "clean_races": 5,
+        "safety": 109,
+        "races": 19,
+        "contacts": 26,
+        "clean_races": 7,
         "large_lobby_clean_streak": 0
     },
     "vNoHxpe_KJ45": {
@@ -589,10 +590,11 @@
         "large_lobby_clean_streak": 0
     },
     "Abraham Avila": {
-        "safety": 95,
-        "races": 2,
-        "contacts": 6,
-        "clean_races": 0
+        "safety": 80,
+        "races": 3,
+        "contacts": 11,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0
     },
     "titonagom08": {
         "safety": 105,
@@ -685,10 +687,11 @@
         "large_lobby_clean_streak": 0
     },
     "Riccardo": {
-        "safety": 125,
-        "races": 1,
-        "contacts": 0,
-        "clean_races": 1
+        "safety": 110,
+        "races": 2,
+        "contacts": 5,
+        "clean_races": 1,
+        "large_lobby_clean_streak": 0
     },
     "Boomgamertony": {
         "safety": 155,
@@ -865,9 +868,9 @@
         "large_lobby_clean_streak": 0
     },
     "Mopee": {
-        "safety": 114,
-        "races": 2,
-        "contacts": 7,
+        "safety": 111,
+        "races": 3,
+        "contacts": 8,
         "clean_races": 1,
         "large_lobby_clean_streak": 0
     },
@@ -890,6 +893,20 @@
         "races": 1,
         "contacts": 0,
         "clean_races": 1,
+        "large_lobby_clean_streak": 0
+    },
+    "Maximo Giro": {
+        "safety": 135,
+        "races": 1,
+        "contacts": 0,
+        "clean_races": 1,
+        "large_lobby_clean_streak": 0
+    },
+    "aeziah divine on tt": {
+        "safety": 116,
+        "races": 1,
+        "contacts": 3,
+        "clean_races": 0,
         "large_lobby_clean_streak": 0
     }
 }
