@@ -30,9 +30,9 @@
         "podiums": 1
     },
     "moe": {
-        "elo": 1076,
+        "elo": 1066,
         "wins": 1,
-        "races": 30,
+        "races": 31,
         "podiums": 12
     },
     "jackthebikeguy": {
@@ -42,21 +42,21 @@
         "podiums": 1
     },
     "Miquel_Sinke60": {
-        "elo": 1097,
+        "elo": 1107,
         "wins": 5,
-        "races": 29,
-        "podiums": 13
+        "races": 30,
+        "podiums": 14
     },
     "AhyaAL": {
-        "elo": 1111,
+        "elo": 1119,
         "wins": 3,
-        "races": 31,
+        "races": 33,
         "podiums": 14
     },
     "ola13": {
-        "elo": 963,
+        "elo": 969,
         "wins": 1,
-        "races": 13,
+        "races": 14,
         "podiums": 3
     },
     "fast46": {
@@ -138,9 +138,9 @@
         "podiums": 0
     },
     "Rayo__Wombat": {
-        "elo": 1108,
+        "elo": 1096,
         "wins": 1,
-        "races": 13,
+        "races": 14,
         "podiums": 8
     },
     "Mikrowelle": {
@@ -168,27 +168,27 @@
         "podiums": 3
     },
     "Sturdy": {
-        "elo": 986,
+        "elo": 993,
         "wins": 3,
-        "races": 17,
+        "races": 18,
         "podiums": 10
     },
     "filipknigge20": {
-        "elo": 1168,
+        "elo": 1176,
         "wins": 10,
-        "races": 30,
-        "podiums": 20
+        "races": 31,
+        "podiums": 21
     },
     "Billy Jones": {
-        "elo": 1116,
-        "wins": 4,
-        "races": 11,
-        "podiums": 9
+        "elo": 1110,
+        "wins": 5,
+        "races": 13,
+        "podiums": 10
     },
     "patrickfaderl98": {
-        "elo": 1077,
+        "elo": 1059,
         "wins": 2,
-        "races": 29,
+        "races": 30,
         "podiums": 15
     },
     "Danny Hinkelmann14": {
@@ -204,9 +204,9 @@
         "podiums": 1
     },
     "chilliams": {
-        "elo": 1036,
+        "elo": 1051,
         "wins": 1,
-        "races": 17,
+        "races": 19,
         "podiums": 3
     },
     "Lou": {
@@ -258,9 +258,9 @@
         "podiums": 0
     },
     "izan curia": {
-        "elo": 980,
+        "elo": 965,
         "wins": 0,
-        "races": 4,
+        "races": 5,
         "podiums": 0
     },
     "Thunberg": {
@@ -306,10 +306,10 @@
         "podiums": 5
     },
     "AL": {
-        "elo": 1033,
+        "elo": 1056,
         "wins": 0,
-        "races": 14,
-        "podiums": 5
+        "races": 16,
+        "podiums": 7
     },
     "FastAF": {
         "elo": 979,
@@ -468,10 +468,10 @@
         "podiums": 0
     },
     "TheJr": {
-        "elo": 975,
-        "wins": 0,
-        "races": 7,
-        "podiums": 0
+        "elo": 994,
+        "wins": 1,
+        "races": 8,
+        "podiums": 1
     },
     "thecrivi28": {
         "elo": 993,
@@ -716,13 +716,13 @@
     "MATRIX#86": {
         "elo": 912,
         "wins": 1,
-        "races": 20,
+        "races": 22,
         "podiums": 3
     },
     "troyalberto9": {
-        "elo": 988,
+        "elo": 979,
         "wins": 1,
-        "races": 11,
+        "races": 13,
         "podiums": 5
     },
     "Abraham Avila": {
@@ -732,9 +732,9 @@
         "podiums": 1
     },
     "moleo": {
-        "elo": 1074,
+        "elo": 1066,
         "wins": 4,
-        "races": 11,
+        "races": 12,
         "podiums": 7
     },
     "JM": {
@@ -888,9 +888,9 @@
         "podiums": 6
     },
     "d9rko": {
-        "elo": 996,
+        "elo": 993,
         "wins": 0,
-        "races": 2,
+        "races": 3,
         "podiums": 0
     },
     "Oover": {
@@ -930,9 +930,9 @@
         "podiums": 0
     },
     "zee": {
-        "elo": 995,
+        "elo": 986,
         "wins": 0,
-        "races": 2,
+        "races": 3,
         "podiums": 0
     },
     "elchivador": {
@@ -942,21 +942,21 @@
         "podiums": 1
     },
     "arifinekohartono": {
-        "elo": 987,
+        "elo": 985,
         "wins": 0,
-        "races": 2,
+        "races": 3,
         "podiums": 0
     },
     "Emir Eyupoglu": {
-        "elo": 992,
+        "elo": 997,
         "wins": 0,
-        "races": 2,
+        "races": 4,
         "podiums": 0
     },
     "SrPomit": {
-        "elo": 999,
+        "elo": 991,
         "wins": 0,
-        "races": 1,
+        "races": 3,
         "podiums": 0
     }
 }
