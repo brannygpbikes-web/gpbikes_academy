@@ -728,6 +728,15 @@
             "track": "",
             "finish": 3,
             "race_id": "197eeb9fc53bf1e68ae4b4948472c729de31ed64d806e5322cd9942dcfef02b5"
+        },
+        {
+            "date": "2026-10-08T21:52:14",
+            "elo": 1026,
+            "elo_before": 1012,
+            "change": 14,
+            "track": "",
+            "finish": 1,
+            "race_id": "cbecfcbec85187211abb3e5e0292ac2fe4a7a1ded1fd349e830e1dd45dbba0be"
         }
     ],
     "Lou": [
@@ -884,6 +893,15 @@
             "track": "",
             "finish": 2,
             "race_id": "89758fe89facc64e7a61edee38e11b9fb814964deaf8b20c41e9c9725cb0b733"
+        },
+        {
+            "date": "2026-10-08T21:52:14",
+            "elo": 1205,
+            "elo_before": 1204,
+            "change": 1,
+            "track": "",
+            "finish": 2,
+            "race_id": "cbecfcbec85187211abb3e5e0292ac2fe4a7a1ded1fd349e830e1dd45dbba0be"
         }
     ],
     "sergio14moto": [
@@ -949,6 +967,15 @@
             "track": "",
             "finish": 8,
             "race_id": "5cbb334f8b94e23ef8f8cb22fcc80883aa055fcf4ffd318c13461bf3ab80131b"
+        },
+        {
+            "date": "2026-10-08T21:52:14",
+            "elo": 899,
+            "elo_before": 894,
+            "change": 5,
+            "track": "",
+            "finish": 4,
+            "race_id": "cbecfcbec85187211abb3e5e0292ac2fe4a7a1ded1fd349e830e1dd45dbba0be"
         }
     ],
     "MATRIX#86": [
@@ -1115,6 +1142,15 @@
             "track": "",
             "finish": 3,
             "race_id": "89758fe89facc64e7a61edee38e11b9fb814964deaf8b20c41e9c9725cb0b733"
+        },
+        {
+            "date": "2026-10-08T21:52:14",
+            "elo": 957,
+            "elo_before": 970,
+            "change": -13,
+            "track": "",
+            "finish": 7,
+            "race_id": "cbecfcbec85187211abb3e5e0292ac2fe4a7a1ded1fd349e830e1dd45dbba0be"
         }
     ],
     "JW2Stupid": [
@@ -2896,6 +2932,39 @@
             "track": "",
             "finish": 5,
             "race_id": "89758fe89facc64e7a61edee38e11b9fb814964deaf8b20c41e9c9725cb0b733"
+        }
+    ],
+    "Scuderia Silence (tascione)": [
+        {
+            "date": "2026-10-08T21:52:14",
+            "elo": 1003,
+            "elo_before": 998,
+            "change": 5,
+            "track": "",
+            "finish": 3,
+            "race_id": "cbecfcbec85187211abb3e5e0292ac2fe4a7a1ded1fd349e830e1dd45dbba0be"
+        }
+    ],
+    "tekn1ka1": [
+        {
+            "date": "2026-10-08T21:52:14",
+            "elo": 996,
+            "elo_before": 1000,
+            "change": -4,
+            "track": "",
+            "finish": 5,
+            "race_id": "cbecfcbec85187211abb3e5e0292ac2fe4a7a1ded1fd349e830e1dd45dbba0be"
+        }
+    ],
+    "SeBa_volandO7": [
+        {
+            "date": "2026-10-08T21:52:14",
+            "elo": 991,
+            "elo_before": 1000,
+            "change": -9,
+            "track": "",
+            "finish": 6,
+            "race_id": "cbecfcbec85187211abb3e5e0292ac2fe4a7a1ded1fd349e830e1dd45dbba0be"
         }
     ]
 }

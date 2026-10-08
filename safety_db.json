@@ -98,9 +98,9 @@
         "large_lobby_clean_streak": 0
     },
     "Simone Ghilardini": {
-        "safety": 179,
-        "races": 31,
-        "contacts": 29,
+        "safety": 176,
+        "races": 32,
+        "contacts": 30,
         "clean_races": 19,
         "large_lobby_clean_streak": 0
     },
@@ -315,9 +315,9 @@
         "large_lobby_clean_streak": 0
     },
     "waldodj": {
-        "safety": 149,
-        "races": 26,
-        "contacts": 25,
+        "safety": 146,
+        "races": 27,
+        "contacts": 26,
         "clean_races": 12,
         "large_lobby_clean_streak": 0
     },
@@ -640,9 +640,9 @@
         "clean_races": 1
     },
     "Rk_44": {
-        "safety": 142,
-        "races": 4,
-        "contacts": 1,
+        "safety": 136,
+        "races": 5,
+        "contacts": 3,
         "clean_races": 3,
         "large_lobby_clean_streak": 0
     },
@@ -673,10 +673,11 @@
         "large_lobby_clean_streak": 1
     },
     "Scuderia Silence (tascione)": {
-        "safety": 115,
-        "races": 2,
-        "contacts": 2,
-        "clean_races": 0
+        "safety": 103,
+        "races": 3,
+        "contacts": 6,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0
     },
     "jackthebikeguy": {
         "safety": 125,
@@ -725,11 +726,11 @@
         "large_lobby_clean_streak": 0
     },
     "sergio14moto": {
-        "safety": 133,
-        "races": 20,
-        "contacts": 25,
+        "safety": 127,
+        "races": 21,
+        "contacts": 27,
         "clean_races": 8,
-        "large_lobby_clean_streak": 1
+        "large_lobby_clean_streak": 0
     },
     "Blizz": {
         "safety": 151,
@@ -1024,6 +1025,20 @@
         "races": 2,
         "contacts": 1,
         "clean_races": 1,
+        "large_lobby_clean_streak": 0
+    },
+    "SeBa_volandO7": {
+        "safety": 122,
+        "races": 1,
+        "contacts": 1,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0
+    },
+    "tekn1ka1": {
+        "safety": 122,
+        "races": 1,
+        "contacts": 1,
+        "clean_races": 0,
         "large_lobby_clean_streak": 0
     }
 }

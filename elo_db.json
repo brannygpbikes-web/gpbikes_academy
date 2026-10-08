@@ -72,10 +72,10 @@
         "podiums": 0
     },
     "Simone Ghilardini": {
-        "elo": 1012,
-        "wins": 3,
-        "races": 39,
-        "podiums": 16
+        "elo": 1026,
+        "wins": 4,
+        "races": 40,
+        "podiums": 17
     },
     "Noa1nl": {
         "elo": 1070,
@@ -522,10 +522,10 @@
         "podiums": 3
     },
     "waldodj": {
-        "elo": 1204,
+        "elo": 1205,
         "wins": 7,
-        "races": 32,
-        "podiums": 26
+        "races": 33,
+        "podiums": 27
     },
     "aleso262004": {
         "elo": 1068,
@@ -744,10 +744,10 @@
         "podiums": 1
     },
     "Scuderia Silence (tascione)": {
-        "elo": 998,
+        "elo": 1003,
         "wins": 0,
-        "races": 2,
-        "podiums": 1
+        "races": 3,
+        "podiums": 2
     },
     "pr1c3y": {
         "elo": 969,
@@ -786,9 +786,9 @@
         "podiums": 0
     },
     "sergio14moto": {
-        "elo": 894,
+        "elo": 899,
         "wins": 0,
-        "races": 24,
+        "races": 25,
         "podiums": 0
     },
     "Postal": {
@@ -906,9 +906,9 @@
         "podiums": 0
     },
     "Rk_44": {
-        "elo": 970,
+        "elo": 957,
         "wins": 0,
-        "races": 5,
+        "races": 6,
         "podiums": 1
     },
     "Maximo Giro": {
@@ -999,6 +999,18 @@
         "elo": 996,
         "wins": 0,
         "races": 2,
+        "podiums": 0
+    },
+    "tekn1ka1": {
+        "elo": 996,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
+    },
+    "SeBa_volandO7": {
+        "elo": 991,
+        "wins": 0,
+        "races": 1,
         "podiums": 0
     }
 }
