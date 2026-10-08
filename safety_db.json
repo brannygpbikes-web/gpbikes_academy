@@ -31,9 +31,9 @@
         "clean_races": 1
     },
     "patrickfaderl98": {
-        "safety": 44,
-        "races": 21,
-        "contacts": 31,
+        "safety": 32,
+        "races": 22,
+        "contacts": 35,
         "clean_races": 5,
         "large_lobby_clean_streak": 0
     },
@@ -63,9 +63,9 @@
         "large_lobby_clean_streak": 0
     },
     "AL": {
-        "safety": 181,
-        "races": 15,
-        "contacts": 20,
+        "safety": 175,
+        "races": 16,
+        "contacts": 22,
         "clean_races": 9,
         "large_lobby_clean_streak": 0
     },
@@ -89,9 +89,9 @@
         "clean_races": 11
     },
     "chilliams": {
-        "safety": 165,
-        "races": 17,
-        "contacts": 19,
+        "safety": 162,
+        "races": 18,
+        "contacts": 20,
         "clean_races": 7,
         "large_lobby_clean_streak": 0
     },
@@ -147,9 +147,9 @@
         "large_lobby_clean_streak": 0
     },
     "JW2Stupid": {
-        "safety": 179,
-        "races": 9,
-        "contacts": 12,
+        "safety": 167,
+        "races": 10,
+        "contacts": 16,
         "clean_races": 5,
         "large_lobby_clean_streak": 0
     },
@@ -168,16 +168,16 @@
         "large_lobby_clean_streak": 0
     },
     "Lanzo": {
-        "safety": 194,
-        "races": 24,
-        "contacts": 27,
+        "safety": 191,
+        "races": 25,
+        "contacts": 28,
         "clean_races": 12,
         "large_lobby_clean_streak": 0
     },
     "Santos47": {
-        "safety": 111,
-        "races": 5,
-        "contacts": 12,
+        "safety": 102,
+        "races": 6,
+        "contacts": 15,
         "clean_races": 2,
         "large_lobby_clean_streak": 0
     },
@@ -188,9 +188,9 @@
         "clean_races": 1
     },
     "filipknigge20": {
-        "safety": 74,
-        "races": 24,
-        "contacts": 34,
+        "safety": 68,
+        "races": 25,
+        "contacts": 36,
         "clean_races": 8,
         "large_lobby_clean_streak": 0
     },
@@ -208,9 +208,9 @@
         "large_lobby_clean_streak": 1
     },
     "KSBR": {
-        "safety": 191,
-        "races": 11,
-        "contacts": 9,
+        "safety": 185,
+        "races": 12,
+        "contacts": 11,
         "clean_races": 7,
         "large_lobby_clean_streak": 0
     },
@@ -274,9 +274,9 @@
         "large_lobby_clean_streak": 0
     },
     "moe": {
-        "safety": 201,
-        "races": 28,
-        "contacts": 26,
+        "safety": 192,
+        "races": 29,
+        "contacts": 29,
         "clean_races": 16,
         "large_lobby_clean_streak": 0
     },
@@ -305,9 +305,9 @@
         "clean_races": 0
     },
     "pableko": {
-        "safety": 51,
-        "races": 7,
-        "contacts": 16,
+        "safety": 42,
+        "races": 8,
+        "contacts": 19,
         "clean_races": 0,
         "large_lobby_clean_streak": 0
     },
@@ -567,9 +567,9 @@
         "clean_races": 5
     },
     "MATRIX#86": {
-        "safety": 158,
-        "races": 20,
-        "contacts": 18,
+        "safety": 152,
+        "races": 21,
+        "contacts": 20,
         "clean_races": 8,
         "large_lobby_clean_streak": 0
     },
@@ -718,11 +718,11 @@
         "clean_races": 1
     },
     "sergio14moto": {
-        "safety": 107,
-        "races": 15,
+        "safety": 127,
+        "races": 16,
         "contacts": 22,
-        "clean_races": 6,
-        "large_lobby_clean_streak": 0
+        "clean_races": 7,
+        "large_lobby_clean_streak": 1
     },
     "Blizz": {
         "safety": 151,
@@ -817,11 +817,11 @@
         "large_lobby_clean_streak": 0
     },
     "Billy Jones": {
-        "safety": 163,
-        "races": 7,
+        "safety": 187,
+        "races": 8,
         "contacts": 6,
-        "clean_races": 3,
-        "large_lobby_clean_streak": 3
+        "clean_races": 4,
+        "large_lobby_clean_streak": 4
     },
     "Quidel Gaétan": {
         "safety": 121,
@@ -894,11 +894,11 @@
         "large_lobby_clean_streak": 0
     },
     "d9rko": {
-        "safety": 123,
-        "races": 3,
+        "safety": 143,
+        "races": 4,
         "contacts": 4,
-        "clean_races": 1,
-        "large_lobby_clean_streak": 0
+        "clean_races": 2,
+        "large_lobby_clean_streak": 1
     },
     "Maximo Giro": {
         "safety": 135,
@@ -950,17 +950,24 @@
         "large_lobby_clean_streak": 2
     },
     "Emir Eyupoglu": {
-        "safety": 115,
-        "races": 6,
-        "contacts": 10,
+        "safety": 103,
+        "races": 7,
+        "contacts": 14,
         "clean_races": 1,
-        "large_lobby_clean_streak": 1
+        "large_lobby_clean_streak": 0
     },
     "SrPomit": {
-        "safety": 142,
-        "races": 5,
+        "safety": 162,
+        "races": 6,
         "contacts": 5,
-        "clean_races": 2,
+        "clean_races": 3,
+        "large_lobby_clean_streak": 1
+    },
+    "fisherman": {
+        "safety": 119,
+        "races": 1,
+        "contacts": 2,
+        "clean_races": 0,
         "large_lobby_clean_streak": 0
     }
 }
