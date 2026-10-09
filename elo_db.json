@@ -24,9 +24,9 @@
         "podiums": 1
     },
     "sandnes": {
-        "elo": 988,
+        "elo": 982,
         "wins": 0,
-        "races": 4,
+        "races": 5,
         "podiums": 1
     },
     "moe": {
@@ -48,10 +48,10 @@
         "podiums": 14
     },
     "AhyaAL": {
-        "elo": 1113,
+        "elo": 1116,
         "wins": 4,
-        "races": 39,
-        "podiums": 17
+        "races": 40,
+        "podiums": 18
     },
     "ola13": {
         "elo": 969,
@@ -174,10 +174,10 @@
         "podiums": 14
     },
     "filipknigge20": {
-        "elo": 1160,
+        "elo": 1157,
         "wins": 10,
-        "races": 33,
-        "podiums": 22
+        "races": 34,
+        "podiums": 23
     },
     "Billy Jones": {
         "elo": 1129,
@@ -294,10 +294,10 @@
         "podiums": 0
     },
     "sbara": {
-        "elo": 1056,
-        "wins": 2,
-        "races": 19,
-        "podiums": 10
+        "elo": 1064,
+        "wins": 3,
+        "races": 20,
+        "podiums": 11
     },
     "Danislav1746": {
         "elo": 1043,
@@ -1009,6 +1009,12 @@
     },
     "SeBa_volandO7": {
         "elo": 991,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
+    },
+    "NutriaOscura": {
+        "elo": 998,
         "wins": 0,
         "races": 1,
         "podiums": 0

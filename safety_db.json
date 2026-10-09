@@ -14,10 +14,10 @@
         "large_lobby_clean_streak": 0
     },
     "sandnes": {
-        "safety": 175,
-        "races": 5,
+        "safety": 180,
+        "races": 6,
         "contacts": 1,
-        "clean_races": 4,
+        "clean_races": 5,
         "large_lobby_clean_streak": 0
     },
     "nuno": {
@@ -119,9 +119,9 @@
     },
     "AhyaAL": {
         "safety": 300,
-        "races": 38,
+        "races": 39,
         "contacts": 32,
-        "clean_races": 20,
+        "clean_races": 21,
         "large_lobby_clean_streak": 0
     },
     "teeds": {
@@ -191,10 +191,10 @@
         "clean_races": 1
     },
     "filipknigge20": {
-        "safety": 68,
-        "races": 25,
+        "safety": 73,
+        "races": 26,
         "contacts": 36,
-        "clean_races": 8,
+        "clean_races": 9,
         "large_lobby_clean_streak": 0
     },
     "Matteo 42": {
@@ -489,10 +489,10 @@
         "large_lobby_clean_streak": 0
     },
     "sbara": {
-        "safety": 181,
-        "races": 16,
+        "safety": 186,
+        "races": 17,
         "contacts": 14,
-        "clean_races": 9,
+        "clean_races": 10,
         "large_lobby_clean_streak": 2
     },
     "N1rmata": {
@@ -1040,6 +1040,13 @@
         "races": 1,
         "contacts": 1,
         "clean_races": 0,
+        "large_lobby_clean_streak": 0
+    },
+    "NutriaOscura": {
+        "safety": 130,
+        "races": 1,
+        "contacts": 0,
+        "clean_races": 1,
         "large_lobby_clean_streak": 0
     }
 }

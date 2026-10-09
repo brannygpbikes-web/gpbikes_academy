@@ -214,6 +214,15 @@
             "track": "",
             "finish": 3,
             "race_id": "26c20c9dc1ffe1372fc465727915c59f11deae7bcdf390d5818930c77d50f4fe"
+        },
+        {
+            "date": "2026-10-09T16:29:03",
+            "elo": 1157,
+            "elo_before": 1160,
+            "change": -3,
+            "track": "",
+            "finish": 3,
+            "race_id": "4e69f4b204819f98f281a6f044feaf8d50405e9b795068e50f363b06e45f53c6"
         }
     ],
     "Nuno": [
@@ -299,6 +308,15 @@
             "track": "",
             "finish": 2,
             "race_id": "a107a6155d49936e4824c3b36eba68fb59f3dbd158e3f631c61c721163941172"
+        },
+        {
+            "date": "2026-10-09T16:29:03",
+            "elo": 1064,
+            "elo_before": 1056,
+            "change": 8,
+            "track": "",
+            "finish": 1,
+            "race_id": "4e69f4b204819f98f281a6f044feaf8d50405e9b795068e50f363b06e45f53c6"
         }
     ],
     "vegasan88": [
@@ -2106,6 +2124,15 @@
             "track": "",
             "finish": 7,
             "race_id": "4030cef8fce39dfd3684e0036f0d5ee981d5dab67e29353649dd276c9cc1c963"
+        },
+        {
+            "date": "2026-10-09T16:29:03",
+            "elo": 1116,
+            "elo_before": 1113,
+            "change": 3,
+            "track": "",
+            "finish": 2,
+            "race_id": "4e69f4b204819f98f281a6f044feaf8d50405e9b795068e50f363b06e45f53c6"
         }
     ],
     "TheJr": [
@@ -2965,6 +2992,28 @@
             "track": "",
             "finish": 6,
             "race_id": "cbecfcbec85187211abb3e5e0292ac2fe4a7a1ded1fd349e830e1dd45dbba0be"
+        }
+    ],
+    "NutriaOscura": [
+        {
+            "date": "2026-10-09T16:29:03",
+            "elo": 998,
+            "elo_before": 1000,
+            "change": -2,
+            "track": "",
+            "finish": 4,
+            "race_id": "4e69f4b204819f98f281a6f044feaf8d50405e9b795068e50f363b06e45f53c6"
+        }
+    ],
+    "sandnes": [
+        {
+            "date": "2026-10-09T16:29:03",
+            "elo": 982,
+            "elo_before": 988,
+            "change": -6,
+            "track": "",
+            "finish": 5,
+            "race_id": "4e69f4b204819f98f281a6f044feaf8d50405e9b795068e50f363b06e45f53c6"
         }
     ]
 }
