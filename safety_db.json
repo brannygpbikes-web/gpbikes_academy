@@ -15,9 +15,10 @@
     },
     "sandnes": {
         "safety": 175,
-        "races": 4,
+        "races": 5,
         "contacts": 1,
-        "clean_races": 3
+        "clean_races": 4,
+        "large_lobby_clean_streak": 0
     },
     "nuno": {
         "safety": 125,
