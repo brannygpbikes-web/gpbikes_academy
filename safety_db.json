@@ -46,10 +46,11 @@
         "clean_races": 1
     },
     "cookie": {
-        "safety": 125,
-        "races": 3,
-        "contacts": 4,
-        "clean_races": 1
+        "safety": 119,
+        "races": 4,
+        "contacts": 7,
+        "clean_races": 1,
+        "large_lobby_clean_streak": 0
     },
     "Justice": {
         "safety": 140,
@@ -119,9 +120,9 @@
     },
     "AhyaAL": {
         "safety": 300,
-        "races": 39,
+        "races": 40,
         "contacts": 32,
-        "clean_races": 21,
+        "clean_races": 22,
         "large_lobby_clean_streak": 0
     },
     "teeds": {
@@ -171,9 +172,9 @@
         "large_lobby_clean_streak": 0
     },
     "Lanzo": {
-        "safety": 197,
-        "races": 37,
-        "contacts": 44,
+        "safety": 195,
+        "races": 38,
+        "contacts": 45,
         "clean_races": 16,
         "large_lobby_clean_streak": 0
     },
@@ -338,10 +339,10 @@
         "large_lobby_clean_streak": 0
     },
     "zrezke": {
-        "safety": 90,
-        "races": 8,
+        "safety": 100,
+        "races": 9,
         "contacts": 17,
-        "clean_races": 1,
+        "clean_races": 2,
         "large_lobby_clean_streak": 0
     },
     "Cummin Jizzwood": {
@@ -644,10 +645,10 @@
         "clean_races": 1
     },
     "Rk_44": {
-        "safety": 140,
-        "races": 8,
+        "safety": 150,
+        "races": 9,
         "contacts": 6,
-        "clean_races": 4,
+        "clean_races": 5,
         "large_lobby_clean_streak": 0
     },
     "JM": {
@@ -792,10 +793,11 @@
         "clean_races": 1
     },
     "Wally": {
-        "safety": 125,
-        "races": 5,
-        "contacts": 5,
-        "clean_races": 2
+        "safety": 123,
+        "races": 6,
+        "contacts": 6,
+        "clean_races": 2,
+        "large_lobby_clean_streak": 0
     },
     "BNJMN": {
         "safety": 96,
@@ -1168,9 +1170,23 @@
         "large_lobby_clean_streak": 0
     },
     "Ruben24": {
-        "safety": 121,
+        "safety": 117,
+        "races": 2,
+        "contacts": 4,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0
+    },
+    "bobr684": {
+        "safety": 135,
         "races": 1,
-        "contacts": 2,
+        "contacts": 0,
+        "clean_races": 1,
+        "large_lobby_clean_streak": 0
+    },
+    "KOUKAIK2": {
+        "safety": 123,
+        "races": 1,
+        "contacts": 1,
         "clean_races": 0,
         "large_lobby_clean_streak": 0
     }

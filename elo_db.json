@@ -48,10 +48,10 @@
         "podiums": 14
     },
     "AhyaAL": {
-        "elo": 1116,
-        "wins": 4,
-        "races": 40,
-        "podiums": 18
+        "elo": 1125,
+        "wins": 5,
+        "races": 41,
+        "podiums": 19
     },
     "ola13": {
         "elo": 998,
@@ -282,10 +282,10 @@
         "podiums": 0
     },
     "Lanzo": {
-        "elo": 1044,
+        "elo": 1053,
         "wins": 3,
-        "races": 37,
-        "podiums": 11
+        "races": 38,
+        "podiums": 12
     },
     "oskar.bohlin 69": {
         "elo": 999,
@@ -372,10 +372,10 @@
         "podiums": 1
     },
     "Wally": {
-        "elo": 1000,
+        "elo": 1007,
         "wins": 1,
-        "races": 7,
-        "podiums": 5
+        "races": 8,
+        "podiums": 6
     },
     "JorgeNsr": {
         "elo": 967,
@@ -552,9 +552,9 @@
         "podiums": 0
     },
     "zrezke": {
-        "elo": 947,
+        "elo": 935,
         "wins": 0,
-        "races": 8,
+        "races": 9,
         "podiums": 0
     },
     "MARCO": {
@@ -582,9 +582,9 @@
         "podiums": 0
     },
     "cookie": {
-        "elo": 976,
+        "elo": 970,
         "wins": 0,
-        "races": 2,
+        "races": 3,
         "podiums": 0
     },
     "Dani": {
@@ -906,9 +906,9 @@
         "podiums": 0
     },
     "Rk_44": {
-        "elo": 943,
+        "elo": 946,
         "wins": 0,
-        "races": 8,
+        "races": 9,
         "podiums": 1
     },
     "Maximo Giro": {
@@ -1110,7 +1110,19 @@
         "podiums": 0
     },
     "Ruben24": {
-        "elo": 1002,
+        "elo": 998,
+        "wins": 0,
+        "races": 2,
+        "podiums": 0
+    },
+    "bobr684": {
+        "elo": 1004,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
+    },
+    "KOUKAIK2": {
+        "elo": 989,
         "wins": 0,
         "races": 1,
         "podiums": 0
