@@ -48,10 +48,10 @@
         "podiums": 14
     },
     "AhyaAL": {
-        "elo": 1125,
-        "wins": 5,
-        "races": 41,
-        "podiums": 19
+        "elo": 1135,
+        "wins": 6,
+        "races": 42,
+        "podiums": 20
     },
     "ola13": {
         "elo": 998,
@@ -282,10 +282,10 @@
         "podiums": 0
     },
     "Lanzo": {
-        "elo": 1053,
+        "elo": 1058,
         "wins": 3,
-        "races": 38,
-        "podiums": 12
+        "races": 39,
+        "podiums": 13
     },
     "oskar.bohlin 69": {
         "elo": 999,
@@ -372,9 +372,9 @@
         "podiums": 1
     },
     "Wally": {
-        "elo": 1007,
+        "elo": 1011,
         "wins": 1,
-        "races": 8,
+        "races": 9,
         "podiums": 6
     },
     "JorgeNsr": {
@@ -384,10 +384,10 @@
         "podiums": 1
     },
     "tobimayer29 on ig": {
-        "elo": 1074,
+        "elo": 1082,
         "wins": 4,
-        "races": 19,
-        "podiums": 8
+        "races": 20,
+        "podiums": 9
     },
     "Justice": {
         "elo": 958,
@@ -552,9 +552,9 @@
         "podiums": 0
     },
     "zrezke": {
-        "elo": 935,
+        "elo": 928,
         "wins": 0,
-        "races": 9,
+        "races": 10,
         "podiums": 0
     },
     "MARCO": {
@@ -906,9 +906,9 @@
         "podiums": 0
     },
     "Rk_44": {
-        "elo": 946,
+        "elo": 935,
         "wins": 0,
-        "races": 9,
+        "races": 10,
         "podiums": 1
     },
     "Maximo Giro": {
@@ -1110,21 +1110,21 @@
         "podiums": 0
     },
     "Ruben24": {
-        "elo": 998,
+        "elo": 999,
+        "wins": 0,
+        "races": 3,
+        "podiums": 0
+    },
+    "bobr684": {
+        "elo": 1001,
         "wins": 0,
         "races": 2,
         "podiums": 0
     },
-    "bobr684": {
-        "elo": 1004,
-        "wins": 0,
-        "races": 1,
-        "podiums": 0
-    },
     "KOUKAIK2": {
-        "elo": 989,
+        "elo": 983,
         "wins": 0,
-        "races": 1,
+        "races": 2,
         "podiums": 0
     }
 }
