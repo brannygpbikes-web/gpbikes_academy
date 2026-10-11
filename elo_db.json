@@ -30,9 +30,9 @@
         "podiums": 1
     },
     "moe": {
-        "elo": 1048,
+        "elo": 1035,
         "wins": 1,
-        "races": 33,
+        "races": 34,
         "podiums": 12
     },
     "jackthebikeguy": {
@@ -138,9 +138,9 @@
         "podiums": 0
     },
     "Rayo__Wombat": {
-        "elo": 1091,
+        "elo": 1092,
         "wins": 2,
-        "races": 19,
+        "races": 20,
         "podiums": 9
     },
     "Mikrowelle": {
@@ -180,10 +180,10 @@
         "podiums": 24
     },
     "Billy Jones": {
-        "elo": 1153,
+        "elo": 1160,
         "wins": 10,
-        "races": 19,
-        "podiums": 15
+        "races": 20,
+        "podiums": 16
     },
     "patrickfaderl98": {
         "elo": 1034,
@@ -228,9 +228,9 @@
         "podiums": 0
     },
     "Carrasco": {
-        "elo": 998,
+        "elo": 997,
         "wins": 1,
-        "races": 6,
+        "races": 7,
         "podiums": 2
     },
     "Ricoway46": {
@@ -282,9 +282,9 @@
         "podiums": 0
     },
     "Lanzo": {
-        "elo": 1047,
+        "elo": 1037,
         "wins": 3,
-        "races": 35,
+        "races": 36,
         "podiums": 10
     },
     "oskar.bohlin 69": {
@@ -300,10 +300,10 @@
         "podiums": 11
     },
     "Danislav1746": {
-        "elo": 1135,
-        "wins": 8,
-        "races": 13,
-        "podiums": 13
+        "elo": 1146,
+        "wins": 9,
+        "races": 14,
+        "podiums": 14
     },
     "AL": {
         "elo": 1057,
@@ -648,9 +648,9 @@
         "podiums": 18
     },
     "vNoHxpe_KJ45": {
-        "elo": 1001,
+        "elo": 1009,
         "wins": 0,
-        "races": 13,
+        "races": 14,
         "podiums": 3
     },
     "Fabio_34": {
@@ -804,10 +804,10 @@
         "podiums": 0
     },
     "GeorgeBowes67": {
-        "elo": 999,
+        "elo": 1010,
         "wins": 0,
-        "races": 2,
-        "podiums": 0
+        "races": 3,
+        "podiums": 1
     },
     "adrianrufin7": {
         "elo": 998,
@@ -906,9 +906,9 @@
         "podiums": 0
     },
     "Rk_44": {
-        "elo": 955,
+        "elo": 943,
         "wins": 0,
-        "races": 7,
+        "races": 8,
         "podiums": 1
     },
     "Maximo Giro": {
@@ -1074,9 +1074,9 @@
         "podiums": 0
     },
     "PBIR First Turn King": {
-        "elo": 970,
+        "elo": 967,
         "wins": 0,
-        "races": 3,
+        "races": 4,
         "podiums": 0
     },
     "reN": {
@@ -1105,6 +1105,12 @@
     },
     "Metadonajack": {
         "elo": 989,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
+    },
+    "Ruben24": {
+        "elo": 1002,
         "wins": 0,
         "races": 1,
         "podiums": 0
