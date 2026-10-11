@@ -387,16 +387,10 @@ let sortBy = "elo";
 let sortDirection = "desc";
 
 
-/* SAFETY GRADES */
-
-function getSafetyGrade(score) {
-  if (score >= 250) return "S";
-  if (score >= 165) return "A";
-  if (score >= 125) return "B";
-  if (score >= 100) return "C";
-  if (score >= 70) return "D";
-
-  return "E";
+/* Grades come directly from safety_db.json, not website thresholds. */
+function getSafetyGrade(safetyStats) {
+  const grade = String(safetyStats?.grade ?? "").trim().toUpperCase();
+  return /^[SABCDE]$/.test(grade) ? grade : null;
 }
 
 
@@ -446,11 +440,14 @@ async function loadPlayers() {
       Object.entries(eloData).map(
         ([name, stats]) => {
 
-          const safetyStats =
-            safetyData[name];
+          const safetyKey = Object.keys(safetyData).find(
+            key => key.toLowerCase() === name.toLowerCase()
+          );
+          const safetyStats = safetyKey ? safetyData[safetyKey] : null;
 
           const hasSafety =
-            safetyStats !== undefined;
+            safetyStats !== null && typeof safetyStats === "object"
+            && safetyStats.safety !== undefined;
 
           return {
             name: name,
@@ -468,9 +465,10 @@ async function loadPlayers() {
               Number(stats.podiums) || 0,
 
             safety:
-              hasSafety
-                ? Number(safetyStats.safety) || 0
-                : null
+              hasSafety && Number.isFinite(Number(safetyStats.safety))
+                ? Number(safetyStats.safety)
+                : null,
+            safetyGrade: hasSafety ? getSafetyGrade(safetyStats) : null
           };
         }
       );
@@ -680,16 +678,13 @@ function renderPlayers() {
 
       } else {
 
-        const grade =
-          getSafetyGrade(
-            player.safety
-          );
+        const grade = player.safetyGrade;
 
         safetyHTML = `
-          <div class="safety-rating safety-${grade.toLowerCase()}">
+          <div class="safety-rating safety-${grade ? grade.toLowerCase() : "none"}">
 
             <div class="safety-grade">
-              ${grade}
+              ${grade ?? "—"}
             </div>
 
             <div class="safety-score">
