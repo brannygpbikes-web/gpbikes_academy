@@ -745,6 +745,15 @@
             "track": "",
             "finish": 2,
             "race_id": "499e39145fbc85a0b09a3468a7cf8f376cc6c02d486ecd15966e9ce9eb33cd45"
+        },
+        {
+            "date": "2026-10-11T22:41:54",
+            "elo": 989,
+            "elo_before": 982,
+            "change": 7,
+            "track": "",
+            "finish": 2,
+            "race_id": "69f2db9cc6b94f1ed1610b5d746fa3cd283ec26df0356a88b8ba3c6fcaffd696"
         }
     ],
     "Oover": [
@@ -1601,6 +1610,15 @@
             "track": "",
             "finish": 7,
             "race_id": "499e39145fbc85a0b09a3468a7cf8f376cc6c02d486ecd15966e9ce9eb33cd45"
+        },
+        {
+            "date": "2026-10-11T22:41:54",
+            "elo": 912,
+            "elo_before": 916,
+            "change": -4,
+            "track": "",
+            "finish": 5,
+            "race_id": "69f2db9cc6b94f1ed1610b5d746fa3cd283ec26df0356a88b8ba3c6fcaffd696"
         }
     ],
     "JW2Stupid": [
@@ -4508,6 +4526,15 @@
             "track": "",
             "finish": 3,
             "race_id": "499e39145fbc85a0b09a3468a7cf8f376cc6c02d486ecd15966e9ce9eb33cd45"
+        },
+        {
+            "date": "2026-10-11T22:41:54",
+            "elo": 1013,
+            "elo_before": 1003,
+            "change": 10,
+            "track": "",
+            "finish": 1,
+            "race_id": "69f2db9cc6b94f1ed1610b5d746fa3cd283ec26df0356a88b8ba3c6fcaffd696"
         }
     ],
     "zrezke": [
@@ -4653,6 +4680,15 @@
             "track": "",
             "finish": 5,
             "race_id": "f053dfdc8ab6f42a2eb315de5070108d1ffab342c3f219fdc9f71fa104f59362"
+        },
+        {
+            "date": "2026-10-11T22:41:54",
+            "elo": 968,
+            "elo_before": 979,
+            "change": -11,
+            "track": "",
+            "finish": 6,
+            "race_id": "69f2db9cc6b94f1ed1610b5d746fa3cd283ec26df0356a88b8ba3c6fcaffd696"
         }
     ],
     "F": [
@@ -4664,6 +4700,15 @@
             "track": "",
             "finish": 4,
             "race_id": "499e39145fbc85a0b09a3468a7cf8f376cc6c02d486ecd15966e9ce9eb33cd45"
+        },
+        {
+            "date": "2026-10-11T22:41:54",
+            "elo": 996,
+            "elo_before": 999,
+            "change": -3,
+            "track": "",
+            "finish": 4,
+            "race_id": "69f2db9cc6b94f1ed1610b5d746fa3cd283ec26df0356a88b8ba3c6fcaffd696"
         }
     ],
     "tumbafloja45": [
@@ -4675,6 +4720,17 @@
             "track": "",
             "finish": 6,
             "race_id": "499e39145fbc85a0b09a3468a7cf8f376cc6c02d486ecd15966e9ce9eb33cd45"
+        }
+    ],
+    "CHORIPANZETUDO": [
+        {
+            "date": "2026-10-11T22:41:54",
+            "elo": 1001,
+            "elo_before": 1000,
+            "change": 1,
+            "track": "",
+            "finish": 3,
+            "race_id": "69f2db9cc6b94f1ed1610b5d746fa3cd283ec26df0356a88b8ba3c6fcaffd696"
         }
     ]
 }
