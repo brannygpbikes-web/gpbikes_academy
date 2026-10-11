@@ -99,10 +99,10 @@
         "large_lobby_clean_streak": 0
     },
     "Simone Ghilardini": {
-        "safety": 176,
-        "races": 32,
+        "safety": 186,
+        "races": 33,
         "contacts": 30,
-        "clean_races": 19,
+        "clean_races": 20,
         "large_lobby_clean_streak": 0
     },
     "EgoMan": {
@@ -164,9 +164,9 @@
         "large_lobby_clean_streak": 0
     },
     "Sturdy": {
-        "safety": 210,
-        "races": 20,
-        "contacts": 14,
+        "safety": 207,
+        "races": 21,
+        "contacts": 15,
         "clean_races": 11,
         "large_lobby_clean_streak": 0
     },
@@ -191,9 +191,9 @@
         "clean_races": 1
     },
     "filipknigge20": {
-        "safety": 73,
-        "races": 26,
-        "contacts": 36,
+        "safety": 67,
+        "races": 27,
+        "contacts": 38,
         "clean_races": 9,
         "large_lobby_clean_streak": 0
     },
@@ -382,9 +382,9 @@
         "large_lobby_clean_streak": 1
     },
     "Ricoway46": {
-        "safety": 88,
-        "races": 7,
-        "contacts": 15,
+        "safety": 85,
+        "races": 8,
+        "contacts": 16,
         "clean_races": 2,
         "large_lobby_clean_streak": 0
     },
@@ -594,10 +594,10 @@
         "large_lobby_clean_streak": 0
     },
     "ola13": {
-        "safety": 127,
-        "races": 12,
+        "safety": 137,
+        "races": 13,
         "contacts": 13,
-        "clean_races": 4,
+        "clean_races": 5,
         "large_lobby_clean_streak": 1
     },
     "Abraham Avila": {
@@ -654,10 +654,10 @@
         "clean_races": 1
     },
     "Danislav1746": {
-        "safety": 126,
-        "races": 4,
+        "safety": 136,
+        "races": 5,
         "contacts": 5,
-        "clean_races": 2,
+        "clean_races": 3,
         "large_lobby_clean_streak": 0
     },
     "Damien VTEC [TRC]": {
@@ -842,9 +842,9 @@
         "large_lobby_clean_streak": 0
     },
     "collinlanger96": {
-        "safety": 127,
-        "races": 4,
-        "contacts": 6,
+        "safety": 121,
+        "races": 5,
+        "contacts": 8,
         "clean_races": 1,
         "large_lobby_clean_streak": 0
     },
@@ -1052,10 +1052,10 @@
         "large_lobby_clean_streak": 0
     },
     "Outrunning Child Support": {
-        "safety": 127,
-        "races": 2,
+        "safety": 137,
+        "races": 3,
         "contacts": 1,
-        "clean_races": 1,
+        "clean_races": 2,
         "large_lobby_clean_streak": 0
     },
     "Fhalopy": {
@@ -1063,6 +1063,20 @@
         "races": 1,
         "contacts": 2,
         "clean_races": 0,
+        "large_lobby_clean_streak": 0
+    },
+    "J_44": {
+        "safety": 135,
+        "races": 1,
+        "contacts": 0,
+        "clean_races": 1,
+        "large_lobby_clean_streak": 0
+    },
+    "risu39": {
+        "safety": 135,
+        "races": 1,
+        "contacts": 0,
+        "clean_races": 1,
         "large_lobby_clean_streak": 0
     }
 }

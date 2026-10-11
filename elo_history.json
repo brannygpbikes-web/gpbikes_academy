@@ -129,6 +129,15 @@
             "track": "",
             "finish": 7,
             "race_id": "83bcd2570fc89413e74722230681c7209cf1b1f36c92603130068376de07b607"
+        },
+        {
+            "date": "2026-10-11T19:10:48",
+            "elo": 980,
+            "elo_before": 986,
+            "change": -6,
+            "track": "",
+            "finish": 7,
+            "race_id": "11259f172ecdcd2734f6a66a2c617cb35e53da3f4dddcd6d8d83e1b001a06748"
         }
     ],
     "Danny Hinkelmann14": [
@@ -223,6 +232,15 @@
             "track": "",
             "finish": 3,
             "race_id": "4e69f4b204819f98f281a6f044feaf8d50405e9b795068e50f363b06e45f53c6"
+        },
+        {
+            "date": "2026-10-11T19:10:48",
+            "elo": 1158,
+            "elo_before": 1157,
+            "change": 1,
+            "track": "",
+            "finish": 3,
+            "race_id": "11259f172ecdcd2734f6a66a2c617cb35e53da3f4dddcd6d8d83e1b001a06748"
         }
     ],
     "Nuno": [
@@ -661,6 +679,15 @@
             "track": "",
             "finish": 3,
             "race_id": "97a751a54b8ea42e8ba0d6fdccb8871f9405a283c3ba0c1e14b2128909dd94a0"
+        },
+        {
+            "date": "2026-10-11T19:10:48",
+            "elo": 1035,
+            "elo_before": 1036,
+            "change": -1,
+            "track": "",
+            "finish": 5,
+            "race_id": "11259f172ecdcd2734f6a66a2c617cb35e53da3f4dddcd6d8d83e1b001a06748"
         }
     ],
     "Branny": [
@@ -755,6 +782,15 @@
             "track": "",
             "finish": 1,
             "race_id": "cbecfcbec85187211abb3e5e0292ac2fe4a7a1ded1fd349e830e1dd45dbba0be"
+        },
+        {
+            "date": "2026-10-11T19:10:48",
+            "elo": 1022,
+            "elo_before": 1026,
+            "change": -4,
+            "track": "",
+            "finish": 6,
+            "race_id": "11259f172ecdcd2734f6a66a2c617cb35e53da3f4dddcd6d8d83e1b001a06748"
         }
     ],
     "Lou": [
@@ -1701,6 +1737,15 @@
             "track": "",
             "finish": 7,
             "race_id": "56ae8e89b7f4dbdbe803e2209ab970a76785bd852a1e926103d5600aa54dc0c2"
+        },
+        {
+            "date": "2026-10-11T19:10:48",
+            "elo": 986,
+            "elo_before": 969,
+            "change": 17,
+            "track": "",
+            "finish": 1,
+            "race_id": "11259f172ecdcd2734f6a66a2c617cb35e53da3f4dddcd6d8d83e1b001a06748"
         }
     ],
     "izan curia": [
@@ -3065,6 +3110,15 @@
             "track": "",
             "finish": 1,
             "race_id": "fc563bb1e2dcdfe091efc5f5ed391b09180b3f2eeb149d3caa6c04ec404bd37a"
+        },
+        {
+            "date": "2026-10-11T19:10:48",
+            "elo": 1060,
+            "elo_before": 1050,
+            "change": 10,
+            "track": "",
+            "finish": 2,
+            "race_id": "11259f172ecdcd2734f6a66a2c617cb35e53da3f4dddcd6d8d83e1b001a06748"
         }
     ],
     "Fhalopy": [
@@ -3076,6 +3130,39 @@
             "track": "",
             "finish": 4,
             "race_id": "fc563bb1e2dcdfe091efc5f5ed391b09180b3f2eeb149d3caa6c04ec404bd37a"
+        }
+    ],
+    "Ricoway46": [
+        {
+            "date": "2026-10-11T19:10:48",
+            "elo": 992,
+            "elo_before": 987,
+            "change": 5,
+            "track": "",
+            "finish": 4,
+            "race_id": "11259f172ecdcd2734f6a66a2c617cb35e53da3f4dddcd6d8d83e1b001a06748"
+        }
+    ],
+    "J_44": [
+        {
+            "date": "2026-10-11T19:10:48",
+            "elo": 990,
+            "elo_before": 1000,
+            "change": -10,
+            "track": "",
+            "finish": 8,
+            "race_id": "11259f172ecdcd2734f6a66a2c617cb35e53da3f4dddcd6d8d83e1b001a06748"
+        }
+    ],
+    "risu39": [
+        {
+            "date": "2026-10-11T19:10:48",
+            "elo": 987,
+            "elo_before": 1000,
+            "change": -13,
+            "track": "",
+            "finish": 9,
+            "race_id": "11259f172ecdcd2734f6a66a2c617cb35e53da3f4dddcd6d8d83e1b001a06748"
         }
     ]
 }
