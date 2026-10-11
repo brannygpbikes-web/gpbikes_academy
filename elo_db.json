@@ -906,10 +906,10 @@
         "podiums": 0
     },
     "Rk_44": {
-        "elo": 912,
+        "elo": 908,
         "wins": 0,
-        "races": 13,
-        "podiums": 1
+        "races": 14,
+        "podiums": 2
     },
     "Maximo Giro": {
         "elo": 1011,
@@ -1124,14 +1124,14 @@
     "KOUKAIK2": {
         "elo": 968,
         "wins": 0,
-        "races": 4,
-        "podiums": 0
+        "races": 5,
+        "podiums": 1
     },
     "F": {
-        "elo": 996,
-        "wins": 0,
-        "races": 2,
-        "podiums": 0
+        "elo": 1000,
+        "wins": 1,
+        "races": 3,
+        "podiums": 1
     },
     "tumbafloja45": {
         "elo": 989,

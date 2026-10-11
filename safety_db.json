@@ -743,10 +743,10 @@
         "grade": "B"
     },
     "Rk_44": {
-        "safety": 174,
-        "races": 13,
+        "safety": 179,
+        "races": 14,
         "contacts": 9,
-        "clean_races": 8,
+        "clean_races": 9,
         "large_lobby_clean_streak": 0,
         "grade": "A"
     },
@@ -1360,18 +1360,18 @@
         "grade": "B"
     },
     "KOUKAIK2": {
-        "safety": 127,
-        "races": 4,
+        "safety": 132,
+        "races": 5,
         "contacts": 4,
-        "clean_races": 1,
+        "clean_races": 2,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     },
     "F": {
-        "safety": 119,
-        "races": 2,
+        "safety": 124,
+        "races": 3,
         "contacts": 3,
-        "clean_races": 0,
+        "clean_races": 1,
         "large_lobby_clean_streak": 0,
         "grade": "C"
     },
