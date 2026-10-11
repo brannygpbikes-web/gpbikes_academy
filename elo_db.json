@@ -48,10 +48,10 @@
         "podiums": 14
     },
     "AhyaAL": {
-        "elo": 1135,
-        "wins": 6,
-        "races": 42,
-        "podiums": 20
+        "elo": 1143,
+        "wins": 7,
+        "races": 43,
+        "podiums": 21
     },
     "ola13": {
         "elo": 998,
@@ -90,10 +90,10 @@
         "podiums": 0
     },
     "tacticworks": {
-        "elo": 966,
+        "elo": 972,
         "wins": 0,
-        "races": 13,
-        "podiums": 3
+        "races": 14,
+        "podiums": 4
     },
     "N1rmata": {
         "elo": 1076,
@@ -372,10 +372,10 @@
         "podiums": 1
     },
     "Wally": {
-        "elo": 1011,
+        "elo": 1020,
         "wins": 1,
-        "races": 9,
-        "podiums": 6
+        "races": 10,
+        "podiums": 7
     },
     "JorgeNsr": {
         "elo": 967,
@@ -552,9 +552,9 @@
         "podiums": 0
     },
     "zrezke": {
-        "elo": 928,
+        "elo": 931,
         "wins": 0,
-        "races": 10,
+        "races": 11,
         "podiums": 0
     },
     "MARCO": {
@@ -906,9 +906,9 @@
         "podiums": 0
     },
     "Rk_44": {
-        "elo": 935,
+        "elo": 928,
         "wins": 0,
-        "races": 10,
+        "races": 11,
         "podiums": 1
     },
     "Maximo Giro": {
@@ -1050,9 +1050,9 @@
         "podiums": 0
     },
     "Vinsky": {
-        "elo": 990,
+        "elo": 976,
         "wins": 0,
-        "races": 5,
+        "races": 6,
         "podiums": 0
     },
     "Fick dich Kohlin": {
@@ -1122,9 +1122,9 @@
         "podiums": 0
     },
     "KOUKAIK2": {
-        "elo": 983,
+        "elo": 979,
         "wins": 0,
-        "races": 2,
+        "races": 3,
         "podiums": 0
     }
 }
