@@ -126,10 +126,10 @@
         "podiums": 0
     },
     "Lucce39": {
-        "elo": 957,
+        "elo": 953,
         "wins": 0,
-        "races": 8,
-        "podiums": 1
+        "races": 9,
+        "podiums": 2
     },
     "plh2457": {
         "elo": 975,
@@ -1018,5 +1018,11 @@
         "wins": 0,
         "races": 1,
         "podiums": 0
+    },
+    "Outrunning Child Support": {
+        "elo": 1004,
+        "wins": 1,
+        "races": 1,
+        "podiums": 1
     }
 }

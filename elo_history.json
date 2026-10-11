@@ -3015,5 +3015,27 @@
             "finish": 5,
             "race_id": "4e69f4b204819f98f281a6f044feaf8d50405e9b795068e50f363b06e45f53c6"
         }
+    ],
+    "Outrunning Child Support": [
+        {
+            "date": "2026-10-11T18:39:12",
+            "elo": 1004,
+            "elo_before": 1000,
+            "change": 4,
+            "track": "",
+            "finish": 1,
+            "race_id": "ad2bf9e7fe9305328124d568cf8e719fde8fc79cccab92e31ec5de7249e73530"
+        }
+    ],
+    "Lucce39": [
+        {
+            "date": "2026-10-11T18:39:12",
+            "elo": 953,
+            "elo_before": 957,
+            "change": -4,
+            "track": "",
+            "finish": 2,
+            "race_id": "ad2bf9e7fe9305328124d568cf8e719fde8fc79cccab92e31ec5de7249e73530"
+        }
     ]
 }

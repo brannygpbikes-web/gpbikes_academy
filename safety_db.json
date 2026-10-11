@@ -714,10 +714,11 @@
         "large_lobby_clean_streak": 0
     },
     "Lucce39": {
-        "safety": 115,
-        "races": 4,
+        "safety": 120,
+        "races": 5,
         "contacts": 5,
-        "clean_races": 1
+        "clean_races": 2,
+        "large_lobby_clean_streak": 0
     },
     "will 77": {
         "safety": 77,
@@ -1043,6 +1044,13 @@
         "large_lobby_clean_streak": 0
     },
     "NutriaOscura": {
+        "safety": 130,
+        "races": 1,
+        "contacts": 0,
+        "clean_races": 1,
+        "large_lobby_clean_streak": 0
+    },
+    "Outrunning Child Support": {
         "safety": 130,
         "races": 1,
         "contacts": 0,
