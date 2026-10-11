@@ -99,11 +99,11 @@
         "large_lobby_clean_streak": 0
     },
     "Simone Ghilardini": {
-        "safety": 201,
-        "races": 34,
-        "contacts": 30,
+        "safety": 195,
+        "races": 35,
+        "contacts": 32,
         "clean_races": 21,
-        "large_lobby_clean_streak": 1
+        "large_lobby_clean_streak": 0
     },
     "EgoMan": {
         "safety": 130,
@@ -143,9 +143,9 @@
         "clean_races": 1
     },
     "Danny Hinkelmann14": {
-        "safety": 87,
-        "races": 12,
-        "contacts": 25,
+        "safety": 78,
+        "races": 13,
+        "contacts": 28,
         "clean_races": 4,
         "large_lobby_clean_streak": 0
     },
@@ -164,11 +164,11 @@
         "large_lobby_clean_streak": 0
     },
     "Sturdy": {
-        "safety": 222,
-        "races": 22,
-        "contacts": 15,
+        "safety": 210,
+        "races": 23,
+        "contacts": 19,
         "clean_races": 12,
-        "large_lobby_clean_streak": 1
+        "large_lobby_clean_streak": 0
     },
     "Lanzo": {
         "safety": 205,
@@ -191,9 +191,9 @@
         "clean_races": 1
     },
     "filipknigge20": {
-        "safety": 61,
-        "races": 28,
-        "contacts": 40,
+        "safety": 58,
+        "races": 29,
+        "contacts": 41,
         "clean_races": 9,
         "large_lobby_clean_streak": 0
     },
@@ -291,10 +291,11 @@
         "large_lobby_clean_streak": 0
     },
     "adrix": {
-        "safety": 85,
-        "races": 1,
-        "contacts": 8,
-        "clean_races": 0
+        "safety": 76,
+        "races": 2,
+        "contacts": 11,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0
     },
     "Thunberg": {
         "safety": 83,
@@ -382,11 +383,11 @@
         "large_lobby_clean_streak": 1
     },
     "Ricoway46": {
-        "safety": 100,
-        "races": 9,
-        "contacts": 16,
+        "safety": 91,
+        "races": 10,
+        "contacts": 19,
         "clean_races": 3,
-        "large_lobby_clean_streak": 1
+        "large_lobby_clean_streak": 0
     },
     "Tardos37Racing": {
         "safety": 130,
@@ -456,9 +457,9 @@
         "clean_races": 0
     },
     "Dario Andreoni": {
-        "safety": 107,
-        "races": 9,
-        "contacts": 11,
+        "safety": 104,
+        "races": 10,
+        "contacts": 12,
         "clean_races": 4,
         "large_lobby_clean_streak": 0
     },
@@ -573,9 +574,9 @@
         "clean_races": 5
     },
     "MATRIX#86": {
-        "safety": 158,
-        "races": 26,
-        "contacts": 23,
+        "safety": 155,
+        "races": 27,
+        "contacts": 24,
         "clean_races": 10,
         "large_lobby_clean_streak": 0
     },
@@ -628,9 +629,9 @@
         "clean_races": 1
     },
     "NJIRK5211": {
-        "safety": 172,
-        "races": 11,
-        "contacts": 6,
+        "safety": 166,
+        "races": 12,
+        "contacts": 8,
         "clean_races": 7,
         "large_lobby_clean_streak": 0
     },
@@ -654,11 +655,11 @@
         "clean_races": 1
     },
     "Danislav1746": {
-        "safety": 151,
-        "races": 6,
+        "safety": 178,
+        "races": 7,
         "contacts": 5,
-        "clean_races": 4,
-        "large_lobby_clean_streak": 1
+        "clean_races": 5,
+        "large_lobby_clean_streak": 2
     },
     "Damien VTEC [TRC]": {
         "safety": 88,
@@ -828,11 +829,11 @@
         "large_lobby_clean_streak": 0
     },
     "Billy Jones": {
-        "safety": 219,
-        "races": 11,
+        "safety": 244,
+        "races": 12,
         "contacts": 8,
-        "clean_races": 6,
-        "large_lobby_clean_streak": 0
+        "clean_races": 7,
+        "large_lobby_clean_streak": 1
     },
     "Quidel Gaétan": {
         "safety": 121,
@@ -842,11 +843,11 @@
         "large_lobby_clean_streak": 0
     },
     "collinlanger96": {
-        "safety": 112,
-        "races": 6,
+        "safety": 137,
+        "races": 7,
         "contacts": 11,
-        "clean_races": 1,
-        "large_lobby_clean_streak": 0
+        "clean_races": 2,
+        "large_lobby_clean_streak": 1
     },
     "The Gyatt": {
         "safety": 132,
@@ -891,9 +892,9 @@
         "large_lobby_clean_streak": 1
     },
     "skalf": {
-        "safety": 119,
-        "races": 2,
-        "contacts": 2,
+        "safety": 116,
+        "races": 3,
+        "contacts": 3,
         "clean_races": 0,
         "large_lobby_clean_streak": 0
     },
@@ -1052,11 +1053,11 @@
         "large_lobby_clean_streak": 0
     },
     "Outrunning Child Support": {
-        "safety": 128,
-        "races": 4,
+        "safety": 153,
+        "races": 5,
         "contacts": 4,
-        "clean_races": 2,
-        "large_lobby_clean_streak": 0
+        "clean_races": 3,
+        "large_lobby_clean_streak": 1
     },
     "Fhalopy": {
         "safety": 119,
@@ -1066,17 +1067,38 @@
         "large_lobby_clean_streak": 0
     },
     "J_44": {
-        "safety": 117,
-        "races": 2,
+        "safety": 142,
+        "races": 3,
         "contacts": 6,
-        "clean_races": 1,
-        "large_lobby_clean_streak": 0
+        "clean_races": 2,
+        "large_lobby_clean_streak": 1
     },
     "risu39": {
         "safety": 135,
         "races": 1,
         "contacts": 0,
         "clean_races": 1,
+        "large_lobby_clean_streak": 0
+    },
+    "PBIR First Turn King": {
+        "safety": 150,
+        "races": 1,
+        "contacts": 0,
+        "clean_races": 1,
+        "large_lobby_clean_streak": 1
+    },
+    "Vinsky": {
+        "safety": 116,
+        "races": 1,
+        "contacts": 3,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0
+    },
+    "ElDiablo": {
+        "safety": 119,
+        "races": 1,
+        "contacts": 2,
+        "clean_races": 0,
         "large_lobby_clean_streak": 0
     }
 }
