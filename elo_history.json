@@ -1731,6 +1731,15 @@
             "track": "",
             "finish": 9,
             "race_id": "dc2d4b4aff4f8e383eff6f785076d9196d65a9416d3f60540a0bd99213104407"
+        },
+        {
+            "date": "2026-10-11T21:25:24",
+            "elo": 1044,
+            "elo_before": 1037,
+            "change": 7,
+            "track": "",
+            "finish": 2,
+            "race_id": "1ce36afeb6e7b66b1a0098320cdcf3088d8f26b46c2ae624e8cfbff5cee64d04"
         }
     ],
     "branny": [
@@ -1807,6 +1816,15 @@
             "track": "",
             "finish": 11,
             "race_id": "211e9db222bd9e2c098944dbab4d08cda205563fe74406f57235852e4459bc8b"
+        },
+        {
+            "date": "2026-10-11T21:25:24",
+            "elo": 1074,
+            "elo_before": 1073,
+            "change": 1,
+            "track": "",
+            "finish": 3,
+            "race_id": "1ce36afeb6e7b66b1a0098320cdcf3088d8f26b46c2ae624e8cfbff5cee64d04"
         }
     ],
     "Maximo Giro": [
@@ -2363,6 +2381,15 @@
             "track": "",
             "finish": 5,
             "race_id": "dc2d4b4aff4f8e383eff6f785076d9196d65a9416d3f60540a0bd99213104407"
+        },
+        {
+            "date": "2026-10-11T21:25:24",
+            "elo": 1079,
+            "elo_before": 1092,
+            "change": -13,
+            "track": "",
+            "finish": 6,
+            "race_id": "1ce36afeb6e7b66b1a0098320cdcf3088d8f26b46c2ae624e8cfbff5cee64d04"
         }
     ],
     "Emir Eyupoglu": [
@@ -2993,6 +3020,15 @@
             "track": "",
             "finish": 2,
             "race_id": "dc2d4b4aff4f8e383eff6f785076d9196d65a9416d3f60540a0bd99213104407"
+        },
+        {
+            "date": "2026-10-11T21:25:24",
+            "elo": 1167,
+            "elo_before": 1160,
+            "change": 7,
+            "track": "",
+            "finish": 1,
+            "race_id": "1ce36afeb6e7b66b1a0098320cdcf3088d8f26b46c2ae624e8cfbff5cee64d04"
         }
     ],
     "moe": [
@@ -4286,6 +4322,15 @@
             "track": "",
             "finish": 3,
             "race_id": "dc2d4b4aff4f8e383eff6f785076d9196d65a9416d3f60540a0bd99213104407"
+        },
+        {
+            "date": "2026-10-11T21:25:24",
+            "elo": 1005,
+            "elo_before": 1010,
+            "change": -5,
+            "track": "",
+            "finish": 5,
+            "race_id": "1ce36afeb6e7b66b1a0098320cdcf3088d8f26b46c2ae624e8cfbff5cee64d04"
         }
     ],
     "Spr0cket": [
@@ -4319,6 +4364,17 @@
             "track": "",
             "finish": 6,
             "race_id": "dc2d4b4aff4f8e383eff6f785076d9196d65a9416d3f60540a0bd99213104407"
+        }
+    ],
+    "zrezke": [
+        {
+            "date": "2026-10-11T21:25:24",
+            "elo": 947,
+            "elo_before": 945,
+            "change": 2,
+            "track": "",
+            "finish": 4,
+            "race_id": "1ce36afeb6e7b66b1a0098320cdcf3088d8f26b46c2ae624e8cfbff5cee64d04"
         }
     ]
 }
