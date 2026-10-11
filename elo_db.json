@@ -300,10 +300,10 @@
         "podiums": 11
     },
     "Danislav1746": {
-        "elo": 1043,
-        "wins": 3,
-        "races": 5,
-        "podiums": 5
+        "elo": 1050,
+        "wins": 4,
+        "races": 6,
+        "podiums": 6
     },
     "AL": {
         "elo": 1057,
@@ -660,10 +660,10 @@
         "podiums": 0
     },
     "Honza Ehl": {
-        "elo": 1002,
+        "elo": 1000,
         "wins": 6,
-        "races": 14,
-        "podiums": 10
+        "races": 15,
+        "podiums": 11
     },
     "jorgeguti160": {
         "elo": 927,
@@ -1020,9 +1020,15 @@
         "podiums": 0
     },
     "Outrunning Child Support": {
-        "elo": 1004,
+        "elo": 1007,
         "wins": 1,
+        "races": 2,
+        "podiums": 2
+    },
+    "Fhalopy": {
+        "elo": 992,
+        "wins": 0,
         "races": 1,
-        "podiums": 1
+        "podiums": 0
     }
 }
