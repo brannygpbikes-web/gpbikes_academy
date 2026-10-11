@@ -90,10 +90,10 @@
         "podiums": 0
     },
     "tacticworks": {
-        "elo": 972,
+        "elo": 982,
         "wins": 0,
-        "races": 14,
-        "podiums": 4
+        "races": 15,
+        "podiums": 5
     },
     "N1rmata": {
         "elo": 1076,
@@ -372,10 +372,10 @@
         "podiums": 1
     },
     "Wally": {
-        "elo": 1020,
-        "wins": 1,
-        "races": 10,
-        "podiums": 7
+        "elo": 1032,
+        "wins": 2,
+        "races": 11,
+        "podiums": 8
     },
     "JorgeNsr": {
         "elo": 967,
@@ -552,9 +552,9 @@
         "podiums": 0
     },
     "zrezke": {
-        "elo": 931,
+        "elo": 928,
         "wins": 0,
-        "races": 11,
+        "races": 12,
         "podiums": 0
     },
     "MARCO": {
@@ -906,9 +906,9 @@
         "podiums": 0
     },
     "Rk_44": {
-        "elo": 928,
+        "elo": 916,
         "wins": 0,
-        "races": 11,
+        "races": 12,
         "podiums": 1
     },
     "Maximo Giro": {
@@ -1110,10 +1110,10 @@
         "podiums": 0
     },
     "Ruben24": {
-        "elo": 999,
+        "elo": 1003,
         "wins": 0,
-        "races": 3,
-        "podiums": 0
+        "races": 4,
+        "podiums": 1
     },
     "bobr684": {
         "elo": 1001,
@@ -1125,6 +1125,18 @@
         "elo": 979,
         "wins": 0,
         "races": 3,
+        "podiums": 0
+    },
+    "F": {
+        "elo": 999,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
+    },
+    "tumbafloja45": {
+        "elo": 989,
+        "wins": 0,
+        "races": 1,
         "podiums": 0
     }
 }
