@@ -6,9 +6,9 @@
         "podiums": 0
     },
     "branny": {
-        "elo": 1107,
+        "elo": 1109,
         "wins": 15,
-        "races": 33,
+        "races": 34,
         "podiums": 22
     },
     "non1nr": {
@@ -66,15 +66,15 @@
         "podiums": 0
     },
     "Ibai Merino": {
-        "elo": 997,
+        "elo": 991,
         "wins": 0,
-        "races": 3,
+        "races": 4,
         "podiums": 1
     },
     "Simone Ghilardini": {
-        "elo": 1015,
+        "elo": 1011,
         "wins": 4,
-        "races": 47,
+        "races": 48,
         "podiums": 17
     },
     "Noa1nl": {
@@ -294,10 +294,10 @@
         "podiums": 0
     },
     "sbara": {
-        "elo": 1059,
-        "wins": 3,
-        "races": 22,
-        "podiums": 12
+        "elo": 1074,
+        "wins": 4,
+        "races": 23,
+        "podiums": 13
     },
     "Danislav1746": {
         "elo": 1146,
@@ -306,9 +306,9 @@
         "podiums": 14
     },
     "AL": {
-        "elo": 1047,
+        "elo": 1034,
         "wins": 0,
-        "races": 19,
+        "races": 20,
         "podiums": 7
     },
     "FastAF": {
@@ -642,16 +642,16 @@
         "podiums": 0
     },
     "Nuno": {
-        "elo": 1136,
+        "elo": 1133,
         "wins": 12,
-        "races": 23,
+        "races": 24,
         "podiums": 18
     },
     "vNoHxpe_KJ45": {
-        "elo": 1009,
+        "elo": 1023,
         "wins": 0,
-        "races": 14,
-        "podiums": 3
+        "races": 15,
+        "podiums": 4
     },
     "Fabio_34": {
         "elo": 984,
@@ -732,10 +732,10 @@
         "podiums": 1
     },
     "moleo": {
-        "elo": 1094,
+        "elo": 1100,
         "wins": 5,
-        "races": 16,
-        "podiums": 11
+        "races": 17,
+        "podiums": 12
     },
     "JM": {
         "elo": 995,
@@ -1062,9 +1062,9 @@
         "podiums": 0
     },
     "Smurruf": {
-        "elo": 999,
+        "elo": 1000,
         "wins": 0,
-        "races": 2,
+        "races": 3,
         "podiums": 0
     },
     "nick": {
@@ -1158,9 +1158,9 @@
         "podiums": 0
     },
     "sergioo14": {
-        "elo": 988,
+        "elo": 975,
         "wins": 0,
-        "races": 1,
+        "races": 2,
         "podiums": 0
     }
 }

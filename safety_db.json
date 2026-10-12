@@ -1,8 +1,8 @@
 {
     "branny": {
-        "safety": 197,
-        "races": 30,
-        "contacts": 29,
+        "safety": 194,
+        "races": 31,
+        "contacts": 30,
         "clean_races": 17,
         "large_lobby_clean_streak": 0,
         "grade": "A"
@@ -76,12 +76,12 @@
         "grade": "B"
     },
     "AL": {
-        "safety": 185,
-        "races": 17,
-        "contacts": 22,
+        "safety": 179,
+        "races": 18,
+        "contacts": 24,
         "clean_races": 10,
         "large_lobby_clean_streak": 0,
-        "grade": "A"
+        "grade": "B"
     },
     "Jardoo": {
         "safety": 139,
@@ -115,9 +115,9 @@
         "grade": "B"
     },
     "Simone Ghilardini": {
-        "safety": 168,
-        "races": 40,
-        "contacts": 44,
+        "safety": 165,
+        "races": 41,
+        "contacts": 45,
         "clean_races": 21,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -552,25 +552,25 @@
         "grade": "B"
     },
     "Nuno": {
-        "safety": 100,
-        "races": 21,
+        "safety": 110,
+        "races": 22,
         "contacts": 29,
-        "clean_races": 7,
+        "clean_races": 8,
         "large_lobby_clean_streak": 0,
         "grade": "C"
     },
     "vNoHxpe_KJ45": {
-        "safety": 113,
-        "races": 11,
-        "contacts": 16,
+        "safety": 104,
+        "races": 12,
+        "contacts": 19,
         "clean_races": 3,
         "large_lobby_clean_streak": 0,
         "grade": "C"
     },
     "sbara": {
-        "safety": 177,
-        "races": 19,
-        "contacts": 17,
+        "safety": 174,
+        "races": 20,
+        "contacts": 18,
         "clean_races": 10,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -713,9 +713,9 @@
         "grade": "C"
     },
     "moleo": {
-        "safety": 116,
-        "races": 13,
-        "contacts": 14,
+        "safety": 107,
+        "races": 14,
+        "contacts": 17,
         "clean_races": 4,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -1272,10 +1272,10 @@
         "grade": "D"
     },
     "Smurruf": {
-        "safety": 113,
-        "races": 2,
+        "safety": 123,
+        "races": 3,
         "contacts": 4,
-        "clean_races": 0,
+        "clean_races": 1,
         "large_lobby_clean_streak": 0,
         "grade": "C"
     },
@@ -1418,17 +1418,17 @@
         "grade": "C"
     },
     "sergioo14": {
-        "safety": 135,
-        "races": 1,
+        "safety": 145,
+        "races": 2,
         "contacts": 0,
-        "clean_races": 1,
+        "clean_races": 2,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     },
     "Ibai Merino": {
-        "safety": 122,
-        "races": 1,
-        "contacts": 1,
+        "safety": 119,
+        "races": 2,
+        "contacts": 2,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
