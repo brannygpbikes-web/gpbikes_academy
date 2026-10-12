@@ -6,10 +6,10 @@
         "podiums": 0
     },
     "branny": {
-        "elo": 1122,
+        "elo": 1131,
         "wins": 17,
-        "races": 37,
-        "podiums": 24
+        "races": 38,
+        "podiums": 25
     },
     "non1nr": {
         "elo": 1028,
@@ -30,9 +30,9 @@
         "podiums": 1
     },
     "moe": {
-        "elo": 1024,
+        "elo": 1019,
         "wins": 1,
-        "races": 36,
+        "races": 37,
         "podiums": 12
     },
     "jackthebikeguy": {
@@ -74,7 +74,7 @@
     "Simone Ghilardini": {
         "elo": 1015,
         "wins": 4,
-        "races": 51,
+        "races": 52,
         "podiums": 17
     },
     "Noa1nl": {
@@ -90,9 +90,9 @@
         "podiums": 0
     },
     "tacticworks": {
-        "elo": 989,
+        "elo": 976,
         "wins": 0,
-        "races": 16,
+        "races": 17,
         "podiums": 6
     },
     "N1rmata": {
@@ -114,9 +114,9 @@
         "podiums": 7
     },
     "Spud": {
-        "elo": 994,
+        "elo": 987,
         "wins": 0,
-        "races": 13,
+        "races": 14,
         "podiums": 2
     },
     "gabriel_tesini#4": {
@@ -138,9 +138,9 @@
         "podiums": 0
     },
     "Rayo__Wombat": {
-        "elo": 1052,
+        "elo": 1063,
         "wins": 2,
-        "races": 24,
+        "races": 25,
         "podiums": 9
     },
     "Mikrowelle": {
@@ -156,10 +156,10 @@
         "podiums": 0
     },
     "Gonzalo Molina": {
-        "elo": 1134,
-        "wins": 13,
-        "races": 25,
-        "podiums": 18
+        "elo": 1147,
+        "wins": 14,
+        "races": 26,
+        "podiums": 19
     },
     "NJIRK5211": {
         "elo": 1114,
@@ -228,9 +228,9 @@
         "podiums": 0
     },
     "Carrasco": {
-        "elo": 998,
+        "elo": 1005,
         "wins": 1,
-        "races": 9,
+        "races": 10,
         "podiums": 3
     },
     "Ricoway46": {
@@ -246,9 +246,9 @@
         "podiums": 1
     },
     "JW2Stupid": {
-        "elo": 1063,
+        "elo": 1071,
         "wins": 2,
-        "races": 19,
+        "races": 20,
         "podiums": 8
     },
     "fisherman": {
@@ -282,9 +282,9 @@
         "podiums": 0
     },
     "Lanzo": {
-        "elo": 1058,
+        "elo": 1045,
         "wins": 3,
-        "races": 39,
+        "races": 40,
         "podiums": 13
     },
     "oskar.bohlin 69": {
@@ -602,7 +602,7 @@
     "21vitalio": {
         "elo": 977,
         "wins": 0,
-        "races": 16,
+        "races": 17,
         "podiums": 4
     },
     "Tarmacsurfer": {
@@ -642,9 +642,9 @@
         "podiums": 0
     },
     "Nuno": {
-        "elo": 1121,
+        "elo": 1109,
         "wins": 12,
-        "races": 27,
+        "races": 28,
         "podiums": 18
     },
     "vNoHxpe_KJ45": {
@@ -732,10 +732,10 @@
         "podiums": 1
     },
     "moleo": {
-        "elo": 1105,
+        "elo": 1117,
         "wins": 5,
-        "races": 20,
-        "podiums": 13
+        "races": 21,
+        "podiums": 14
     },
     "JM": {
         "elo": 995,
@@ -948,15 +948,15 @@
         "podiums": 0
     },
     "Emir Eyupoglu": {
-        "elo": 1060,
+        "elo": 1066,
         "wins": 0,
-        "races": 20,
+        "races": 21,
         "podiums": 5
     },
     "SrPomit": {
-        "elo": 953,
+        "elo": 944,
         "wins": 0,
-        "races": 11,
+        "races": 12,
         "podiums": 0
     },
     "Aggressive Tax collector": {
@@ -1164,7 +1164,19 @@
         "podiums": 0
     },
     "Creisi48": {
-        "elo": 997,
+        "elo": 1000,
+        "wins": 0,
+        "races": 2,
+        "podiums": 0
+    },
+    "Marcus": {
+        "elo": 1005,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
+    },
+    "jessedollo17": {
+        "elo": 984,
         "wins": 0,
         "races": 1,
         "podiums": 0
