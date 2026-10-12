@@ -1,9 +1,9 @@
 {
     "branny": {
-        "safety": 225,
-        "races": 36,
+        "safety": 230,
+        "races": 37,
         "contacts": 32,
-        "clean_races": 20,
+        "clean_races": 21,
         "large_lobby_clean_streak": 0,
         "grade": "A"
     },
@@ -313,10 +313,10 @@
         "large_lobby_clean_streak": 0
     },
     "Miquel_Sinke60": {
-        "safety": 81,
-        "races": 31,
+        "safety": 86,
+        "races": 32,
         "contacts": 58,
-        "clean_races": 7,
+        "clean_races": 8,
         "large_lobby_clean_streak": 2,
         "grade": "D"
     },
@@ -375,12 +375,12 @@
         "grade": "B"
     },
     "aleso262004": {
-        "safety": 23,
+        "safety": 80,
         "races": 8,
         "contacts": 35,
         "clean_races": 2,
         "large_lobby_clean_streak": 0,
-        "grade": "E"
+        "grade": "D"
     },
     "MARCO": {
         "safety": 54,
@@ -1499,5 +1499,13 @@
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
+    },
+    "Thomo081": {
+        "safety": 130,
+        "races": 1,
+        "contacts": 0,
+        "clean_races": 1,
+        "large_lobby_clean_streak": 0,
+        "grade": "B"
     }
 }

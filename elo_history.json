@@ -2480,6 +2480,15 @@
             "track": "",
             "finish": 1,
             "race_id": "342a4e02e10ccf3228b890b4f079594527537ea07aeeae9a1fc9997a20fb2e31"
+        },
+        {
+            "date": "2026-10-12T20:21:19",
+            "elo": 1140,
+            "elo_before": 1136,
+            "change": 4,
+            "track": "",
+            "finish": 1,
+            "race_id": "7d195f263e271c597223e8effab12fdb675a8dcb09587a5783ba4d85eda60c26"
         }
     ],
     "tobimayer29 on ig": [
@@ -2764,6 +2773,15 @@
             "track": "",
             "finish": 2,
             "race_id": "8da220f7e09bb22aa258a63afe4f3733dbae0d53f3a663ec83e10a6571c3134c"
+        },
+        {
+            "date": "2026-10-12T20:21:19",
+            "elo": 1106,
+            "elo_before": 1112,
+            "change": -6,
+            "track": "",
+            "finish": 3,
+            "race_id": "7d195f263e271c597223e8effab12fdb675a8dcb09587a5783ba4d85eda60c26"
         }
     ],
     "KSBR": [
@@ -6585,6 +6603,17 @@
             "track": "",
             "finish": 4,
             "race_id": "342a4e02e10ccf3228b890b4f079594527537ea07aeeae9a1fc9997a20fb2e31"
+        }
+    ],
+    "Thomo081": [
+        {
+            "date": "2026-10-12T20:21:19",
+            "elo": 1002,
+            "elo_before": 1000,
+            "change": 2,
+            "track": "",
+            "finish": 2,
+            "race_id": "7d195f263e271c597223e8effab12fdb675a8dcb09587a5783ba4d85eda60c26"
         }
     ]
 }
