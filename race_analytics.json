@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-12T20:21:26.154462+01:00",
+  "generated_at": "2026-10-12T20:36:19.999834+01:00",
   "summary": {
-    "unique_races": 166,
+    "unique_races": 167,
     "unique_riders": 188,
     "duplicates_skipped": 0,
     "invalid_files_skipped": 1,
@@ -1406,21 +1406,21 @@
     {
       "guid": "FF011000013182150D",
       "name": "Miquel_Sinke60",
-      "races": 31,
+      "races": 32,
       "wins": 3,
-      "podiums": 13,
-      "win_rate": 9.7,
-      "podium_rate": 41.9,
-      "average_finish": 5.065,
-      "average_start": 4.677,
-      "average_positions_gained": -0.387,
+      "podiums": 14,
+      "win_rate": 9.4,
+      "podium_rate": 43.8,
+      "average_finish": 4.969,
+      "average_start": 4.594,
+      "average_positions_gained": -0.375,
       "best_finish": 1,
       "best_recorded_lap": 84.689026,
-      "average_gap_percent": -3.935,
+      "average_gap_percent": -5.144,
       "contacts": 53,
-      "contacts_per_race": 1.71,
-      "clean_races": 8,
-      "clean_race_percent": 25.8,
+      "contacts_per_race": 1.656,
+      "clean_races": 9,
+      "clean_race_percent": 28.1,
       "worst_contact_severity": 57.7,
       "tracks": {
         "Automotodrom Brno v1.0a": {
@@ -1440,12 +1440,12 @@
           "clean_race_percent": 0.0
         },
         "Circuit de Catalunya - 2021 v1.0b": {
-          "races": 4,
+          "races": 5,
           "wins": 0,
-          "podiums": 1,
-          "average_finish": 9.75,
+          "podiums": 2,
+          "average_finish": 8.2,
           "contacts": 14,
-          "clean_race_percent": 25.0
+          "clean_race_percent": 40.0
         },
         "Sachsenring v1.0b": {
           "races": 3,
@@ -1537,9 +1537,9 @@
           "podiums": 0
         },
         "Honda HRC Team": {
-          "races": 17,
+          "races": 18,
           "wins": 1,
-          "podiums": 6
+          "podiums": 7
         },
         "Suzuki RGV '95": {
           "races": 4,
@@ -13113,6 +13113,51 @@
       }
     },
     {
+      "guid": "FF01100001090E1DF3",
+      "name": "Thomo081",
+      "races": 2,
+      "wins": 1,
+      "podiums": 2,
+      "win_rate": 50.0,
+      "podium_rate": 100.0,
+      "average_finish": 1.5,
+      "average_start": 2,
+      "average_positions_gained": 0.5,
+      "best_finish": 1,
+      "best_recorded_lap": 102.366364,
+      "average_gap_percent": 4.701,
+      "contacts": 0,
+      "contacts_per_race": 0.0,
+      "clean_races": 2,
+      "clean_race_percent": 100.0,
+      "worst_contact_severity": null,
+      "tracks": {
+        "Le Mans Circuit Bugatti v1.1": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 1,
+          "average_finish": 2,
+          "contacts": 0,
+          "clean_race_percent": 100.0
+        },
+        "Circuit de Catalunya - 2021 v1.0b": {
+          "races": 1,
+          "wins": 1,
+          "podiums": 1,
+          "average_finish": 1,
+          "contacts": 0,
+          "clean_race_percent": 100.0
+        }
+      },
+      "bikes": {
+        "Honda HRC Team": {
+          "races": 2,
+          "wins": 1,
+          "podiums": 2
+        }
+      }
+    },
+    {
       "guid": "FF01100001342825A2",
       "name": "Bonzo",
       "races": 1,
@@ -14108,43 +14153,6 @@
           "races": 1,
           "wins": 0,
           "podiums": 0
-        }
-      }
-    },
-    {
-      "guid": "FF01100001090E1DF3",
-      "name": "Thomo081",
-      "races": 1,
-      "wins": 0,
-      "podiums": 1,
-      "win_rate": 0.0,
-      "podium_rate": 100.0,
-      "average_finish": 2,
-      "average_start": 3,
-      "average_positions_gained": 1,
-      "best_finish": 2,
-      "best_recorded_lap": 104.896027,
-      "average_gap_percent": 9.401,
-      "contacts": 0,
-      "contacts_per_race": 0.0,
-      "clean_races": 1,
-      "clean_race_percent": 100.0,
-      "worst_contact_severity": null,
-      "tracks": {
-        "Le Mans Circuit Bugatti v1.1": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 1,
-          "average_finish": 2,
-          "contacts": 0,
-          "clean_race_percent": 100.0
-        }
-      },
-      "bikes": {
-        "Honda HRC Team": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 1
         }
       }
     },
@@ -67798,6 +67806,75 @@
           "average_lap": 111.74,
           "median_lap": 111.74,
           "lap_consistency_stdev": 4.271,
+          "contacts": 0,
+          "max_contact_severity": null,
+          "average_contact_severity": null
+        }
+      ],
+      "contacts": []
+    },
+    {
+      "source_file": "gpb_p1_20261012-203614-Circuit de Catalunya 2021 v1.0b.xml",
+      "event_timestamp": 1791833774,
+      "date": "2026-10-12T20:36:14+01:00",
+      "event_type": "Race",
+      "track": "Circuit de Catalunya - 2021 v1.0b",
+      "track_id": "Circuit de Catalunya 2021 v1.0b",
+      "track_length_m": 4739.226074,
+      "scheduled_laps": 4,
+      "field_size": 2,
+      "contact_events": 0,
+      "riders": [
+        {
+          "race_num": "5",
+          "name": "Thomo081",
+          "bike": "Honda HRC Team",
+          "category": "SBK24 1.0",
+          "guid": "FF01100001090E1DF3",
+          "qualifying_position": 1,
+          "qualifying_time": 102.17894,
+          "start_position": 1,
+          "finish_position": 1,
+          "positions_gained": 0,
+          "race_time": 521.745728,
+          "laps_completed": 4,
+          "gap_seconds": 0.0,
+          "gap_percent": 0.0,
+          "penalty": 0.0,
+          "fastest_lap": 102.366364,
+          "fastest_lap_number": 2,
+          "speed": 89.025673,
+          "valid_timed_laps": 4,
+          "average_lap": 130.434,
+          "median_lap": 102.588,
+          "lap_consistency_stdev": 48.358,
+          "contacts": 0,
+          "max_contact_severity": null,
+          "average_contact_severity": null
+        },
+        {
+          "race_num": "60",
+          "name": "Miquel_Sinke60",
+          "bike": "Honda HRC Team",
+          "category": "SBK24 1.0",
+          "guid": "FF011000013182150D",
+          "qualifying_position": 2,
+          "qualifying_time": 103.317902,
+          "start_position": 2,
+          "finish_position": 2,
+          "positions_gained": 0,
+          "race_time": 318.287109,
+          "laps_completed": 2,
+          "gap_seconds": null,
+          "gap_percent": -38.9957,
+          "penalty": 0.0,
+          "fastest_lap": 107.816528,
+          "fastest_lap_number": 2,
+          "speed": 89.860977,
+          "valid_timed_laps": 2,
+          "average_lap": 159.139,
+          "median_lap": 159.139,
+          "lap_consistency_stdev": 51.322,
           "contacts": 0,
           "max_contact_severity": null,
           "average_contact_severity": null

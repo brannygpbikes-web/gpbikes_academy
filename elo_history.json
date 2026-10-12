@@ -2782,6 +2782,15 @@
             "track": "",
             "finish": 3,
             "race_id": "7d195f263e271c597223e8effab12fdb675a8dcb09587a5783ba4d85eda60c26"
+        },
+        {
+            "date": "2026-10-12T20:36:14",
+            "elo": 1100,
+            "elo_before": 1106,
+            "change": -6,
+            "track": "",
+            "finish": 2,
+            "race_id": "e4870e8fddbc4eff3a3dcb359d78024cb2464586241ca423e7bbf62a35c3adda"
         }
     ],
     "KSBR": [
@@ -6614,6 +6623,15 @@
             "track": "",
             "finish": 2,
             "race_id": "7d195f263e271c597223e8effab12fdb675a8dcb09587a5783ba4d85eda60c26"
+        },
+        {
+            "date": "2026-10-12T20:36:14",
+            "elo": 1008,
+            "elo_before": 1002,
+            "change": 6,
+            "track": "",
+            "finish": 1,
+            "race_id": "e4870e8fddbc4eff3a3dcb359d78024cb2464586241ca423e7bbf62a35c3adda"
         }
     ]
 }

@@ -42,10 +42,10 @@
         "podiums": 1
     },
     "Miquel_Sinke60": {
-        "elo": 1106,
+        "elo": 1100,
         "wins": 5,
-        "races": 38,
-        "podiums": 17
+        "races": 39,
+        "podiums": 18
     },
     "AhyaAL": {
         "elo": 1123,
@@ -1218,9 +1218,9 @@
         "podiums": 0
     },
     "Thomo081": {
-        "elo": 1002,
-        "wins": 0,
-        "races": 1,
-        "podiums": 1
+        "elo": 1008,
+        "wins": 1,
+        "races": 2,
+        "podiums": 2
     }
 }

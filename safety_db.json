@@ -313,10 +313,10 @@
         "large_lobby_clean_streak": 0
     },
     "Miquel_Sinke60": {
-        "safety": 86,
-        "races": 32,
+        "safety": 91,
+        "races": 33,
         "contacts": 58,
-        "clean_races": 8,
+        "clean_races": 9,
         "large_lobby_clean_streak": 2,
         "grade": "D"
     },
@@ -1501,10 +1501,10 @@
         "grade": "C"
     },
     "Thomo081": {
-        "safety": 130,
-        "races": 1,
+        "safety": 135,
+        "races": 2,
         "contacts": 0,
-        "clean_races": 1,
+        "clean_races": 2,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     }
