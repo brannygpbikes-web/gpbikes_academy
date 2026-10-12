@@ -8,12 +8,12 @@
         "grade": "A"
     },
     "pr1c3y": {
-        "safety": 133,
-        "races": 6,
-        "contacts": 6,
+        "safety": 117,
+        "races": 7,
+        "contacts": 10,
         "clean_races": 2,
         "large_lobby_clean_streak": 0,
-        "grade": "B"
+        "grade": "C"
     },
     "sandnes": {
         "safety": 180,
@@ -68,9 +68,9 @@
         "grade": "B"
     },
     "vegasan88": {
-        "safety": 152,
-        "races": 11,
-        "contacts": 12,
+        "safety": 140,
+        "races": 12,
+        "contacts": 15,
         "clean_races": 4,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -92,9 +92,9 @@
         "grade": "B"
     },
     "tobimayer29 on ig": {
-        "safety": 138,
-        "races": 18,
-        "contacts": 30,
+        "safety": 126,
+        "races": 19,
+        "contacts": 33,
         "clean_races": 6,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -107,9 +107,9 @@
         "grade": "A"
     },
     "chilliams": {
-        "safety": 145,
-        "races": 22,
-        "contacts": 27,
+        "safety": 133,
+        "races": 23,
+        "contacts": 30,
         "clean_races": 7,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -137,9 +137,9 @@
         "grade": "B"
     },
     "AhyaAL": {
-        "safety": 296,
-        "races": 43,
-        "contacts": 35,
+        "safety": 292,
+        "races": 44,
+        "contacts": 36,
         "clean_races": 23,
         "large_lobby_clean_streak": 0,
         "grade": "S"
@@ -166,9 +166,9 @@
         "grade": "B"
     },
     "Danny Hinkelmann14": {
-        "safety": 34,
-        "races": 18,
-        "contacts": 42,
+        "safety": 22,
+        "races": 19,
+        "contacts": 45,
         "clean_races": 4,
         "large_lobby_clean_streak": 0,
         "grade": "E"
@@ -198,12 +198,12 @@
         "grade": "A"
     },
     "Lanzo": {
-        "safety": 153,
-        "races": 44,
+        "safety": 183,
+        "races": 45,
         "contacts": 61,
-        "clean_races": 17,
-        "large_lobby_clean_streak": 0,
-        "grade": "B"
+        "clean_races": 18,
+        "large_lobby_clean_streak": 1,
+        "grade": "A"
     },
     "Santos47": {
         "safety": 117,
@@ -244,12 +244,12 @@
         "grade": "C"
     },
     "KSBR": {
-        "safety": 176,
-        "races": 14,
+        "safety": 206,
+        "races": 15,
         "contacts": 14,
-        "clean_races": 7,
-        "large_lobby_clean_streak": 0,
-        "grade": "B"
+        "clean_races": 8,
+        "large_lobby_clean_streak": 1,
+        "grade": "A"
     },
     "Romainlpz6": {
         "safety": 190,
@@ -305,11 +305,12 @@
         "grade": "C"
     },
     "thecrivi28": {
-        "safety": 50,
-        "races": 4,
-        "contacts": 15,
+        "safety": 42,
+        "races": 5,
+        "contacts": 17,
         "clean_races": 0,
-        "grade": "E"
+        "grade": "E",
+        "large_lobby_clean_streak": 0
     },
     "Miquel_Sinke60": {
         "safety": 81,
@@ -413,12 +414,12 @@
         "grade": "C"
     },
     "jpspeed16": {
-        "safety": 117,
-        "races": 6,
-        "contacts": 4,
+        "safety": 97,
+        "races": 7,
+        "contacts": 9,
         "clean_races": 2,
         "large_lobby_clean_streak": 0,
-        "grade": "C"
+        "grade": "D"
     },
     "Eneko Garcia #14": {
         "safety": 130,
@@ -444,11 +445,11 @@
         "grade": "B"
     },
     "Ricoway46": {
-        "safety": 105,
-        "races": 15,
-        "contacts": 25,
+        "safety": 101,
+        "races": 16,
+        "contacts": 26,
         "clean_races": 4,
-        "large_lobby_clean_streak": 1,
+        "large_lobby_clean_streak": 0,
         "grade": "C"
     },
     "Tardos37Racing": {
@@ -495,9 +496,9 @@
         "grade": "A"
     },
     "Tarmacsurfer": {
-        "safety": 56,
-        "races": 4,
-        "contacts": 15,
+        "safety": 36,
+        "races": 5,
+        "contacts": 20,
         "clean_races": 0,
         "grade": "E",
         "large_lobby_clean_streak": 0
@@ -674,9 +675,9 @@
         "grade": "B"
     },
     "tacticworks": {
-        "safety": 69,
-        "races": 16,
-        "contacts": 29,
+        "safety": 61,
+        "races": 17,
+        "contacts": 31,
         "clean_races": 3,
         "large_lobby_clean_streak": 0,
         "grade": "E"
@@ -714,12 +715,12 @@
         "grade": "C"
     },
     "moleo": {
-        "safety": 181,
-        "races": 21,
-        "contacts": 22,
+        "safety": 169,
+        "races": 22,
+        "contacts": 25,
         "clean_races": 8,
-        "large_lobby_clean_streak": 1,
-        "grade": "A"
+        "large_lobby_clean_streak": 0,
+        "grade": "B"
     },
     "SAGGAs Hemkokta": {
         "safety": 130,
@@ -759,11 +760,11 @@
         "grade": "B"
     },
     "Danislav1746": {
-        "safety": 132,
-        "races": 16,
+        "safety": 162,
+        "races": 17,
         "contacts": 20,
-        "clean_races": 5,
-        "large_lobby_clean_streak": 0,
+        "clean_races": 6,
+        "large_lobby_clean_streak": 1,
         "grade": "B"
     },
     "Damien VTEC [TRC]": {
@@ -861,12 +862,12 @@
         "grade": "B"
     },
     "jessedollo17": {
-        "safety": 157,
-        "races": 6,
+        "safety": 187,
+        "races": 7,
         "contacts": 8,
-        "clean_races": 3,
-        "grade": "B",
-        "large_lobby_clean_streak": 0
+        "clean_races": 4,
+        "grade": "A",
+        "large_lobby_clean_streak": 1
     },
     "Dimitry": {
         "safety": 43,
@@ -978,9 +979,9 @@
         "grade": "C"
     },
     "collinlanger96": {
-        "safety": 119,
-        "races": 9,
-        "contacts": 17,
+        "safety": 103,
+        "races": 10,
+        "contacts": 21,
         "clean_races": 2,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -994,9 +995,9 @@
         "grade": "B"
     },
     "Spud": {
-        "safety": 166,
-        "races": 10,
-        "contacts": 12,
+        "safety": 154,
+        "races": 11,
+        "contacts": 15,
         "clean_races": 5,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -1050,12 +1051,12 @@
         "grade": "B"
     },
     "d9rko": {
-        "safety": 109,
-        "races": 10,
-        "contacts": 20,
+        "safety": 97,
+        "races": 11,
+        "contacts": 23,
         "clean_races": 3,
         "large_lobby_clean_streak": 0,
-        "grade": "C"
+        "grade": "D"
     },
     "Maximo Giro": {
         "safety": 165,
@@ -1330,9 +1331,9 @@
         "grade": "D"
     },
     "Spr0cket": {
-        "safety": 73,
-        "races": 3,
-        "contacts": 15,
+        "safety": 57,
+        "races": 4,
+        "contacts": 19,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "E"
@@ -1444,12 +1445,12 @@
         "grade": "C"
     },
     "Marcus": {
-        "safety": 150,
-        "races": 1,
+        "safety": 182,
+        "races": 2,
         "contacts": 0,
-        "clean_races": 1,
-        "large_lobby_clean_streak": 1,
-        "grade": "B"
+        "clean_races": 2,
+        "large_lobby_clean_streak": 2,
+        "grade": "A"
     },
     "k142000": {
         "safety": 145,
@@ -1460,9 +1461,9 @@
         "grade": "B"
     },
     "aeziahh on tt": {
-        "safety": 113,
-        "races": 1,
-        "contacts": 4,
+        "safety": 105,
+        "races": 2,
+        "contacts": 6,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -1476,12 +1477,12 @@
         "grade": "B"
     },
     "alerelinque": {
-        "safety": 85,
-        "races": 2,
-        "contacts": 10,
+        "safety": 73,
+        "races": 3,
+        "contacts": 13,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
-        "grade": "D"
+        "grade": "E"
     },
     "Sanka972": {
         "safety": 101,
