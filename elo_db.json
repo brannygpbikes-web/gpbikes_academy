@@ -6,10 +6,10 @@
         "podiums": 0
     },
     "branny": {
-        "elo": 1095,
-        "wins": 14,
-        "races": 32,
-        "podiums": 21
+        "elo": 1107,
+        "wins": 15,
+        "races": 33,
+        "podiums": 22
     },
     "non1nr": {
         "elo": 1028,
@@ -66,10 +66,10 @@
         "podiums": 0
     },
     "Ibai Merino": {
-        "elo": 990,
+        "elo": 997,
         "wins": 0,
-        "races": 2,
-        "podiums": 0
+        "races": 3,
+        "podiums": 1
     },
     "Simone Ghilardini": {
         "elo": 1015,
@@ -294,9 +294,9 @@
         "podiums": 0
     },
     "sbara": {
-        "elo": 1060,
+        "elo": 1059,
         "wins": 3,
-        "races": 21,
+        "races": 22,
         "podiums": 12
     },
     "Danislav1746": {
@@ -306,9 +306,9 @@
         "podiums": 14
     },
     "AL": {
-        "elo": 1057,
+        "elo": 1047,
         "wins": 0,
-        "races": 18,
+        "races": 19,
         "podiums": 7
     },
     "FastAF": {
@@ -732,10 +732,10 @@
         "podiums": 1
     },
     "moleo": {
-        "elo": 1087,
+        "elo": 1094,
         "wins": 5,
-        "races": 15,
-        "podiums": 10
+        "races": 16,
+        "podiums": 11
     },
     "JM": {
         "elo": 995,
@@ -1062,9 +1062,9 @@
         "podiums": 0
     },
     "Smurruf": {
-        "elo": 1002,
+        "elo": 999,
         "wins": 0,
-        "races": 1,
+        "races": 2,
         "podiums": 0
     },
     "nick": {
@@ -1153,6 +1153,12 @@
     },
     "Oniriss": {
         "elo": 993,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
+    },
+    "sergioo14": {
+        "elo": 988,
         "wins": 0,
         "races": 1,
         "podiums": 0

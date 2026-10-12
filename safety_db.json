@@ -1,9 +1,9 @@
 {
     "branny": {
-        "safety": 187,
-        "races": 29,
+        "safety": 197,
+        "races": 30,
         "contacts": 29,
-        "clean_races": 16,
+        "clean_races": 17,
         "large_lobby_clean_streak": 0,
         "grade": "A"
     },
@@ -76,12 +76,12 @@
         "grade": "B"
     },
     "AL": {
-        "safety": 175,
-        "races": 16,
+        "safety": 185,
+        "races": 17,
         "contacts": 22,
-        "clean_races": 9,
+        "clean_races": 10,
         "large_lobby_clean_streak": 0,
-        "grade": "B"
+        "grade": "A"
     },
     "Jardoo": {
         "safety": 139,
@@ -568,12 +568,12 @@
         "grade": "C"
     },
     "sbara": {
-        "safety": 183,
-        "races": 18,
-        "contacts": 15,
+        "safety": 177,
+        "races": 19,
+        "contacts": 17,
         "clean_races": 10,
         "large_lobby_clean_streak": 0,
-        "grade": "A"
+        "grade": "B"
     },
     "N1rmata": {
         "safety": 92,
@@ -713,9 +713,9 @@
         "grade": "C"
     },
     "moleo": {
-        "safety": 119,
-        "races": 12,
-        "contacts": 13,
+        "safety": 116,
+        "races": 13,
+        "contacts": 14,
         "clean_races": 4,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -1272,9 +1272,9 @@
         "grade": "D"
     },
     "Smurruf": {
-        "safety": 119,
-        "races": 1,
-        "contacts": 2,
+        "safety": 113,
+        "races": 2,
+        "contacts": 4,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -1410,6 +1410,22 @@
         "grade": "C"
     },
     "Oniriss": {
+        "safety": 122,
+        "races": 1,
+        "contacts": 1,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "C"
+    },
+    "sergioo14": {
+        "safety": 135,
+        "races": 1,
+        "contacts": 0,
+        "clean_races": 1,
+        "large_lobby_clean_streak": 0,
+        "grade": "B"
+    },
+    "Ibai Merino": {
         "safety": 122,
         "races": 1,
         "contacts": 1,

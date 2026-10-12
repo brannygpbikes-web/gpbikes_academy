@@ -53,6 +53,15 @@
             "track": "",
             "finish": 1,
             "race_id": "b2ce8e758cbb7b34300311838ffb1ac5282abdf3eb64e104f9d427c901fe498c"
+        },
+        {
+            "date": "2026-10-12T16:17:35",
+            "elo": 1094,
+            "elo_before": 1087,
+            "change": 7,
+            "track": "",
+            "finish": 2,
+            "race_id": "8902a1c9cfb69feaacfeb73bf65d77d866b24a0288f92fb52ef13ae56fe7720e"
         }
     ],
     "patrickfaderl98": [
@@ -479,6 +488,15 @@
             "track": "",
             "finish": 3,
             "race_id": "b2ce8e758cbb7b34300311838ffb1ac5282abdf3eb64e104f9d427c901fe498c"
+        },
+        {
+            "date": "2026-10-12T16:17:35",
+            "elo": 1059,
+            "elo_before": 1060,
+            "change": -1,
+            "track": "",
+            "finish": 4,
+            "race_id": "8902a1c9cfb69feaacfeb73bf65d77d866b24a0288f92fb52ef13ae56fe7720e"
         }
     ],
     "vegasan88": [
@@ -1895,6 +1913,15 @@
             "track": "",
             "finish": 10,
             "race_id": "7f4a5916517f5e0d77f6d9ac532392866a831247a483e27c0eddaf80b3eab6a8"
+        },
+        {
+            "date": "2026-10-12T16:17:35",
+            "elo": 1107,
+            "elo_before": 1095,
+            "change": 12,
+            "track": "",
+            "finish": 1,
+            "race_id": "8902a1c9cfb69feaacfeb73bf65d77d866b24a0288f92fb52ef13ae56fe7720e"
         }
     ],
     "tobimayer29 on ig": [
@@ -3014,6 +3041,15 @@
             "track": "",
             "finish": 12,
             "race_id": "26c20c9dc1ffe1372fc465727915c59f11deae7bcdf390d5818930c77d50f4fe"
+        },
+        {
+            "date": "2026-10-12T16:17:35",
+            "elo": 1047,
+            "elo_before": 1057,
+            "change": -10,
+            "track": "",
+            "finish": 6,
+            "race_id": "8902a1c9cfb69feaacfeb73bf65d77d866b24a0288f92fb52ef13ae56fe7720e"
         }
     ],
     "Eder Merino": [
@@ -4237,6 +4273,15 @@
             "track": "",
             "finish": 10,
             "race_id": "9ebdde2199cb1e3bf6fbec162ca6c51dd6e13ac77cf4f9a1b5a30dc4ed8f692b"
+        },
+        {
+            "date": "2026-10-12T16:17:35",
+            "elo": 999,
+            "elo_before": 1002,
+            "change": -3,
+            "track": "",
+            "finish": 5,
+            "race_id": "8902a1c9cfb69feaacfeb73bf65d77d866b24a0288f92fb52ef13ae56fe7720e"
         }
     ],
     "jpspeed16": [
@@ -4798,6 +4843,28 @@
             "track": "",
             "finish": 4,
             "race_id": "b2ce8e758cbb7b34300311838ffb1ac5282abdf3eb64e104f9d427c901fe498c"
+        }
+    ],
+    "Ibai Merino": [
+        {
+            "date": "2026-10-12T16:17:35",
+            "elo": 997,
+            "elo_before": 990,
+            "change": 7,
+            "track": "",
+            "finish": 3,
+            "race_id": "8902a1c9cfb69feaacfeb73bf65d77d866b24a0288f92fb52ef13ae56fe7720e"
+        }
+    ],
+    "sergioo14": [
+        {
+            "date": "2026-10-12T16:17:35",
+            "elo": 988,
+            "elo_before": 1000,
+            "change": -12,
+            "track": "",
+            "finish": 7,
+            "race_id": "8902a1c9cfb69feaacfeb73bf65d77d866b24a0288f92fb52ef13ae56fe7720e"
         }
     ]
 }
