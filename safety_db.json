@@ -76,9 +76,9 @@
         "grade": "B"
     },
     "AL": {
-        "safety": 173,
-        "races": 21,
-        "contacts": 31,
+        "safety": 158,
+        "races": 22,
+        "contacts": 36,
         "clean_races": 11,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -92,9 +92,9 @@
         "grade": "B"
     },
     "tobimayer29 on ig": {
-        "safety": 141,
-        "races": 17,
-        "contacts": 29,
+        "safety": 138,
+        "races": 18,
+        "contacts": 30,
         "clean_races": 6,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -115,9 +115,9 @@
         "grade": "B"
     },
     "Simone Ghilardini": {
-        "safety": 173,
-        "races": 46,
-        "contacts": 53,
+        "safety": 164,
+        "races": 47,
+        "contacts": 56,
         "clean_races": 23,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -312,17 +312,17 @@
         "grade": "E"
     },
     "Miquel_Sinke60": {
-        "safety": 44,
-        "races": 27,
-        "contacts": 53,
+        "safety": 38,
+        "races": 28,
+        "contacts": 55,
         "clean_races": 5,
         "large_lobby_clean_streak": 0,
         "grade": "E"
     },
     "moe": {
-        "safety": 194,
-        "races": 35,
-        "contacts": 34,
+        "safety": 185,
+        "races": 36,
+        "contacts": 37,
         "clean_races": 18,
         "large_lobby_clean_streak": 0,
         "grade": "A"
@@ -398,9 +398,9 @@
         "grade": "C"
     },
     "Cummin Jizzwood": {
-        "safety": 90,
-        "races": 5,
-        "contacts": 11,
+        "safety": 81,
+        "races": 6,
+        "contacts": 14,
         "clean_races": 1,
         "large_lobby_clean_streak": 0,
         "grade": "D"
@@ -552,11 +552,11 @@
         "grade": "B"
     },
     "Nuno": {
-        "safety": 130,
-        "races": 27,
+        "safety": 152,
+        "races": 28,
         "contacts": 34,
-        "clean_races": 10,
-        "large_lobby_clean_streak": 1,
+        "clean_races": 11,
+        "large_lobby_clean_streak": 2,
         "grade": "B"
     },
     "vNoHxpe_KJ45": {
@@ -673,9 +673,9 @@
         "grade": "B"
     },
     "tacticworks": {
-        "safety": 99,
-        "races": 12,
-        "contacts": 21,
+        "safety": 96,
+        "races": 13,
+        "contacts": 22,
         "clean_races": 3,
         "large_lobby_clean_streak": 0,
         "grade": "D"
@@ -860,12 +860,12 @@
         "grade": "B"
     },
     "jessedollo17": {
-        "safety": 165,
-        "races": 2,
-        "contacts": 0,
+        "safety": 153,
+        "races": 3,
+        "contacts": 4,
         "clean_races": 2,
         "grade": "B",
-        "large_lobby_clean_streak": 1
+        "large_lobby_clean_streak": 0
     },
     "Dimitry": {
         "safety": 43,
@@ -1049,9 +1049,9 @@
         "grade": "B"
     },
     "d9rko": {
-        "safety": 122,
-        "races": 6,
-        "contacts": 11,
+        "safety": 119,
+        "races": 7,
+        "contacts": 12,
         "clean_races": 2,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -1113,17 +1113,17 @@
         "grade": "B"
     },
     "Emir Eyupoglu": {
-        "safety": 59,
-        "races": 23,
-        "contacts": 42,
+        "safety": 53,
+        "races": 24,
+        "contacts": 44,
         "clean_races": 4,
         "large_lobby_clean_streak": 0,
         "grade": "E"
     },
     "SrPomit": {
-        "safety": 122,
-        "races": 15,
-        "contacts": 25,
+        "safety": 113,
+        "races": 16,
+        "contacts": 28,
         "clean_races": 4,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -1265,9 +1265,9 @@
         "grade": "B"
     },
     "ElDiablo": {
-        "safety": 89,
-        "races": 3,
-        "contacts": 12,
+        "safety": 77,
+        "races": 4,
+        "contacts": 16,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "D"
@@ -1457,5 +1457,21 @@
         "clean_races": 1,
         "large_lobby_clean_streak": 1,
         "grade": "B"
+    },
+    "aeziahh on tt": {
+        "safety": 113,
+        "races": 1,
+        "contacts": 4,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "C"
+    },
+    "AngeLo": {
+        "safety": 119,
+        "races": 1,
+        "contacts": 2,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "C"
     }
 }
