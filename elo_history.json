@@ -291,6 +291,15 @@
             "track": "",
             "finish": 21,
             "race_id": "37d69073a98e9af86f4bbd28102b6681cfc38b2ce3c5a3858cd02cd295151d11"
+        },
+        {
+            "date": "2026-10-12T20:06:59",
+            "elo": 918,
+            "elo_before": 924,
+            "change": -6,
+            "track": "",
+            "finish": 5,
+            "race_id": "342a4e02e10ccf3228b890b4f079594527537ea07aeeae9a1fc9997a20fb2e31"
         }
     ],
     "Danny Hinkelmann14": [
@@ -2462,6 +2471,15 @@
             "track": "",
             "finish": 3,
             "race_id": "a548e4b631c9ee8d42a1a881ee59d4db4f30b7bd806e39913f40fed25e8909ae"
+        },
+        {
+            "date": "2026-10-12T20:06:59",
+            "elo": 1136,
+            "elo_before": 1131,
+            "change": 5,
+            "track": "",
+            "finish": 1,
+            "race_id": "342a4e02e10ccf3228b890b4f079594527537ea07aeeae9a1fc9997a20fb2e31"
         }
     ],
     "tobimayer29 on ig": [
@@ -3144,6 +3162,15 @@
             "track": "",
             "finish": 11,
             "race_id": "8e35fc77787aa8ac567439048315cb02bc861c21e5d65873072a27eda9f9e973"
+        },
+        {
+            "date": "2026-10-12T20:06:59",
+            "elo": 965,
+            "elo_before": 964,
+            "change": 1,
+            "track": "",
+            "finish": 3,
+            "race_id": "342a4e02e10ccf3228b890b4f079594527537ea07aeeae9a1fc9997a20fb2e31"
         }
     ],
     "Rayo__Wombat": [
@@ -5495,6 +5522,15 @@
             "track": "",
             "finish": 5,
             "race_id": "99ec25acfeac337ee1bcc7538d0cceb82f0724aecfc275b1d0b754db9d99bede"
+        },
+        {
+            "date": "2026-10-12T20:06:59",
+            "elo": 1017,
+            "elo_before": 1013,
+            "change": 4,
+            "track": "",
+            "finish": 2,
+            "race_id": "342a4e02e10ccf3228b890b4f079594527537ea07aeeae9a1fc9997a20fb2e31"
         }
     ],
     "Smurruf": [
@@ -6538,6 +6574,17 @@
             "track": "",
             "finish": 6,
             "race_id": "99ec25acfeac337ee1bcc7538d0cceb82f0724aecfc275b1d0b754db9d99bede"
+        }
+    ],
+    "Woetoe": [
+        {
+            "date": "2026-10-12T20:06:59",
+            "elo": 996,
+            "elo_before": 1000,
+            "change": -4,
+            "track": "",
+            "finish": 4,
+            "race_id": "342a4e02e10ccf3228b890b4f079594527537ea07aeeae9a1fc9997a20fb2e31"
         }
     ]
 }

@@ -1,9 +1,9 @@
 {
     "branny": {
-        "safety": 220,
-        "races": 35,
+        "safety": 225,
+        "races": 36,
         "contacts": 32,
-        "clean_races": 19,
+        "clean_races": 20,
         "large_lobby_clean_streak": 0,
         "grade": "A"
     },
@@ -870,10 +870,10 @@
         "large_lobby_clean_streak": 1
     },
     "Dimitry": {
-        "safety": 43,
-        "races": 9,
+        "safety": 48,
+        "races": 10,
         "contacts": 25,
-        "clean_races": 1,
+        "clean_races": 2,
         "large_lobby_clean_streak": 0,
         "grade": "E"
     },
@@ -979,10 +979,10 @@
         "grade": "C"
     },
     "collinlanger96": {
-        "safety": 103,
-        "races": 10,
+        "safety": 108,
+        "races": 11,
         "contacts": 21,
-        "clean_races": 2,
+        "clean_races": 3,
         "large_lobby_clean_streak": 0,
         "grade": "C"
     },
@@ -1283,9 +1283,9 @@
         "grade": "B"
     },
     "Fick dich Kohlin": {
-        "safety": 98,
-        "races": 5,
-        "contacts": 15,
+        "safety": 94,
+        "races": 6,
+        "contacts": 16,
         "clean_races": 1,
         "large_lobby_clean_streak": 0,
         "grade": "D"
@@ -1488,6 +1488,14 @@
         "safety": 101,
         "races": 2,
         "contacts": 6,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "C"
+    },
+    "Woetoe": {
+        "safety": 121,
+        "races": 1,
+        "contacts": 1,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"

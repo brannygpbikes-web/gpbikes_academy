@@ -6,10 +6,10 @@
         "podiums": 0
     },
     "branny": {
-        "elo": 1131,
-        "wins": 17,
-        "races": 38,
-        "podiums": 25
+        "elo": 1136,
+        "wins": 18,
+        "races": 39,
+        "podiums": 26
     },
     "non1nr": {
         "elo": 1028,
@@ -366,10 +366,10 @@
         "podiums": 1
     },
     "Dimitry": {
-        "elo": 964,
+        "elo": 965,
         "wins": 0,
-        "races": 12,
-        "podiums": 1
+        "races": 13,
+        "podiums": 2
     },
     "Wally": {
         "elo": 1032,
@@ -870,9 +870,9 @@
         "podiums": 0
     },
     "collinlanger96": {
-        "elo": 924,
+        "elo": 918,
         "wins": 0,
-        "races": 10,
+        "races": 11,
         "podiums": 2
     },
     "skalf": {
@@ -1056,10 +1056,10 @@
         "podiums": 0
     },
     "Fick dich Kohlin": {
-        "elo": 1013,
+        "elo": 1017,
         "wins": 0,
-        "races": 4,
-        "podiums": 0
+        "races": 5,
+        "podiums": 1
     },
     "Smurruf": {
         "elo": 1001,
@@ -1209,6 +1209,12 @@
         "elo": 984,
         "wins": 0,
         "races": 2,
+        "podiums": 0
+    },
+    "Woetoe": {
+        "elo": 996,
+        "wins": 0,
+        "races": 1,
         "podiums": 0
     }
 }
