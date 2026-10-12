@@ -44,13 +44,6 @@
       #profile { padding: 16px 14px 20px; }
     }
     /* Safety score - colour coded by grade */
-    .profile-safety-score.safety-s { color: #008c2a; }
-    .profile-safety-score.safety-a { color: #00e52b; }
-    .profile-safety-score.safety-b { color: #a7e600; }
-    .profile-safety-score.safety-c { color: #ffd21c; }
-    .profile-safety-score.safety-d { color: #ff851b; }
-    .profile-safety-score.safety-e { color: #ef3340; }
-    .profile-safety-score.safety-none { color: #8b929d; }
 
 
   </style>
@@ -82,10 +75,9 @@ const n=(v,d=1)=>v==null?"—":Number(v).toFixed(d).replace(/\.0$/,"");
 const pos=v=>v==null?"—":v+({1:"st",2:"nd",3:"rd"}[v]||"th");
 const lap=v=>{if(v==null)return"—";let m=Math.floor(v/60),s=v-m*60;return m?m+":"+s.toFixed(3).padStart(6,"0"):s.toFixed(3)+"s"};
 function safetyBadge(v, suppliedGrade){
-  if(v==null)return '<span class="profile-safety-score safety-none">—</span>';
+  if(v==null)return "—";
   const g=String(suppliedGrade??"").trim().toUpperCase();
-  const valid=/^[SABCDE]$/.test(g);
-  return `<span class="profile-safety-score safety-${valid?g.toLowerCase():"none"}">${esc(v)}</span>`;
+  return `${esc(v)}${/^[SABCDE]$/.test(g)?" "+g:""}`;
 }
 function find(obj,name){if(!obj)return null;if(obj[name]!=null)return obj[name];const k=Object.keys(obj).find(k=>k.toLowerCase()===name.toLowerCase());return k?obj[k]:null}
 async function j(name,opt=false){try{const r=await fetch(BASE+name+"?v="+Date.now(),{cache:"no-store"});if(!r.ok)throw Error(name);return await r.json()}catch(e){if(opt)return{};throw e}}
