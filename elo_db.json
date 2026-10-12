@@ -294,10 +294,10 @@
         "podiums": 0
     },
     "sbara": {
-        "elo": 1064,
+        "elo": 1060,
         "wins": 3,
-        "races": 20,
-        "podiums": 11
+        "races": 21,
+        "podiums": 12
     },
     "Danislav1746": {
         "elo": 1146,
@@ -732,10 +732,10 @@
         "podiums": 1
     },
     "moleo": {
-        "elo": 1080,
-        "wins": 4,
-        "races": 14,
-        "podiums": 9
+        "elo": 1087,
+        "wins": 5,
+        "races": 15,
+        "podiums": 10
     },
     "JM": {
         "elo": 995,
@@ -1144,5 +1144,17 @@
         "wins": 0,
         "races": 1,
         "podiums": 1
+    },
+    "Rattapol": {
+        "elo": 1004,
+        "wins": 0,
+        "races": 1,
+        "podiums": 1
+    },
+    "Oniriss": {
+        "elo": 993,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
     }
 }

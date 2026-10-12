@@ -44,6 +44,15 @@
             "track": "",
             "finish": 3,
             "race_id": "5cbb334f8b94e23ef8f8cb22fcc80883aa055fcf4ffd318c13461bf3ab80131b"
+        },
+        {
+            "date": "2026-10-12T16:02:19",
+            "elo": 1087,
+            "elo_before": 1080,
+            "change": 7,
+            "track": "",
+            "finish": 1,
+            "race_id": "b2ce8e758cbb7b34300311838ffb1ac5282abdf3eb64e104f9d427c901fe498c"
         }
     ],
     "patrickfaderl98": [
@@ -461,6 +470,15 @@
             "track": "",
             "finish": 1,
             "race_id": "4e69f4b204819f98f281a6f044feaf8d50405e9b795068e50f363b06e45f53c6"
+        },
+        {
+            "date": "2026-10-12T16:02:19",
+            "elo": 1060,
+            "elo_before": 1064,
+            "change": -4,
+            "track": "",
+            "finish": 3,
+            "race_id": "b2ce8e758cbb7b34300311838ffb1ac5282abdf3eb64e104f9d427c901fe498c"
         }
     ],
     "vegasan88": [
@@ -4758,6 +4776,28 @@
             "track": "",
             "finish": 3,
             "race_id": "69f2db9cc6b94f1ed1610b5d746fa3cd283ec26df0356a88b8ba3c6fcaffd696"
+        }
+    ],
+    "Rattapol": [
+        {
+            "date": "2026-10-12T16:02:19",
+            "elo": 1004,
+            "elo_before": 1000,
+            "change": 4,
+            "track": "",
+            "finish": 2,
+            "race_id": "b2ce8e758cbb7b34300311838ffb1ac5282abdf3eb64e104f9d427c901fe498c"
+        }
+    ],
+    "Oniriss": [
+        {
+            "date": "2026-10-12T16:02:19",
+            "elo": 993,
+            "elo_before": 1000,
+            "change": -7,
+            "track": "",
+            "finish": 4,
+            "race_id": "b2ce8e758cbb7b34300311838ffb1ac5282abdf3eb64e104f9d427c901fe498c"
         }
     ]
 }
