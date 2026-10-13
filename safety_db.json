@@ -137,10 +137,10 @@
         "grade": "B"
     },
     "AhyaAL": {
-        "safety": 288,
-        "races": 45,
+        "safety": 293,
+        "races": 46,
         "contacts": 37,
-        "clean_races": 23,
+        "clean_races": 24,
         "large_lobby_clean_streak": 0,
         "grade": "S"
     },
@@ -683,10 +683,10 @@
         "grade": "E"
     },
     "troyalberto9": {
-        "safety": 109,
-        "races": 16,
+        "safety": 114,
+        "races": 17,
         "contacts": 19,
-        "clean_races": 4,
+        "clean_races": 5,
         "large_lobby_clean_streak": 0,
         "grade": "C"
     },
@@ -745,10 +745,10 @@
         "grade": "B"
     },
     "Rk_44": {
-        "safety": 167,
-        "races": 16,
+        "safety": 172,
+        "races": 17,
         "contacts": 12,
-        "clean_races": 9,
+        "clean_races": 10,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     },
@@ -1469,10 +1469,10 @@
         "grade": "C"
     },
     "AngeLo": {
-        "safety": 139,
-        "races": 2,
+        "safety": 144,
+        "races": 3,
         "contacts": 2,
-        "clean_races": 1,
+        "clean_races": 2,
         "large_lobby_clean_streak": 1,
         "grade": "B"
     },
