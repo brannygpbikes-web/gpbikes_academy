@@ -92,12 +92,12 @@
         "grade": "B"
     },
     "tobimayer29 on ig": {
-        "safety": 75,
-        "races": 25,
-        "contacts": 56,
+        "safety": 66,
+        "races": 26,
+        "contacts": 60,
         "clean_races": 6,
         "large_lobby_clean_streak": 0,
-        "grade": "D"
+        "grade": "E"
     },
     "RaK": {
         "safety": 240,
@@ -123,9 +123,9 @@
         "grade": "B"
     },
     "EgoMan": {
-        "safety": 108,
-        "races": 24,
-        "contacts": 47,
+        "safety": 105,
+        "races": 25,
+        "contacts": 49,
         "clean_races": 8,
         "grade": "C",
         "large_lobby_clean_streak": 0
@@ -377,17 +377,17 @@
         "grade": "B"
     },
     "aleso262004": {
-        "safety": 80,
-        "races": 8,
-        "contacts": 35,
+        "safety": 71,
+        "races": 9,
+        "contacts": 39,
         "clean_races": 2,
         "large_lobby_clean_streak": 0,
-        "grade": "D"
+        "grade": "E"
     },
     "MARCO": {
-        "safety": 54,
-        "races": 9,
-        "contacts": 28,
+        "safety": 30,
+        "races": 10,
+        "contacts": 37,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "E"
@@ -469,11 +469,12 @@
         "grade": "D"
     },
     "Dani": {
-        "safety": 40,
-        "races": 6,
-        "contacts": 20,
+        "safety": 34,
+        "races": 7,
+        "contacts": 23,
         "clean_races": 0,
-        "grade": "E"
+        "grade": "E",
+        "large_lobby_clean_streak": 0
     },
     "21vitalio": {
         "safety": 86,
@@ -1464,9 +1465,9 @@
         "grade": "B"
     },
     "aeziahh on tt": {
-        "safety": 99,
-        "races": 5,
-        "contacts": 15,
+        "safety": 84,
+        "races": 6,
+        "contacts": 21,
         "clean_races": 1,
         "large_lobby_clean_streak": 0,
         "grade": "D"
@@ -1520,9 +1521,9 @@
         "grade": "C"
     },
     "Sergi04ab": {
-        "safety": 62,
-        "races": 9,
-        "contacts": 21,
+        "safety": 47,
+        "races": 10,
+        "contacts": 27,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "E"
