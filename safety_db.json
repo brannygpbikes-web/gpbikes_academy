@@ -92,9 +92,9 @@
         "grade": "B"
     },
     "tobimayer29 on ig": {
-        "safety": 66,
-        "races": 26,
-        "contacts": 60,
+        "safety": 30,
+        "races": 28,
+        "contacts": 74,
         "clean_races": 6,
         "large_lobby_clean_streak": 0,
         "grade": "E"
@@ -124,8 +124,8 @@
     },
     "EgoMan": {
         "safety": 105,
-        "races": 25,
-        "contacts": 49,
+        "races": 27,
+        "contacts": 51,
         "clean_races": 8,
         "grade": "C",
         "large_lobby_clean_streak": 0
@@ -378,16 +378,16 @@
     },
     "aleso262004": {
         "safety": 71,
-        "races": 9,
-        "contacts": 39,
+        "races": 11,
+        "contacts": 41,
         "clean_races": 2,
         "large_lobby_clean_streak": 0,
         "grade": "E"
     },
     "MARCO": {
-        "safety": 30,
-        "races": 10,
-        "contacts": 37,
+        "safety": 0,
+        "races": 12,
+        "contacts": 51,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "E"
@@ -469,9 +469,9 @@
         "grade": "D"
     },
     "Dani": {
-        "safety": 34,
-        "races": 7,
-        "contacts": 23,
+        "safety": 28,
+        "races": 9,
+        "contacts": 27,
         "clean_races": 0,
         "grade": "E",
         "large_lobby_clean_streak": 0
@@ -749,12 +749,12 @@
         "grade": "B"
     },
     "Rk_44": {
-        "safety": 171,
-        "races": 24,
+        "safety": 191,
+        "races": 26,
         "contacts": 25,
-        "clean_races": 12,
+        "clean_races": 14,
         "large_lobby_clean_streak": 0,
-        "grade": "B"
+        "grade": "A"
     },
     "JM": {
         "safety": 125,
@@ -1064,8 +1064,8 @@
     },
     "Maximo Giro": {
         "safety": 157,
-        "races": 4,
-        "contacts": 2,
+        "races": 6,
+        "contacts": 4,
         "clean_races": 2,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -1465,9 +1465,9 @@
         "grade": "B"
     },
     "aeziahh on tt": {
-        "safety": 84,
-        "races": 6,
-        "contacts": 21,
+        "safety": 78,
+        "races": 8,
+        "contacts": 25,
         "clean_races": 1,
         "large_lobby_clean_streak": 0,
         "grade": "D"
@@ -1521,9 +1521,9 @@
         "grade": "C"
     },
     "Sergi04ab": {
-        "safety": 47,
-        "races": 10,
-        "contacts": 27,
+        "safety": 35,
+        "races": 12,
+        "contacts": 33,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "E"
@@ -1638,6 +1638,14 @@
         "contacts": 0,
         "clean_races": 2,
         "large_lobby_clean_streak": 2,
+        "grade": "B"
+    },
+    "Kancooi77skins.army": {
+        "safety": 145,
+        "races": 2,
+        "contacts": 0,
+        "clean_races": 2,
+        "large_lobby_clean_streak": 0,
         "grade": "B"
     }
 }

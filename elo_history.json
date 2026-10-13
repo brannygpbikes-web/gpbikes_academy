@@ -2438,6 +2438,15 @@
             "track": "",
             "finish": 6,
             "race_id": "b175041c1a0f9d978ae8498c947d4e5add85d87ef6089f3b1fd991d7156a16d5"
+        },
+        {
+            "date": "2026-10-13T22:58:34",
+            "elo": 876,
+            "elo_before": 881,
+            "change": -5,
+            "track": "",
+            "finish": 8,
+            "race_id": "872dbe525184750142c1a1898c85b8528d7e876f8d2144928eb776db36b35915"
         }
     ],
     "JW2Stupid": [
@@ -3031,6 +3040,15 @@
             "track": "",
             "finish": 4,
             "race_id": "22a85a0091edac7306d746b0b936e4c507e166664676d9fbca0b1bec496b3936"
+        },
+        {
+            "date": "2026-10-13T22:58:34",
+            "elo": 1089,
+            "elo_before": 1078,
+            "change": 11,
+            "track": "",
+            "finish": 1,
+            "race_id": "872dbe525184750142c1a1898c85b8528d7e876f8d2144928eb776db36b35915"
         }
     ],
     "Maximo Giro": [
@@ -3069,6 +3087,15 @@
             "track": "",
             "finish": 2,
             "race_id": "61c0eded66f48e933ab19b95e1198bedaf1c7d6ea2869581e040c7964ed0229b"
+        },
+        {
+            "date": "2026-10-13T22:58:34",
+            "elo": 1016,
+            "elo_before": 1020,
+            "change": -4,
+            "track": "",
+            "finish": 6,
+            "race_id": "872dbe525184750142c1a1898c85b8528d7e876f8d2144928eb776db36b35915"
         }
     ],
     "aeziah divine on tt": [
@@ -6753,6 +6780,15 @@
             "track": "",
             "finish": 2,
             "race_id": "22a85a0091edac7306d746b0b936e4c507e166664676d9fbca0b1bec496b3936"
+        },
+        {
+            "date": "2026-10-13T22:58:34",
+            "elo": 1077,
+            "elo_before": 1073,
+            "change": 4,
+            "track": "",
+            "finish": 3,
+            "race_id": "872dbe525184750142c1a1898c85b8528d7e876f8d2144928eb776db36b35915"
         }
     ],
     "Fick dich Kohlin": [
@@ -8094,6 +8130,15 @@
             "track": "",
             "finish": 7,
             "race_id": "22a85a0091edac7306d746b0b936e4c507e166664676d9fbca0b1bec496b3936"
+        },
+        {
+            "date": "2026-10-13T22:58:34",
+            "elo": 955,
+            "elo_before": 967,
+            "change": -12,
+            "track": "",
+            "finish": 9,
+            "race_id": "872dbe525184750142c1a1898c85b8528d7e876f8d2144928eb776db36b35915"
         }
     ],
     "alerelinque": [
@@ -8418,6 +8463,15 @@
             "track": "",
             "finish": 3,
             "race_id": "22a85a0091edac7306d746b0b936e4c507e166664676d9fbca0b1bec496b3936"
+        },
+        {
+            "date": "2026-10-13T22:58:34",
+            "elo": 1014,
+            "elo_before": 1022,
+            "change": -8,
+            "track": "",
+            "finish": 7,
+            "race_id": "872dbe525184750142c1a1898c85b8528d7e876f8d2144928eb776db36b35915"
         }
     ],
     "SleppyGame23": [
@@ -8854,6 +8908,15 @@
             "track": "",
             "finish": 6,
             "race_id": "22a85a0091edac7306d746b0b936e4c507e166664676d9fbca0b1bec496b3936"
+        },
+        {
+            "date": "2026-10-13T22:58:34",
+            "elo": 943,
+            "elo_before": 940,
+            "change": 3,
+            "track": "",
+            "finish": 5,
+            "race_id": "872dbe525184750142c1a1898c85b8528d7e876f8d2144928eb776db36b35915"
         }
     ],
     "Matteo 42": [
@@ -9012,6 +9075,15 @@
             "track": "",
             "finish": 1,
             "race_id": "22a85a0091edac7306d746b0b936e4c507e166664676d9fbca0b1bec496b3936"
+        },
+        {
+            "date": "2026-10-13T22:58:34",
+            "elo": 1072,
+            "elo_before": 1071,
+            "change": 1,
+            "track": "",
+            "finish": 4,
+            "race_id": "872dbe525184750142c1a1898c85b8528d7e876f8d2144928eb776db36b35915"
         }
     ],
     "MARCO": [
@@ -9023,6 +9095,15 @@
             "track": "",
             "finish": 5,
             "race_id": "22a85a0091edac7306d746b0b936e4c507e166664676d9fbca0b1bec496b3936"
+        },
+        {
+            "date": "2026-10-13T22:58:34",
+            "elo": 1027,
+            "elo_before": 1017,
+            "change": 10,
+            "track": "",
+            "finish": 2,
+            "race_id": "872dbe525184750142c1a1898c85b8528d7e876f8d2144928eb776db36b35915"
         }
     ]
 }
