@@ -2150,6 +2150,15 @@
             "track": "",
             "finish": 4,
             "race_id": "b969a7d2e1cacb7285c1b64f3a24d4fea8ef97ec49805a958ce49f7f6b7b72eb"
+        },
+        {
+            "date": "2026-10-13T17:38:36",
+            "elo": 901,
+            "elo_before": 905,
+            "change": -4,
+            "track": "",
+            "finish": 3,
+            "race_id": "b3006459000fd28d1cfa303183f2ab1f52d7ce43698407f93dc8546e50a117d5"
         }
     ],
     "JW2Stupid": [
@@ -3955,6 +3964,15 @@
             "track": "",
             "finish": 3,
             "race_id": "b969a7d2e1cacb7285c1b64f3a24d4fea8ef97ec49805a958ce49f7f6b7b72eb"
+        },
+        {
+            "date": "2026-10-13T17:38:36",
+            "elo": 987,
+            "elo_before": 987,
+            "change": 0,
+            "track": "",
+            "finish": 2,
+            "race_id": "b3006459000fd28d1cfa303183f2ab1f52d7ce43698407f93dc8546e50a117d5"
         }
     ],
     "SrPomit": [
@@ -6706,6 +6724,15 @@
             "track": "",
             "finish": 1,
             "race_id": "b969a7d2e1cacb7285c1b64f3a24d4fea8ef97ec49805a958ce49f7f6b7b72eb"
+        },
+        {
+            "date": "2026-10-13T17:38:36",
+            "elo": 1014,
+            "elo_before": 1010,
+            "change": 4,
+            "track": "",
+            "finish": 1,
+            "race_id": "b3006459000fd28d1cfa303183f2ab1f52d7ce43698407f93dc8546e50a117d5"
         }
     ],
     "aeziahh on tt": [
