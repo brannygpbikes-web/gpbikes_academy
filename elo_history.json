@@ -5086,6 +5086,15 @@
             "track": "",
             "finish": 10,
             "race_id": "99ec25acfeac337ee1bcc7538d0cceb82f0724aecfc275b1d0b754db9d99bede"
+        },
+        {
+            "date": "2026-10-13T15:30:23",
+            "elo": 989,
+            "elo_before": 984,
+            "change": 5,
+            "track": "",
+            "finish": 1,
+            "race_id": "ae105cd2f9ea7b34b744be8c61a5fe4da51b3800c8defe203ca746b2cfb51cc4"
         }
     ],
     "Lucce39": [
@@ -6530,6 +6539,15 @@
             "track": "",
             "finish": 19,
             "race_id": "37d69073a98e9af86f4bbd28102b6681cfc38b2ce3c5a3858cd02cd295151d11"
+        },
+        {
+            "date": "2026-10-13T15:30:23",
+            "elo": 970,
+            "elo_before": 970,
+            "change": 0,
+            "track": "",
+            "finish": 2,
+            "race_id": "ae105cd2f9ea7b34b744be8c61a5fe4da51b3800c8defe203ca746b2cfb51cc4"
         }
     ],
     "Sanka972": [
@@ -6632,6 +6650,17 @@
             "track": "",
             "finish": 1,
             "race_id": "e4870e8fddbc4eff3a3dcb359d78024cb2464586241ca423e7bbf62a35c3adda"
+        }
+    ],
+    "Flavio Baldacci": [
+        {
+            "date": "2026-10-13T15:30:23",
+            "elo": 995,
+            "elo_before": 1000,
+            "change": -5,
+            "track": "",
+            "finish": 3,
+            "race_id": "ae105cd2f9ea7b34b744be8c61a5fe4da51b3800c8defe203ca746b2cfb51cc4"
         }
     ]
 }

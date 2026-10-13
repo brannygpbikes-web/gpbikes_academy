@@ -1020,10 +1020,10 @@
         "podiums": 0
     },
     "Outrunning Child Support": {
-        "elo": 984,
-        "wins": 1,
-        "races": 5,
-        "podiums": 2
+        "elo": 989,
+        "wins": 2,
+        "races": 6,
+        "podiums": 3
     },
     "Fhalopy": {
         "elo": 977,
@@ -1202,8 +1202,8 @@
     "alerelinque": {
         "elo": 970,
         "wins": 0,
-        "races": 3,
-        "podiums": 0
+        "races": 4,
+        "podiums": 1
     },
     "Sanka972": {
         "elo": 984,
@@ -1222,5 +1222,11 @@
         "wins": 1,
         "races": 2,
         "podiums": 2
+    },
+    "Flavio Baldacci": {
+        "elo": 995,
+        "wins": 0,
+        "races": 1,
+        "podiums": 1
     }
 }

@@ -1219,10 +1219,10 @@
         "grade": "B"
     },
     "Outrunning Child Support": {
-        "safety": 145,
-        "races": 6,
+        "safety": 150,
+        "races": 7,
         "contacts": 6,
-        "clean_races": 3,
+        "clean_races": 4,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     },
@@ -1477,9 +1477,9 @@
         "grade": "B"
     },
     "alerelinque": {
-        "safety": 73,
-        "races": 3,
-        "contacts": 13,
+        "safety": 69,
+        "races": 4,
+        "contacts": 14,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "E"
@@ -1507,5 +1507,13 @@
         "clean_races": 2,
         "large_lobby_clean_streak": 0,
         "grade": "B"
+    },
+    "Flavio Baldacci": {
+        "safety": 121,
+        "races": 1,
+        "contacts": 1,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "C"
     }
 }
