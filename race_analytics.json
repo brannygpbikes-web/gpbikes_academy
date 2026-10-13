@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-13T16:19:24.070358+01:00",
+  "generated_at": "2026-10-13T16:33:30.065821+01:00",
   "summary": {
-    "unique_races": 171,
+    "unique_races": 172,
     "unique_riders": 190,
     "duplicates_skipped": 0,
     "invalid_files_skipped": 1,
@@ -533,21 +533,21 @@
     {
       "guid": "FF01100001729F3168",
       "name": "branny",
-      "races": 37,
+      "races": 38,
       "wins": 20,
-      "podiums": 26,
-      "win_rate": 54.1,
-      "podium_rate": 70.3,
-      "average_finish": 4.676,
-      "average_start": 4.297,
-      "average_positions_gained": -0.378,
+      "podiums": 27,
+      "win_rate": 52.6,
+      "podium_rate": 71.1,
+      "average_finish": 4.605,
+      "average_start": 4.211,
+      "average_positions_gained": -0.395,
       "best_finish": 1,
       "best_recorded_lap": 83.830948,
-      "average_gap_percent": -10.521,
-      "contacts": 33,
-      "contacts_per_race": 0.892,
+      "average_gap_percent": -10.922,
+      "contacts": 38,
+      "contacts_per_race": 1.0,
       "clean_races": 20,
-      "clean_race_percent": 54.1,
+      "clean_race_percent": 52.6,
       "worst_contact_severity": 27.858,
       "tracks": {
         "Sachsenring v1.0b": {
@@ -669,6 +669,14 @@
           "average_finish": 1,
           "contacts": 0,
           "clean_race_percent": 100.0
+        },
+        "Pertamina Mandalika International Circuit v1.2": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 1,
+          "average_finish": 2,
+          "contacts": 5,
+          "clean_race_percent": 0.0
         }
       },
       "bikes": {
@@ -713,6 +721,11 @@
           "podiums": 3
         },
         "Honda CBR600RR": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 1
+        },
+        "Honda NSF250RW 2026": {
           "races": 1,
           "wins": 0,
           "podiums": 1
@@ -894,21 +907,21 @@
     {
       "guid": "FF011000013182150D",
       "name": "Miquel_Sinke60",
-      "races": 35,
-      "wins": 4,
-      "podiums": 15,
-      "win_rate": 11.4,
-      "podium_rate": 42.9,
-      "average_finish": 4.943,
-      "average_start": 4.343,
-      "average_positions_gained": -0.6,
+      "races": 36,
+      "wins": 5,
+      "podiums": 16,
+      "win_rate": 13.9,
+      "podium_rate": 44.4,
+      "average_finish": 4.833,
+      "average_start": 4.278,
+      "average_positions_gained": -0.556,
       "best_finish": 1,
       "best_recorded_lap": 84.689026,
-      "average_gap_percent": -6.071,
-      "contacts": 58,
-      "contacts_per_race": 1.657,
+      "average_gap_percent": -5.881,
+      "contacts": 63,
+      "contacts_per_race": 1.75,
       "clean_races": 10,
-      "clean_race_percent": 28.6,
+      "clean_race_percent": 27.8,
       "worst_contact_severity": 57.7,
       "tracks": {
         "Automotodrom Brno v1.0a": {
@@ -1014,6 +1027,14 @@
           "average_finish": 1,
           "contacts": 4,
           "clean_race_percent": 0.0
+        },
+        "Pertamina Mandalika International Circuit v1.2": {
+          "races": 1,
+          "wins": 1,
+          "podiums": 1,
+          "average_finish": 1,
+          "contacts": 5,
+          "clean_race_percent": 0.0
         }
       },
       "bikes": {
@@ -1048,9 +1069,9 @@
           "podiums": 0
         },
         "Honda NSF250RW 2026": {
-          "races": 4,
-          "wins": 2,
-          "podiums": 2
+          "races": 5,
+          "wins": 3,
+          "podiums": 3
         }
       }
     },
@@ -68813,6 +68834,111 @@
           "rider2": "Sergi04ab",
           "relative_speed": -2.553151,
           "severity": 2.553
+        }
+      ]
+    },
+    {
+      "source_file": "gpb_p1_20261013-163324-Pertamina Mandalika v1.2.xml",
+      "event_timestamp": 1791905604,
+      "date": "2026-10-13T16:33:24+01:00",
+      "event_type": "Race",
+      "track": "Pertamina Mandalika International Circuit v1.2",
+      "track_id": "Pertamina Mandalika v1.2",
+      "track_length_m": 4371.059082,
+      "scheduled_laps": 4,
+      "field_size": 2,
+      "contact_events": 5,
+      "riders": [
+        {
+          "race_num": "60",
+          "name": "Miquel_Sinke60",
+          "bike": "Honda NSF250RW 2026",
+          "category": "Moto3 2026 V0.3",
+          "guid": "FF011000013182150D",
+          "qualifying_position": 2,
+          "qualifying_time": null,
+          "start_position": 2,
+          "finish_position": 1,
+          "positions_gained": 1,
+          "race_time": 412.512146,
+          "laps_completed": 4,
+          "gap_seconds": 0.0,
+          "gap_percent": 0.0,
+          "penalty": 0.0,
+          "fastest_lap": 100.500961,
+          "fastest_lap_number": 3,
+          "speed": 60.208969,
+          "valid_timed_laps": 4,
+          "average_lap": 103.125,
+          "median_lap": 102.342,
+          "lap_consistency_stdev": 2.57,
+          "contacts": 5,
+          "max_contact_severity": 2.648,
+          "average_contact_severity": 1.438
+        },
+        {
+          "race_num": "32",
+          "name": "branny",
+          "bike": "Honda NSF250RW 2026",
+          "category": "Moto3 2026 V0.3",
+          "guid": "FF01100001729F3168",
+          "qualifying_position": 1,
+          "qualifying_time": null,
+          "start_position": 1,
+          "finish_position": 2,
+          "positions_gained": -1,
+          "race_time": 309.577545,
+          "laps_completed": 3,
+          "gap_seconds": -0.215912,
+          "gap_percent": -24.9531,
+          "penalty": 0.0,
+          "fastest_lap": 100.619156,
+          "fastest_lap_number": 3,
+          "speed": 58.87117,
+          "valid_timed_laps": 3,
+          "average_lap": 103.188,
+          "median_lap": 101.28,
+          "lap_consistency_stdev": 3.178,
+          "contacts": 5,
+          "max_contact_severity": 2.648,
+          "average_contact_severity": 1.438
+        }
+      ],
+      "contacts": [
+        {
+          "time_ms": 64793,
+          "rider1": "Miquel_Sinke60",
+          "rider2": "branny",
+          "relative_speed": -2.647908,
+          "severity": 2.648
+        },
+        {
+          "time_ms": 309911,
+          "rider1": "Miquel_Sinke60",
+          "rider2": "branny",
+          "relative_speed": -0.816085,
+          "severity": 0.816
+        },
+        {
+          "time_ms": 322933,
+          "rider1": "Miquel_Sinke60",
+          "rider2": "branny",
+          "relative_speed": -0.73119,
+          "severity": 0.731
+        },
+        {
+          "time_ms": 390183,
+          "rider1": "Miquel_Sinke60",
+          "rider2": "branny",
+          "relative_speed": -2.27576,
+          "severity": 2.276
+        },
+        {
+          "time_ms": 392077,
+          "rider1": "Miquel_Sinke60",
+          "rider2": "branny",
+          "relative_speed": -0.719519,
+          "severity": 0.72
         }
       ]
     }

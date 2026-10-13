@@ -1,8 +1,8 @@
 {
     "branny": {
-        "safety": 230,
-        "races": 37,
-        "contacts": 32,
+        "safety": 210,
+        "races": 38,
+        "contacts": 37,
         "clean_races": 21,
         "large_lobby_clean_streak": 0,
         "grade": "A"
@@ -313,12 +313,12 @@
         "large_lobby_clean_streak": 0
     },
     "Miquel_Sinke60": {
-        "safety": 81,
-        "races": 36,
-        "contacts": 63,
+        "safety": 61,
+        "races": 37,
+        "contacts": 68,
         "clean_races": 10,
         "large_lobby_clean_streak": 0,
-        "grade": "D"
+        "grade": "E"
     },
     "moe": {
         "safety": 205,
