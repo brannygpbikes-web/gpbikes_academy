@@ -115,9 +115,9 @@
         "grade": "B"
     },
     "Simone Ghilardini": {
-        "safety": 155,
-        "races": 48,
-        "contacts": 59,
+        "safety": 151,
+        "races": 49,
+        "contacts": 60,
         "clean_races": 23,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -313,11 +313,11 @@
         "large_lobby_clean_streak": 0
     },
     "Miquel_Sinke60": {
-        "safety": 91,
-        "races": 33,
-        "contacts": 58,
+        "safety": 87,
+        "races": 34,
+        "contacts": 59,
         "clean_races": 9,
-        "large_lobby_clean_streak": 2,
+        "large_lobby_clean_streak": 0,
         "grade": "D"
     },
     "moe": {
@@ -570,12 +570,12 @@
         "grade": "D"
     },
     "sbara": {
-        "safety": 174,
-        "races": 23,
+        "safety": 184,
+        "races": 24,
         "contacts": 23,
-        "clean_races": 11,
+        "clean_races": 12,
         "large_lobby_clean_streak": 0,
-        "grade": "B"
+        "grade": "A"
     },
     "N1rmata": {
         "safety": 72,
@@ -1059,11 +1059,11 @@
         "grade": "D"
     },
     "Maximo Giro": {
-        "safety": 165,
-        "races": 2,
-        "contacts": 0,
+        "safety": 161,
+        "races": 3,
+        "contacts": 1,
         "clean_races": 2,
-        "large_lobby_clean_streak": 1,
+        "large_lobby_clean_streak": 0,
         "grade": "B"
     },
     "aeziah divine on tt": {
@@ -1219,10 +1219,10 @@
         "grade": "B"
     },
     "Outrunning Child Support": {
-        "safety": 150,
-        "races": 7,
+        "safety": 160,
+        "races": 8,
         "contacts": 6,
-        "clean_races": 4,
+        "clean_races": 5,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     },
@@ -1421,9 +1421,9 @@
         "grade": "C"
     },
     "sergioo14": {
-        "safety": 145,
-        "races": 2,
-        "contacts": 0,
+        "safety": 141,
+        "races": 3,
+        "contacts": 1,
         "clean_races": 2,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -1477,12 +1477,12 @@
         "grade": "B"
     },
     "alerelinque": {
-        "safety": 69,
-        "races": 4,
+        "safety": 79,
+        "races": 5,
         "contacts": 14,
-        "clean_races": 0,
+        "clean_races": 1,
         "large_lobby_clean_streak": 0,
-        "grade": "E"
+        "grade": "D"
     },
     "Sanka972": {
         "safety": 101,
@@ -1512,6 +1512,14 @@
         "safety": 121,
         "races": 1,
         "contacts": 1,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "C"
+    },
+    "Sergi04ab": {
+        "safety": 117,
+        "races": 1,
+        "contacts": 2,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"

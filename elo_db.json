@@ -42,9 +42,9 @@
         "podiums": 1
     },
     "Miquel_Sinke60": {
-        "elo": 1100,
+        "elo": 1082,
         "wins": 5,
-        "races": 39,
+        "races": 40,
         "podiums": 18
     },
     "AhyaAL": {
@@ -72,9 +72,9 @@
         "podiums": 1
     },
     "Simone Ghilardini": {
-        "elo": 1003,
+        "elo": 1001,
         "wins": 4,
-        "races": 55,
+        "races": 56,
         "podiums": 17
     },
     "Noa1nl": {
@@ -294,10 +294,10 @@
         "podiums": 0
     },
     "sbara": {
-        "elo": 1057,
+        "elo": 1065,
         "wins": 4,
-        "races": 26,
-        "podiums": 13
+        "races": 27,
+        "podiums": 14
     },
     "Danislav1746": {
         "elo": 1167,
@@ -912,9 +912,9 @@
         "podiums": 2
     },
     "Maximo Giro": {
-        "elo": 1011,
+        "elo": 1013,
         "wins": 0,
-        "races": 2,
+        "races": 3,
         "podiums": 0
     },
     "aeziah divine on tt": {
@@ -1020,10 +1020,10 @@
         "podiums": 0
     },
     "Outrunning Child Support": {
-        "elo": 989,
-        "wins": 2,
-        "races": 6,
-        "podiums": 3
+        "elo": 1005,
+        "wins": 3,
+        "races": 7,
+        "podiums": 4
     },
     "Fhalopy": {
         "elo": 977,
@@ -1158,9 +1158,9 @@
         "podiums": 0
     },
     "sergioo14": {
-        "elo": 975,
+        "elo": 967,
         "wins": 0,
-        "races": 2,
+        "races": 3,
         "podiums": 0
     },
     "Creisi48": {
@@ -1200,10 +1200,10 @@
         "podiums": 0
     },
     "alerelinque": {
-        "elo": 970,
+        "elo": 978,
         "wins": 0,
-        "races": 4,
-        "podiums": 1
+        "races": 5,
+        "podiums": 2
     },
     "Sanka972": {
         "elo": 984,
@@ -1228,5 +1228,11 @@
         "wins": 0,
         "races": 1,
         "podiums": 1
+    },
+    "Sergi04ab": {
+        "elo": 994,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
     }
 }
