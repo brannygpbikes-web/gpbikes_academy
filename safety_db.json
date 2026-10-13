@@ -76,9 +76,9 @@
         "grade": "B"
     },
     "AL": {
-        "safety": 150,
-        "races": 26,
-        "contacts": 42,
+        "safety": 134,
+        "races": 28,
+        "contacts": 50,
         "clean_races": 12,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -92,12 +92,12 @@
         "grade": "B"
     },
     "tobimayer29 on ig": {
-        "safety": 110,
-        "races": 20,
-        "contacts": 37,
+        "safety": 94,
+        "races": 22,
+        "contacts": 45,
         "clean_races": 6,
         "large_lobby_clean_streak": 0,
-        "grade": "C"
+        "grade": "D"
     },
     "RaK": {
         "safety": 240,
@@ -190,9 +190,9 @@
         "grade": "E"
     },
     "Sturdy": {
-        "safety": 207,
-        "races": 25,
-        "contacts": 21,
+        "safety": 187,
+        "races": 27,
+        "contacts": 31,
         "clean_races": 13,
         "large_lobby_clean_streak": 0,
         "grade": "A"
@@ -236,12 +236,12 @@
         "grade": "C"
     },
     "Carrasco": {
-        "safety": 103,
-        "races": 11,
-        "contacts": 21,
+        "safety": 83,
+        "races": 13,
+        "contacts": 31,
         "clean_races": 2,
         "large_lobby_clean_streak": 0,
-        "grade": "C"
+        "grade": "D"
     },
     "KSBR": {
         "safety": 198,
@@ -313,9 +313,9 @@
         "large_lobby_clean_streak": 0
     },
     "Miquel_Sinke60": {
-        "safety": 34,
-        "races": 39,
-        "contacts": 76,
+        "safety": 0,
+        "races": 41,
+        "contacts": 94,
         "clean_races": 11,
         "large_lobby_clean_streak": 0,
         "grade": "E"
@@ -445,12 +445,12 @@
         "grade": "B"
     },
     "Ricoway46": {
-        "safety": 93,
-        "races": 18,
+        "safety": 145,
+        "races": 20,
         "contacts": 28,
-        "clean_races": 4,
-        "large_lobby_clean_streak": 0,
-        "grade": "D"
+        "clean_races": 6,
+        "large_lobby_clean_streak": 2,
+        "grade": "B"
     },
     "Tardos37Racing": {
         "safety": 130,
@@ -578,19 +578,20 @@
         "grade": "A"
     },
     "N1rmata": {
-        "safety": 72,
-        "races": 11,
-        "contacts": 21,
+        "safety": 68,
+        "races": 13,
+        "contacts": 23,
         "clean_races": 3,
         "large_lobby_clean_streak": 0,
         "grade": "E"
     },
     "JKR": {
-        "safety": 100,
-        "races": 2,
-        "contacts": 5,
+        "safety": 96,
+        "races": 4,
+        "contacts": 7,
         "clean_races": 0,
-        "grade": "C"
+        "grade": "D",
+        "large_lobby_clean_streak": 0
     },
     "Honza Ehl": {
         "safety": 121,
@@ -707,19 +708,19 @@
         "grade": "C"
     },
     "titonagom08": {
-        "safety": 100,
-        "races": 6,
-        "contacts": 21,
+        "safety": 96,
+        "races": 8,
+        "contacts": 23,
         "clean_races": 1,
-        "large_lobby_clean_streak": 1,
-        "grade": "C"
+        "large_lobby_clean_streak": 0,
+        "grade": "D"
     },
     "moleo": {
-        "safety": 188,
-        "races": 28,
-        "contacts": 29,
+        "safety": 180,
+        "races": 30,
+        "contacts": 33,
         "clean_races": 11,
-        "large_lobby_clean_streak": 1,
+        "large_lobby_clean_streak": 0,
         "grade": "A"
     },
     "SAGGAs Hemkokta": {
@@ -830,12 +831,12 @@
         "grade": "B"
     },
     "Lucce39": {
-        "safety": 84,
-        "races": 7,
-        "contacts": 14,
+        "safety": 48,
+        "races": 9,
+        "contacts": 32,
         "clean_races": 2,
         "large_lobby_clean_streak": 0,
-        "grade": "D"
+        "grade": "E"
     },
     "will 77": {
         "safety": 77,
@@ -870,9 +871,9 @@
         "large_lobby_clean_streak": 1
     },
     "Dimitry": {
-        "safety": 48,
-        "races": 10,
-        "contacts": 25,
+        "safety": 32,
+        "races": 12,
+        "contacts": 33,
         "clean_races": 2,
         "large_lobby_clean_streak": 0,
         "grade": "E"
@@ -963,11 +964,11 @@
         "grade": "D"
     },
     "Billy Jones": {
-        "safety": 300,
-        "races": 18,
-        "contacts": 11,
+        "safety": 296,
+        "races": 20,
+        "contacts": 13,
         "clean_races": 11,
-        "large_lobby_clean_streak": 1,
+        "large_lobby_clean_streak": 0,
         "grade": "S"
     },
     "Quidel Gaétan": {
@@ -979,9 +980,9 @@
         "grade": "C"
     },
     "collinlanger96": {
-        "safety": 96,
-        "races": 12,
-        "contacts": 24,
+        "safety": 92,
+        "races": 14,
+        "contacts": 26,
         "clean_races": 3,
         "large_lobby_clean_streak": 0,
         "grade": "D"
@@ -1421,9 +1422,9 @@
         "grade": "C"
     },
     "sergioo14": {
-        "safety": 140,
-        "races": 6,
-        "contacts": 5,
+        "safety": 128,
+        "races": 8,
+        "contacts": 11,
         "clean_races": 4,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -1453,11 +1454,11 @@
         "grade": "A"
     },
     "k142000": {
-        "safety": 160,
-        "races": 3,
-        "contacts": 0,
+        "safety": 156,
+        "races": 5,
+        "contacts": 2,
         "clean_races": 3,
-        "large_lobby_clean_streak": 1,
+        "large_lobby_clean_streak": 0,
         "grade": "B"
     },
     "aeziahh on tt": {
@@ -1517,12 +1518,12 @@
         "grade": "C"
     },
     "Sergi04ab": {
-        "safety": 77,
-        "races": 4,
-        "contacts": 12,
+        "safety": 69,
+        "races": 6,
+        "contacts": 16,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
-        "grade": "D"
+        "grade": "E"
     },
     "SleppyGame23": {
         "safety": 113,
@@ -1541,12 +1542,12 @@
         "grade": "C"
     },
     "Fiffi54": {
-        "safety": 115,
-        "races": 3,
-        "contacts": 5,
+        "safety": 99,
+        "races": 5,
+        "contacts": 13,
         "clean_races": 1,
         "large_lobby_clean_streak": 0,
-        "grade": "C"
+        "grade": "D"
     },
     "osss": {
         "safety": 117,
@@ -1565,17 +1566,17 @@
         "grade": "C"
     },
     "Elco letas": {
-        "safety": 121,
-        "races": 1,
-        "contacts": 1,
+        "safety": 117,
+        "races": 3,
+        "contacts": 3,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
     },
     "GFManagment": {
-        "safety": 121,
-        "races": 1,
-        "contacts": 1,
+        "safety": 113,
+        "races": 3,
+        "contacts": 5,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
