@@ -2114,6 +2114,15 @@
             "track": "",
             "finish": 3,
             "race_id": "ca9dfdda39312ded83d58e542aa6d3952ddfb243fdb43d1845442b1fefd280dc"
+        },
+        {
+            "date": "2026-10-13T16:48:46",
+            "elo": 910,
+            "elo_before": 908,
+            "change": 2,
+            "track": "",
+            "finish": 2,
+            "race_id": "f785ac6f58af6b5653d359619c93dff11447b7fd43e8741206cb2c3545b7e9c8"
         }
     ],
     "JW2Stupid": [
@@ -2872,6 +2881,15 @@
             "track": "",
             "finish": 1,
             "race_id": "5c3f501cf38f6938c77c254f3aa486d51dec1a4e7221d06dc1912debd730071b"
+        },
+        {
+            "date": "2026-10-13T16:48:46",
+            "elo": 1077,
+            "elo_before": 1084,
+            "change": -7,
+            "track": "",
+            "finish": 3,
+            "race_id": "f785ac6f58af6b5653d359619c93dff11447b7fd43e8741206cb2c3545b7e9c8"
         }
     ],
     "KSBR": [
@@ -4927,6 +4945,15 @@
             "track": "",
             "finish": 18,
             "race_id": "37d69073a98e9af86f4bbd28102b6681cfc38b2ce3c5a3858cd02cd295151d11"
+        },
+        {
+            "date": "2026-10-13T16:48:46",
+            "elo": 965,
+            "elo_before": 960,
+            "change": 5,
+            "track": "",
+            "finish": 1,
+            "race_id": "f785ac6f58af6b5653d359619c93dff11447b7fd43e8741206cb2c3545b7e9c8"
         }
     ],
     "will 77": [
