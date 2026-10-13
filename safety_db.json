@@ -190,9 +190,9 @@
         "grade": "E"
     },
     "Sturdy": {
-        "safety": 210,
-        "races": 23,
-        "contacts": 19,
+        "safety": 202,
+        "races": 24,
+        "contacts": 21,
         "clean_races": 12,
         "large_lobby_clean_streak": 0,
         "grade": "A"
@@ -437,10 +437,10 @@
         "grade": "D"
     },
     "Rayo__Wombat": {
-        "safety": 155,
-        "races": 25,
+        "safety": 160,
+        "races": 26,
         "contacts": 39,
-        "clean_races": 8,
+        "clean_races": 9,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     },
@@ -691,9 +691,9 @@
         "grade": "C"
     },
     "ola13": {
-        "safety": 177,
-        "races": 18,
-        "contacts": 17,
+        "safety": 173,
+        "races": 19,
+        "contacts": 18,
         "clean_races": 8,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -760,10 +760,10 @@
         "grade": "B"
     },
     "Danislav1746": {
-        "safety": 162,
-        "races": 17,
+        "safety": 167,
+        "races": 18,
         "contacts": 20,
-        "clean_races": 6,
+        "clean_races": 7,
         "large_lobby_clean_streak": 1,
         "grade": "B"
     },
@@ -1520,6 +1520,14 @@
         "safety": 101,
         "races": 3,
         "contacts": 6,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "C"
+    },
+    "SleppyGame23": {
+        "safety": 121,
+        "races": 1,
+        "contacts": 1,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"

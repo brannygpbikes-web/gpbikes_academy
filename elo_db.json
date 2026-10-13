@@ -54,10 +54,10 @@
         "podiums": 22
     },
     "ola13": {
-        "elo": 985,
+        "elo": 991,
         "wins": 2,
-        "races": 19,
-        "podiums": 5
+        "races": 20,
+        "podiums": 6
     },
     "fast46": {
         "elo": 1007,
@@ -138,10 +138,10 @@
         "podiums": 0
     },
     "Rayo__Wombat": {
-        "elo": 1072,
-        "wins": 2,
-        "races": 28,
-        "podiums": 11
+        "elo": 1079,
+        "wins": 3,
+        "races": 29,
+        "podiums": 12
     },
     "Mikrowelle": {
         "elo": 954,
@@ -168,10 +168,10 @@
         "podiums": 13
     },
     "Sturdy": {
-        "elo": 1034,
+        "elo": 1035,
         "wins": 3,
-        "races": 28,
-        "podiums": 14
+        "races": 29,
+        "podiums": 15
     },
     "filipknigge20": {
         "elo": 1117,
@@ -300,9 +300,9 @@
         "podiums": 14
     },
     "Danislav1746": {
-        "elo": 1167,
+        "elo": 1156,
         "wins": 11,
-        "races": 18,
+        "races": 19,
         "podiums": 16
     },
     "AL": {
@@ -1234,5 +1234,11 @@
         "wins": 0,
         "races": 3,
         "podiums": 2
+    },
+    "SleppyGame23": {
+        "elo": 997,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
     }
 }
