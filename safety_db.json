@@ -190,10 +190,10 @@
         "grade": "E"
     },
     "Sturdy": {
-        "safety": 202,
-        "races": 24,
+        "safety": 207,
+        "races": 25,
         "contacts": 21,
-        "clean_races": 12,
+        "clean_races": 13,
         "large_lobby_clean_streak": 0,
         "grade": "A"
     },
@@ -321,11 +321,11 @@
         "grade": "E"
     },
     "moe": {
-        "safety": 205,
-        "races": 37,
-        "contacts": 37,
+        "safety": 201,
+        "races": 38,
+        "contacts": 38,
         "clean_races": 19,
-        "large_lobby_clean_streak": 1,
+        "large_lobby_clean_streak": 0,
         "grade": "A"
     },
     "Zachy12345": {
@@ -691,9 +691,9 @@
         "grade": "C"
     },
     "ola13": {
-        "safety": 173,
-        "races": 19,
-        "contacts": 18,
+        "safety": 169,
+        "races": 20,
+        "contacts": 19,
         "clean_races": 8,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -715,9 +715,9 @@
         "grade": "C"
     },
     "moleo": {
-        "safety": 165,
-        "races": 23,
-        "contacts": 26,
+        "safety": 161,
+        "races": 24,
+        "contacts": 27,
         "clean_races": 8,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -1525,9 +1525,9 @@
         "grade": "C"
     },
     "SleppyGame23": {
-        "safety": 121,
-        "races": 1,
-        "contacts": 1,
+        "safety": 117,
+        "races": 2,
+        "contacts": 2,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"

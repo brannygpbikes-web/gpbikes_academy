@@ -30,9 +30,9 @@
         "podiums": 1
     },
     "moe": {
-        "elo": 1018,
+        "elo": 1015,
         "wins": 1,
-        "races": 39,
+        "races": 40,
         "podiums": 12
     },
     "jackthebikeguy": {
@@ -54,10 +54,10 @@
         "podiums": 22
     },
     "ola13": {
-        "elo": 991,
+        "elo": 992,
         "wins": 2,
-        "races": 20,
-        "podiums": 6
+        "races": 21,
+        "podiums": 7
     },
     "fast46": {
         "elo": 1007,
@@ -168,9 +168,9 @@
         "podiums": 13
     },
     "Sturdy": {
-        "elo": 1035,
+        "elo": 1027,
         "wins": 3,
-        "races": 29,
+        "races": 30,
         "podiums": 15
     },
     "filipknigge20": {
@@ -732,10 +732,10 @@
         "podiums": 1
     },
     "moleo": {
-        "elo": 1135,
-        "wins": 6,
-        "races": 26,
-        "podiums": 17
+        "elo": 1140,
+        "wins": 7,
+        "races": 27,
+        "podiums": 18
     },
     "JM": {
         "elo": 995,
@@ -1236,9 +1236,9 @@
         "podiums": 2
     },
     "SleppyGame23": {
-        "elo": 997,
+        "elo": 1002,
         "wins": 0,
-        "races": 1,
-        "podiums": 0
+        "races": 2,
+        "podiums": 1
     }
 }

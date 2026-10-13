@@ -152,6 +152,15 @@
             "track": "",
             "finish": 2,
             "race_id": "99ec25acfeac337ee1bcc7538d0cceb82f0724aecfc275b1d0b754db9d99bede"
+        },
+        {
+            "date": "2026-10-13T18:25:11",
+            "elo": 1140,
+            "elo_before": 1135,
+            "change": 5,
+            "track": "",
+            "finish": 1,
+            "race_id": "7b54c6e78fbf42bcdc6730a2e4a637e7b4891d55b665129fccad75e8fda713c5"
         }
     ],
     "patrickfaderl98": [
@@ -1309,6 +1318,15 @@
             "track": "",
             "finish": 3,
             "race_id": "55c7990b7b69f7867499339e0adaa7b91b66eb473dab86847c12c12ba1d76a1e"
+        },
+        {
+            "date": "2026-10-13T18:25:11",
+            "elo": 1027,
+            "elo_before": 1035,
+            "change": -8,
+            "track": "",
+            "finish": 5,
+            "race_id": "7b54c6e78fbf42bcdc6730a2e4a637e7b4891d55b665129fccad75e8fda713c5"
         }
     ],
     "Branny": [
@@ -3159,6 +3177,15 @@
             "track": "",
             "finish": 2,
             "race_id": "55c7990b7b69f7867499339e0adaa7b91b66eb473dab86847c12c12ba1d76a1e"
+        },
+        {
+            "date": "2026-10-13T18:25:11",
+            "elo": 992,
+            "elo_before": 991,
+            "change": 1,
+            "track": "",
+            "finish": 3,
+            "race_id": "7b54c6e78fbf42bcdc6730a2e4a637e7b4891d55b665129fccad75e8fda713c5"
         }
     ],
     "izan curia": [
@@ -4525,6 +4552,15 @@
             "track": "",
             "finish": 9,
             "race_id": "4043245cf78b5a3fef0c9952731024bac47b7f9f294e90f92ceeb7fae8c164ff"
+        },
+        {
+            "date": "2026-10-13T18:25:11",
+            "elo": 1015,
+            "elo_before": 1018,
+            "change": -3,
+            "track": "",
+            "finish": 4,
+            "race_id": "7b54c6e78fbf42bcdc6730a2e4a637e7b4891d55b665129fccad75e8fda713c5"
         }
     ],
     "pableko": [
@@ -7007,6 +7043,15 @@
             "track": "",
             "finish": 4,
             "race_id": "55c7990b7b69f7867499339e0adaa7b91b66eb473dab86847c12c12ba1d76a1e"
+        },
+        {
+            "date": "2026-10-13T18:25:11",
+            "elo": 1002,
+            "elo_before": 997,
+            "change": 5,
+            "track": "",
+            "finish": 2,
+            "race_id": "7b54c6e78fbf42bcdc6730a2e4a637e7b4891d55b665129fccad75e8fda713c5"
         }
     ]
 }
