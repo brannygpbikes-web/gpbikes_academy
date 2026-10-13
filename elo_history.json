@@ -170,6 +170,15 @@
             "track": "",
             "finish": 1,
             "race_id": "b0509d729c727bdefd9e54a892f2c3f6957bf7ef5a168814ca9816373b58ded1"
+        },
+        {
+            "date": "2026-10-13T19:02:31",
+            "elo": 1153,
+            "elo_before": 1143,
+            "change": 10,
+            "track": "",
+            "finish": 1,
+            "race_id": "7da43d2729f23f787204fcf6d3dd80b1b8222268fdc54934b868087cef2d3a00"
         }
     ],
     "patrickfaderl98": [
@@ -410,6 +419,15 @@
             "track": "",
             "finish": 1,
             "race_id": "c0c81034c10645d34eef1f1d0320b1abffee0e4cdce142786f8f89ee73b1be69"
+        },
+        {
+            "date": "2026-10-13T19:02:31",
+            "elo": 942,
+            "elo_before": 932,
+            "change": 10,
+            "track": "",
+            "finish": 4,
+            "race_id": "7da43d2729f23f787204fcf6d3dd80b1b8222268fdc54934b868087cef2d3a00"
         }
     ],
     "filipknigge20": [
@@ -3551,6 +3569,15 @@
             "track": "",
             "finish": 1,
             "race_id": "55c7990b7b69f7867499339e0adaa7b91b66eb473dab86847c12c12ba1d76a1e"
+        },
+        {
+            "date": "2026-10-13T19:02:31",
+            "elo": 1060,
+            "elo_before": 1079,
+            "change": -19,
+            "track": "",
+            "finish": 10,
+            "race_id": "7da43d2729f23f787204fcf6d3dd80b1b8222268fdc54934b868087cef2d3a00"
         }
     ],
     "Emir Eyupoglu": [
@@ -4292,6 +4319,15 @@
             "track": "",
             "finish": 10,
             "race_id": "f1e6662ce9bb43f111a765451c5cec9b0f754b47b862d2a4f542747b07659cd3"
+        },
+        {
+            "date": "2026-10-13T19:02:31",
+            "elo": 1010,
+            "elo_before": 1007,
+            "change": 3,
+            "track": "",
+            "finish": 5,
+            "race_id": "7da43d2729f23f787204fcf6d3dd80b1b8222268fdc54934b868087cef2d3a00"
         }
     ],
     "Eder Merino": [
@@ -4939,6 +4975,15 @@
             "track": "",
             "finish": 2,
             "race_id": "68c3309da378a37dfb1d8cdd4ba82dfa359917dcc3aa87fb056e058dd1f7e4b7"
+        },
+        {
+            "date": "2026-10-13T19:02:31",
+            "elo": 1119,
+            "elo_before": 1114,
+            "change": 5,
+            "track": "",
+            "finish": 3,
+            "race_id": "7da43d2729f23f787204fcf6d3dd80b1b8222268fdc54934b868087cef2d3a00"
         }
     ],
     "Spud": [
@@ -5269,6 +5314,15 @@
             "track": "",
             "finish": 6,
             "race_id": "cbecfcbec85187211abb3e5e0292ac2fe4a7a1ded1fd349e830e1dd45dbba0be"
+        },
+        {
+            "date": "2026-10-13T19:02:31",
+            "elo": 984,
+            "elo_before": 991,
+            "change": -7,
+            "track": "",
+            "finish": 8,
+            "race_id": "7da43d2729f23f787204fcf6d3dd80b1b8222268fdc54934b868087cef2d3a00"
         }
     ],
     "NutriaOscura": [
@@ -6783,6 +6837,15 @@
             "track": "",
             "finish": 2,
             "race_id": "b0509d729c727bdefd9e54a892f2c3f6957bf7ef5a168814ca9816373b58ded1"
+        },
+        {
+            "date": "2026-10-13T19:02:31",
+            "elo": 983,
+            "elo_before": 994,
+            "change": -11,
+            "track": "",
+            "finish": 9,
+            "race_id": "7da43d2729f23f787204fcf6d3dd80b1b8222268fdc54934b868087cef2d3a00"
         }
     ],
     "Cummin Jizzwood": [
@@ -7079,6 +7142,37 @@
             "track": "",
             "finish": 2,
             "race_id": "7b54c6e78fbf42bcdc6730a2e4a637e7b4891d55b665129fccad75e8fda713c5"
+        },
+        {
+            "date": "2026-10-13T19:02:31",
+            "elo": 1001,
+            "elo_before": 1002,
+            "change": -1,
+            "track": "",
+            "finish": 6,
+            "race_id": "7da43d2729f23f787204fcf6d3dd80b1b8222268fdc54934b868087cef2d3a00"
+        }
+    ],
+    "CLG21": [
+        {
+            "date": "2026-10-13T19:02:31",
+            "elo": 1014,
+            "elo_before": 1000,
+            "change": 14,
+            "track": "",
+            "finish": 2,
+            "race_id": "7da43d2729f23f787204fcf6d3dd80b1b8222268fdc54934b868087cef2d3a00"
+        }
+    ],
+    "Fiffi54": [
+        {
+            "date": "2026-10-13T19:02:31",
+            "elo": 996,
+            "elo_before": 1000,
+            "change": -4,
+            "track": "",
+            "finish": 7,
+            "race_id": "7da43d2729f23f787204fcf6d3dd80b1b8222268fdc54934b868087cef2d3a00"
         }
     ]
 }

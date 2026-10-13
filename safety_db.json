@@ -76,9 +76,9 @@
         "grade": "B"
     },
     "AL": {
-        "safety": 155,
-        "races": 23,
-        "contacts": 37,
+        "safety": 151,
+        "races": 24,
+        "contacts": 38,
         "clean_races": 11,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -166,9 +166,9 @@
         "grade": "B"
     },
     "Danny Hinkelmann14": {
-        "safety": 27,
-        "races": 20,
-        "contacts": 45,
+        "safety": 23,
+        "races": 21,
+        "contacts": 46,
         "clean_races": 5,
         "large_lobby_clean_streak": 0,
         "grade": "E"
@@ -437,9 +437,9 @@
         "grade": "D"
     },
     "Rayo__Wombat": {
-        "safety": 160,
-        "races": 26,
-        "contacts": 39,
+        "safety": 152,
+        "races": 27,
+        "contacts": 41,
         "clean_races": 9,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -715,10 +715,10 @@
         "grade": "C"
     },
     "moleo": {
-        "safety": 166,
-        "races": 25,
+        "safety": 176,
+        "races": 26,
         "contacts": 27,
-        "clean_races": 9,
+        "clean_races": 10,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     },
@@ -730,9 +730,9 @@
         "grade": "B"
     },
     "NJIRK5211": {
-        "safety": 199,
-        "races": 17,
-        "contacts": 18,
+        "safety": 195,
+        "races": 18,
+        "contacts": 19,
         "clean_races": 9,
         "large_lobby_clean_streak": 0,
         "grade": "A"
@@ -1195,9 +1195,9 @@
         "grade": "B"
     },
     "SeBa_volandO7": {
-        "safety": 122,
-        "races": 1,
-        "contacts": 1,
+        "safety": 118,
+        "races": 2,
+        "contacts": 2,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -1453,10 +1453,10 @@
         "grade": "A"
     },
     "k142000": {
-        "safety": 150,
-        "races": 2,
+        "safety": 160,
+        "races": 3,
         "contacts": 0,
-        "clean_races": 2,
+        "clean_races": 3,
         "large_lobby_clean_streak": 1,
         "grade": "B"
     },
@@ -1525,11 +1525,27 @@
         "grade": "C"
     },
     "SleppyGame23": {
-        "safety": 117,
-        "races": 2,
-        "contacts": 2,
+        "safety": 113,
+        "races": 3,
+        "contacts": 3,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
+    },
+    "CLG21": {
+        "safety": 121,
+        "races": 1,
+        "contacts": 1,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "C"
+    },
+    "Fiffi54": {
+        "safety": 135,
+        "races": 1,
+        "contacts": 0,
+        "clean_races": 1,
+        "large_lobby_clean_streak": 0,
+        "grade": "B"
     }
 }
