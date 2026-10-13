@@ -228,10 +228,10 @@
         "podiums": 0
     },
     "Carrasco": {
-        "elo": 1005,
+        "elo": 1001,
         "wins": 1,
-        "races": 10,
-        "podiums": 3
+        "races": 11,
+        "podiums": 4
     },
     "Ricoway46": {
         "elo": 1064,
@@ -732,10 +732,10 @@
         "podiums": 1
     },
     "moleo": {
-        "elo": 1140,
-        "wins": 7,
-        "races": 27,
-        "podiums": 18
+        "elo": 1143,
+        "wins": 8,
+        "races": 28,
+        "podiums": 19
     },
     "JM": {
         "elo": 995,
@@ -1182,10 +1182,10 @@
         "podiums": 0
     },
     "k142000": {
-        "elo": 993,
+        "elo": 994,
         "wins": 0,
-        "races": 1,
-        "podiums": 0
+        "races": 2,
+        "podiums": 1
     },
     "AngeLo": {
         "elo": 1014,

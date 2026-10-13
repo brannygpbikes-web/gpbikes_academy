@@ -236,9 +236,9 @@
         "grade": "C"
     },
     "Carrasco": {
-        "safety": 107,
-        "races": 10,
-        "contacts": 20,
+        "safety": 103,
+        "races": 11,
+        "contacts": 21,
         "clean_races": 2,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -715,10 +715,10 @@
         "grade": "C"
     },
     "moleo": {
-        "safety": 161,
-        "races": 24,
+        "safety": 166,
+        "races": 25,
         "contacts": 27,
-        "clean_races": 8,
+        "clean_races": 9,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     },
@@ -1453,10 +1453,10 @@
         "grade": "A"
     },
     "k142000": {
-        "safety": 145,
-        "races": 1,
+        "safety": 150,
+        "races": 2,
         "contacts": 0,
-        "clean_races": 1,
+        "clean_races": 2,
         "large_lobby_clean_streak": 1,
         "grade": "B"
     },

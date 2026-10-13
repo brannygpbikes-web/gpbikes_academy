@@ -161,6 +161,15 @@
             "track": "",
             "finish": 1,
             "race_id": "7b54c6e78fbf42bcdc6730a2e4a637e7b4891d55b665129fccad75e8fda713c5"
+        },
+        {
+            "date": "2026-10-13T18:45:12",
+            "elo": 1143,
+            "elo_before": 1140,
+            "change": 3,
+            "track": "",
+            "finish": 1,
+            "race_id": "b0509d729c727bdefd9e54a892f2c3f6957bf7ef5a168814ca9816373b58ded1"
         }
     ],
     "patrickfaderl98": [
@@ -6078,6 +6087,15 @@
             "track": "",
             "finish": 7,
             "race_id": "a548e4b631c9ee8d42a1a881ee59d4db4f30b7bd806e39913f40fed25e8909ae"
+        },
+        {
+            "date": "2026-10-13T18:45:12",
+            "elo": 1001,
+            "elo_before": 1005,
+            "change": -4,
+            "track": "",
+            "finish": 3,
+            "race_id": "b0509d729c727bdefd9e54a892f2c3f6957bf7ef5a168814ca9816373b58ded1"
         }
     ],
     "Pylote": [
@@ -6756,6 +6774,15 @@
             "track": "",
             "finish": 13,
             "race_id": "baeada59459693db9389bfd5f8a9e119f69bedb312e3bd5b9b5e7f3bd4e2f725"
+        },
+        {
+            "date": "2026-10-13T18:45:12",
+            "elo": 994,
+            "elo_before": 993,
+            "change": 1,
+            "track": "",
+            "finish": 2,
+            "race_id": "b0509d729c727bdefd9e54a892f2c3f6957bf7ef5a168814ca9816373b58ded1"
         }
     ],
     "Cummin Jizzwood": [
