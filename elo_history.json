@@ -2619,6 +2619,15 @@
             "track": "",
             "finish": 4,
             "race_id": "2ae7e0dc9bd439d0d1f21097ae021654efe7bd49f9085a2a327aa8ac2fc4e415"
+        },
+        {
+            "date": "2026-10-13T16:00:43",
+            "elo": 1020,
+            "elo_before": 1013,
+            "change": 7,
+            "track": "",
+            "finish": 2,
+            "race_id": "61c0eded66f48e933ab19b95e1198bedaf1c7d6ea2869581e040c7964ed0229b"
         }
     ],
     "aeziah divine on tt": [
@@ -2827,6 +2836,15 @@
             "track": "",
             "finish": 8,
             "race_id": "2ae7e0dc9bd439d0d1f21097ae021654efe7bd49f9085a2a327aa8ac2fc4e415"
+        },
+        {
+            "date": "2026-10-13T16:00:43",
+            "elo": 1072,
+            "elo_before": 1082,
+            "change": -10,
+            "track": "",
+            "finish": 5,
+            "race_id": "61c0eded66f48e933ab19b95e1198bedaf1c7d6ea2869581e040c7964ed0229b"
         }
     ],
     "KSBR": [
@@ -5140,6 +5158,15 @@
             "track": "",
             "finish": 1,
             "race_id": "2ae7e0dc9bd439d0d1f21097ae021654efe7bd49f9085a2a327aa8ac2fc4e415"
+        },
+        {
+            "date": "2026-10-13T16:00:43",
+            "elo": 1016,
+            "elo_before": 1005,
+            "change": 11,
+            "track": "",
+            "finish": 1,
+            "race_id": "61c0eded66f48e933ab19b95e1198bedaf1c7d6ea2869581e040c7964ed0229b"
         }
     ],
     "Lucce39": [
@@ -6368,6 +6395,15 @@
             "track": "",
             "finish": 7,
             "race_id": "2ae7e0dc9bd439d0d1f21097ae021654efe7bd49f9085a2a327aa8ac2fc4e415"
+        },
+        {
+            "date": "2026-10-13T16:00:43",
+            "elo": 957,
+            "elo_before": 967,
+            "change": -10,
+            "track": "",
+            "finish": 6,
+            "race_id": "61c0eded66f48e933ab19b95e1198bedaf1c7d6ea2869581e040c7964ed0229b"
         }
     ],
     "Gonzalo Molina": [
@@ -6611,6 +6647,15 @@
             "track": "",
             "finish": 3,
             "race_id": "2ae7e0dc9bd439d0d1f21097ae021654efe7bd49f9085a2a327aa8ac2fc4e415"
+        },
+        {
+            "date": "2026-10-13T16:00:43",
+            "elo": 977,
+            "elo_before": 978,
+            "change": -1,
+            "track": "",
+            "finish": 4,
+            "race_id": "61c0eded66f48e933ab19b95e1198bedaf1c7d6ea2869581e040c7964ed0229b"
         }
     ],
     "Sanka972": [
@@ -6735,6 +6780,15 @@
             "track": "",
             "finish": 6,
             "race_id": "2ae7e0dc9bd439d0d1f21097ae021654efe7bd49f9085a2a327aa8ac2fc4e415"
+        },
+        {
+            "date": "2026-10-13T16:00:43",
+            "elo": 997,
+            "elo_before": 994,
+            "change": 3,
+            "track": "",
+            "finish": 3,
+            "race_id": "61c0eded66f48e933ab19b95e1198bedaf1c7d6ea2869581e040c7964ed0229b"
         }
     ]
 }
