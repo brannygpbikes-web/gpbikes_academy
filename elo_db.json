@@ -192,10 +192,10 @@
         "podiums": 15
     },
     "Danny Hinkelmann14": {
-        "elo": 927,
-        "wins": 0,
-        "races": 24,
-        "podiums": 1
+        "elo": 932,
+        "wins": 1,
+        "races": 25,
+        "podiums": 2
     },
     "Santos47": {
         "elo": 1027,
@@ -750,10 +750,10 @@
         "podiums": 2
     },
     "pr1c3y": {
-        "elo": 965,
+        "elo": 960,
         "wins": 1,
-        "races": 7,
-        "podiums": 1
+        "races": 8,
+        "podiums": 2
     },
     "F1and3R5": {
         "elo": 991,
@@ -908,8 +908,8 @@
     "Rk_44": {
         "elo": 910,
         "wins": 0,
-        "races": 15,
-        "podiums": 3
+        "races": 16,
+        "podiums": 4
     },
     "Maximo Giro": {
         "elo": 1020,

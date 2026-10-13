@@ -8,9 +8,9 @@
         "grade": "A"
     },
     "pr1c3y": {
-        "safety": 113,
-        "races": 8,
-        "contacts": 11,
+        "safety": 109,
+        "races": 9,
+        "contacts": 12,
         "clean_races": 2,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -166,10 +166,10 @@
         "grade": "B"
     },
     "Danny Hinkelmann14": {
-        "safety": 22,
-        "races": 19,
+        "safety": 27,
+        "races": 20,
         "contacts": 45,
-        "clean_races": 4,
+        "clean_races": 5,
         "large_lobby_clean_streak": 0,
         "grade": "E"
     },
@@ -745,9 +745,9 @@
         "grade": "B"
     },
     "Rk_44": {
-        "safety": 175,
-        "races": 15,
-        "contacts": 10,
+        "safety": 167,
+        "races": 16,
+        "contacts": 12,
         "clean_races": 9,
         "large_lobby_clean_streak": 0,
         "grade": "B"
