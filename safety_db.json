@@ -377,12 +377,12 @@
         "grade": "B"
     },
     "aleso262004": {
-        "safety": 67,
-        "races": 13,
+        "safety": 77,
+        "races": 14,
         "contacts": 44,
-        "clean_races": 2,
+        "clean_races": 3,
         "large_lobby_clean_streak": 0,
-        "grade": "E"
+        "grade": "D"
     },
     "MARCO": {
         "safety": 0,
@@ -543,11 +543,12 @@
         "grade": "E"
     },
     "Kubon": {
-        "safety": 110,
-        "races": 1,
+        "safety": 120,
+        "races": 2,
         "contacts": 3,
-        "clean_races": 0,
-        "grade": "C"
+        "clean_races": 1,
+        "grade": "C",
+        "large_lobby_clean_streak": 0
     },
     "Mikrowelle": {
         "safety": 130,
@@ -1119,10 +1120,10 @@
         "grade": "B"
     },
     "Emir Eyupoglu": {
-        "safety": 21,
-        "races": 28,
+        "safety": 31,
+        "races": 29,
         "contacts": 60,
-        "clean_races": 5,
+        "clean_races": 6,
         "large_lobby_clean_streak": 0,
         "grade": "E"
     },
@@ -1223,12 +1224,12 @@
         "grade": "B"
     },
     "Outrunning Child Support": {
-        "safety": 118,
-        "races": 13,
+        "safety": 128,
+        "races": 14,
         "contacts": 25,
-        "clean_races": 5,
+        "clean_races": 6,
         "large_lobby_clean_streak": 0,
-        "grade": "C"
+        "grade": "B"
     },
     "Fhalopy": {
         "safety": 101,
@@ -1279,10 +1280,10 @@
         "grade": "E"
     },
     "Smurruf": {
-        "safety": 139,
-        "races": 6,
+        "safety": 149,
+        "races": 7,
         "contacts": 6,
-        "clean_races": 3,
+        "clean_races": 4,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     },
@@ -1649,6 +1650,14 @@
         "grade": "B"
     },
     "Prove412": {
+        "safety": 135,
+        "races": 1,
+        "contacts": 0,
+        "clean_races": 1,
+        "large_lobby_clean_streak": 0,
+        "grade": "B"
+    },
+    "lambrider": {
         "safety": 135,
         "races": 1,
         "contacts": 0,
