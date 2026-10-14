@@ -116,16 +116,16 @@
     },
     "Simone Ghilardini": {
         "safety": 171,
-        "races": 52,
-        "contacts": 60,
+        "races": 53,
+        "contacts": 61,
         "clean_races": 26,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     },
     "EgoMan": {
         "safety": 105,
-        "races": 27,
-        "contacts": 51,
+        "races": 28,
+        "contacts": 52,
         "clean_races": 8,
         "grade": "C",
         "large_lobby_clean_streak": 0
@@ -1426,10 +1426,10 @@
         "grade": "C"
     },
     "sergioo14": {
-        "safety": 209,
-        "races": 16,
+        "safety": 214,
+        "races": 17,
         "contacts": 20,
-        "clean_races": 9,
+        "clean_races": 10,
         "large_lobby_clean_streak": 0,
         "grade": "A"
     },

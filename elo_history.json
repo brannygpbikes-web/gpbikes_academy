@@ -1763,6 +1763,15 @@
             "track": "",
             "finish": 1,
             "race_id": "9add128264c053558c4d2363b3121d9ddf57a304938fd4379f75ed0278655c0e"
+        },
+        {
+            "date": "2026-10-14T19:11:14",
+            "elo": 1000,
+            "elo_before": 996,
+            "change": 4,
+            "track": "",
+            "finish": 1,
+            "race_id": "7512ebe05642e0e87c6ec3fc9292bb0678fd5e1117642fe0dff837c0a9557fad"
         }
     ],
     "Lou": [
@@ -8033,6 +8042,15 @@
             "track": "",
             "finish": 2,
             "race_id": "9add128264c053558c4d2363b3121d9ddf57a304938fd4379f75ed0278655c0e"
+        },
+        {
+            "date": "2026-10-14T19:11:14",
+            "elo": 954,
+            "elo_before": 959,
+            "change": -5,
+            "track": "",
+            "finish": 3,
+            "race_id": "7512ebe05642e0e87c6ec3fc9292bb0678fd5e1117642fe0dff837c0a9557fad"
         }
     ],
     "Gonzalo Molina": [
@@ -9196,6 +9214,15 @@
             "track": "",
             "finish": 5,
             "race_id": "872dbe525184750142c1a1898c85b8528d7e876f8d2144928eb776db36b35915"
+        },
+        {
+            "date": "2026-10-14T19:11:14",
+            "elo": 944,
+            "elo_before": 943,
+            "change": 1,
+            "track": "",
+            "finish": 2,
+            "race_id": "7512ebe05642e0e87c6ec3fc9292bb0678fd5e1117642fe0dff837c0a9557fad"
         }
     ],
     "Matteo 42": [
