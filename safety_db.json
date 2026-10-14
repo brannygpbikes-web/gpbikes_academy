@@ -323,10 +323,10 @@
         "grade": "E"
     },
     "moe": {
-        "safety": 209,
-        "races": 41,
+        "safety": 219,
+        "races": 42,
         "contacts": 41,
-        "clean_races": 20,
+        "clean_races": 21,
         "large_lobby_clean_streak": 0,
         "grade": "A"
     },
@@ -377,10 +377,10 @@
         "grade": "B"
     },
     "aleso262004": {
-        "safety": 77,
-        "races": 14,
+        "safety": 87,
+        "races": 15,
         "contacts": 44,
-        "clean_races": 3,
+        "clean_races": 4,
         "large_lobby_clean_streak": 0,
         "grade": "D"
     },
@@ -544,8 +544,8 @@
     },
     "Kubon": {
         "safety": 120,
-        "races": 2,
-        "contacts": 3,
+        "races": 3,
+        "contacts": 4,
         "clean_races": 1,
         "grade": "C",
         "large_lobby_clean_streak": 0
@@ -1121,8 +1121,8 @@
     },
     "Emir Eyupoglu": {
         "safety": 31,
-        "races": 29,
-        "contacts": 60,
+        "races": 30,
+        "contacts": 61,
         "clean_races": 6,
         "large_lobby_clean_streak": 0,
         "grade": "E"
@@ -1224,10 +1224,10 @@
         "grade": "B"
     },
     "Outrunning Child Support": {
-        "safety": 128,
-        "races": 14,
+        "safety": 138,
+        "races": 15,
         "contacts": 25,
-        "clean_races": 6,
+        "clean_races": 7,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     },
@@ -1546,10 +1546,10 @@
         "grade": "C"
     },
     "Fiffi54": {
-        "safety": 79,
-        "races": 7,
+        "safety": 89,
+        "races": 8,
         "contacts": 24,
-        "clean_races": 1,
+        "clean_races": 2,
         "large_lobby_clean_streak": 0,
         "grade": "D"
     },
@@ -1658,10 +1658,10 @@
         "grade": "B"
     },
     "lambrider": {
-        "safety": 135,
-        "races": 1,
+        "safety": 145,
+        "races": 2,
         "contacts": 0,
-        "clean_races": 1,
+        "clean_races": 2,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     }

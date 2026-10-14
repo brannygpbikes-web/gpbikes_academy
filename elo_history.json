@@ -4291,6 +4291,15 @@
             "track": "",
             "finish": 2,
             "race_id": "06e822f68a3aeb86fa0b57859857479a7dbc819cc3ce90018a5b0b011d68fd84"
+        },
+        {
+            "date": "2026-10-14T17:16:05",
+            "elo": 1105,
+            "elo_before": 1096,
+            "change": 9,
+            "track": "",
+            "finish": 1,
+            "race_id": "04349e3c703f6b6e150a9f972e75b8a1243a786139e13ef74fd60f6a8f633afc"
         }
     ],
     "AhyaAL": [
@@ -6229,6 +6238,15 @@
             "track": "",
             "finish": 4,
             "race_id": "06e822f68a3aeb86fa0b57859857479a7dbc819cc3ce90018a5b0b011d68fd84"
+        },
+        {
+            "date": "2026-10-14T17:16:05",
+            "elo": 1021,
+            "elo_before": 1023,
+            "change": -2,
+            "track": "",
+            "finish": 4,
+            "race_id": "04349e3c703f6b6e150a9f972e75b8a1243a786139e13ef74fd60f6a8f633afc"
         }
     ],
     "Lucce39": [
@@ -6870,6 +6888,15 @@
             "track": "",
             "finish": 1,
             "race_id": "06e822f68a3aeb86fa0b57859857479a7dbc819cc3ce90018a5b0b011d68fd84"
+        },
+        {
+            "date": "2026-10-14T17:16:05",
+            "elo": 1099,
+            "elo_before": 1095,
+            "change": 4,
+            "track": "",
+            "finish": 2,
+            "race_id": "04349e3c703f6b6e150a9f972e75b8a1243a786139e13ef74fd60f6a8f633afc"
         }
     ],
     "Fick dich Kohlin": [
@@ -8676,6 +8703,15 @@
             "track": "",
             "finish": 14,
             "race_id": "8377a7ea0898b0f5c126b09943506cb338975fb9ff60bc37c116e42cbddfcd2a"
+        },
+        {
+            "date": "2026-10-14T17:16:05",
+            "elo": 971,
+            "elo_before": 980,
+            "change": -9,
+            "track": "",
+            "finish": 6,
+            "race_id": "04349e3c703f6b6e150a9f972e75b8a1243a786139e13ef74fd60f6a8f633afc"
         }
     ],
     "osss": [
@@ -9234,6 +9270,15 @@
             "track": "",
             "finish": 5,
             "race_id": "06e822f68a3aeb86fa0b57859857479a7dbc819cc3ce90018a5b0b011d68fd84"
+        },
+        {
+            "date": "2026-10-14T17:16:05",
+            "elo": 989,
+            "elo_before": 995,
+            "change": -6,
+            "track": "",
+            "finish": 5,
+            "race_id": "04349e3c703f6b6e150a9f972e75b8a1243a786139e13ef74fd60f6a8f633afc"
         }
     ],
     "Kubon": [
@@ -9245,6 +9290,15 @@
             "track": "",
             "finish": 6,
             "race_id": "06e822f68a3aeb86fa0b57859857479a7dbc819cc3ce90018a5b0b011d68fd84"
+        },
+        {
+            "date": "2026-10-14T17:16:05",
+            "elo": 983,
+            "elo_before": 979,
+            "change": 4,
+            "track": "",
+            "finish": 3,
+            "race_id": "04349e3c703f6b6e150a9f972e75b8a1243a786139e13ef74fd60f6a8f633afc"
         }
     ]
 }
