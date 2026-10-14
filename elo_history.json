@@ -1745,6 +1745,15 @@
             "track": "",
             "finish": 5,
             "race_id": "59117190c0dd537018e13e1b0f6b9add8b5c59f5dfe10a09027637d41a4d5722"
+        },
+        {
+            "date": "2026-10-14T18:15:40",
+            "elo": 992,
+            "elo_before": 997,
+            "change": -5,
+            "track": "",
+            "finish": 3,
+            "race_id": "5d00890313de9d30e2040a5c4565df3787a785cc6e6ed9d08e5f0f4b48520210"
         }
     ],
     "Lou": [
@@ -5272,6 +5281,15 @@
             "track": "",
             "finish": 3,
             "race_id": "59117190c0dd537018e13e1b0f6b9add8b5c59f5dfe10a09027637d41a4d5722"
+        },
+        {
+            "date": "2026-10-14T18:15:40",
+            "elo": 1011,
+            "elo_before": 1011,
+            "change": 0,
+            "track": "",
+            "finish": 2,
+            "race_id": "5d00890313de9d30e2040a5c4565df3787a785cc6e6ed9d08e5f0f4b48520210"
         }
     ],
     "pableko": [
@@ -8299,6 +8317,15 @@
             "track": "",
             "finish": 1,
             "race_id": "b3006459000fd28d1cfa303183f2ab1f52d7ce43698407f93dc8546e50a117d5"
+        },
+        {
+            "date": "2026-10-14T18:15:40",
+            "elo": 1019,
+            "elo_before": 1014,
+            "change": 5,
+            "track": "",
+            "finish": 1,
+            "race_id": "5d00890313de9d30e2040a5c4565df3787a785cc6e6ed9d08e5f0f4b48520210"
         }
     ],
     "aeziahh on tt": [

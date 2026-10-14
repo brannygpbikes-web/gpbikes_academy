@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-14T17:57:29.611287+01:00",
+  "generated_at": "2026-10-14T18:15:46.290706+01:00",
   "summary": {
-    "unique_races": 200,
+    "unique_races": 201,
     "unique_riders": 207,
     "duplicates_skipped": 0,
     "invalid_files_skipped": 1,
@@ -31,21 +31,21 @@
     {
       "guid": "FF011000013F8E9311",
       "name": "Simone Ghilardini",
-      "races": 49,
+      "races": 50,
       "wins": 4,
-      "podiums": 15,
-      "win_rate": 8.2,
-      "podium_rate": 30.6,
-      "average_finish": 6.429,
-      "average_start": 6.809,
-      "average_positions_gained": 0.617,
+      "podiums": 16,
+      "win_rate": 8.0,
+      "podium_rate": 32.0,
+      "average_finish": 6.36,
+      "average_start": 6.729,
+      "average_positions_gained": 0.604,
       "best_finish": 1,
       "best_recorded_lap": 90.781006,
-      "average_gap_percent": 7.189,
+      "average_gap_percent": 6.684,
       "contacts": 66,
-      "contacts_per_race": 1.347,
-      "clean_races": 22,
-      "clean_race_percent": 44.9,
+      "contacts_per_race": 1.32,
+      "clean_races": 23,
+      "clean_race_percent": 46.0,
       "worst_contact_severity": 37.51,
       "tracks": {
         "Circuit de Catalunya - 2021 v1.0b": {
@@ -89,12 +89,12 @@
           "clean_race_percent": 100.0
         },
         "Autodromo do Algarve v2.0": {
-          "races": 3,
+          "races": 4,
           "wins": 0,
-          "podiums": 1,
-          "average_finish": 7,
+          "podiums": 2,
+          "average_finish": 6,
           "contacts": 6,
-          "clean_race_percent": 33.3
+          "clean_race_percent": 50.0
         },
         "Mugello Circuit v2.2": {
           "races": 3,
@@ -206,9 +206,9 @@
           "podiums": 3
         },
         "Ducati V2": {
-          "races": 2,
+          "races": 3,
           "wins": 1,
-          "podiums": 1
+          "podiums": 2
         },
         "Ducati Team GoEleven": {
           "races": 8,
@@ -554,21 +554,21 @@
     {
       "guid": "FF0110000100F622BC",
       "name": "moe",
-      "races": 43,
+      "races": 44,
       "wins": 2,
-      "podiums": 15,
-      "win_rate": 4.7,
-      "podium_rate": 34.9,
-      "average_finish": 6.14,
-      "average_start": 6.6,
-      "average_positions_gained": 0.575,
+      "podiums": 16,
+      "win_rate": 4.5,
+      "podium_rate": 36.4,
+      "average_finish": 6.045,
+      "average_start": 6.488,
+      "average_positions_gained": 0.561,
       "best_finish": 1,
       "best_recorded_lap": 84.375366,
-      "average_gap_percent": 1.252,
+      "average_gap_percent": 1.305,
       "contacts": 41,
-      "contacts_per_race": 0.953,
-      "clean_races": 22,
-      "clean_race_percent": 51.2,
+      "contacts_per_race": 0.932,
+      "clean_races": 23,
+      "clean_race_percent": 52.3,
       "worst_contact_severity": 35.955,
       "tracks": {
         "Automotodrom Brno v1.0a": {
@@ -604,12 +604,12 @@
           "clean_race_percent": 50.0
         },
         "Autodromo do Algarve v2.0": {
-          "races": 5,
+          "races": 6,
           "wins": 0,
-          "podiums": 0,
-          "average_finish": 6.4,
+          "podiums": 1,
+          "average_finish": 5.667,
           "contacts": 10,
-          "clean_race_percent": 20.0
+          "clean_race_percent": 33.3
         },
         "Mugello Circuit v2.2": {
           "races": 1,
@@ -735,9 +735,9 @@
           "podiums": 0
         },
         "Honda CBR600RR": {
-          "races": 4,
+          "races": 5,
           "wins": 0,
-          "podiums": 2
+          "podiums": 3
         }
       }
     },
@@ -11361,6 +11361,90 @@
       }
     },
     {
+      "guid": "FF0110000100783B33",
+      "name": "AngeLo",
+      "races": 5,
+      "wins": 3,
+      "podiums": 3,
+      "win_rate": 60.0,
+      "podium_rate": 60.0,
+      "average_finish": 3.8,
+      "average_start": 1.4,
+      "average_positions_gained": -2.4,
+      "best_finish": 1,
+      "best_recorded_lap": 101.218414,
+      "average_gap_percent": 3.163,
+      "contacts": 2,
+      "contacts_per_race": 0.4,
+      "clean_races": 4,
+      "clean_race_percent": 80.0,
+      "worst_contact_severity": 1.314,
+      "tracks": {
+        "Circuit de Catalunya - 2021 v1.0b": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 7,
+          "contacts": 2,
+          "clean_race_percent": 0.0
+        },
+        "TT Circuit Assen v1.0": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 9,
+          "contacts": 0,
+          "clean_race_percent": 100.0
+        },
+        "Lusail International Circuit - Night v1.0": {
+          "races": 1,
+          "wins": 1,
+          "podiums": 1,
+          "average_finish": 1,
+          "contacts": 0,
+          "clean_race_percent": 100.0
+        },
+        "Pertamina Mandalika International Circuit v1.2": {
+          "races": 1,
+          "wins": 1,
+          "podiums": 1,
+          "average_finish": 1,
+          "contacts": 0,
+          "clean_race_percent": 100.0
+        },
+        "Autodromo do Algarve v2.0": {
+          "races": 1,
+          "wins": 1,
+          "podiums": 1,
+          "average_finish": 1,
+          "contacts": 0,
+          "clean_race_percent": 100.0
+        }
+      },
+      "bikes": {
+        "BMW ROKIT Motorrad Team": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0
+        },
+        "Ducati Motorcorsa Racing": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0
+        },
+        "KTM RC250GP 2026": {
+          "races": 2,
+          "wins": 2,
+          "podiums": 2
+        },
+        "Honda CBR600RR": {
+          "races": 1,
+          "wins": 1,
+          "podiums": 1
+        }
+      }
+    },
+    {
       "guid": "FF011000012C8A57D6",
       "name": "GeorgeBowes67",
       "races": 5,
@@ -12105,77 +12189,6 @@
       }
     },
     {
-      "guid": "FF0110000100783B33",
-      "name": "AngeLo",
-      "races": 4,
-      "wins": 2,
-      "podiums": 2,
-      "win_rate": 50.0,
-      "podium_rate": 50.0,
-      "average_finish": 4.5,
-      "average_start": 1.5,
-      "average_positions_gained": -3,
-      "best_finish": 1,
-      "best_recorded_lap": 101.218414,
-      "average_gap_percent": 3.954,
-      "contacts": 2,
-      "contacts_per_race": 0.5,
-      "clean_races": 3,
-      "clean_race_percent": 75.0,
-      "worst_contact_severity": 1.314,
-      "tracks": {
-        "Circuit de Catalunya - 2021 v1.0b": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0,
-          "average_finish": 7,
-          "contacts": 2,
-          "clean_race_percent": 0.0
-        },
-        "TT Circuit Assen v1.0": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0,
-          "average_finish": 9,
-          "contacts": 0,
-          "clean_race_percent": 100.0
-        },
-        "Lusail International Circuit - Night v1.0": {
-          "races": 1,
-          "wins": 1,
-          "podiums": 1,
-          "average_finish": 1,
-          "contacts": 0,
-          "clean_race_percent": 100.0
-        },
-        "Pertamina Mandalika International Circuit v1.2": {
-          "races": 1,
-          "wins": 1,
-          "podiums": 1,
-          "average_finish": 1,
-          "contacts": 0,
-          "clean_race_percent": 100.0
-        }
-      },
-      "bikes": {
-        "BMW ROKIT Motorrad Team": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0
-        },
-        "Ducati Motorcorsa Racing": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0
-        },
-        "KTM RC250GP 2026": {
-          "races": 2,
-          "wins": 2,
-          "podiums": 2
-        }
-      }
-    },
-    {
       "guid": "FF011000017096A96F",
       "name": "arifinekohartono",
       "races": 4,
@@ -12721,6 +12734,77 @@
         },
         "KTM RC250GP 2026": {
           "races": 2,
+          "wins": 0,
+          "podiums": 0
+        }
+      }
+    },
+    {
+      "guid": "FF011000011B160E43",
+      "name": "RecklesMD",
+      "races": 4,
+      "wins": 0,
+      "podiums": 1,
+      "win_rate": 0.0,
+      "podium_rate": 25.0,
+      "average_finish": 7.75,
+      "average_start": 6.25,
+      "average_positions_gained": -1.5,
+      "best_finish": 2,
+      "best_recorded_lap": 106.592896,
+      "average_gap_percent": 7.087,
+      "contacts": 6,
+      "contacts_per_race": 1.5,
+      "clean_races": 2,
+      "clean_race_percent": 50.0,
+      "worst_contact_severity": 15.173,
+      "tracks": {
+        "Automotodrom Brno v1.0a": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 1,
+          "average_finish": 2,
+          "contacts": 0,
+          "clean_race_percent": 100.0
+        },
+        "Motorland Aragon 1.0b": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 13,
+          "contacts": 1,
+          "clean_race_percent": 0.0
+        },
+        "Circuit de Catalunya - 2021 v1.0b": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 12,
+          "contacts": 5,
+          "clean_race_percent": 0.0
+        },
+        "Autodromo do Algarve v2.0": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 4,
+          "contacts": 0,
+          "clean_race_percent": 100.0
+        }
+      },
+      "bikes": {
+        "Yamaha YZF-R1M 2021": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 1
+        },
+        "Ducati Aruba.it Racing": {
+          "races": 2,
+          "wins": 0,
+          "podiums": 0
+        },
+        "Yamaha R6 Evanbros": {
+          "races": 1,
           "wins": 0,
           "podiums": 0
         }
@@ -13791,64 +13875,6 @@
       "bikes": {
         "KALEX Akrapovic 1": {
           "races": 3,
-          "wins": 0,
-          "podiums": 0
-        }
-      }
-    },
-    {
-      "guid": "FF011000011B160E43",
-      "name": "RecklesMD",
-      "races": 3,
-      "wins": 0,
-      "podiums": 1,
-      "win_rate": 0.0,
-      "podium_rate": 33.3,
-      "average_finish": 9,
-      "average_start": 7,
-      "average_positions_gained": -2,
-      "best_finish": 2,
-      "best_recorded_lap": 106.592896,
-      "average_gap_percent": 7.087,
-      "contacts": 6,
-      "contacts_per_race": 2.0,
-      "clean_races": 1,
-      "clean_race_percent": 33.3,
-      "worst_contact_severity": 15.173,
-      "tracks": {
-        "Automotodrom Brno v1.0a": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 1,
-          "average_finish": 2,
-          "contacts": 0,
-          "clean_race_percent": 100.0
-        },
-        "Motorland Aragon 1.0b": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0,
-          "average_finish": 13,
-          "contacts": 1,
-          "clean_race_percent": 0.0
-        },
-        "Circuit de Catalunya - 2021 v1.0b": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0,
-          "average_finish": 12,
-          "contacts": 5,
-          "clean_race_percent": 0.0
-        }
-      },
-      "bikes": {
-        "Yamaha YZF-R1M 2021": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 1
-        },
-        "Ducati Aruba.it Racing": {
-          "races": 2,
           "wins": 0,
           "podiums": 0
         }
@@ -82009,6 +82035,129 @@
           "severity": 2.324
         }
       ]
+    },
+    {
+      "source_file": "gpb_p1_20261014-181540-Autodromo do Algarve v2.0.xml",
+      "event_timestamp": 1791998140,
+      "date": "2026-10-14T18:15:40+01:00",
+      "event_type": "Race",
+      "track": "Autodromo do Algarve v2.0",
+      "track_id": "Autodromo do Algarve v2.0",
+      "track_length_m": 4508.028809,
+      "scheduled_laps": 4,
+      "field_size": 4,
+      "contact_events": 0,
+      "riders": [
+        {
+          "race_num": "29",
+          "name": "AngeLo",
+          "bike": "Honda CBR600RR",
+          "category": "WSSP 24 V0.6",
+          "guid": "FF0110000100783B33",
+          "qualifying_position": 1,
+          "qualifying_time": 104.819321,
+          "start_position": 1,
+          "finish_position": 1,
+          "positions_gained": 0,
+          "race_time": 529.129272,
+          "laps_completed": 4,
+          "gap_seconds": 0.0,
+          "gap_percent": 0.0,
+          "penalty": 0.0,
+          "fastest_lap": 103.436829,
+          "fastest_lap_number": 4,
+          "speed": 72.993538,
+          "valid_timed_laps": 4,
+          "average_lap": 132.279,
+          "median_lap": 106.881,
+          "lap_consistency_stdev": 46.046,
+          "contacts": 0,
+          "max_contact_severity": null,
+          "average_contact_severity": null
+        },
+        {
+          "race_num": "41",
+          "name": "moe",
+          "bike": "Honda CBR600RR",
+          "category": "WSSP 24 V0.6",
+          "guid": "FF0110000100F622BC",
+          "qualifying_position": 2,
+          "qualifying_time": 107.152634,
+          "start_position": 2,
+          "finish_position": 2,
+          "positions_gained": 0,
+          "race_time": 545.442505,
+          "laps_completed": 4,
+          "gap_seconds": 16.313232,
+          "gap_percent": 3.083,
+          "penalty": 0.0,
+          "fastest_lap": 105.121185,
+          "fastest_lap_number": 3,
+          "speed": 75.421967,
+          "valid_timed_laps": 4,
+          "average_lap": 136.358,
+          "median_lap": 109.401,
+          "lap_consistency_stdev": 49.238,
+          "contacts": 0,
+          "max_contact_severity": null,
+          "average_contact_severity": null
+        },
+        {
+          "race_num": "71",
+          "name": "Simone Ghilardini",
+          "bike": "Ducati V2",
+          "category": "WSSP 24 V0.6",
+          "guid": "FF011000013F8E9311",
+          "qualifying_position": 3,
+          "qualifying_time": 109.385284,
+          "start_position": 3,
+          "finish_position": 3,
+          "positions_gained": 0,
+          "race_time": 436.358734,
+          "laps_completed": 3,
+          "gap_seconds": null,
+          "gap_percent": -17.5327,
+          "penalty": 0.0,
+          "fastest_lap": 107.223969,
+          "fastest_lap_number": 3,
+          "speed": 75.833847,
+          "valid_timed_laps": 3,
+          "average_lap": 145.449,
+          "median_lap": 108.761,
+          "lap_consistency_stdev": 52.975,
+          "contacts": 0,
+          "max_contact_severity": null,
+          "average_contact_severity": null
+        },
+        {
+          "race_num": "28",
+          "name": "RecklesMD",
+          "bike": "Yamaha R6 Evanbros",
+          "category": "WSSP 24 V0.6",
+          "guid": "FF011000011B160E43",
+          "qualifying_position": 4,
+          "qualifying_time": 121.785904,
+          "start_position": 4,
+          "finish_position": 4,
+          "positions_gained": 0,
+          "race_time": null,
+          "laps_completed": 0,
+          "gap_seconds": null,
+          "gap_percent": null,
+          "penalty": 0.0,
+          "fastest_lap": null,
+          "fastest_lap_number": null,
+          "speed": null,
+          "valid_timed_laps": 0,
+          "average_lap": null,
+          "median_lap": null,
+          "lap_consistency_stdev": null,
+          "contacts": 0,
+          "max_contact_severity": null,
+          "average_contact_severity": null
+        }
+      ],
+      "contacts": []
     }
   ]
 }
