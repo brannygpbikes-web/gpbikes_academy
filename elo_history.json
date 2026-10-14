@@ -4273,6 +4273,15 @@
             "track": "",
             "finish": 11,
             "race_id": "8da220f7e09bb22aa258a63afe4f3733dbae0d53f3a663ec83e10a6571c3134c"
+        },
+        {
+            "date": "2026-10-14T16:40:01",
+            "elo": 1092,
+            "elo_before": 1086,
+            "change": 6,
+            "track": "",
+            "finish": 1,
+            "race_id": "7064fa7da040d609d84186ceaef29e0f1fca2ac30f199a18a7f9d7f612e8ba12"
         }
     ],
     "AhyaAL": [
@@ -6083,6 +6092,15 @@
             "track": "",
             "finish": 5,
             "race_id": "4e69f4b204819f98f281a6f044feaf8d50405e9b795068e50f363b06e45f53c6"
+        },
+        {
+            "date": "2026-10-14T16:40:01",
+            "elo": 975,
+            "elo_before": 982,
+            "change": -7,
+            "track": "",
+            "finish": 5,
+            "race_id": "7064fa7da040d609d84186ceaef29e0f1fca2ac30f199a18a7f9d7f612e8ba12"
         }
     ],
     "Outrunning Child Support": [
@@ -6816,6 +6834,15 @@
             "track": "",
             "finish": 1,
             "race_id": "275dfe30e6a90311cfd905bc9669a9834f30b7a2e0c758358ced4ba92c7dae46"
+        },
+        {
+            "date": "2026-10-14T16:40:01",
+            "elo": 1086,
+            "elo_before": 1083,
+            "change": 3,
+            "track": "",
+            "finish": 2,
+            "race_id": "7064fa7da040d609d84186ceaef29e0f1fca2ac30f199a18a7f9d7f612e8ba12"
         }
     ],
     "Fick dich Kohlin": [
@@ -6910,6 +6937,15 @@
             "track": "",
             "finish": 3,
             "race_id": "275dfe30e6a90311cfd905bc9669a9834f30b7a2e0c758358ced4ba92c7dae46"
+        },
+        {
+            "date": "2026-10-14T16:40:01",
+            "elo": 1000,
+            "elo_before": 999,
+            "change": 1,
+            "track": "",
+            "finish": 3,
+            "race_id": "7064fa7da040d609d84186ceaef29e0f1fca2ac30f199a18a7f9d7f612e8ba12"
         }
     ],
     "jpspeed16": [
@@ -9140,6 +9176,17 @@
             "track": "",
             "finish": 2,
             "race_id": "872dbe525184750142c1a1898c85b8528d7e876f8d2144928eb776db36b35915"
+        }
+    ],
+    "Prove412": [
+        {
+            "date": "2026-10-14T16:40:01",
+            "elo": 983,
+            "elo_before": 986,
+            "change": -3,
+            "track": "",
+            "finish": 4,
+            "race_id": "7064fa7da040d609d84186ceaef29e0f1fca2ac30f199a18a7f9d7f612e8ba12"
         }
     ]
 }

@@ -24,9 +24,9 @@
         "podiums": 1
     },
     "sandnes": {
-        "elo": 982,
+        "elo": 975,
         "wins": 0,
-        "races": 5,
+        "races": 6,
         "podiums": 1
     },
     "moe": {
@@ -84,9 +84,9 @@
         "podiums": 3
     },
     "Prove412": {
-        "elo": 986,
+        "elo": 983,
         "wins": 0,
-        "races": 3,
+        "races": 4,
         "podiums": 0
     },
     "tacticworks": {
@@ -528,10 +528,10 @@
         "podiums": 27
     },
     "aleso262004": {
-        "elo": 1083,
+        "elo": 1086,
         "wins": 1,
-        "races": 12,
-        "podiums": 5
+        "races": 13,
+        "podiums": 6
     },
     "pableko": {
         "elo": 1014,
@@ -948,10 +948,10 @@
         "podiums": 0
     },
     "Emir Eyupoglu": {
-        "elo": 1086,
-        "wins": 0,
-        "races": 26,
-        "podiums": 5
+        "elo": 1092,
+        "wins": 1,
+        "races": 27,
+        "podiums": 6
     },
     "SrPomit": {
         "elo": 918,
@@ -1062,10 +1062,10 @@
         "podiums": 1
     },
     "Smurruf": {
-        "elo": 999,
+        "elo": 1000,
         "wins": 0,
-        "races": 5,
-        "podiums": 1
+        "races": 6,
+        "podiums": 2
     },
     "nick": {
         "elo": 992,
