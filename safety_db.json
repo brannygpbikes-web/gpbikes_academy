@@ -8,10 +8,10 @@
         "grade": "A"
     },
     "pr1c3y": {
-        "safety": 109,
-        "races": 10,
+        "safety": 114,
+        "races": 11,
         "contacts": 12,
-        "clean_races": 3,
+        "clean_races": 4,
         "large_lobby_clean_streak": 0,
         "grade": "C"
     },
@@ -324,8 +324,8 @@
     },
     "moe": {
         "safety": 199,
-        "races": 39,
-        "contacts": 40,
+        "races": 40,
+        "contacts": 41,
         "clean_races": 19,
         "large_lobby_clean_streak": 0,
         "grade": "A"
@@ -378,8 +378,8 @@
     },
     "aleso262004": {
         "safety": 71,
-        "races": 11,
-        "contacts": 41,
+        "races": 12,
+        "contacts": 42,
         "clean_races": 2,
         "large_lobby_clean_streak": 0,
         "grade": "E"
@@ -1279,10 +1279,10 @@
         "grade": "E"
     },
     "Smurruf": {
-        "safety": 138,
-        "races": 4,
+        "safety": 143,
+        "races": 5,
         "contacts": 4,
-        "clean_races": 2,
+        "clean_races": 3,
         "large_lobby_clean_streak": 1,
         "grade": "B"
     },

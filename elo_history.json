@@ -5182,6 +5182,15 @@
             "track": "",
             "finish": 20,
             "race_id": "20fafefec671311a308894c6496e8759a528ac5a18b0ae3263eacfe0181e50fb"
+        },
+        {
+            "date": "2026-10-14T16:23:39",
+            "elo": 1006,
+            "elo_before": 1003,
+            "change": 3,
+            "track": "",
+            "finish": 2,
+            "race_id": "275dfe30e6a90311cfd905bc9669a9834f30b7a2e0c758358ced4ba92c7dae46"
         }
     ],
     "pableko": [
@@ -5818,6 +5827,15 @@
             "track": "",
             "finish": 3,
             "race_id": "c0c81034c10645d34eef1f1d0320b1abffee0e4cdce142786f8f89ee73b1be69"
+        },
+        {
+            "date": "2026-10-14T16:23:39",
+            "elo": 953,
+            "elo_before": 960,
+            "change": -7,
+            "track": "",
+            "finish": 4,
+            "race_id": "275dfe30e6a90311cfd905bc9669a9834f30b7a2e0c758358ced4ba92c7dae46"
         }
     ],
     "will 77": [
@@ -6789,6 +6807,15 @@
             "track": "",
             "finish": 3,
             "race_id": "872dbe525184750142c1a1898c85b8528d7e876f8d2144928eb776db36b35915"
+        },
+        {
+            "date": "2026-10-14T16:23:39",
+            "elo": 1083,
+            "elo_before": 1077,
+            "change": 6,
+            "track": "",
+            "finish": 1,
+            "race_id": "275dfe30e6a90311cfd905bc9669a9834f30b7a2e0c758358ced4ba92c7dae46"
         }
     ],
     "Fick dich Kohlin": [
@@ -6874,6 +6901,15 @@
             "track": "",
             "finish": 7,
             "race_id": "5a0aa36201adbe97d274325e2950399da0986abb956d9346d26c1a3fee0ecf43"
+        },
+        {
+            "date": "2026-10-14T16:23:39",
+            "elo": 999,
+            "elo_before": 1001,
+            "change": -2,
+            "track": "",
+            "finish": 3,
+            "race_id": "275dfe30e6a90311cfd905bc9669a9834f30b7a2e0c758358ced4ba92c7dae46"
         }
     ],
     "jpspeed16": [
