@@ -646,6 +646,15 @@
             "track": "",
             "finish": 2,
             "race_id": "c7ddf9cdb53fd3b133e81335788b53735781a9efcfa129766d547d399d7ed6ca"
+        },
+        {
+            "date": "2026-10-14T17:40:24",
+            "elo": 1133,
+            "elo_before": 1135,
+            "change": -2,
+            "track": "",
+            "finish": 2,
+            "race_id": "9e3f7d01085dd6a6e62f257cd5af4c3496297ed52f9edc20638f26787d70dba9"
         }
     ],
     "Nuno": [
@@ -5341,6 +5350,15 @@
             "track": "",
             "finish": 4,
             "race_id": "26c20c9dc1ffe1372fc465727915c59f11deae7bcdf390d5818930c77d50f4fe"
+        },
+        {
+            "date": "2026-10-14T17:40:24",
+            "elo": 1019,
+            "elo_before": 1014,
+            "change": 5,
+            "track": "",
+            "finish": 1,
+            "race_id": "9e3f7d01085dd6a6e62f257cd5af4c3496297ed52f9edc20638f26787d70dba9"
         }
     ],
     "JorgeNsr": [
@@ -8160,6 +8178,15 @@
             "track": "",
             "finish": 4,
             "race_id": "b175041c1a0f9d978ae8498c947d4e5add85d87ef6089f3b1fd991d7156a16d5"
+        },
+        {
+            "date": "2026-10-14T17:40:24",
+            "elo": 960,
+            "elo_before": 963,
+            "change": -3,
+            "track": "",
+            "finish": 3,
+            "race_id": "9e3f7d01085dd6a6e62f257cd5af4c3496297ed52f9edc20638f26787d70dba9"
         }
     ],
     "Cummin Jizzwood": [
