@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-14T19:11:20.565278+01:00",
+  "generated_at": "2026-10-14T21:09:50.103426+01:00",
   "summary": {
-    "unique_races": 203,
+    "unique_races": 204,
     "unique_riders": 207,
     "duplicates_skipped": 0,
     "invalid_files_skipped": 1,
@@ -31,21 +31,21 @@
     {
       "guid": "FF011000013F8E9311",
       "name": "Simone Ghilardini",
-      "races": 52,
+      "races": 53,
       "wins": 6,
       "podiums": 18,
-      "win_rate": 11.5,
-      "podium_rate": 34.6,
-      "average_finish": 6.154,
-      "average_start": 6.54,
-      "average_positions_gained": 0.62,
+      "win_rate": 11.3,
+      "podium_rate": 34.0,
+      "average_finish": 6.17,
+      "average_start": 6.549,
+      "average_positions_gained": 0.608,
       "best_finish": 1,
       "best_recorded_lap": 90.781006,
       "average_gap_percent": 6.422,
       "contacts": 67,
-      "contacts_per_race": 1.288,
-      "clean_races": 24,
-      "clean_race_percent": 46.2,
+      "contacts_per_race": 1.264,
+      "clean_races": 25,
+      "clean_race_percent": 47.2,
       "worst_contact_severity": 37.51,
       "tracks": {
         "Circuit de Catalunya - 2021 v1.0b": {
@@ -137,12 +137,12 @@
           "clean_race_percent": 25.0
         },
         "Pertamina Mandalika International Circuit v1.2": {
-          "races": 2,
+          "races": 3,
           "wins": 0,
           "podiums": 0,
-          "average_finish": 9.5,
+          "average_finish": 8.667,
           "contacts": 1,
-          "clean_race_percent": 50.0
+          "clean_race_percent": 66.7
         },
         "TT Circuit Assen v1.0": {
           "races": 3,
@@ -212,6 +212,11 @@
         },
         "Ducati Team GoEleven": {
           "races": 8,
+          "wins": 0,
+          "podiums": 0
+        },
+        "DUCATI GP26": {
+          "races": 1,
           "wins": 0,
           "podiums": 0
         }
@@ -923,22 +928,22 @@
     },
     {
       "guid": "FF01100001729F3168",
-      "name": "branny",
-      "races": 41,
+      "name": "Branny",
+      "races": 42,
       "wins": 20,
-      "podiums": 27,
-      "win_rate": 48.8,
-      "podium_rate": 65.9,
-      "average_finish": 4.976,
-      "average_start": 4.976,
-      "average_positions_gained": 0,
+      "podiums": 28,
+      "win_rate": 47.6,
+      "podium_rate": 66.7,
+      "average_finish": 4.929,
+      "average_start": 4.952,
+      "average_positions_gained": 0.024,
       "best_finish": 1,
       "best_recorded_lap": 83.830948,
-      "average_gap_percent": -10.244,
-      "contacts": 55,
-      "contacts_per_race": 1.341,
+      "average_gap_percent": -9.945,
+      "contacts": 57,
+      "contacts_per_race": 1.357,
       "clean_races": 20,
-      "clean_race_percent": 48.8,
+      "clean_race_percent": 47.6,
       "worst_contact_severity": 28.417,
       "tracks": {
         "Sachsenring v1.0b": {
@@ -1062,11 +1067,11 @@
           "clean_race_percent": 100.0
         },
         "Pertamina Mandalika International Circuit v1.2": {
-          "races": 2,
+          "races": 3,
           "wins": 0,
-          "podiums": 1,
-          "average_finish": 4.5,
-          "contacts": 10,
+          "podiums": 2,
+          "average_finish": 4,
+          "contacts": 12,
           "clean_race_percent": 0.0
         },
         "Lusail International Circuit - Night v1.0": {
@@ -1126,6 +1131,11 @@
         },
         "Honda NSF250RW 2026": {
           "races": 4,
+          "wins": 0,
+          "podiums": 1
+        },
+        "HONDA RC213V": {
+          "races": 1,
           "wins": 0,
           "podiums": 1
         }
@@ -4585,6 +4595,143 @@
       }
     },
     {
+      "guid": "FF0110000144441578",
+      "name": "N1rmata",
+      "races": 19,
+      "wins": 2,
+      "podiums": 6,
+      "win_rate": 10.5,
+      "podium_rate": 31.6,
+      "average_finish": 8.316,
+      "average_start": 4.333,
+      "average_positions_gained": -4.278,
+      "best_finish": 1,
+      "best_recorded_lap": 85.091003,
+      "average_gap_percent": -14.423,
+      "contacts": 55,
+      "contacts_per_race": 2.895,
+      "clean_races": 4,
+      "clean_race_percent": 21.1,
+      "worst_contact_severity": 37.704,
+      "tracks": {
+        "Sachsenring v1.0b": {
+          "races": 3,
+          "wins": 0,
+          "podiums": 1,
+          "average_finish": 12.333,
+          "contacts": 9,
+          "clean_race_percent": 33.3
+        },
+        "Circuito de Estoril v1.0": {
+          "races": 1,
+          "wins": 1,
+          "podiums": 1,
+          "average_finish": 1,
+          "contacts": 3,
+          "clean_race_percent": 0.0
+        },
+        "Autodromo do Algarve v2.0": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 4,
+          "contacts": 3,
+          "clean_race_percent": 0.0
+        },
+        "Misano World Circuit Marco Simoncelli v1.0": {
+          "races": 1,
+          "wins": 1,
+          "podiums": 1,
+          "average_finish": 1,
+          "contacts": 0,
+          "clean_race_percent": 100.0
+        },
+        "Circuito de Jerez v2.1": {
+          "races": 2,
+          "wins": 0,
+          "podiums": 1,
+          "average_finish": 3,
+          "contacts": 4,
+          "clean_race_percent": 0.0
+        },
+        "Red Bull Ring 2.0 Beta3": {
+          "races": 2,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 5.5,
+          "contacts": 4,
+          "clean_race_percent": 50.0
+        },
+        "Phillip Island Circuit v1.0": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 9,
+          "contacts": 1,
+          "clean_race_percent": 0.0
+        },
+        "Circuit de Catalunya - 2021 v1.0b": {
+          "races": 2,
+          "wins": 0,
+          "podiums": 1,
+          "average_finish": 10.5,
+          "contacts": 5,
+          "clean_race_percent": 0.0
+        },
+        "Le Mans Circuit Bugatti v1.1": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 17,
+          "contacts": 1,
+          "clean_race_percent": 0.0
+        },
+        "Lusail International Circuit - Night v1.0": {
+          "races": 2,
+          "wins": 0,
+          "podiums": 1,
+          "average_finish": 7,
+          "contacts": 12,
+          "clean_race_percent": 0.0
+        },
+        "Pertamina Mandalika International Circuit v1.2": {
+          "races": 3,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 12.333,
+          "contacts": 13,
+          "clean_race_percent": 33.3
+        }
+      },
+      "bikes": {
+        "Yamaha PATA Prometeon Team": {
+          "races": 6,
+          "wins": 1,
+          "podiums": 2
+        },
+        "Honda NSF250RW 2026": {
+          "races": 9,
+          "wins": 1,
+          "podiums": 3
+        },
+        "Yamaha R6": {
+          "races": 2,
+          "wins": 0,
+          "podiums": 0
+        },
+        "Honda HRC Team": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 1
+        },
+        "APRILIA RSGP": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0
+        }
+      }
+    },
+    {
       "guid": "FF0110000103893FD7",
       "name": "NJIRK5211",
       "races": 19,
@@ -4965,138 +5112,6 @@
           "races": 2,
           "wins": 0,
           "podiums": 0
-        }
-      }
-    },
-    {
-      "guid": "FF0110000144441578",
-      "name": "N1rmata",
-      "races": 18,
-      "wins": 2,
-      "podiums": 6,
-      "win_rate": 11.1,
-      "podium_rate": 33.3,
-      "average_finish": 8.5,
-      "average_start": 4.412,
-      "average_positions_gained": -4.412,
-      "best_finish": 1,
-      "best_recorded_lap": 85.091003,
-      "average_gap_percent": -10.677,
-      "contacts": 55,
-      "contacts_per_race": 3.056,
-      "clean_races": 3,
-      "clean_race_percent": 16.7,
-      "worst_contact_severity": 37.704,
-      "tracks": {
-        "Sachsenring v1.0b": {
-          "races": 3,
-          "wins": 0,
-          "podiums": 1,
-          "average_finish": 12.333,
-          "contacts": 9,
-          "clean_race_percent": 33.3
-        },
-        "Circuito de Estoril v1.0": {
-          "races": 1,
-          "wins": 1,
-          "podiums": 1,
-          "average_finish": 1,
-          "contacts": 3,
-          "clean_race_percent": 0.0
-        },
-        "Autodromo do Algarve v2.0": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0,
-          "average_finish": 4,
-          "contacts": 3,
-          "clean_race_percent": 0.0
-        },
-        "Misano World Circuit Marco Simoncelli v1.0": {
-          "races": 1,
-          "wins": 1,
-          "podiums": 1,
-          "average_finish": 1,
-          "contacts": 0,
-          "clean_race_percent": 100.0
-        },
-        "Circuito de Jerez v2.1": {
-          "races": 2,
-          "wins": 0,
-          "podiums": 1,
-          "average_finish": 3,
-          "contacts": 4,
-          "clean_race_percent": 0.0
-        },
-        "Red Bull Ring 2.0 Beta3": {
-          "races": 2,
-          "wins": 0,
-          "podiums": 0,
-          "average_finish": 5.5,
-          "contacts": 4,
-          "clean_race_percent": 50.0
-        },
-        "Phillip Island Circuit v1.0": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0,
-          "average_finish": 9,
-          "contacts": 1,
-          "clean_race_percent": 0.0
-        },
-        "Circuit de Catalunya - 2021 v1.0b": {
-          "races": 2,
-          "wins": 0,
-          "podiums": 1,
-          "average_finish": 10.5,
-          "contacts": 5,
-          "clean_race_percent": 0.0
-        },
-        "Le Mans Circuit Bugatti v1.1": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0,
-          "average_finish": 17,
-          "contacts": 1,
-          "clean_race_percent": 0.0
-        },
-        "Lusail International Circuit - Night v1.0": {
-          "races": 2,
-          "wins": 0,
-          "podiums": 1,
-          "average_finish": 7,
-          "contacts": 12,
-          "clean_race_percent": 0.0
-        },
-        "Pertamina Mandalika International Circuit v1.2": {
-          "races": 2,
-          "wins": 0,
-          "podiums": 0,
-          "average_finish": 16,
-          "contacts": 13,
-          "clean_race_percent": 0.0
-        }
-      },
-      "bikes": {
-        "Yamaha PATA Prometeon Team": {
-          "races": 6,
-          "wins": 1,
-          "podiums": 2
-        },
-        "Honda NSF250RW 2026": {
-          "races": 9,
-          "wins": 1,
-          "podiums": 3
-        },
-        "Yamaha R6": {
-          "races": 2,
-          "wins": 0,
-          "podiums": 0
-        },
-        "Honda HRC Team": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 1
         }
       }
     },
@@ -6371,6 +6386,124 @@
       }
     },
     {
+      "guid": "FF0110000171FAE861",
+      "name": "Dede",
+      "races": 14,
+      "wins": 0,
+      "podiums": 4,
+      "win_rate": 0.0,
+      "podium_rate": 28.6,
+      "average_finish": 10.357,
+      "average_start": 8.214,
+      "average_positions_gained": -2.143,
+      "best_finish": 2,
+      "best_recorded_lap": 84.073547,
+      "average_gap_percent": -19.026,
+      "contacts": 30,
+      "contacts_per_race": 2.143,
+      "clean_races": 2,
+      "clean_race_percent": 14.3,
+      "worst_contact_severity": 32.297,
+      "tracks": {
+        "Autodromo do Algarve v2.0": {
+          "races": 3,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 13.333,
+          "contacts": 9,
+          "clean_race_percent": 0.0
+        },
+        "Sachsenring v1.0b": {
+          "races": 2,
+          "wins": 0,
+          "podiums": 1,
+          "average_finish": 5,
+          "contacts": 2,
+          "clean_race_percent": 0.0
+        },
+        "Circuito de Estoril v1.0": {
+          "races": 3,
+          "wins": 0,
+          "podiums": 1,
+          "average_finish": 7.667,
+          "contacts": 11,
+          "clean_race_percent": 0.0
+        },
+        "TT Circuit Assen v1.0": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 1,
+          "average_finish": 3,
+          "contacts": 1,
+          "clean_race_percent": 0.0
+        },
+        "Circuit de Catalunya - 2021 v1.0b": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 1,
+          "average_finish": 2,
+          "contacts": 0,
+          "clean_race_percent": 100.0
+        },
+        "Circuito de Jerez v2.1": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 14,
+          "contacts": 1,
+          "clean_race_percent": 0.0
+        },
+        "Lusail International Circuit - Night v1.0": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 22,
+          "contacts": 3,
+          "clean_race_percent": 0.0
+        },
+        "Pertamina Mandalika International Circuit v1.2": {
+          "races": 2,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 15.5,
+          "contacts": 3,
+          "clean_race_percent": 50.0
+        }
+      },
+      "bikes": {
+        "Honda HRC Team": {
+          "races": 7,
+          "wins": 0,
+          "podiums": 2
+        },
+        "Yamaha YZF-R1M 2021": {
+          "races": 2,
+          "wins": 0,
+          "podiums": 2
+        },
+        "Yamaha R6": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0
+        },
+        "BOSCOSCURO SC": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0
+        },
+        "Honda NSF250RW 2026": {
+          "races": 2,
+          "wins": 0,
+          "podiums": 0
+        },
+        "YAMAHA YZR-M1": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0
+        }
+      }
+    },
+    {
       "guid": "FF01100001082EE881",
       "name": "pableko",
       "races": 14,
@@ -6653,119 +6786,6 @@
       }
     },
     {
-      "guid": "FF0110000171FAE861",
-      "name": "Dede",
-      "races": 13,
-      "wins": 0,
-      "podiums": 4,
-      "win_rate": 0.0,
-      "podium_rate": 30.8,
-      "average_finish": 10.846,
-      "average_start": 8.462,
-      "average_positions_gained": -2.385,
-      "best_finish": 2,
-      "best_recorded_lap": 84.073547,
-      "average_gap_percent": -11.45,
-      "contacts": 30,
-      "contacts_per_race": 2.308,
-      "clean_races": 1,
-      "clean_race_percent": 7.7,
-      "worst_contact_severity": 32.297,
-      "tracks": {
-        "Autodromo do Algarve v2.0": {
-          "races": 3,
-          "wins": 0,
-          "podiums": 0,
-          "average_finish": 13.333,
-          "contacts": 9,
-          "clean_race_percent": 0.0
-        },
-        "Sachsenring v1.0b": {
-          "races": 2,
-          "wins": 0,
-          "podiums": 1,
-          "average_finish": 5,
-          "contacts": 2,
-          "clean_race_percent": 0.0
-        },
-        "Circuito de Estoril v1.0": {
-          "races": 3,
-          "wins": 0,
-          "podiums": 1,
-          "average_finish": 7.667,
-          "contacts": 11,
-          "clean_race_percent": 0.0
-        },
-        "TT Circuit Assen v1.0": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 1,
-          "average_finish": 3,
-          "contacts": 1,
-          "clean_race_percent": 0.0
-        },
-        "Circuit de Catalunya - 2021 v1.0b": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 1,
-          "average_finish": 2,
-          "contacts": 0,
-          "clean_race_percent": 100.0
-        },
-        "Circuito de Jerez v2.1": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0,
-          "average_finish": 14,
-          "contacts": 1,
-          "clean_race_percent": 0.0
-        },
-        "Lusail International Circuit - Night v1.0": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0,
-          "average_finish": 22,
-          "contacts": 3,
-          "clean_race_percent": 0.0
-        },
-        "Pertamina Mandalika International Circuit v1.2": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0,
-          "average_finish": 27,
-          "contacts": 3,
-          "clean_race_percent": 0.0
-        }
-      },
-      "bikes": {
-        "Honda HRC Team": {
-          "races": 7,
-          "wins": 0,
-          "podiums": 2
-        },
-        "Yamaha YZF-R1M 2021": {
-          "races": 2,
-          "wins": 0,
-          "podiums": 2
-        },
-        "Yamaha R6": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0
-        },
-        "BOSCOSCURO SC": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0
-        },
-        "Honda NSF250RW 2026": {
-          "races": 2,
-          "wins": 0,
-          "podiums": 0
-        }
-      }
-    },
-    {
       "guid": "FF01100001092EDE71",
       "name": "vegasan88",
       "races": 13,
@@ -7001,6 +7021,119 @@
           "races": 2,
           "wins": 0,
           "podiums": 0
+        }
+      }
+    },
+    {
+      "guid": "FF011000011874EC13",
+      "name": "Oover",
+      "races": 12,
+      "wins": 1,
+      "podiums": 5,
+      "win_rate": 8.3,
+      "podium_rate": 41.7,
+      "average_finish": 7,
+      "average_start": 5.833,
+      "average_positions_gained": -1.167,
+      "best_finish": 1,
+      "best_recorded_lap": 87.979019,
+      "average_gap_percent": -5.022,
+      "contacts": 29,
+      "contacts_per_race": 2.417,
+      "clean_races": 3,
+      "clean_race_percent": 25.0,
+      "worst_contact_severity": 29.79,
+      "tracks": {
+        "Red Bull Ring 2.0 Beta3": {
+          "races": 2,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 10.5,
+          "contacts": 5,
+          "clean_race_percent": 0.0
+        },
+        "Phillip Island Circuit v1.0": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 7,
+          "contacts": 0,
+          "clean_race_percent": 100.0
+        },
+        "Circuito de Jerez v2.1": {
+          "races": 2,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 5.5,
+          "contacts": 2,
+          "clean_race_percent": 50.0
+        },
+        "Le Mans Circuit Bugatti v1.1": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 1,
+          "average_finish": 2,
+          "contacts": 1,
+          "clean_race_percent": 0.0
+        },
+        "Circuit de Catalunya - 2021 v1.0b": {
+          "races": 1,
+          "wins": 1,
+          "podiums": 1,
+          "average_finish": 1,
+          "contacts": 0,
+          "clean_race_percent": 100.0
+        },
+        "Pertamina Mandalika International Circuit v1.2": {
+          "races": 3,
+          "wins": 0,
+          "podiums": 1,
+          "average_finish": 12.333,
+          "contacts": 17,
+          "clean_race_percent": 0.0
+        },
+        "Sachsenring v1.0b": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 1,
+          "average_finish": 3,
+          "contacts": 3,
+          "clean_race_percent": 0.0
+        },
+        "Lusail International Circuit - Night v1.0": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 1,
+          "average_finish": 2,
+          "contacts": 1,
+          "clean_race_percent": 0.0
+        }
+      },
+      "bikes": {
+        "Yamaha R6": {
+          "races": 2,
+          "wins": 0,
+          "podiums": 0
+        },
+        "Triumph 765RS": {
+          "races": 2,
+          "wins": 0,
+          "podiums": 0
+        },
+        "Ducati Aruba.it Racing": {
+          "races": 2,
+          "wins": 1,
+          "podiums": 2
+        },
+        "Honda NSF250RW 2026": {
+          "races": 5,
+          "wins": 0,
+          "podiums": 2
+        },
+        "APRILIA RSGP": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 1
         }
       }
     },
@@ -7625,114 +7758,6 @@
           "races": 1,
           "wins": 1,
           "podiums": 1
-        }
-      }
-    },
-    {
-      "guid": "FF011000011874EC13",
-      "name": "oover",
-      "races": 11,
-      "wins": 1,
-      "podiums": 4,
-      "win_rate": 9.1,
-      "podium_rate": 36.4,
-      "average_finish": 7.455,
-      "average_start": 6.182,
-      "average_positions_gained": -1.273,
-      "best_finish": 1,
-      "best_recorded_lap": 87.979019,
-      "average_gap_percent": -5.628,
-      "contacts": 24,
-      "contacts_per_race": 2.182,
-      "clean_races": 3,
-      "clean_race_percent": 27.3,
-      "worst_contact_severity": 29.79,
-      "tracks": {
-        "Red Bull Ring 2.0 Beta3": {
-          "races": 2,
-          "wins": 0,
-          "podiums": 0,
-          "average_finish": 10.5,
-          "contacts": 5,
-          "clean_race_percent": 0.0
-        },
-        "Phillip Island Circuit v1.0": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0,
-          "average_finish": 7,
-          "contacts": 0,
-          "clean_race_percent": 100.0
-        },
-        "Circuito de Jerez v2.1": {
-          "races": 2,
-          "wins": 0,
-          "podiums": 0,
-          "average_finish": 5.5,
-          "contacts": 2,
-          "clean_race_percent": 50.0
-        },
-        "Le Mans Circuit Bugatti v1.1": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 1,
-          "average_finish": 2,
-          "contacts": 1,
-          "clean_race_percent": 0.0
-        },
-        "Circuit de Catalunya - 2021 v1.0b": {
-          "races": 1,
-          "wins": 1,
-          "podiums": 1,
-          "average_finish": 1,
-          "contacts": 0,
-          "clean_race_percent": 100.0
-        },
-        "Pertamina Mandalika International Circuit v1.2": {
-          "races": 2,
-          "wins": 0,
-          "podiums": 0,
-          "average_finish": 17.5,
-          "contacts": 12,
-          "clean_race_percent": 0.0
-        },
-        "Sachsenring v1.0b": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 1,
-          "average_finish": 3,
-          "contacts": 3,
-          "clean_race_percent": 0.0
-        },
-        "Lusail International Circuit - Night v1.0": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 1,
-          "average_finish": 2,
-          "contacts": 1,
-          "clean_race_percent": 0.0
-        }
-      },
-      "bikes": {
-        "Yamaha R6": {
-          "races": 2,
-          "wins": 0,
-          "podiums": 0
-        },
-        "Triumph 765RS": {
-          "races": 2,
-          "wins": 0,
-          "podiums": 0
-        },
-        "Ducati Aruba.it Racing": {
-          "races": 2,
-          "wins": 1,
-          "podiums": 2
-        },
-        "Honda NSF250RW 2026": {
-          "races": 5,
-          "wins": 0,
-          "podiums": 2
         }
       }
     },
@@ -8437,6 +8462,106 @@
       }
     },
     {
+      "guid": "FF011000010F6AEA30",
+      "name": "Lou",
+      "races": 9,
+      "wins": 1,
+      "podiums": 1,
+      "win_rate": 11.1,
+      "podium_rate": 11.1,
+      "average_finish": 8.556,
+      "average_start": 6,
+      "average_positions_gained": -2.556,
+      "best_finish": 1,
+      "best_recorded_lap": 87.684357,
+      "average_gap_percent": 0.961,
+      "contacts": 50,
+      "contacts_per_race": 5.556,
+      "clean_races": 1,
+      "clean_race_percent": 11.1,
+      "worst_contact_severity": 29.94,
+      "tracks": {
+        "Automotodrom Brno v1.0a": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 4,
+          "contacts": 0,
+          "clean_race_percent": 100.0
+        },
+        "Misano World Circuit Marco Simoncelli v1.0": {
+          "races": 2,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 13.5,
+          "contacts": 26,
+          "clean_race_percent": 0.0
+        },
+        "Circuito de Estoril v1.0": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 6,
+          "contacts": 1,
+          "clean_race_percent": 0.0
+        },
+        "Motorland Aragon 1.0b": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 5,
+          "contacts": 2,
+          "clean_race_percent": 0.0
+        },
+        "Sachsenring v1.0b": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 6,
+          "contacts": 9,
+          "clean_race_percent": 0.0
+        },
+        "Lusail International Circuit - Night v1.0": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 19,
+          "contacts": 1,
+          "clean_race_percent": 0.0
+        },
+        "Pertamina Mandalika International Circuit v1.2": {
+          "races": 2,
+          "wins": 1,
+          "podiums": 1,
+          "average_finish": 5,
+          "contacts": 11,
+          "clean_race_percent": 0.0
+        }
+      },
+      "bikes": {
+        "MV Agusta F800RR": {
+          "races": 3,
+          "wins": 0,
+          "podiums": 0
+        },
+        "Ducati Motorcorsa Racing": {
+          "races": 2,
+          "wins": 0,
+          "podiums": 0
+        },
+        "Honda NSF250RW 2026": {
+          "races": 3,
+          "wins": 0,
+          "podiums": 0
+        },
+        "HONDA RC213V": {
+          "races": 1,
+          "wins": 1,
+          "podiums": 1
+        }
+      }
+    },
+    {
       "guid": "FF0110000141C7950B",
       "name": "Mikey 93",
       "races": 9,
@@ -9131,101 +9256,6 @@
           "races": 1,
           "wins": 0,
           "podiums": 1
-        }
-      }
-    },
-    {
-      "guid": "FF011000010F6AEA30",
-      "name": "Lou",
-      "races": 8,
-      "wins": 0,
-      "podiums": 0,
-      "win_rate": 0.0,
-      "podium_rate": 0.0,
-      "average_finish": 9.5,
-      "average_start": 6.625,
-      "average_positions_gained": -2.875,
-      "best_finish": 4,
-      "best_recorded_lap": 87.684357,
-      "average_gap_percent": 1.098,
-      "contacts": 43,
-      "contacts_per_race": 5.375,
-      "clean_races": 1,
-      "clean_race_percent": 12.5,
-      "worst_contact_severity": 29.94,
-      "tracks": {
-        "Automotodrom Brno v1.0a": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0,
-          "average_finish": 4,
-          "contacts": 0,
-          "clean_race_percent": 100.0
-        },
-        "Misano World Circuit Marco Simoncelli v1.0": {
-          "races": 2,
-          "wins": 0,
-          "podiums": 0,
-          "average_finish": 13.5,
-          "contacts": 26,
-          "clean_race_percent": 0.0
-        },
-        "Circuito de Estoril v1.0": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0,
-          "average_finish": 6,
-          "contacts": 1,
-          "clean_race_percent": 0.0
-        },
-        "Motorland Aragon 1.0b": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0,
-          "average_finish": 5,
-          "contacts": 2,
-          "clean_race_percent": 0.0
-        },
-        "Sachsenring v1.0b": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0,
-          "average_finish": 6,
-          "contacts": 9,
-          "clean_race_percent": 0.0
-        },
-        "Lusail International Circuit - Night v1.0": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0,
-          "average_finish": 19,
-          "contacts": 1,
-          "clean_race_percent": 0.0
-        },
-        "Pertamina Mandalika International Circuit v1.2": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0,
-          "average_finish": 9,
-          "contacts": 4,
-          "clean_race_percent": 0.0
-        }
-      },
-      "bikes": {
-        "MV Agusta F800RR": {
-          "races": 3,
-          "wins": 0,
-          "podiums": 0
-        },
-        "Ducati Motorcorsa Racing": {
-          "races": 2,
-          "wins": 0,
-          "podiums": 0
-        },
-        "Honda NSF250RW 2026": {
-          "races": 3,
-          "wins": 0,
-          "podiums": 0
         }
       }
     },
@@ -14058,6 +14088,64 @@
       }
     },
     {
+      "guid": "FF0110000107402BDF",
+      "name": "The Gyatt",
+      "races": 3,
+      "wins": 0,
+      "podiums": 0,
+      "win_rate": 0.0,
+      "podium_rate": 0.0,
+      "average_finish": 8.667,
+      "average_start": 5.333,
+      "average_positions_gained": -3.333,
+      "best_finish": 6,
+      "best_recorded_lap": 97.162193,
+      "average_gap_percent": -92.923,
+      "contacts": 5,
+      "contacts_per_race": 1.667,
+      "clean_races": 1,
+      "clean_race_percent": 33.3,
+      "worst_contact_severity": 10.99,
+      "tracks": {
+        "Motorland Aragon 1.0b": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 10,
+          "contacts": 1,
+          "clean_race_percent": 0.0
+        },
+        "Circuito de Estoril v1.0": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 10,
+          "contacts": 0,
+          "clean_race_percent": 100.0
+        },
+        "Pertamina Mandalika International Circuit v1.2": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 6,
+          "contacts": 4,
+          "clean_race_percent": 0.0
+        }
+      },
+      "bikes": {
+        "Honda HRC Team": {
+          "races": 2,
+          "wins": 0,
+          "podiums": 0
+        },
+        "APRILIA RSGP": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0
+        }
+      }
+    },
+    {
       "guid": "FF011000010649FC77",
       "name": "washed",
       "races": 3,
@@ -15218,51 +15306,6 @@
       },
       "bikes": {
         "Honda CBR600RR": {
-          "races": 2,
-          "wins": 0,
-          "podiums": 0
-        }
-      }
-    },
-    {
-      "guid": "FF0110000107402BDF",
-      "name": "The Gyatt",
-      "races": 2,
-      "wins": 0,
-      "podiums": 0,
-      "win_rate": 0.0,
-      "podium_rate": 0.0,
-      "average_finish": 10,
-      "average_start": 5,
-      "average_positions_gained": -5,
-      "best_finish": 10,
-      "best_recorded_lap": null,
-      "average_gap_percent": null,
-      "contacts": 1,
-      "contacts_per_race": 0.5,
-      "clean_races": 1,
-      "clean_race_percent": 50.0,
-      "worst_contact_severity": 0.487,
-      "tracks": {
-        "Motorland Aragon 1.0b": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0,
-          "average_finish": 10,
-          "contacts": 1,
-          "clean_race_percent": 0.0
-        },
-        "Circuito de Estoril v1.0": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0,
-          "average_finish": 10,
-          "contacts": 0,
-          "clean_race_percent": 100.0
-        }
-      },
-      "bikes": {
-        "Honda HRC Team": {
           "races": 2,
           "wins": 0,
           "podiums": 0
@@ -82342,6 +82385,274 @@
           "rider2": "Simone Ghilardini",
           "relative_speed": -3.738147,
           "severity": 3.738
+        }
+      ]
+    },
+    {
+      "source_file": "gpb_p3_20261014-210943-Pertamina Mandalika v1.2.xml",
+      "event_timestamp": 1792008583,
+      "date": "2026-10-14T21:09:43+01:00",
+      "event_type": "Race",
+      "track": "Pertamina Mandalika International Circuit v1.2",
+      "track_id": "Pertamina Mandalika v1.2",
+      "track_length_m": 4371.059082,
+      "scheduled_laps": 15,
+      "field_size": 7,
+      "contact_events": 9,
+      "riders": [
+        {
+          "race_num": "3",
+          "name": "Lou",
+          "bike": "HONDA RC213V",
+          "category": "MotoGP 2026 v0.3",
+          "guid": "FF011000010F6AEA30",
+          "qualifying_position": 1,
+          "qualifying_time": 90.330505,
+          "start_position": 1,
+          "finish_position": 1,
+          "positions_gained": 0,
+          "race_time": 1373.102539,
+          "laps_completed": 15,
+          "gap_seconds": 0.0,
+          "gap_percent": 0.0,
+          "penalty": 0.0,
+          "fastest_lap": 90.614136,
+          "fastest_lap_number": 8,
+          "speed": 87.664131,
+          "valid_timed_laps": 15,
+          "average_lap": 91.539,
+          "median_lap": 91.306,
+          "lap_consistency_stdev": 1.317,
+          "contacts": 7,
+          "max_contact_severity": 10.99,
+          "average_contact_severity": 2.986
+        },
+        {
+          "race_num": "31",
+          "name": "Oover",
+          "bike": "APRILIA RSGP",
+          "category": "MotoGP 2026 v0.3",
+          "guid": "FF011000011874EC13",
+          "qualifying_position": 2,
+          "qualifying_time": 90.655151,
+          "start_position": 2,
+          "finish_position": 2,
+          "positions_gained": 0,
+          "race_time": 1379.033936,
+          "laps_completed": 15,
+          "gap_seconds": 5.931396,
+          "gap_percent": 0.432,
+          "penalty": 0.0,
+          "fastest_lap": 91.041901,
+          "fastest_lap_number": 4,
+          "speed": 89.1455,
+          "valid_timed_laps": 15,
+          "average_lap": 91.934,
+          "median_lap": 91.47,
+          "lap_consistency_stdev": 1.527,
+          "contacts": 5,
+          "max_contact_severity": 2.5,
+          "average_contact_severity": 1.606
+        },
+        {
+          "race_num": "32",
+          "name": "Branny",
+          "bike": "HONDA RC213V",
+          "category": "MotoGP 2026 v0.3",
+          "guid": "FF01100001729F3168",
+          "qualifying_position": 4,
+          "qualifying_time": 91.203003,
+          "start_position": 4,
+          "finish_position": 3,
+          "positions_gained": 1,
+          "race_time": 1392.355591,
+          "laps_completed": 15,
+          "gap_seconds": 19.253052,
+          "gap_percent": 1.4022,
+          "penalty": 0.0,
+          "fastest_lap": 90.654785,
+          "fastest_lap_number": 8,
+          "speed": 89.80204,
+          "valid_timed_laps": 15,
+          "average_lap": 92.823,
+          "median_lap": 91.292,
+          "lap_consistency_stdev": 4.608,
+          "contacts": 2,
+          "max_contact_severity": 1.676,
+          "average_contact_severity": 0.961
+        },
+        {
+          "race_num": "86",
+          "name": "Dede",
+          "bike": "YAMAHA YZR-M1",
+          "category": "MotoGP 2026 v0.3",
+          "guid": "FF0110000171FAE861",
+          "qualifying_position": 5,
+          "qualifying_time": 92.237701,
+          "start_position": 5,
+          "finish_position": 4,
+          "positions_gained": 1,
+          "race_time": 383.663971,
+          "laps_completed": 4,
+          "gap_seconds": null,
+          "gap_percent": -72.0586,
+          "penalty": 0.0,
+          "fastest_lap": 92.117531,
+          "fastest_lap_number": 2,
+          "speed": 89.833336,
+          "valid_timed_laps": 4,
+          "average_lap": 95.911,
+          "median_lap": 95.456,
+          "lap_consistency_stdev": 3.604,
+          "contacts": 0,
+          "max_contact_severity": null,
+          "average_contact_severity": null
+        },
+        {
+          "race_num": "13",
+          "name": "N1rmata",
+          "bike": "APRILIA RSGP",
+          "category": "MotoGP 2026 v0.3",
+          "guid": "FF0110000144441578",
+          "qualifying_position": 3,
+          "qualifying_time": 90.981445,
+          "start_position": 3,
+          "finish_position": 5,
+          "positions_gained": -2,
+          "race_time": 300.508606,
+          "laps_completed": 3,
+          "gap_seconds": null,
+          "gap_percent": -78.1146,
+          "penalty": 0.0,
+          "fastest_lap": 92.937904,
+          "fastest_lap_number": 2,
+          "speed": 88.278732,
+          "valid_timed_laps": 3,
+          "average_lap": 100.164,
+          "median_lap": 97.695,
+          "lap_consistency_stdev": 7.125,
+          "contacts": 0,
+          "max_contact_severity": null,
+          "average_contact_severity": null
+        },
+        {
+          "race_num": "23",
+          "name": "The Gyatt",
+          "bike": "APRILIA RSGP",
+          "category": "MotoGP 2026 v0.3",
+          "guid": "FF0110000107402BDF",
+          "qualifying_position": 6,
+          "qualifying_time": 92.248779,
+          "start_position": 6,
+          "finish_position": 6,
+          "positions_gained": 0,
+          "race_time": 97.180191,
+          "laps_completed": 1,
+          "gap_seconds": null,
+          "gap_percent": -92.9226,
+          "penalty": 0.0,
+          "fastest_lap": 97.162193,
+          "fastest_lap_number": 1,
+          "speed": 69.591568,
+          "valid_timed_laps": 1,
+          "average_lap": 97.162,
+          "median_lap": 97.162,
+          "lap_consistency_stdev": null,
+          "contacts": 4,
+          "max_contact_severity": 10.99,
+          "average_contact_severity": 4.217
+        },
+        {
+          "race_num": "71",
+          "name": "Simone Ghilardini",
+          "bike": "DUCATI GP26",
+          "category": "MotoGP 2026 v0.3",
+          "guid": "FF011000013F8E9311",
+          "qualifying_position": 7,
+          "qualifying_time": 95.113342,
+          "start_position": 7,
+          "finish_position": 7,
+          "positions_gained": 0,
+          "race_time": null,
+          "laps_completed": 0,
+          "gap_seconds": null,
+          "gap_percent": null,
+          "penalty": 0.0,
+          "fastest_lap": null,
+          "fastest_lap_number": null,
+          "speed": null,
+          "valid_timed_laps": 0,
+          "average_lap": null,
+          "median_lap": null,
+          "lap_consistency_stdev": null,
+          "contacts": 0,
+          "max_contact_severity": null,
+          "average_contact_severity": null
+        }
+      ],
+      "contacts": [
+        {
+          "time_ms": 155462,
+          "rider1": "Lou",
+          "rider2": "The Gyatt",
+          "relative_speed": -10.990353,
+          "severity": 10.99
+        },
+        {
+          "time_ms": 175286,
+          "rider1": "Lou",
+          "rider2": "Oover",
+          "relative_speed": -2.126973,
+          "severity": 2.127
+        },
+        {
+          "time_ms": 162400,
+          "rider1": "Lou",
+          "rider2": "The Gyatt",
+          "relative_speed": -2.917748,
+          "severity": 2.918
+        },
+        {
+          "time_ms": 180104,
+          "rider1": "Oover",
+          "rider2": "The Gyatt",
+          "relative_speed": -1.285042,
+          "severity": 1.285
+        },
+        {
+          "time_ms": 183206,
+          "rider1": "Lou",
+          "rider2": "Oover",
+          "relative_speed": -1.454567,
+          "severity": 1.455
+        },
+        {
+          "time_ms": 189262,
+          "rider1": "Lou",
+          "rider2": "Oover",
+          "relative_speed": -0.664119,
+          "severity": 0.664
+        },
+        {
+          "time_ms": 97266,
+          "rider1": "Lou",
+          "rider2": "Oover",
+          "relative_speed": -2.50029,
+          "severity": 2.5
+        },
+        {
+          "time_ms": 39846,
+          "rider1": "Branny",
+          "rider2": "The Gyatt",
+          "relative_speed": -1.67575,
+          "severity": 1.676
+        },
+        {
+          "time_ms": 246558,
+          "rider1": "Lou",
+          "rider2": "Branny",
+          "relative_speed": -0.246807,
+          "severity": 0.247
         }
       ]
     }
