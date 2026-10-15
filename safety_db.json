@@ -8,10 +8,10 @@
         "grade": "A"
     },
     "pr1c3y": {
-        "safety": 106,
-        "races": 13,
+        "safety": 111,
+        "races": 14,
         "contacts": 14,
-        "clean_races": 5,
+        "clean_races": 6,
         "large_lobby_clean_streak": 0,
         "grade": "C"
     },
@@ -1399,10 +1399,10 @@
         "E": 0
     },
     "CHORIPANZETUDO": {
-        "safety": 115,
-        "races": 2,
+        "safety": 120,
+        "races": 3,
         "contacts": 3,
-        "clean_races": 0,
+        "clean_races": 1,
         "large_lobby_clean_streak": 0,
         "grade": "C"
     },
