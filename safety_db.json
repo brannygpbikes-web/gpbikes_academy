@@ -107,10 +107,10 @@
         "grade": "A"
     },
     "chilliams": {
-        "safety": 133,
-        "races": 23,
+        "safety": 143,
+        "races": 24,
         "contacts": 30,
-        "clean_races": 7,
+        "clean_races": 8,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     },
@@ -535,10 +535,10 @@
         "grade": "C"
     },
     "Dario Andreoni": {
-        "safety": 73,
-        "races": 19,
+        "safety": 83,
+        "races": 20,
         "contacts": 29,
-        "clean_races": 5,
+        "clean_races": 6,
         "large_lobby_clean_streak": 0,
         "grade": "D"
     },
@@ -679,10 +679,10 @@
         "grade": "B"
     },
     "tacticworks": {
-        "safety": 57,
-        "races": 18,
+        "safety": 67,
+        "races": 19,
         "contacts": 32,
-        "clean_races": 3,
+        "clean_races": 4,
         "large_lobby_clean_streak": 0,
         "grade": "E"
     },
@@ -874,10 +874,10 @@
         "large_lobby_clean_streak": 1
     },
     "Dimitry": {
-        "safety": 111,
-        "races": 19,
+        "safety": 121,
+        "races": 20,
         "contacts": 39,
-        "clean_races": 5,
+        "clean_races": 6,
         "large_lobby_clean_streak": 1,
         "grade": "C"
     },
@@ -1263,10 +1263,10 @@
         "grade": "C"
     },
     "Vinsky": {
-        "safety": 166,
-        "races": 7,
+        "safety": 176,
+        "races": 8,
         "contacts": 11,
-        "clean_races": 3,
+        "clean_races": 4,
         "large_lobby_clean_streak": 0,
         "grade": "A"
     },
@@ -1441,11 +1441,11 @@
         "grade": "C"
     },
     "Creisi48": {
-        "safety": 115,
-        "races": 3,
-        "contacts": 10,
+        "safety": 111,
+        "races": 4,
+        "contacts": 11,
         "clean_races": 1,
-        "large_lobby_clean_streak": 1,
+        "large_lobby_clean_streak": 0,
         "grade": "C"
     },
     "Marcus": {
@@ -1505,12 +1505,12 @@
         "grade": "C"
     },
     "Thomo081": {
-        "safety": 123,
-        "races": 9,
+        "safety": 133,
+        "races": 10,
         "contacts": 26,
-        "clean_races": 4,
+        "clean_races": 5,
         "large_lobby_clean_streak": 0,
-        "grade": "C"
+        "grade": "B"
     },
     "Flavio Baldacci": {
         "safety": 121,
