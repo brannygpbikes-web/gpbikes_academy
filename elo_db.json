@@ -180,10 +180,10 @@
         "podiums": 27
     },
     "Billy Jones": {
-        "elo": 1155,
+        "elo": 1148,
         "wins": 12,
-        "races": 31,
-        "podiums": 23
+        "races": 32,
+        "podiums": 24
     },
     "patrickfaderl98": {
         "elo": 1034,
@@ -318,10 +318,10 @@
         "podiums": 0
     },
     "Dario Andreoni": {
-        "elo": 989,
-        "wins": 0,
-        "races": 21,
-        "podiums": 7
+        "elo": 996,
+        "wins": 1,
+        "races": 22,
+        "podiums": 8
     },
     "titonagom08": {
         "elo": 970,
@@ -898,12 +898,6 @@
         "wins": 2,
         "races": 2,
         "podiums": 2
-    },
-    "Branny": {
-        "elo": 1002,
-        "wins": 0,
-        "races": 2,
-        "podiums": 0
     },
     "Rk_44": {
         "elo": 876,

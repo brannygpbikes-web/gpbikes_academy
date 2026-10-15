@@ -1989,6 +1989,15 @@
             "track": "",
             "finish": 5,
             "race_id": "c286e3f8f5d18cd94676b111ece7a71e908d7bdbbd788a25c2eb8dc315e911dd"
+        },
+        {
+            "date": "2026-10-15T19:12:49",
+            "elo": 996,
+            "elo_before": 989,
+            "change": 7,
+            "track": "",
+            "finish": 1,
+            "race_id": "51d39a975cd538919428a666a6da95868c91c15e1cbe1936d0c30a8caa4e75cb"
         }
     ],
     "waldodj": [
@@ -5135,6 +5144,15 @@
             "track": "",
             "finish": 3,
             "race_id": "4c9c5678690b94c0d13375ca4867d914f6d85088a3b025165471fe0a6b030e13"
+        },
+        {
+            "date": "2026-10-15T19:12:49",
+            "elo": 1148,
+            "elo_before": 1155,
+            "change": -7,
+            "track": "",
+            "finish": 2,
+            "race_id": "51d39a975cd538919428a666a6da95868c91c15e1cbe1936d0c30a8caa4e75cb"
         }
     ],
     "moe": [

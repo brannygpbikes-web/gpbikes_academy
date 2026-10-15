@@ -315,12 +315,12 @@
         "large_lobby_clean_streak": 0
     },
     "Miquel_Sinke60": {
-        "safety": 0,
+        "safety": 80,
         "races": 41,
         "contacts": 94,
         "clean_races": 11,
         "large_lobby_clean_streak": 0,
-        "grade": "E"
+        "grade": "D"
     },
     "moe": {
         "safety": 209,
@@ -535,10 +535,10 @@
         "grade": "C"
     },
     "Dario Andreoni": {
-        "safety": 72,
-        "races": 17,
+        "safety": 77,
+        "races": 18,
         "contacts": 28,
-        "clean_races": 4,
+        "clean_races": 5,
         "large_lobby_clean_streak": 0,
         "grade": "D"
     },
@@ -968,9 +968,9 @@
     },
     "Billy Jones": {
         "safety": 300,
-        "races": 27,
+        "races": 28,
         "contacts": 35,
-        "clean_races": 13,
+        "clean_races": 14,
         "large_lobby_clean_streak": 2,
         "grade": "S"
     },
