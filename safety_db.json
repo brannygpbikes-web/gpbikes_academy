@@ -1,11 +1,11 @@
 {
     "branny": {
-        "safety": 267,
-        "races": 48,
-        "contacts": 55,
+        "safety": 264,
+        "races": 49,
+        "contacts": 56,
         "clean_races": 27,
-        "large_lobby_clean_streak": 2,
-        "grade": "S"
+        "large_lobby_clean_streak": 0,
+        "grade": "A"
     },
     "pr1c3y": {
         "safety": 111,
@@ -183,12 +183,12 @@
         "grade": "A"
     },
     "Lou": {
-        "safety": 94,
-        "races": 11,
+        "safety": 104,
+        "races": 12,
         "contacts": 43,
-        "clean_races": 4,
+        "clean_races": 5,
         "large_lobby_clean_streak": 2,
-        "grade": "D"
+        "grade": "C"
     },
     "Sturdy": {
         "safety": 187,
@@ -469,10 +469,10 @@
         "grade": "D"
     },
     "Dani": {
-        "safety": 53,
-        "races": 10,
+        "safety": 63,
+        "races": 11,
         "contacts": 27,
-        "clean_races": 1,
+        "clean_races": 2,
         "grade": "E",
         "large_lobby_clean_streak": 1
     },
@@ -695,10 +695,10 @@
         "grade": "C"
     },
     "ola13": {
-        "safety": 184,
-        "races": 23,
+        "safety": 194,
+        "races": 24,
         "contacts": 23,
-        "clean_races": 9,
+        "clean_races": 10,
         "large_lobby_clean_streak": 1,
         "grade": "A"
     },
@@ -749,10 +749,10 @@
         "grade": "B"
     },
     "Rk_44": {
-        "safety": 202,
-        "races": 29,
+        "safety": 212,
+        "races": 30,
         "contacts": 32,
-        "clean_races": 15,
+        "clean_races": 16,
         "large_lobby_clean_streak": 0,
         "grade": "A"
     },
@@ -780,11 +780,11 @@
         "grade": "D"
     },
     "Gonzalo Molina": {
-        "safety": 248,
-        "races": 24,
-        "contacts": 30,
+        "safety": 245,
+        "races": 25,
+        "contacts": 31,
         "clean_races": 13,
-        "large_lobby_clean_streak": 2,
+        "large_lobby_clean_streak": 0,
         "grade": "A"
     },
     "Scuderia Silence (tascione)": {
@@ -991,11 +991,11 @@
         "grade": "D"
     },
     "The Gyatt": {
-        "safety": 182,
-        "races": 4,
-        "contacts": 1,
+        "safety": 179,
+        "races": 5,
+        "contacts": 2,
         "clean_races": 3,
-        "large_lobby_clean_streak": 2,
+        "large_lobby_clean_streak": 0,
         "grade": "A"
     },
     "Spud": {
@@ -1175,12 +1175,12 @@
         "grade": "B"
     },
     "oover": {
-        "safety": 158,
-        "races": 14,
+        "safety": 168,
+        "races": 15,
         "contacts": 26,
-        "clean_races": 5,
+        "clean_races": 6,
         "large_lobby_clean_streak": 1,
-        "grade": "B"
+        "grade": "A"
     },
     "queefmccheif": {
         "safety": 119,
@@ -1263,10 +1263,10 @@
         "grade": "C"
     },
     "Vinsky": {
-        "safety": 197,
-        "races": 10,
+        "safety": 207,
+        "races": 11,
         "contacts": 13,
-        "clean_races": 5,
+        "clean_races": 6,
         "large_lobby_clean_streak": 0,
         "grade": "A"
     },
@@ -1657,10 +1657,10 @@
         "grade": "B"
     },
     "Maximoquiles28": {
-        "safety": 200,
-        "races": 3,
+        "safety": 210,
+        "races": 4,
         "contacts": 2,
-        "clean_races": 1,
+        "clean_races": 2,
         "large_lobby_clean_streak": 0,
         "grade": "A"
     },
