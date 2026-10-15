@@ -5872,6 +5872,15 @@
             "track": "",
             "finish": 4,
             "race_id": "275dfe30e6a90311cfd905bc9669a9834f30b7a2e0c758358ced4ba92c7dae46"
+        },
+        {
+            "date": "2026-10-15T17:22:47",
+            "elo": 956,
+            "elo_before": 953,
+            "change": 3,
+            "track": "",
+            "finish": 2,
+            "race_id": "5b18a7f722c0e0b6e9910cc2dc8412de1a0f29e305b8c3baeb10f4d11204ffcf"
         }
     ],
     "will 77": [
@@ -7710,6 +7719,15 @@
             "track": "",
             "finish": 3,
             "race_id": "69f2db9cc6b94f1ed1610b5d746fa3cd283ec26df0356a88b8ba3c6fcaffd696"
+        },
+        {
+            "date": "2026-10-15T17:22:47",
+            "elo": 998,
+            "elo_before": 1001,
+            "change": -3,
+            "track": "",
+            "finish": 3,
+            "race_id": "5b18a7f722c0e0b6e9910cc2dc8412de1a0f29e305b8c3baeb10f4d11204ffcf"
         }
     ],
     "Rattapol": [
@@ -8705,6 +8723,15 @@
             "track": "",
             "finish": 15,
             "race_id": "070fd86d73e8a22c833efc0bd25e0fe68c8e7a3fe084d8151e46029e6d84d759"
+        },
+        {
+            "date": "2026-10-15T17:22:47",
+            "elo": 969,
+            "elo_before": 977,
+            "change": -8,
+            "track": "",
+            "finish": 4,
+            "race_id": "5b18a7f722c0e0b6e9910cc2dc8412de1a0f29e305b8c3baeb10f4d11204ffcf"
         }
     ],
     "Po1nt": [
@@ -9114,6 +9141,15 @@
             "track": "",
             "finish": 21,
             "race_id": "c286e3f8f5d18cd94676b111ece7a71e908d7bdbbd788a25c2eb8dc315e911dd"
+        },
+        {
+            "date": "2026-10-15T17:22:47",
+            "elo": 990,
+            "elo_before": 982,
+            "change": 8,
+            "track": "",
+            "finish": 1,
+            "race_id": "5b18a7f722c0e0b6e9910cc2dc8412de1a0f29e305b8c3baeb10f4d11204ffcf"
         }
     ],
     "Gixnni.": [

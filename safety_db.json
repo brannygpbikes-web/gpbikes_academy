@@ -8,9 +8,9 @@
         "grade": "A"
     },
     "pr1c3y": {
-        "safety": 114,
-        "races": 12,
-        "contacts": 12,
+        "safety": 106,
+        "races": 13,
+        "contacts": 14,
         "clean_races": 5,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -1399,9 +1399,9 @@
         "E": 0
     },
     "CHORIPANZETUDO": {
-        "safety": 123,
-        "races": 1,
-        "contacts": 1,
+        "safety": 115,
+        "races": 2,
+        "contacts": 3,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -1553,12 +1553,12 @@
         "grade": "D"
     },
     "osss": {
-        "safety": 117,
-        "races": 4,
-        "contacts": 19,
+        "safety": 93,
+        "races": 5,
+        "contacts": 25,
         "clean_races": 1,
-        "large_lobby_clean_streak": 1,
-        "grade": "C"
+        "large_lobby_clean_streak": 0,
+        "grade": "D"
     },
     "Po1nt": {
         "safety": 95,
@@ -1609,12 +1609,12 @@
         "grade": "C"
     },
     "cxtEstam": {
-        "safety": 101,
-        "races": 3,
-        "contacts": 15,
+        "safety": 97,
+        "races": 4,
+        "contacts": 16,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
-        "grade": "C"
+        "grade": "D"
     },
     "Gixnni.": {
         "safety": 95,
