@@ -6,10 +6,10 @@
         "podiums": 0
     },
     "branny": {
-        "elo": 1134,
+        "elo": 1142,
         "wins": 21,
-        "races": 47,
-        "podiums": 30
+        "races": 48,
+        "podiums": 31
     },
     "non1nr": {
         "elo": 1028,
@@ -54,9 +54,9 @@
         "podiums": 22
     },
     "ola13": {
-        "elo": 994,
+        "elo": 992,
         "wins": 2,
-        "races": 22,
+        "races": 23,
         "podiums": 7
     },
     "fast46": {
@@ -156,10 +156,10 @@
         "podiums": 0
     },
     "Gonzalo Molina": {
-        "elo": 1196,
-        "wins": 18,
-        "races": 31,
-        "podiums": 24
+        "elo": 1205,
+        "wins": 19,
+        "races": 32,
+        "podiums": 25
     },
     "NJIRK5211": {
         "elo": 1093,
@@ -180,9 +180,9 @@
         "podiums": 27
     },
     "Billy Jones": {
-        "elo": 1172,
+        "elo": 1174,
         "wins": 15,
-        "races": 35,
+        "races": 36,
         "podiums": 27
     },
     "patrickfaderl98": {
@@ -210,9 +210,9 @@
         "podiums": 4
     },
     "Lou": {
-        "elo": 994,
+        "elo": 1006,
         "wins": 0,
-        "races": 16,
+        "races": 17,
         "podiums": 2
     },
     "Riccardo": {
@@ -228,9 +228,9 @@
         "podiums": 0
     },
     "Carrasco": {
-        "elo": 997,
+        "elo": 984,
         "wins": 2,
-        "races": 19,
+        "races": 20,
         "podiums": 5
     },
     "Ricoway46": {
@@ -294,10 +294,10 @@
         "podiums": 0
     },
     "sbara": {
-        "elo": 1061,
+        "elo": 1074,
         "wins": 4,
-        "races": 30,
-        "podiums": 14
+        "races": 31,
+        "podiums": 15
     },
     "Danislav1746": {
         "elo": 1193,
@@ -318,9 +318,9 @@
         "podiums": 0
     },
     "Dario Andreoni": {
-        "elo": 1033,
+        "elo": 1034,
         "wins": 1,
-        "races": 26,
+        "races": 27,
         "podiums": 11
     },
     "titonagom08": {
@@ -666,9 +666,9 @@
         "podiums": 11
     },
     "jorgeguti160": {
-        "elo": 915,
+        "elo": 908,
         "wins": 0,
-        "races": 8,
+        "races": 9,
         "podiums": 0
     },
     "JKR": {
@@ -732,9 +732,9 @@
         "podiums": 1
     },
     "moleo": {
-        "elo": 1157,
+        "elo": 1155,
         "wins": 10,
-        "races": 34,
+        "races": 35,
         "podiums": 22
     },
     "JM": {
@@ -840,9 +840,9 @@
         "podiums": 8
     },
     "The Gyatt": {
-        "elo": 969,
+        "elo": 972,
         "wins": 0,
-        "races": 6,
+        "races": 7,
         "podiums": 2
     },
     "marty_debruyne": {
@@ -900,9 +900,9 @@
         "podiums": 2
     },
     "Rk_44": {
-        "elo": 877,
+        "elo": 868,
         "wins": 0,
-        "races": 25,
+        "races": 26,
         "podiums": 5
     },
     "Maximo Giro": {
@@ -978,9 +978,9 @@
         "podiums": 0
     },
     "oover": {
-        "elo": 1046,
+        "elo": 1036,
         "wins": 1,
-        "races": 12,
+        "races": 13,
         "podiums": 4
     },
     "queefmccheif": {
@@ -1044,9 +1044,9 @@
         "podiums": 1
     },
     "Vinsky": {
-        "elo": 964,
+        "elo": 962,
         "wins": 0,
-        "races": 8,
+        "races": 9,
         "podiums": 0
     },
     "Fick dich Kohlin": {
@@ -1080,9 +1080,9 @@
         "podiums": 0
     },
     "Pylote": {
-        "elo": 984,
+        "elo": 975,
         "wins": 0,
-        "races": 2,
+        "races": 3,
         "podiums": 0
     },
     "Dario": {
@@ -1158,9 +1158,9 @@
         "podiums": 0
     },
     "Creisi48": {
-        "elo": 1008,
+        "elo": 1007,
         "wins": 0,
-        "races": 6,
+        "races": 7,
         "podiums": 1
     },
     "Marcus": {
@@ -1212,9 +1212,9 @@
         "podiums": 0
     },
     "Thomo081": {
-        "elo": 1047,
+        "elo": 1053,
         "wins": 2,
-        "races": 11,
+        "races": 12,
         "podiums": 4
     },
     "Flavio Baldacci": {
@@ -1308,7 +1308,13 @@
         "podiums": 0
     },
     "Maximoquiles28": {
-        "elo": 993,
+        "elo": 1000,
+        "wins": 0,
+        "races": 2,
+        "podiums": 0
+    },
+    "No Pain No Tartine": {
+        "elo": 994,
         "wins": 0,
         "races": 1,
         "podiums": 0
