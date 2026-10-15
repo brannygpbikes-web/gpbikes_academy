@@ -1,9 +1,9 @@
 {
     "branny": {
-        "safety": 187,
-        "races": 43,
+        "safety": 192,
+        "races": 44,
         "contacts": 54,
-        "clean_races": 23,
+        "clean_races": 24,
         "large_lobby_clean_streak": 0,
         "grade": "A"
     },
@@ -1473,11 +1473,11 @@
         "grade": "D"
     },
     "AngeLo": {
-        "safety": 149,
-        "races": 4,
-        "contacts": 2,
+        "safety": 144,
+        "races": 5,
+        "contacts": 3,
         "clean_races": 3,
-        "large_lobby_clean_streak": 1,
+        "large_lobby_clean_streak": 0,
         "grade": "B"
     },
     "alerelinque": {
