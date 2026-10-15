@@ -491,6 +491,15 @@
             "track": "",
             "finish": 5,
             "race_id": "7621aaf42ff77bc491d418f08426445e03f2fcfcce0979de92e063580e9a8b6c"
+        },
+        {
+            "date": "2026-10-15T18:21:02",
+            "elo": 951,
+            "elo_before": 953,
+            "change": -2,
+            "track": "",
+            "finish": 2,
+            "race_id": "994edf91629cdee4ed2a246928fb5b58c96fe3ee3597b6fd823159f67c498161"
         }
     ],
     "filipknigge20": [
@@ -646,6 +655,15 @@
             "track": "",
             "finish": 2,
             "race_id": "c7ddf9cdb53fd3b133e81335788b53735781a9efcfa129766d547d399d7ed6ca"
+        },
+        {
+            "date": "2026-10-15T18:21:02",
+            "elo": 1137,
+            "elo_before": 1135,
+            "change": 2,
+            "track": "",
+            "finish": 1,
+            "race_id": "994edf91629cdee4ed2a246928fb5b58c96fe3ee3597b6fd823159f67c498161"
         }
     ],
     "Nuno": [
