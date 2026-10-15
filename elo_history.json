@@ -500,6 +500,15 @@
             "track": "",
             "finish": 2,
             "race_id": "994edf91629cdee4ed2a246928fb5b58c96fe3ee3597b6fd823159f67c498161"
+        },
+        {
+            "date": "2026-10-15T20:01:05",
+            "elo": 952,
+            "elo_before": 951,
+            "change": 1,
+            "track": "",
+            "finish": 8,
+            "race_id": "086d2a3d7a6d761b93d015fca711a0c4a3b3b2ff3821af283be029155da39954"
         }
     ],
     "filipknigge20": [
@@ -902,6 +911,15 @@
             "track": "",
             "finish": 8,
             "race_id": "4c9c5678690b94c0d13375ca4867d914f6d85088a3b025165471fe0a6b030e13"
+        },
+        {
+            "date": "2026-10-15T20:01:05",
+            "elo": 1055,
+            "elo_before": 1063,
+            "change": -8,
+            "track": "",
+            "finish": 9,
+            "race_id": "086d2a3d7a6d761b93d015fca711a0c4a3b3b2ff3821af283be029155da39954"
         }
     ],
     "vegasan88": [
@@ -1339,6 +1357,15 @@
             "track": "",
             "finish": 5,
             "race_id": "7e19a6eef98569a16cbb415c2e8d08cd74fa69f7c0881c9632bf2c4742d5967b"
+        },
+        {
+            "date": "2026-10-15T20:01:05",
+            "elo": 1029,
+            "elo_before": 1018,
+            "change": 11,
+            "track": "",
+            "finish": 3,
+            "race_id": "086d2a3d7a6d761b93d015fca711a0c4a3b3b2ff3821af283be029155da39954"
         }
     ],
     "Oover": [
@@ -2025,6 +2052,15 @@
             "track": "",
             "finish": 2,
             "race_id": "7e19a6eef98569a16cbb415c2e8d08cd74fa69f7c0881c9632bf2c4742d5967b"
+        },
+        {
+            "date": "2026-10-15T20:01:05",
+            "elo": 1019,
+            "elo_before": 1011,
+            "change": 8,
+            "track": "",
+            "finish": 4,
+            "race_id": "086d2a3d7a6d761b93d015fca711a0c4a3b3b2ff3821af283be029155da39954"
         }
     ],
     "waldodj": [
@@ -3954,6 +3990,15 @@
             "track": "",
             "finish": 6,
             "race_id": "7e19a6eef98569a16cbb415c2e8d08cd74fa69f7c0881c9632bf2c4742d5967b"
+        },
+        {
+            "date": "2026-10-15T20:01:05",
+            "elo": 961,
+            "elo_before": 969,
+            "change": -8,
+            "track": "",
+            "finish": 11,
+            "race_id": "086d2a3d7a6d761b93d015fca711a0c4a3b3b2ff3821af283be029155da39954"
         }
     ],
     "Rayo__Wombat": [
@@ -4583,6 +4628,15 @@
             "track": "",
             "finish": 5,
             "race_id": "4030cef8fce39dfd3684e0036f0d5ee981d5dab67e29353649dd276c9cc1c963"
+        },
+        {
+            "date": "2026-10-15T20:01:05",
+            "elo": 995,
+            "elo_before": 988,
+            "change": 7,
+            "track": "",
+            "finish": 5,
+            "race_id": "086d2a3d7a6d761b93d015fca711a0c4a3b3b2ff3821af283be029155da39954"
         }
     ],
     "troyalberto9": [
@@ -5025,6 +5079,15 @@
             "track": "",
             "finish": 4,
             "race_id": "7e19a6eef98569a16cbb415c2e8d08cd74fa69f7c0881c9632bf2c4742d5967b"
+        },
+        {
+            "date": "2026-10-15T20:01:05",
+            "elo": 1050,
+            "elo_before": 1068,
+            "change": -18,
+            "track": "",
+            "finish": 13,
+            "race_id": "086d2a3d7a6d761b93d015fca711a0c4a3b3b2ff3821af283be029155da39954"
         }
     ],
     "Billy Jones": [
@@ -5225,6 +5288,15 @@
             "track": "",
             "finish": 1,
             "race_id": "a35d8984729c153bf58a6242c857744121fdcaf80ff7f6ecee056d76ef39cf97"
+        },
+        {
+            "date": "2026-10-15T20:01:05",
+            "elo": 1163,
+            "elo_before": 1153,
+            "change": 10,
+            "track": "",
+            "finish": 1,
+            "race_id": "086d2a3d7a6d761b93d015fca711a0c4a3b3b2ff3821af283be029155da39954"
         }
     ],
     "moe": [
@@ -5335,6 +5407,15 @@
             "track": "",
             "finish": 2,
             "race_id": "275dfe30e6a90311cfd905bc9669a9834f30b7a2e0c758358ced4ba92c7dae46"
+        },
+        {
+            "date": "2026-10-15T20:01:05",
+            "elo": 999,
+            "elo_before": 1006,
+            "change": -7,
+            "track": "",
+            "finish": 10,
+            "race_id": "086d2a3d7a6d761b93d015fca711a0c4a3b3b2ff3821af283be029155da39954"
         }
     ],
     "pableko": [
@@ -6150,6 +6231,15 @@
             "track": "",
             "finish": 12,
             "race_id": "c286e3f8f5d18cd94676b111ece7a71e908d7bdbbd788a25c2eb8dc315e911dd"
+        },
+        {
+            "date": "2026-10-15T20:01:05",
+            "elo": 1037,
+            "elo_before": 1024,
+            "change": 13,
+            "track": "",
+            "finish": 2,
+            "race_id": "086d2a3d7a6d761b93d015fca711a0c4a3b3b2ff3821af283be029155da39954"
         }
     ],
     "queefmccheif": [
@@ -6254,6 +6344,15 @@
             "track": "",
             "finish": 5,
             "race_id": "7064fa7da040d609d84186ceaef29e0f1fca2ac30f199a18a7f9d7f612e8ba12"
+        },
+        {
+            "date": "2026-10-15T20:01:05",
+            "elo": 964,
+            "elo_before": 975,
+            "change": -11,
+            "track": "",
+            "finish": 12,
+            "race_id": "086d2a3d7a6d761b93d015fca711a0c4a3b3b2ff3821af283be029155da39954"
         }
     ],
     "Outrunning Child Support": [
@@ -8145,6 +8244,15 @@
             "track": "",
             "finish": 3,
             "race_id": "7e19a6eef98569a16cbb415c2e8d08cd74fa69f7c0881c9632bf2c4742d5967b"
+        },
+        {
+            "date": "2026-10-15T20:01:05",
+            "elo": 1004,
+            "elo_before": 1003,
+            "change": 1,
+            "track": "",
+            "finish": 7,
+            "race_id": "086d2a3d7a6d761b93d015fca711a0c4a3b3b2ff3821af283be029155da39954"
         }
     ],
     "Marcus": [
@@ -8657,6 +8765,15 @@
             "track": "",
             "finish": 1,
             "race_id": "7e19a6eef98569a16cbb415c2e8d08cd74fa69f7c0881c9632bf2c4742d5967b"
+        },
+        {
+            "date": "2026-10-15T20:01:05",
+            "elo": 1047,
+            "elo_before": 1046,
+            "change": 1,
+            "track": "",
+            "finish": 6,
+            "race_id": "086d2a3d7a6d761b93d015fca711a0c4a3b3b2ff3821af283be029155da39954"
         }
     ],
     "Flavio Baldacci": [

@@ -17,10 +17,10 @@
     },
     "sandnes": {
         "safety": 190,
-        "races": 7,
+        "races": 8,
         "contacts": 1,
-        "clean_races": 6,
-        "large_lobby_clean_streak": 0,
+        "clean_races": 7,
+        "large_lobby_clean_streak": 1,
         "grade": "A"
     },
     "nuno": {
@@ -108,10 +108,10 @@
     },
     "chilliams": {
         "safety": 143,
-        "races": 24,
+        "races": 25,
         "contacts": 30,
-        "clean_races": 8,
-        "large_lobby_clean_streak": 0,
+        "clean_races": 9,
+        "large_lobby_clean_streak": 1,
         "grade": "B"
     },
     "Simone Ghilardini": {
@@ -167,9 +167,9 @@
         "grade": "B"
     },
     "Danny Hinkelmann14": {
-        "safety": 85,
-        "races": 23,
-        "contacts": 48,
+        "safety": 81,
+        "races": 24,
+        "contacts": 50,
         "clean_races": 6,
         "large_lobby_clean_streak": 0,
         "grade": "D"
@@ -269,10 +269,10 @@
     },
     "TheJr": {
         "safety": 100,
-        "races": 12,
-        "contacts": 20,
+        "races": 13,
+        "contacts": 21,
         "clean_races": 4,
-        "large_lobby_clean_streak": 1,
+        "large_lobby_clean_streak": 0,
         "grade": "C"
     },
     "Eder Merino": {
@@ -324,10 +324,10 @@
     },
     "moe": {
         "safety": 209,
-        "races": 41,
+        "races": 42,
         "contacts": 41,
-        "clean_races": 20,
-        "large_lobby_clean_streak": 0,
+        "clean_races": 21,
+        "large_lobby_clean_streak": 1,
         "grade": "A"
     },
     "Zachy12345": {
@@ -536,10 +536,10 @@
     },
     "Dario Andreoni": {
         "safety": 83,
-        "races": 20,
+        "races": 21,
         "contacts": 29,
-        "clean_races": 6,
-        "large_lobby_clean_streak": 0,
+        "clean_races": 7,
+        "large_lobby_clean_streak": 1,
         "grade": "D"
     },
     "Kubon": {
@@ -574,10 +574,10 @@
     },
     "sbara": {
         "safety": 160,
-        "races": 26,
+        "races": 27,
         "contacts": 37,
-        "clean_races": 12,
-        "large_lobby_clean_streak": 0,
+        "clean_races": 13,
+        "large_lobby_clean_streak": 1,
         "grade": "B"
     },
     "N1rmata": {
@@ -680,10 +680,10 @@
     },
     "tacticworks": {
         "safety": 67,
-        "races": 19,
+        "races": 20,
         "contacts": 32,
-        "clean_races": 4,
-        "large_lobby_clean_streak": 0,
+        "clean_races": 5,
+        "large_lobby_clean_streak": 1,
         "grade": "E"
     },
     "troyalberto9": {
@@ -875,10 +875,10 @@
     },
     "Dimitry": {
         "safety": 121,
-        "races": 20,
+        "races": 21,
         "contacts": 39,
-        "clean_races": 6,
-        "large_lobby_clean_streak": 1,
+        "clean_races": 7,
+        "large_lobby_clean_streak": 2,
         "grade": "C"
     },
     "Postal": {
@@ -968,10 +968,10 @@
     },
     "Billy Jones": {
         "safety": 296,
-        "races": 29,
+        "races": 30,
         "contacts": 36,
-        "clean_races": 14,
-        "large_lobby_clean_streak": 0,
+        "clean_races": 15,
+        "large_lobby_clean_streak": 1,
         "grade": "S"
     },
     "Quidel Gaétan": {
@@ -1176,8 +1176,8 @@
     },
     "oover": {
         "safety": 112,
-        "races": 10,
-        "contacts": 23,
+        "races": 11,
+        "contacts": 24,
         "clean_races": 3,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -1442,10 +1442,10 @@
     },
     "Creisi48": {
         "safety": 111,
-        "races": 4,
+        "races": 5,
         "contacts": 11,
-        "clean_races": 1,
-        "large_lobby_clean_streak": 0,
+        "clean_races": 2,
+        "large_lobby_clean_streak": 1,
         "grade": "C"
     },
     "Marcus": {
@@ -1506,10 +1506,10 @@
     },
     "Thomo081": {
         "safety": 133,
-        "races": 10,
+        "races": 11,
         "contacts": 26,
-        "clean_races": 5,
-        "large_lobby_clean_streak": 0,
+        "clean_races": 6,
+        "large_lobby_clean_streak": 1,
         "grade": "B"
     },
     "Flavio Baldacci": {
