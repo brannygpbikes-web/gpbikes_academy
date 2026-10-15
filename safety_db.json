@@ -315,10 +315,10 @@
         "large_lobby_clean_streak": 0
     },
     "Miquel_Sinke60": {
-        "safety": 80,
-        "races": 41,
+        "safety": 85,
+        "races": 42,
         "contacts": 94,
-        "clean_races": 11,
+        "clean_races": 12,
         "large_lobby_clean_streak": 0,
         "grade": "D"
     },
@@ -535,9 +535,9 @@
         "grade": "C"
     },
     "Dario Andreoni": {
-        "safety": 77,
-        "races": 18,
-        "contacts": 28,
+        "safety": 73,
+        "races": 19,
+        "contacts": 29,
         "clean_races": 5,
         "large_lobby_clean_streak": 0,
         "grade": "D"
@@ -874,10 +874,10 @@
         "large_lobby_clean_streak": 1
     },
     "Dimitry": {
-        "safety": 106,
-        "races": 18,
+        "safety": 111,
+        "races": 19,
         "contacts": 39,
-        "clean_races": 4,
+        "clean_races": 5,
         "large_lobby_clean_streak": 1,
         "grade": "C"
     },
@@ -967,11 +967,11 @@
         "grade": "E"
     },
     "Billy Jones": {
-        "safety": 300,
-        "races": 28,
-        "contacts": 35,
+        "safety": 296,
+        "races": 29,
+        "contacts": 36,
         "clean_races": 14,
-        "large_lobby_clean_streak": 2,
+        "large_lobby_clean_streak": 0,
         "grade": "S"
     },
     "Quidel Gaétan": {
@@ -1505,10 +1505,10 @@
         "grade": "C"
     },
     "Thomo081": {
-        "safety": 118,
-        "races": 8,
+        "safety": 123,
+        "races": 9,
         "contacts": 26,
-        "clean_races": 3,
+        "clean_races": 4,
         "large_lobby_clean_streak": 0,
         "grade": "C"
     },

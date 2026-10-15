@@ -1998,6 +1998,15 @@
             "track": "",
             "finish": 1,
             "race_id": "51d39a975cd538919428a666a6da95868c91c15e1cbe1936d0c30a8caa4e75cb"
+        },
+        {
+            "date": "2026-10-15T19:26:37",
+            "elo": 1001,
+            "elo_before": 996,
+            "change": 5,
+            "track": "",
+            "finish": 2,
+            "race_id": "a35d8984729c153bf58a6242c857744121fdcaf80ff7f6ecee056d76ef39cf97"
         }
     ],
     "waldodj": [
@@ -3412,6 +3421,15 @@
             "track": "",
             "finish": 17,
             "race_id": "11213c6a0066d970c3430c52868380055aa81a2fa4776889f6b73c3f71960019"
+        },
+        {
+            "date": "2026-10-15T19:26:37",
+            "elo": 1058,
+            "elo_before": 1066,
+            "change": -8,
+            "track": "",
+            "finish": 5,
+            "race_id": "a35d8984729c153bf58a6242c857744121fdcaf80ff7f6ecee056d76ef39cf97"
         }
     ],
     "KSBR": [
@@ -3900,6 +3918,15 @@
             "track": "",
             "finish": 5,
             "race_id": "4c9c5678690b94c0d13375ca4867d914f6d85088a3b025165471fe0a6b030e13"
+        },
+        {
+            "date": "2026-10-15T19:26:37",
+            "elo": 977,
+            "elo_before": 979,
+            "change": -2,
+            "track": "",
+            "finish": 4,
+            "race_id": "a35d8984729c153bf58a6242c857744121fdcaf80ff7f6ecee056d76ef39cf97"
         }
     ],
     "Rayo__Wombat": [
@@ -5153,6 +5180,15 @@
             "track": "",
             "finish": 2,
             "race_id": "51d39a975cd538919428a666a6da95868c91c15e1cbe1936d0c30a8caa4e75cb"
+        },
+        {
+            "date": "2026-10-15T19:26:37",
+            "elo": 1153,
+            "elo_before": 1148,
+            "change": 5,
+            "track": "",
+            "finish": 1,
+            "race_id": "a35d8984729c153bf58a6242c857744121fdcaf80ff7f6ecee056d76ef39cf97"
         }
     ],
     "moe": [
@@ -8549,6 +8585,15 @@
             "track": "",
             "finish": 13,
             "race_id": "c286e3f8f5d18cd94676b111ece7a71e908d7bdbbd788a25c2eb8dc315e911dd"
+        },
+        {
+            "date": "2026-10-15T19:26:37",
+            "elo": 1033,
+            "elo_before": 1033,
+            "change": 0,
+            "track": "",
+            "finish": 3,
+            "race_id": "a35d8984729c153bf58a6242c857744121fdcaf80ff7f6ecee056d76ef39cf97"
         }
     ],
     "Flavio Baldacci": [
