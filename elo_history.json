@@ -709,6 +709,15 @@
             "track": "",
             "finish": 1,
             "race_id": "994edf91629cdee4ed2a246928fb5b58c96fe3ee3597b6fd823159f67c498161"
+        },
+        {
+            "date": "2026-10-16T14:44:52",
+            "elo": 1141,
+            "elo_before": 1137,
+            "change": 4,
+            "track": "",
+            "finish": 1,
+            "race_id": "69f8319e12b361859b5ca401f3e8c0f9483f8db5c4ca4cc6cf700852194d3ef3"
         }
     ],
     "Nuno": [
@@ -3698,6 +3707,15 @@
             "track": "",
             "finish": 1,
             "race_id": "3c2f6be94bc0e78a1b6036a32a6115a40d0e55ba3548ea8f544f4583b5084e03"
+        },
+        {
+            "date": "2026-10-16T14:44:52",
+            "elo": 1058,
+            "elo_before": 1062,
+            "change": -4,
+            "track": "",
+            "finish": 2,
+            "race_id": "69f8319e12b361859b5ca401f3e8c0f9483f8db5c4ca4cc6cf700852194d3ef3"
         }
     ],
     "KSBR": [
