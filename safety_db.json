@@ -168,8 +168,8 @@
     },
     "Danny Hinkelmann14": {
         "safety": 110,
-        "races": 29,
-        "contacts": 53,
+        "races": 30,
+        "contacts": 54,
         "clean_races": 10,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -239,10 +239,10 @@
     },
     "Carrasco": {
         "safety": 125,
-        "races": 26,
+        "races": 27,
         "contacts": 55,
-        "clean_races": 4,
-        "large_lobby_clean_streak": 2,
+        "clean_races": 5,
+        "large_lobby_clean_streak": 3,
         "grade": "B"
     },
     "KSBR": {
@@ -697,10 +697,10 @@
     },
     "ola13": {
         "safety": 214,
-        "races": 29,
+        "races": 30,
         "contacts": 23,
-        "clean_races": 15,
-        "large_lobby_clean_streak": 4,
+        "clean_races": 16,
+        "large_lobby_clean_streak": 5,
         "grade": "A"
     },
     "Abraham Avila": {
@@ -721,10 +721,10 @@
     },
     "moleo": {
         "safety": 291,
-        "races": 41,
-        "contacts": 40,
+        "races": 42,
+        "contacts": 41,
         "clean_races": 21,
-        "large_lobby_clean_streak": 5,
+        "large_lobby_clean_streak": 0,
         "grade": "S"
     },
     "SAGGAs Hemkokta": {
@@ -751,10 +751,10 @@
     },
     "Rk_44": {
         "safety": 252,
-        "races": 40,
+        "races": 41,
         "contacts": 33,
-        "clean_races": 25,
-        "large_lobby_clean_streak": 3,
+        "clean_races": 26,
+        "large_lobby_clean_streak": 4,
         "grade": "A"
     },
     "JM": {
@@ -969,10 +969,10 @@
     },
     "Billy Jones": {
         "safety": 300,
-        "races": 38,
-        "contacts": 37,
+        "races": 39,
+        "contacts": 38,
         "clean_races": 22,
-        "large_lobby_clean_streak": 3,
+        "large_lobby_clean_streak": 0,
         "grade": "S"
     },
     "Quidel Gaétan": {
@@ -985,10 +985,10 @@
     },
     "collinlanger96": {
         "safety": 92,
-        "races": 15,
+        "races": 16,
         "contacts": 26,
-        "clean_races": 4,
-        "large_lobby_clean_streak": 1,
+        "clean_races": 5,
+        "large_lobby_clean_streak": 2,
         "grade": "D"
     },
     "The Gyatt": {
@@ -1177,10 +1177,10 @@
     },
     "oover": {
         "safety": 198,
-        "races": 18,
+        "races": 19,
         "contacts": 26,
-        "clean_races": 9,
-        "large_lobby_clean_streak": 1,
+        "clean_races": 10,
+        "large_lobby_clean_streak": 2,
         "grade": "A"
     },
     "queefmccheif": {
@@ -1289,10 +1289,10 @@
     },
     "Fick dich Kohlin": {
         "safety": 94,
-        "races": 8,
+        "races": 9,
         "contacts": 18,
-        "clean_races": 1,
-        "large_lobby_clean_streak": 0,
+        "clean_races": 2,
+        "large_lobby_clean_streak": 1,
         "grade": "D"
     },
     "nick": {
@@ -1376,9 +1376,9 @@
         "grade": "B"
     },
     "F": {
-        "safety": 124,
-        "races": 3,
-        "contacts": 3,
+        "safety": 120,
+        "races": 4,
+        "contacts": 5,
         "clean_races": 1,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -1659,8 +1659,8 @@
     },
     "Maximoquiles28": {
         "safety": 210,
-        "races": 4,
-        "contacts": 2,
+        "races": 5,
+        "contacts": 3,
         "clean_races": 2,
         "large_lobby_clean_streak": 0,
         "grade": "A"
@@ -1691,10 +1691,10 @@
     },
     "dwiputra": {
         "safety": 135,
-        "races": 3,
+        "races": 4,
         "contacts": 1,
-        "clean_races": 2,
-        "large_lobby_clean_streak": 1,
+        "clean_races": 3,
+        "large_lobby_clean_streak": 2,
         "grade": "B"
     }
 }
