@@ -123,12 +123,12 @@
         "grade": "B"
     },
     "EgoMan": {
-        "safety": 148,
-        "races": 33,
+        "safety": 158,
+        "races": 34,
         "contacts": 53,
-        "clean_races": 12,
+        "clean_races": 13,
         "grade": "B",
-        "large_lobby_clean_streak": 0
+        "large_lobby_clean_streak": 1
     },
     "Giancarlos13": {
         "safety": 145,
@@ -167,11 +167,11 @@
         "grade": "B"
     },
     "Danny Hinkelmann14": {
-        "safety": 149,
-        "races": 34,
-        "contacts": 54,
+        "safety": 147,
+        "races": 35,
+        "contacts": 55,
         "clean_races": 14,
-        "large_lobby_clean_streak": 4,
+        "large_lobby_clean_streak": 0,
         "grade": "B"
     },
     "JW2Stupid": {
@@ -222,11 +222,11 @@
         "grade": "D"
     },
     "filipknigge20": {
-        "safety": 190,
-        "races": 42,
+        "safety": 204,
+        "races": 43,
         "contacts": 57,
-        "clean_races": 14,
-        "large_lobby_clean_streak": 2,
+        "clean_races": 15,
+        "large_lobby_clean_streak": 3,
         "grade": "A"
     },
     "Matteo 42": {
@@ -299,12 +299,12 @@
         "grade": "C"
     },
     "Shoop46": {
-        "safety": 118,
-        "races": 12,
+        "safety": 130,
+        "races": 13,
         "contacts": 14,
-        "clean_races": 5,
-        "large_lobby_clean_streak": 1,
-        "grade": "C"
+        "clean_races": 6,
+        "large_lobby_clean_streak": 2,
+        "grade": "B"
     },
     "thecrivi28": {
         "safety": 46,
@@ -369,11 +369,11 @@
         "grade": "E"
     },
     "waldodj": {
-        "safety": 175,
-        "races": 32,
+        "safety": 185,
+        "races": 33,
         "contacts": 29,
-        "clean_races": 15,
-        "large_lobby_clean_streak": 0,
+        "clean_races": 16,
+        "large_lobby_clean_streak": 1,
         "grade": "A"
     },
     "aleso262004": {
@@ -393,11 +393,11 @@
         "grade": "D"
     },
     "zrezke": {
-        "safety": 157,
-        "races": 15,
-        "contacts": 18,
+        "safety": 155,
+        "races": 16,
+        "contacts": 19,
         "clean_races": 7,
-        "large_lobby_clean_streak": 3,
+        "large_lobby_clean_streak": 0,
         "grade": "B"
     },
     "Cummin Jizzwood": {
@@ -501,12 +501,12 @@
         "grade": "A"
     },
     "Tarmacsurfer": {
-        "safety": 80,
-        "races": 9,
+        "safety": 92,
+        "races": 10,
         "contacts": 41,
-        "clean_races": 1,
+        "clean_races": 2,
         "grade": "D",
-        "large_lobby_clean_streak": 1
+        "large_lobby_clean_streak": 2
     },
     "Michiel Oom": {
         "safety": 120,
@@ -754,10 +754,10 @@
     },
     "Rk_44": {
         "safety": 300,
-        "races": 49,
+        "races": 50,
         "contacts": 34,
-        "clean_races": 33,
-        "large_lobby_clean_streak": 2,
+        "clean_races": 34,
+        "large_lobby_clean_streak": 3,
         "grade": "S"
     },
     "JM": {
@@ -784,11 +784,11 @@
         "grade": "D"
     },
     "Gonzalo Molina": {
-        "safety": 245,
-        "races": 25,
+        "safety": 255,
+        "races": 26,
         "contacts": 31,
-        "clean_races": 13,
-        "large_lobby_clean_streak": 0,
+        "clean_races": 14,
+        "large_lobby_clean_streak": 1,
         "grade": "A"
     },
     "Scuderia Silence (tascione)": {
@@ -924,12 +924,12 @@
         "grade": "B"
     },
     "Wally": {
-        "safety": 153,
-        "races": 12,
+        "safety": 167,
+        "races": 13,
         "contacts": 8,
-        "clean_races": 7,
-        "large_lobby_clean_streak": 3,
-        "grade": "B"
+        "clean_races": 8,
+        "large_lobby_clean_streak": 4,
+        "grade": "A"
     },
     "BNJMN": {
         "safety": 96,
@@ -1733,11 +1733,11 @@
         "grade": "B"
     },
     "Nico": {
-        "safety": 145,
-        "races": 4,
+        "safety": 157,
+        "races": 5,
         "contacts": 1,
-        "clean_races": 3,
-        "large_lobby_clean_streak": 1,
+        "clean_races": 4,
+        "large_lobby_clean_streak": 2,
         "grade": "B"
     },
     "shellboy1448": {
