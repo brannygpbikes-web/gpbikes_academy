@@ -1,9 +1,9 @@
 {
     "branny": {
-        "safety": 284,
-        "races": 51,
+        "safety": 294,
+        "races": 52,
         "contacts": 56,
-        "clean_races": 29,
+        "clean_races": 30,
         "large_lobby_clean_streak": 0,
         "grade": "S"
     },
@@ -107,10 +107,10 @@
         "grade": "A"
     },
     "chilliams": {
-        "safety": 143,
-        "races": 25,
+        "safety": 153,
+        "races": 26,
         "contacts": 30,
-        "clean_races": 9,
+        "clean_races": 10,
         "large_lobby_clean_streak": 1,
         "grade": "B"
     },
@@ -238,9 +238,9 @@
         "large_lobby_clean_streak": 1
     },
     "Carrasco": {
-        "safety": 128,
-        "races": 23,
-        "contacts": 54,
+        "safety": 125,
+        "races": 24,
+        "contacts": 55,
         "clean_races": 2,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -315,12 +315,12 @@
         "large_lobby_clean_streak": 0
     },
     "Miquel_Sinke60": {
-        "safety": 102,
-        "races": 48,
-        "contacts": 95,
+        "safety": 90,
+        "races": 49,
+        "contacts": 99,
         "clean_races": 17,
         "large_lobby_clean_streak": 0,
-        "grade": "C"
+        "grade": "D"
     },
     "moe": {
         "safety": 209,
@@ -566,12 +566,12 @@
         "grade": "B"
     },
     "vNoHxpe_KJ45": {
-        "safety": 91,
-        "races": 15,
+        "safety": 101,
+        "races": 16,
         "contacts": 26,
-        "clean_races": 4,
+        "clean_races": 5,
         "large_lobby_clean_streak": 0,
-        "grade": "D"
+        "grade": "C"
     },
     "sbara": {
         "safety": 235,
@@ -704,12 +704,12 @@
         "grade": "A"
     },
     "Abraham Avila": {
-        "safety": 120,
-        "races": 6,
+        "safety": 130,
+        "races": 7,
         "contacts": 11,
-        "clean_races": 3,
+        "clean_races": 4,
         "large_lobby_clean_streak": 1,
-        "grade": "C"
+        "grade": "B"
     },
     "titonagom08": {
         "safety": 96,
@@ -720,12 +720,12 @@
         "grade": "D"
     },
     "moleo": {
-        "safety": 261,
-        "races": 36,
+        "safety": 271,
+        "races": 37,
         "contacts": 40,
-        "clean_races": 16,
+        "clean_races": 17,
         "large_lobby_clean_streak": 3,
-        "grade": "A"
+        "grade": "S"
     },
     "SAGGAs Hemkokta": {
         "safety": 130,
@@ -1080,11 +1080,11 @@
         "grade": "C"
     },
     "izan curia": {
-        "safety": 187,
-        "races": 4,
-        "contacts": 0,
+        "safety": 184,
+        "races": 5,
+        "contacts": 1,
         "clean_races": 4,
-        "large_lobby_clean_streak": 2,
+        "large_lobby_clean_streak": 0,
         "grade": "A"
     },
     "DUCKSWORTH": {
@@ -1176,10 +1176,10 @@
         "grade": "B"
     },
     "oover": {
-        "safety": 188,
-        "races": 17,
+        "safety": 198,
+        "races": 18,
         "contacts": 26,
-        "clean_races": 8,
+        "clean_races": 9,
         "large_lobby_clean_streak": 1,
         "grade": "A"
     },
