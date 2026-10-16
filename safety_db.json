@@ -76,10 +76,10 @@
         "grade": "B"
     },
     "AL": {
-        "safety": 134,
-        "races": 28,
+        "safety": 144,
+        "races": 29,
         "contacts": 50,
-        "clean_races": 12,
+        "clean_races": 13,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     },
@@ -284,10 +284,10 @@
         "grade": "B"
     },
     "AwashMicrobe": {
-        "safety": 41,
-        "races": 11,
+        "safety": 51,
+        "races": 12,
         "contacts": 49,
-        "clean_races": 0,
+        "clean_races": 1,
         "large_lobby_clean_streak": 0,
         "grade": "E"
     },
@@ -688,10 +688,10 @@
         "grade": "D"
     },
     "troyalberto9": {
-        "safety": 129,
-        "races": 20,
+        "safety": 139,
+        "races": 21,
         "contacts": 19,
-        "clean_races": 8,
+        "clean_races": 9,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     },
@@ -750,10 +750,10 @@
         "grade": "B"
     },
     "Rk_44": {
-        "safety": 222,
-        "races": 34,
+        "safety": 232,
+        "races": 35,
         "contacts": 33,
-        "clean_races": 19,
+        "clean_races": 20,
         "large_lobby_clean_streak": 0,
         "grade": "A"
     },
@@ -1530,10 +1530,10 @@
         "grade": "E"
     },
     "SleppyGame23": {
-        "safety": 113,
-        "races": 3,
+        "safety": 123,
+        "races": 4,
         "contacts": 3,
-        "clean_races": 0,
+        "clean_races": 1,
         "large_lobby_clean_streak": 0,
         "grade": "C"
     },
@@ -1682,10 +1682,10 @@
         "grade": "C"
     },
     "Martinsson": {
-        "safety": 130,
-        "races": 1,
+        "safety": 140,
+        "races": 2,
         "contacts": 0,
-        "clean_races": 1,
+        "clean_races": 2,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     }

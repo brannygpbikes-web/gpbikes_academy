@@ -240,10 +240,10 @@
         "podiums": 8
     },
     "AwashMicrobe": {
-        "elo": 978,
-        "wins": 1,
-        "races": 14,
-        "podiums": 2
+        "elo": 989,
+        "wins": 2,
+        "races": 15,
+        "podiums": 3
     },
     "JW2Stupid": {
         "elo": 1086,
@@ -306,10 +306,10 @@
         "podiums": 20
     },
     "AL": {
-        "elo": 992,
+        "elo": 993,
         "wins": 0,
-        "races": 29,
-        "podiums": 7
+        "races": 30,
+        "podiums": 8
     },
     "FastAF": {
         "elo": 979,
@@ -720,9 +720,9 @@
         "podiums": 3
     },
     "troyalberto9": {
-        "elo": 990,
+        "elo": 983,
         "wins": 1,
-        "races": 17,
+        "races": 18,
         "podiums": 8
     },
     "Abraham Avila": {
@@ -900,9 +900,9 @@
         "podiums": 2
     },
     "Rk_44": {
-        "elo": 853,
+        "elo": 846,
         "wins": 0,
-        "races": 32,
+        "races": 33,
         "podiums": 8
     },
     "Maximo Giro": {
@@ -1230,9 +1230,9 @@
         "podiums": 4
     },
     "SleppyGame23": {
-        "elo": 1001,
+        "elo": 998,
         "wins": 0,
-        "races": 3,
+        "races": 4,
         "podiums": 1
     },
     "CLG21": {
@@ -1326,9 +1326,9 @@
         "podiums": 1
     },
     "Martinsson": {
-        "elo": 1007,
+        "elo": 1012,
         "wins": 1,
-        "races": 1,
-        "podiums": 1
+        "races": 2,
+        "podiums": 2
     }
 }
