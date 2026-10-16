@@ -180,9 +180,9 @@
         "podiums": 29
     },
     "Billy Jones": {
-        "elo": 1203,
+        "elo": 1184,
         "wins": 19,
-        "races": 43,
+        "races": 44,
         "podiums": 33
     },
     "patrickfaderl98": {
@@ -192,10 +192,10 @@
         "podiums": 15
     },
     "Danny Hinkelmann14": {
-        "elo": 990,
+        "elo": 1005,
         "wins": 2,
-        "races": 36,
-        "podiums": 7
+        "races": 37,
+        "podiums": 8
     },
     "Santos47": {
         "elo": 1033,
@@ -228,10 +228,10 @@
         "podiums": 0
     },
     "Carrasco": {
-        "elo": 984,
+        "elo": 997,
         "wins": 2,
-        "races": 25,
-        "podiums": 6
+        "races": 26,
+        "podiums": 7
     },
     "Ricoway46": {
         "elo": 1106,
@@ -318,9 +318,9 @@
         "podiums": 0
     },
     "Dario Andreoni": {
-        "elo": 1035,
+        "elo": 1041,
         "wins": 3,
-        "races": 35,
+        "races": 36,
         "podiums": 15
     },
     "titonagom08": {
@@ -522,9 +522,9 @@
         "podiums": 3
     },
     "waldodj": {
-        "elo": 1205,
+        "elo": 1191,
         "wins": 7,
-        "races": 33,
+        "races": 34,
         "podiums": 27
     },
     "aleso262004": {
@@ -618,9 +618,9 @@
         "podiums": 0
     },
     "Champtits": {
-        "elo": 998,
+        "elo": 983,
         "wins": 0,
-        "races": 3,
+        "races": 4,
         "podiums": 0
     },
     "KeyWay22": {
@@ -666,9 +666,9 @@
         "podiums": 11
     },
     "jorgeguti160": {
-        "elo": 891,
+        "elo": 889,
         "wins": 0,
-        "races": 11,
+        "races": 12,
         "podiums": 0
     },
     "JKR": {
@@ -978,10 +978,10 @@
         "podiums": 0
     },
     "oover": {
-        "elo": 1105,
-        "wins": 4,
-        "races": 20,
-        "podiums": 9
+        "elo": 1117,
+        "wins": 5,
+        "races": 21,
+        "podiums": 10
     },
     "queefmccheif": {
         "elo": 985,
@@ -1080,9 +1080,9 @@
         "podiums": 0
     },
     "Pylote": {
-        "elo": 970,
+        "elo": 959,
         "wins": 0,
-        "races": 4,
+        "races": 5,
         "podiums": 0
     },
     "Dario": {
@@ -1122,9 +1122,9 @@
         "podiums": 1
     },
     "F": {
-        "elo": 992,
+        "elo": 995,
         "wins": 1,
-        "races": 5,
+        "races": 6,
         "podiums": 1
     },
     "tumbafloja45": {
@@ -1220,7 +1220,7 @@
     "Flavio Baldacci": {
         "elo": 995,
         "wins": 0,
-        "races": 2,
+        "races": 3,
         "podiums": 1
     },
     "Sergi04ab": {
@@ -1308,9 +1308,9 @@
         "podiums": 0
     },
     "Maximoquiles28": {
-        "elo": 1027,
+        "elo": 1036,
         "wins": 1,
-        "races": 6,
+        "races": 7,
         "podiums": 3
     },
     "No Pain No Tartine": {
@@ -1338,7 +1338,13 @@
         "podiums": 0
     },
     "ShaiGP": {
-        "elo": 996,
+        "elo": 1001,
+        "wins": 0,
+        "races": 2,
+        "podiums": 0
+    },
+    "lambrider": {
+        "elo": 998,
         "wins": 0,
         "races": 1,
         "podiums": 0
