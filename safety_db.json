@@ -124,11 +124,11 @@
     },
     "EgoMan": {
         "safety": 150,
-        "races": 31,
+        "races": 32,
         "contacts": 52,
-        "clean_races": 11,
+        "clean_races": 12,
         "grade": "B",
-        "large_lobby_clean_streak": 2
+        "large_lobby_clean_streak": 3
     },
     "Giancarlos13": {
         "safety": 145,
@@ -168,10 +168,10 @@
     },
     "Danny Hinkelmann14": {
         "safety": 135,
-        "races": 32,
+        "races": 33,
         "contacts": 54,
-        "clean_races": 12,
-        "large_lobby_clean_streak": 2,
+        "clean_races": 13,
+        "large_lobby_clean_streak": 3,
         "grade": "B"
     },
     "JW2Stupid": {
@@ -223,10 +223,10 @@
     },
     "filipknigge20": {
         "safety": 178,
-        "races": 40,
+        "races": 41,
         "contacts": 57,
-        "clean_races": 12,
-        "large_lobby_clean_streak": 0,
+        "clean_races": 13,
+        "large_lobby_clean_streak": 1,
         "grade": "A"
     },
     "Matteo 42": {
@@ -370,10 +370,10 @@
     },
     "waldodj": {
         "safety": 177,
-        "races": 30,
+        "races": 31,
         "contacts": 28,
-        "clean_races": 14,
-        "large_lobby_clean_streak": 1,
+        "clean_races": 15,
+        "large_lobby_clean_streak": 2,
         "grade": "A"
     },
     "aleso262004": {
@@ -456,15 +456,16 @@
     },
     "Tardos37Racing": {
         "safety": 130,
-        "races": 2,
+        "races": 3,
         "contacts": 3,
-        "clean_races": 1,
-        "grade": "B"
+        "clean_races": 2,
+        "grade": "B",
+        "large_lobby_clean_streak": 1
     },
     "Benji": {
         "safety": 90,
-        "races": 3,
-        "contacts": 8,
+        "races": 4,
+        "contacts": 9,
         "clean_races": 0,
         "grade": "D",
         "large_lobby_clean_streak": 0
@@ -683,10 +684,10 @@
     },
     "tacticworks": {
         "safety": 102,
-        "races": 23,
+        "races": 24,
         "contacts": 32,
-        "clean_races": 8,
-        "large_lobby_clean_streak": 3,
+        "clean_races": 9,
+        "large_lobby_clean_streak": 4,
         "grade": "C"
     },
     "troyalberto9": {
@@ -753,10 +754,10 @@
     },
     "Rk_44": {
         "safety": 300,
-        "races": 47,
+        "races": 48,
         "contacts": 34,
-        "clean_races": 31,
-        "large_lobby_clean_streak": 0,
+        "clean_races": 32,
+        "large_lobby_clean_streak": 1,
         "grade": "S"
     },
     "JM": {
@@ -924,10 +925,10 @@
     },
     "Wally": {
         "safety": 139,
-        "races": 10,
+        "races": 11,
         "contacts": 8,
-        "clean_races": 5,
-        "large_lobby_clean_streak": 1,
+        "clean_races": 6,
+        "large_lobby_clean_streak": 2,
         "grade": "B"
     },
     "BNJMN": {
@@ -1445,10 +1446,10 @@
     },
     "Creisi48": {
         "safety": 184,
-        "races": 10,
+        "races": 11,
         "contacts": 12,
-        "clean_races": 6,
-        "large_lobby_clean_streak": 1,
+        "clean_races": 7,
+        "large_lobby_clean_streak": 2,
         "grade": "A"
     },
     "Marcus": {
@@ -1573,10 +1574,10 @@
     },
     "Elco letas": {
         "safety": 121,
-        "races": 9,
+        "races": 10,
         "contacts": 20,
-        "clean_races": 1,
-        "large_lobby_clean_streak": 0,
+        "clean_races": 2,
+        "large_lobby_clean_streak": 1,
         "grade": "C"
     },
     "GFManagment": {
@@ -1733,10 +1734,10 @@
     },
     "Nico": {
         "safety": 135,
-        "races": 2,
-        "contacts": 0,
+        "races": 3,
+        "contacts": 1,
         "clean_races": 2,
-        "large_lobby_clean_streak": 1,
+        "large_lobby_clean_streak": 0,
         "grade": "B"
     },
     "shellboy1448": {
@@ -1745,6 +1746,14 @@
         "contacts": 1,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
+        "grade": "B"
+    },
+    "Paul McCock": {
+        "safety": 125,
+        "races": 1,
+        "contacts": 0,
+        "clean_races": 1,
+        "large_lobby_clean_streak": 1,
         "grade": "B"
     }
 }
