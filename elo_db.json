@@ -54,9 +54,9 @@
         "podiums": 22
     },
     "ola13": {
-        "elo": 957,
+        "elo": 967,
         "wins": 2,
-        "races": 28,
+        "races": 29,
         "podiums": 7
     },
     "fast46": {
@@ -180,10 +180,10 @@
         "podiums": 29
     },
     "Billy Jones": {
-        "elo": 1184,
+        "elo": 1190,
         "wins": 18,
-        "races": 40,
-        "podiums": 30
+        "races": 41,
+        "podiums": 31
     },
     "patrickfaderl98": {
         "elo": 1034,
@@ -192,10 +192,10 @@
         "podiums": 15
     },
     "Danny Hinkelmann14": {
-        "elo": 948,
+        "elo": 961,
         "wins": 2,
-        "races": 32,
-        "podiums": 5
+        "races": 33,
+        "podiums": 6
     },
     "Santos47": {
         "elo": 1033,
@@ -228,9 +228,9 @@
         "podiums": 0
     },
     "Carrasco": {
-        "elo": 972,
+        "elo": 977,
         "wins": 2,
-        "races": 22,
+        "races": 23,
         "podiums": 5
     },
     "Ricoway46": {
@@ -240,9 +240,9 @@
         "podiums": 8
     },
     "AwashMicrobe": {
-        "elo": 998,
+        "elo": 1004,
         "wins": 2,
-        "races": 17,
+        "races": 18,
         "podiums": 3
     },
     "JW2Stupid": {
@@ -318,9 +318,9 @@
         "podiums": 0
     },
     "Dario Andreoni": {
-        "elo": 1047,
+        "elo": 1031,
         "wins": 3,
-        "races": 33,
+        "races": 34,
         "podiums": 15
     },
     "titonagom08": {
@@ -474,9 +474,9 @@
         "podiums": 1
     },
     "thecrivi28": {
-        "elo": 1005,
+        "elo": 1001,
         "wins": 1,
-        "races": 9,
+        "races": 10,
         "podiums": 1
     },
     "Eder Merino": {
@@ -552,9 +552,9 @@
         "podiums": 0
     },
     "zrezke": {
-        "elo": 928,
+        "elo": 915,
         "wins": 0,
-        "races": 12,
+        "races": 13,
         "podiums": 0
     },
     "MARCO": {
@@ -666,9 +666,9 @@
         "podiums": 11
     },
     "jorgeguti160": {
-        "elo": 897,
+        "elo": 891,
         "wins": 0,
-        "races": 10,
+        "races": 11,
         "podiums": 0
     },
     "JKR": {
@@ -732,10 +732,10 @@
         "podiums": 1
     },
     "moleo": {
-        "elo": 1190,
-        "wins": 10,
-        "races": 41,
-        "podiums": 28
+        "elo": 1198,
+        "wins": 11,
+        "races": 42,
+        "podiums": 29
     },
     "JM": {
         "elo": 995,
@@ -900,9 +900,9 @@
         "podiums": 2
     },
     "Rk_44": {
-        "elo": 836,
+        "elo": 835,
         "wins": 0,
-        "races": 36,
+        "races": 37,
         "podiums": 8
     },
     "Maximo Giro": {
@@ -1050,9 +1050,9 @@
         "podiums": 0
     },
     "Fick dich Kohlin": {
-        "elo": 1017,
+        "elo": 1010,
         "wins": 0,
-        "races": 5,
+        "races": 6,
         "podiums": 1
     },
     "Smurruf": {
@@ -1134,9 +1134,9 @@
         "podiums": 0
     },
     "CHORIPANZETUDO": {
-        "elo": 993,
+        "elo": 994,
         "wins": 0,
-        "races": 3,
+        "races": 4,
         "podiums": 3
     },
     "Rattapol": {
@@ -1332,9 +1332,9 @@
         "podiums": 2
     },
     "dwiputra": {
-        "elo": 1005,
+        "elo": 1003,
         "wins": 0,
-        "races": 1,
+        "races": 2,
         "podiums": 0
     }
 }
