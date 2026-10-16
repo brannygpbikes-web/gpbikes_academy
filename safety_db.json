@@ -1,9 +1,9 @@
 {
     "branny": {
-        "safety": 274,
-        "races": 50,
+        "safety": 284,
+        "races": 51,
         "contacts": 56,
-        "clean_races": 28,
+        "clean_races": 29,
         "large_lobby_clean_streak": 0,
         "grade": "S"
     },
@@ -222,10 +222,10 @@
         "grade": "D"
     },
     "filipknigge20": {
-        "safety": 168,
-        "races": 39,
+        "safety": 178,
+        "races": 40,
         "contacts": 57,
-        "clean_races": 11,
+        "clean_races": 12,
         "large_lobby_clean_streak": 0,
         "grade": "A"
     },
@@ -315,9 +315,9 @@
         "large_lobby_clean_streak": 0
     },
     "Miquel_Sinke60": {
-        "safety": 105,
-        "races": 47,
-        "contacts": 94,
+        "safety": 102,
+        "races": 48,
+        "contacts": 95,
         "clean_races": 17,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -377,12 +377,12 @@
         "grade": "B"
     },
     "aleso262004": {
-        "safety": 67,
-        "races": 13,
+        "safety": 77,
+        "races": 14,
         "contacts": 44,
-        "clean_races": 2,
+        "clean_races": 3,
         "large_lobby_clean_streak": 0,
-        "grade": "E"
+        "grade": "D"
     },
     "MARCO": {
         "safety": 80,
@@ -543,11 +543,12 @@
         "grade": "B"
     },
     "Kubon": {
-        "safety": 110,
-        "races": 1,
+        "safety": 120,
+        "races": 2,
         "contacts": 3,
-        "clean_races": 0,
-        "grade": "C"
+        "clean_races": 1,
+        "grade": "C",
+        "large_lobby_clean_streak": 0
     },
     "Mikrowelle": {
         "safety": 130,
@@ -695,18 +696,18 @@
         "grade": "C"
     },
     "ola13": {
-        "safety": 204,
-        "races": 25,
+        "safety": 214,
+        "races": 26,
         "contacts": 23,
-        "clean_races": 11,
+        "clean_races": 12,
         "large_lobby_clean_streak": 1,
         "grade": "A"
     },
     "Abraham Avila": {
-        "safety": 110,
-        "races": 5,
+        "safety": 120,
+        "races": 6,
         "contacts": 11,
-        "clean_races": 2,
+        "clean_races": 3,
         "large_lobby_clean_streak": 1,
         "grade": "C"
     },
@@ -719,10 +720,10 @@
         "grade": "D"
     },
     "moleo": {
-        "safety": 251,
-        "races": 35,
+        "safety": 261,
+        "races": 36,
         "contacts": 40,
-        "clean_races": 15,
+        "clean_races": 16,
         "large_lobby_clean_streak": 3,
         "grade": "A"
     },
@@ -1079,10 +1080,10 @@
         "grade": "C"
     },
     "izan curia": {
-        "safety": 177,
-        "races": 3,
+        "safety": 187,
+        "races": 4,
         "contacts": 0,
-        "clean_races": 3,
+        "clean_races": 4,
         "large_lobby_clean_streak": 2,
         "grade": "A"
     },
@@ -1175,10 +1176,10 @@
         "grade": "B"
     },
     "oover": {
-        "safety": 178,
-        "races": 16,
+        "safety": 188,
+        "races": 17,
         "contacts": 26,
-        "clean_races": 7,
+        "clean_races": 8,
         "large_lobby_clean_streak": 1,
         "grade": "A"
     },
