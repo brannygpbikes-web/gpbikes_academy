@@ -1364,6 +1364,15 @@
             "track": "",
             "finish": 8,
             "race_id": "37d69073a98e9af86f4bbd28102b6681cfc38b2ce3c5a3858cd02cd295151d11"
+        },
+        {
+            "date": "2026-10-16T16:43:45",
+            "elo": 1007,
+            "elo_before": 1008,
+            "change": -1,
+            "track": "",
+            "finish": 2,
+            "race_id": "698bdafaa933b439309fc796d84d272bb1a9f9509c0736e331038ea8d24b88e6"
         }
     ],
     "tacticworks": [
@@ -2275,6 +2284,15 @@
             "track": "",
             "finish": 1,
             "race_id": "63e1e87f4d8fe99ffb6464c8ff8bf36ed79629e5c899d015d456e6ff6831099d"
+        },
+        {
+            "date": "2026-10-16T16:43:45",
+            "elo": 1039,
+            "elo_before": 1035,
+            "change": 4,
+            "track": "",
+            "finish": 1,
+            "race_id": "698bdafaa933b439309fc796d84d272bb1a9f9509c0736e331038ea8d24b88e6"
         }
     ],
     "waldodj": [
@@ -2814,6 +2832,15 @@
             "track": "",
             "finish": 3,
             "race_id": "63e1e87f4d8fe99ffb6464c8ff8bf36ed79629e5c899d015d456e6ff6831099d"
+        },
+        {
+            "date": "2026-10-16T16:43:45",
+            "elo": 854,
+            "elo_before": 857,
+            "change": -3,
+            "track": "",
+            "finish": 3,
+            "race_id": "698bdafaa933b439309fc796d84d272bb1a9f9509c0736e331038ea8d24b88e6"
         }
     ],
     "JW2Stupid": [
