@@ -9,10 +9,10 @@
     },
     "pr1c3y": {
         "safety": 121,
-        "races": 15,
+        "races": 16,
         "contacts": 14,
-        "clean_races": 7,
-        "large_lobby_clean_streak": 0,
+        "clean_races": 8,
+        "large_lobby_clean_streak": 1,
         "grade": "C"
     },
     "sandnes": {
@@ -124,11 +124,11 @@
     },
     "EgoMan": {
         "safety": 150,
-        "races": 30,
+        "races": 31,
         "contacts": 52,
-        "clean_races": 10,
+        "clean_races": 11,
         "grade": "B",
-        "large_lobby_clean_streak": 1
+        "large_lobby_clean_streak": 2
     },
     "Giancarlos13": {
         "safety": 145,
@@ -300,10 +300,10 @@
     },
     "Shoop46": {
         "safety": 118,
-        "races": 11,
+        "races": 12,
         "contacts": 14,
-        "clean_races": 4,
-        "large_lobby_clean_streak": 0,
+        "clean_races": 5,
+        "large_lobby_clean_streak": 1,
         "grade": "C"
     },
     "thecrivi28": {
@@ -463,10 +463,11 @@
     },
     "Benji": {
         "safety": 90,
-        "races": 2,
-        "contacts": 7,
+        "races": 3,
+        "contacts": 8,
         "clean_races": 0,
-        "grade": "D"
+        "grade": "D",
+        "large_lobby_clean_streak": 0
     },
     "Dani": {
         "safety": 63,
@@ -592,11 +593,11 @@
     },
     "JKR": {
         "safety": 108,
-        "races": 11,
+        "races": 12,
         "contacts": 18,
-        "clean_races": 4,
+        "clean_races": 5,
         "grade": "C",
-        "large_lobby_clean_streak": 1
+        "large_lobby_clean_streak": 2
     },
     "Honza Ehl": {
         "safety": 121,
@@ -752,10 +753,10 @@
     },
     "Rk_44": {
         "safety": 300,
-        "races": 46,
-        "contacts": 33,
+        "races": 47,
+        "contacts": 34,
         "clean_races": 31,
-        "large_lobby_clean_streak": 8,
+        "large_lobby_clean_streak": 0,
         "grade": "S"
     },
     "JM": {
@@ -923,10 +924,10 @@
     },
     "Wally": {
         "safety": 139,
-        "races": 9,
+        "races": 10,
         "contacts": 8,
-        "clean_races": 4,
-        "large_lobby_clean_streak": 0,
+        "clean_races": 5,
+        "large_lobby_clean_streak": 1,
         "grade": "B"
     },
     "BNJMN": {
@@ -970,10 +971,10 @@
     },
     "Billy Jones": {
         "safety": 300,
-        "races": 41,
+        "races": 42,
         "contacts": 38,
-        "clean_races": 24,
-        "large_lobby_clean_streak": 2,
+        "clean_races": 25,
+        "large_lobby_clean_streak": 3,
         "grade": "S"
     },
     "Quidel Gaétan": {
@@ -1042,10 +1043,10 @@
     },
     "skalf": {
         "safety": 107,
-        "races": 5,
+        "races": 6,
         "contacts": 6,
-        "clean_races": 0,
-        "large_lobby_clean_streak": 0,
+        "clean_races": 1,
+        "large_lobby_clean_streak": 1,
         "grade": "C"
     },
     "Hopperle#12": {
@@ -1378,10 +1379,10 @@
     },
     "F": {
         "safety": 192,
-        "races": 9,
-        "contacts": 6,
+        "races": 10,
+        "contacts": 7,
         "clean_races": 5,
-        "large_lobby_clean_streak": 2,
+        "large_lobby_clean_streak": 0,
         "grade": "A"
     },
     "tumbafloja45": {
@@ -1444,10 +1445,10 @@
     },
     "Creisi48": {
         "safety": 184,
-        "races": 9,
+        "races": 10,
         "contacts": 12,
-        "clean_races": 5,
-        "large_lobby_clean_streak": 0,
+        "clean_races": 6,
+        "large_lobby_clean_streak": 1,
         "grade": "A"
     },
     "Marcus": {
@@ -1732,9 +1733,17 @@
     },
     "Nico": {
         "safety": 135,
-        "races": 1,
+        "races": 2,
         "contacts": 0,
-        "clean_races": 1,
+        "clean_races": 2,
+        "large_lobby_clean_streak": 1,
+        "grade": "B"
+    },
+    "shellboy1448": {
+        "safety": 125,
+        "races": 1,
+        "contacts": 1,
+        "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     }
