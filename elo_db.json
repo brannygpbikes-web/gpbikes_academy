@@ -42,9 +42,9 @@
         "podiums": 1
     },
     "Miquel_Sinke60": {
-        "elo": 1071,
+        "elo": 1062,
         "wins": 9,
-        "races": 52,
+        "races": 53,
         "podiums": 24
     },
     "AhyaAL": {
@@ -180,10 +180,10 @@
         "podiums": 29
     },
     "Billy Jones": {
-        "elo": 1176,
-        "wins": 17,
-        "races": 39,
-        "podiums": 29
+        "elo": 1184,
+        "wins": 18,
+        "races": 40,
+        "podiums": 30
     },
     "patrickfaderl98": {
         "elo": 1034,
@@ -318,10 +318,10 @@
         "podiums": 0
     },
     "Dario Andreoni": {
-        "elo": 1040,
+        "elo": 1047,
         "wins": 3,
-        "races": 32,
-        "podiums": 14
+        "races": 33,
+        "podiums": 15
     },
     "titonagom08": {
         "elo": 970,
@@ -474,9 +474,9 @@
         "podiums": 1
     },
     "thecrivi28": {
-        "elo": 1004,
+        "elo": 1005,
         "wins": 1,
-        "races": 8,
+        "races": 9,
         "podiums": 1
     },
     "Eder Merino": {
@@ -600,9 +600,9 @@
         "podiums": 0
     },
     "21vitalio": {
-        "elo": 984,
+        "elo": 975,
         "wins": 0,
-        "races": 19,
+        "races": 20,
         "podiums": 4
     },
     "Tarmacsurfer": {
@@ -672,9 +672,9 @@
         "podiums": 0
     },
     "JKR": {
-        "elo": 987,
+        "elo": 975,
         "wins": 0,
-        "races": 8,
+        "races": 9,
         "podiums": 0
     },
     "niggaboy#46": {
@@ -732,10 +732,10 @@
         "podiums": 1
     },
     "moleo": {
-        "elo": 1185,
+        "elo": 1190,
         "wins": 10,
-        "races": 40,
-        "podiums": 27
+        "races": 41,
+        "podiums": 28
     },
     "JM": {
         "elo": 995,
@@ -900,9 +900,9 @@
         "podiums": 2
     },
     "Rk_44": {
-        "elo": 832,
+        "elo": 836,
         "wins": 0,
-        "races": 35,
+        "races": 36,
         "podiums": 8
     },
     "Maximo Giro": {
@@ -1330,5 +1330,11 @@
         "wins": 1,
         "races": 2,
         "podiums": 2
+    },
+    "dwiputra": {
+        "elo": 1005,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
     }
 }
