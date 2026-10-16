@@ -315,10 +315,10 @@
         "large_lobby_clean_streak": 0
     },
     "Miquel_Sinke60": {
-        "safety": 85,
-        "races": 44,
+        "safety": 90,
+        "races": 45,
         "contacts": 94,
-        "clean_races": 14,
+        "clean_races": 15,
         "large_lobby_clean_streak": 0,
         "grade": "D"
     },
@@ -1671,5 +1671,13 @@
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "A"
+    },
+    "7272727272": {
+        "safety": 100,
+        "races": 1,
+        "contacts": 5,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "C"
     }
 }
