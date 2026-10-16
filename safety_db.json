@@ -123,11 +123,11 @@
         "grade": "B"
     },
     "EgoMan": {
-        "safety": 158,
-        "races": 34,
+        "safety": 168,
+        "races": 35,
         "contacts": 53,
-        "clean_races": 13,
-        "grade": "B",
+        "clean_races": 14,
+        "grade": "A",
         "large_lobby_clean_streak": 1
     },
     "Giancarlos13": {
@@ -167,10 +167,10 @@
         "grade": "B"
     },
     "Danny Hinkelmann14": {
-        "safety": 147,
-        "races": 35,
+        "safety": 157,
+        "races": 36,
         "contacts": 55,
-        "clean_races": 14,
+        "clean_races": 15,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     },
@@ -222,10 +222,10 @@
         "grade": "D"
     },
     "filipknigge20": {
-        "safety": 204,
-        "races": 43,
+        "safety": 214,
+        "races": 44,
         "contacts": 57,
-        "clean_races": 15,
+        "clean_races": 16,
         "large_lobby_clean_streak": 3,
         "grade": "A"
     },
@@ -369,10 +369,10 @@
         "grade": "E"
     },
     "waldodj": {
-        "safety": 185,
-        "races": 33,
+        "safety": 195,
+        "races": 34,
         "contacts": 29,
-        "clean_races": 16,
+        "clean_races": 17,
         "large_lobby_clean_streak": 1,
         "grade": "A"
     },
@@ -393,12 +393,12 @@
         "grade": "D"
     },
     "zrezke": {
-        "safety": 155,
-        "races": 16,
+        "safety": 165,
+        "races": 17,
         "contacts": 19,
-        "clean_races": 7,
+        "clean_races": 8,
         "large_lobby_clean_streak": 0,
-        "grade": "B"
+        "grade": "A"
     },
     "Cummin Jizzwood": {
         "safety": 81,
@@ -494,11 +494,12 @@
         "grade": "C"
     },
     "agomoto1975": {
-        "safety": 185,
-        "races": 3,
+        "safety": 195,
+        "races": 4,
         "contacts": 0,
-        "clean_races": 3,
-        "grade": "A"
+        "clean_races": 4,
+        "grade": "A",
+        "large_lobby_clean_streak": 0
     },
     "Tarmacsurfer": {
         "safety": 92,
@@ -754,9 +755,9 @@
     },
     "Rk_44": {
         "safety": 300,
-        "races": 50,
+        "races": 51,
         "contacts": 34,
-        "clean_races": 34,
+        "clean_races": 35,
         "large_lobby_clean_streak": 3,
         "grade": "S"
     },
@@ -784,12 +785,12 @@
         "grade": "D"
     },
     "Gonzalo Molina": {
-        "safety": 255,
-        "races": 26,
+        "safety": 265,
+        "races": 27,
         "contacts": 31,
-        "clean_races": 14,
+        "clean_races": 15,
         "large_lobby_clean_streak": 1,
-        "grade": "A"
+        "grade": "S"
     },
     "Scuderia Silence (tascione)": {
         "safety": 103,
@@ -1733,11 +1734,11 @@
         "grade": "B"
     },
     "Nico": {
-        "safety": 157,
-        "races": 5,
-        "contacts": 1,
+        "safety": 154,
+        "races": 6,
+        "contacts": 2,
         "clean_races": 4,
-        "large_lobby_clean_streak": 2,
+        "large_lobby_clean_streak": 0,
         "grade": "B"
     },
     "shellboy1448": {
@@ -1754,6 +1755,14 @@
         "contacts": 0,
         "clean_races": 1,
         "large_lobby_clean_streak": 1,
+        "grade": "B"
+    },
+    "Guga": {
+        "safety": 135,
+        "races": 1,
+        "contacts": 0,
+        "clean_races": 1,
+        "large_lobby_clean_streak": 0,
         "grade": "B"
     }
 }

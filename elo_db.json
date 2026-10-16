@@ -156,10 +156,10 @@
         "podiums": 0
     },
     "Gonzalo Molina": {
-        "elo": 1212,
-        "wins": 20,
-        "races": 34,
-        "podiums": 26
+        "elo": 1220,
+        "wins": 21,
+        "races": 35,
+        "podiums": 27
     },
     "NJIRK5211": {
         "elo": 1093,
@@ -174,10 +174,10 @@
         "podiums": 15
     },
     "filipknigge20": {
-        "elo": 1162,
+        "elo": 1165,
         "wins": 13,
-        "races": 49,
-        "podiums": 32
+        "races": 50,
+        "podiums": 33
     },
     "Billy Jones": {
         "elo": 1191,
@@ -192,9 +192,9 @@
         "podiums": 15
     },
     "Danny Hinkelmann14": {
-        "elo": 1026,
+        "elo": 1028,
         "wins": 2,
-        "races": 40,
+        "races": 41,
         "podiums": 9
     },
     "Santos47": {
@@ -414,9 +414,9 @@
         "podiums": 0
     },
     "EgoMan": {
-        "elo": 930,
+        "elo": 933,
         "wins": 0,
-        "races": 27,
+        "races": 28,
         "podiums": 0
     },
     "RaK": {
@@ -522,10 +522,10 @@
         "podiums": 3
     },
     "waldodj": {
-        "elo": 1186,
+        "elo": 1192,
         "wins": 9,
-        "races": 39,
-        "podiums": 29
+        "races": 40,
+        "podiums": 30
     },
     "aleso262004": {
         "elo": 1076,
@@ -554,7 +554,7 @@
     "zrezke": {
         "elo": 902,
         "wins": 0,
-        "races": 15,
+        "races": 16,
         "podiums": 0
     },
     "MARCO": {
@@ -900,9 +900,9 @@
         "podiums": 2
     },
     "Rk_44": {
-        "elo": 821,
+        "elo": 817,
         "wins": 0,
-        "races": 47,
+        "races": 48,
         "podiums": 8
     },
     "Maximo Giro": {
@@ -1362,9 +1362,9 @@
         "podiums": 0
     },
     "Nico": {
-        "elo": 1024,
+        "elo": 1029,
         "wins": 0,
-        "races": 4,
+        "races": 5,
         "podiums": 2
     },
     "shellboy1448": {
@@ -1375,6 +1375,18 @@
     },
     "Paul McCock": {
         "elo": 987,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
+    },
+    "Guga": {
+        "elo": 992,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
+    },
+    "agomoto1975": {
+        "elo": 985,
         "wins": 0,
         "races": 1,
         "podiums": 0
