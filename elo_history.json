@@ -242,6 +242,15 @@
             "track": "",
             "finish": 2,
             "race_id": "5addd4a15ab11cd87ad715ffd3afe168e4e70999fe153f195c2cec78befbf876"
+        },
+        {
+            "date": "2026-10-16T15:01:14",
+            "elo": 1167,
+            "elo_before": 1164,
+            "change": 3,
+            "track": "",
+            "finish": 2,
+            "race_id": "8abf8497233efb45ce8170001bcf408a22af92304243d8696543dbd919fc31fe"
         }
     ],
     "patrickfaderl98": [
@@ -3243,6 +3252,15 @@
             "track": "",
             "finish": 2,
             "race_id": "28527c844d8bc58558136a715f82b2af4c70c79ed75eee47e3c0208510ea15d5"
+        },
+        {
+            "date": "2026-10-16T15:01:14",
+            "elo": 1146,
+            "elo_before": 1152,
+            "change": -6,
+            "track": "",
+            "finish": 4,
+            "race_id": "8abf8497233efb45ce8170001bcf408a22af92304243d8696543dbd919fc31fe"
         }
     ],
     "tobimayer29 on ig": [
@@ -3716,6 +3734,15 @@
             "track": "",
             "finish": 2,
             "race_id": "69f8319e12b361859b5ca401f3e8c0f9483f8db5c4ca4cc6cf700852194d3ef3"
+        },
+        {
+            "date": "2026-10-16T15:01:14",
+            "elo": 1069,
+            "elo_before": 1058,
+            "change": 11,
+            "track": "",
+            "finish": 1,
+            "race_id": "8abf8497233efb45ce8170001bcf408a22af92304243d8696543dbd919fc31fe"
         }
     ],
     "KSBR": [
@@ -4003,6 +4030,15 @@
             "track": "",
             "finish": 6,
             "race_id": "28527c844d8bc58558136a715f82b2af4c70c79ed75eee47e3c0208510ea15d5"
+        },
+        {
+            "date": "2026-10-16T15:01:14",
+            "elo": 978,
+            "elo_before": 986,
+            "change": -8,
+            "track": "",
+            "finish": 6,
+            "race_id": "8abf8497233efb45ce8170001bcf408a22af92304243d8696543dbd919fc31fe"
         }
     ],
     "izan curia": [
@@ -4023,6 +4059,15 @@
             "track": "",
             "finish": 15,
             "race_id": "56ae8e89b7f4dbdbe803e2209ab970a76785bd852a1e926103d5600aa54dc0c2"
+        },
+        {
+            "date": "2026-10-16T15:01:14",
+            "elo": 962,
+            "elo_before": 965,
+            "change": -3,
+            "track": "",
+            "finish": 5,
+            "race_id": "8abf8497233efb45ce8170001bcf408a22af92304243d8696543dbd919fc31fe"
         }
     ],
     "elchivador": [
@@ -6562,6 +6607,15 @@
             "track": "",
             "finish": 4,
             "race_id": "28527c844d8bc58558136a715f82b2af4c70c79ed75eee47e3c0208510ea15d5"
+        },
+        {
+            "date": "2026-10-16T15:01:14",
+            "elo": 1052,
+            "elo_before": 1049,
+            "change": 3,
+            "track": "",
+            "finish": 3,
+            "race_id": "8abf8497233efb45ce8170001bcf408a22af92304243d8696543dbd919fc31fe"
         }
     ],
     "queefmccheif": [

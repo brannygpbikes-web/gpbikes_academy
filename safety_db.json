@@ -1,11 +1,11 @@
 {
     "branny": {
-        "safety": 264,
-        "races": 49,
+        "safety": 274,
+        "races": 50,
         "contacts": 56,
-        "clean_races": 27,
+        "clean_races": 28,
         "large_lobby_clean_streak": 0,
-        "grade": "A"
+        "grade": "S"
     },
     "pr1c3y": {
         "safety": 111,
@@ -315,12 +315,12 @@
         "large_lobby_clean_streak": 0
     },
     "Miquel_Sinke60": {
-        "safety": 95,
-        "races": 46,
+        "safety": 105,
+        "races": 47,
         "contacts": 94,
-        "clean_races": 16,
+        "clean_races": 17,
         "large_lobby_clean_streak": 0,
-        "grade": "D"
+        "grade": "C"
     },
     "moe": {
         "safety": 209,
@@ -695,18 +695,18 @@
         "grade": "C"
     },
     "ola13": {
-        "safety": 194,
-        "races": 24,
+        "safety": 204,
+        "races": 25,
         "contacts": 23,
-        "clean_races": 10,
+        "clean_races": 11,
         "large_lobby_clean_streak": 1,
         "grade": "A"
     },
     "Abraham Avila": {
-        "safety": 100,
-        "races": 4,
+        "safety": 110,
+        "races": 5,
         "contacts": 11,
-        "clean_races": 1,
+        "clean_races": 2,
         "large_lobby_clean_streak": 1,
         "grade": "C"
     },
@@ -719,10 +719,10 @@
         "grade": "D"
     },
     "moleo": {
-        "safety": 241,
-        "races": 34,
+        "safety": 251,
+        "races": 35,
         "contacts": 40,
-        "clean_races": 14,
+        "clean_races": 15,
         "large_lobby_clean_streak": 3,
         "grade": "A"
     },
@@ -1079,10 +1079,10 @@
         "grade": "C"
     },
     "izan curia": {
-        "safety": 167,
-        "races": 2,
+        "safety": 177,
+        "races": 3,
         "contacts": 0,
-        "clean_races": 2,
+        "clean_races": 3,
         "large_lobby_clean_streak": 2,
         "grade": "A"
     },
@@ -1175,10 +1175,10 @@
         "grade": "B"
     },
     "oover": {
-        "safety": 168,
-        "races": 15,
+        "safety": 178,
+        "races": 16,
         "contacts": 26,
-        "clean_races": 6,
+        "clean_races": 7,
         "large_lobby_clean_streak": 1,
         "grade": "A"
     },
