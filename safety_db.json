@@ -8,10 +8,10 @@
         "grade": "S"
     },
     "pr1c3y": {
-        "safety": 111,
-        "races": 14,
+        "safety": 121,
+        "races": 15,
         "contacts": 14,
-        "clean_races": 6,
+        "clean_races": 7,
         "large_lobby_clean_streak": 0,
         "grade": "C"
     },
@@ -123,10 +123,10 @@
         "grade": "B"
     },
     "EgoMan": {
-        "safety": 140,
-        "races": 29,
+        "safety": 150,
+        "races": 30,
         "contacts": 52,
-        "clean_races": 9,
+        "clean_races": 10,
         "grade": "B",
         "large_lobby_clean_streak": 1
     },
@@ -591,11 +591,11 @@
         "grade": "D"
     },
     "JKR": {
-        "safety": 98,
-        "races": 10,
+        "safety": 108,
+        "races": 11,
         "contacts": 18,
-        "clean_races": 3,
-        "grade": "D",
+        "clean_races": 4,
+        "grade": "C",
         "large_lobby_clean_streak": 1
     },
     "Honza Ehl": {
@@ -752,9 +752,9 @@
     },
     "Rk_44": {
         "safety": 300,
-        "races": 45,
+        "races": 46,
         "contacts": 33,
-        "clean_races": 30,
+        "clean_races": 31,
         "large_lobby_clean_streak": 8,
         "grade": "S"
     },
@@ -1041,9 +1041,9 @@
         "grade": "B"
     },
     "skalf": {
-        "safety": 110,
-        "races": 4,
-        "contacts": 5,
+        "safety": 107,
+        "races": 5,
+        "contacts": 6,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -1377,10 +1377,10 @@
         "grade": "B"
     },
     "F": {
-        "safety": 182,
-        "races": 8,
+        "safety": 192,
+        "races": 9,
         "contacts": 6,
-        "clean_races": 4,
+        "clean_races": 5,
         "large_lobby_clean_streak": 2,
         "grade": "A"
     },
@@ -1707,10 +1707,10 @@
         "grade": "A"
     },
     "lambrider": {
-        "safety": 189,
-        "races": 3,
+        "safety": 199,
+        "races": 4,
         "contacts": 0,
-        "clean_races": 3,
+        "clean_races": 4,
         "large_lobby_clean_streak": 3,
         "grade": "A"
     },
@@ -1727,6 +1727,14 @@
         "races": 1,
         "contacts": 1,
         "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "B"
+    },
+    "Nico": {
+        "safety": 135,
+        "races": 1,
+        "contacts": 0,
+        "clean_races": 1,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     }
