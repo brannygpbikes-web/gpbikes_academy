@@ -54,9 +54,9 @@
         "podiums": 22
     },
     "ola13": {
-        "elo": 967,
+        "elo": 974,
         "wins": 2,
-        "races": 29,
+        "races": 30,
         "podiums": 7
     },
     "fast46": {
@@ -192,10 +192,10 @@
         "podiums": 15
     },
     "Danny Hinkelmann14": {
-        "elo": 961,
+        "elo": 975,
         "wins": 2,
-        "races": 33,
-        "podiums": 6
+        "races": 34,
+        "podiums": 7
     },
     "Santos47": {
         "elo": 1033,
@@ -228,10 +228,10 @@
         "podiums": 0
     },
     "Carrasco": {
-        "elo": 977,
+        "elo": 987,
         "wins": 2,
-        "races": 23,
-        "podiums": 5
+        "races": 24,
+        "podiums": 6
     },
     "Ricoway46": {
         "elo": 1106,
@@ -240,9 +240,9 @@
         "podiums": 8
     },
     "AwashMicrobe": {
-        "elo": 1004,
+        "elo": 990,
         "wins": 2,
-        "races": 18,
+        "races": 19,
         "podiums": 3
     },
     "JW2Stupid": {
@@ -606,9 +606,9 @@
         "podiums": 4
     },
     "Tarmacsurfer": {
-        "elo": 992,
+        "elo": 985,
         "wins": 0,
-        "races": 7,
+        "races": 8,
         "podiums": 0
     },
     "Michiel Oom": {
@@ -732,10 +732,10 @@
         "podiums": 1
     },
     "moleo": {
-        "elo": 1198,
-        "wins": 11,
-        "races": 42,
-        "podiums": 29
+        "elo": 1205,
+        "wins": 12,
+        "races": 43,
+        "podiums": 30
     },
     "JM": {
         "elo": 995,
@@ -870,9 +870,9 @@
         "podiums": 0
     },
     "collinlanger96": {
-        "elo": 910,
+        "elo": 911,
         "wins": 0,
-        "races": 13,
+        "races": 14,
         "podiums": 2
     },
     "skalf": {
@@ -900,9 +900,9 @@
         "podiums": 2
     },
     "Rk_44": {
-        "elo": 835,
+        "elo": 832,
         "wins": 0,
-        "races": 37,
+        "races": 38,
         "podiums": 8
     },
     "Maximo Giro": {
@@ -1050,9 +1050,9 @@
         "podiums": 0
     },
     "Fick dich Kohlin": {
-        "elo": 1010,
+        "elo": 1009,
         "wins": 0,
-        "races": 6,
+        "races": 7,
         "podiums": 1
     },
     "Smurruf": {
@@ -1134,9 +1134,9 @@
         "podiums": 0
     },
     "CHORIPANZETUDO": {
-        "elo": 994,
+        "elo": 978,
         "wins": 0,
-        "races": 4,
+        "races": 5,
         "podiums": 3
     },
     "Rattapol": {
@@ -1332,9 +1332,9 @@
         "podiums": 2
     },
     "dwiputra": {
-        "elo": 1003,
+        "elo": 1005,
         "wins": 0,
-        "races": 2,
+        "races": 3,
         "podiums": 0
     }
 }
