@@ -581,6 +581,15 @@
             "track": "",
             "finish": 1,
             "race_id": "538e3699461a02b053562c261e52dd74a70dff78d9b214782723225f4e8da75d"
+        },
+        {
+            "date": "2026-10-16T16:28:02",
+            "elo": 948,
+            "elo_before": 948,
+            "change": 0,
+            "track": "",
+            "finish": 2,
+            "race_id": "63e1e87f4d8fe99ffb6464c8ff8bf36ed79629e5c899d015d456e6ff6831099d"
         }
     ],
     "filipknigge20": [
@@ -2257,6 +2266,15 @@
             "track": "",
             "finish": 2,
             "race_id": "538e3699461a02b053562c261e52dd74a70dff78d9b214782723225f4e8da75d"
+        },
+        {
+            "date": "2026-10-16T16:28:02",
+            "elo": 1035,
+            "elo_before": 1032,
+            "change": 3,
+            "track": "",
+            "finish": 1,
+            "race_id": "63e1e87f4d8fe99ffb6464c8ff8bf36ed79629e5c899d015d456e6ff6831099d"
         }
     ],
     "waldodj": [
@@ -2787,6 +2805,15 @@
             "track": "",
             "finish": 3,
             "race_id": "538e3699461a02b053562c261e52dd74a70dff78d9b214782723225f4e8da75d"
+        },
+        {
+            "date": "2026-10-16T16:28:02",
+            "elo": 857,
+            "elo_before": 860,
+            "change": -3,
+            "track": "",
+            "finish": 3,
+            "race_id": "63e1e87f4d8fe99ffb6464c8ff8bf36ed79629e5c899d015d456e6ff6831099d"
         }
     ],
     "JW2Stupid": [
