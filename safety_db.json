@@ -284,9 +284,9 @@
         "grade": "B"
     },
     "AwashMicrobe": {
-        "safety": 45,
-        "races": 10,
-        "contacts": 48,
+        "safety": 41,
+        "races": 11,
+        "contacts": 49,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "E"
@@ -543,11 +543,11 @@
         "grade": "B"
     },
     "Kubon": {
-        "safety": 120,
-        "races": 2,
+        "safety": 125,
+        "races": 3,
         "contacts": 3,
-        "clean_races": 1,
-        "grade": "C",
+        "clean_races": 2,
+        "grade": "B",
         "large_lobby_clean_streak": 0
     },
     "Mikrowelle": {
@@ -688,12 +688,12 @@
         "grade": "D"
     },
     "troyalberto9": {
-        "safety": 124,
-        "races": 19,
+        "safety": 129,
+        "races": 20,
         "contacts": 19,
-        "clean_races": 7,
+        "clean_races": 8,
         "large_lobby_clean_streak": 0,
-        "grade": "C"
+        "grade": "B"
     },
     "ola13": {
         "safety": 214,
@@ -750,10 +750,10 @@
         "grade": "B"
     },
     "Rk_44": {
-        "safety": 217,
-        "races": 33,
+        "safety": 222,
+        "races": 34,
         "contacts": 33,
-        "clean_races": 18,
+        "clean_races": 19,
         "large_lobby_clean_streak": 0,
         "grade": "A"
     },
@@ -1680,5 +1680,13 @@
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
+    },
+    "Martinsson": {
+        "safety": 130,
+        "races": 1,
+        "contacts": 0,
+        "clean_races": 1,
+        "large_lobby_clean_streak": 0,
+        "grade": "B"
     }
 }

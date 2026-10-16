@@ -242,8 +242,8 @@
     "AwashMicrobe": {
         "elo": 978,
         "wins": 1,
-        "races": 13,
-        "podiums": 1
+        "races": 14,
+        "podiums": 2
     },
     "JW2Stupid": {
         "elo": 1086,
@@ -636,9 +636,9 @@
         "podiums": 0
     },
     "Kubon": {
-        "elo": 980,
+        "elo": 971,
         "wins": 0,
-        "races": 2,
+        "races": 3,
         "podiums": 0
     },
     "Nuno": {
@@ -720,10 +720,10 @@
         "podiums": 3
     },
     "troyalberto9": {
-        "elo": 987,
+        "elo": 990,
         "wins": 1,
-        "races": 16,
-        "podiums": 7
+        "races": 17,
+        "podiums": 8
     },
     "Abraham Avila": {
         "elo": 993,
@@ -900,9 +900,9 @@
         "podiums": 2
     },
     "Rk_44": {
-        "elo": 854,
+        "elo": 853,
         "wins": 0,
-        "races": 31,
+        "races": 32,
         "podiums": 8
     },
     "Maximo Giro": {
@@ -1322,6 +1322,12 @@
     "7272727272": {
         "elo": 996,
         "wins": 0,
+        "races": 1,
+        "podiums": 1
+    },
+    "Martinsson": {
+        "elo": 1007,
+        "wins": 1,
         "races": 1,
         "podiums": 1
     }

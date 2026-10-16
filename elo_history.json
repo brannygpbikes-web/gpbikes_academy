@@ -2026,6 +2026,15 @@
             "track": "",
             "finish": 11,
             "race_id": "68c3309da378a37dfb1d8cdd4ba82dfa359917dcc3aa87fb056e058dd1f7e4b7"
+        },
+        {
+            "date": "2026-10-16T17:01:34",
+            "elo": 978,
+            "elo_before": 978,
+            "change": 0,
+            "track": "",
+            "finish": 3,
+            "race_id": "d7245fcb9dddaced58a5f0e470e1021c4f3d5bc8f74ea301f4bf59971d606306"
         }
     ],
     "Dede": [
@@ -2841,6 +2850,15 @@
             "track": "",
             "finish": 3,
             "race_id": "698bdafaa933b439309fc796d84d272bb1a9f9509c0736e331038ea8d24b88e6"
+        },
+        {
+            "date": "2026-10-16T17:01:34",
+            "elo": 853,
+            "elo_before": 854,
+            "change": -1,
+            "track": "",
+            "finish": 4,
+            "race_id": "d7245fcb9dddaced58a5f0e470e1021c4f3d5bc8f74ea301f4bf59971d606306"
         }
     ],
     "JW2Stupid": [
@@ -5177,6 +5195,15 @@
             "track": "",
             "finish": 2,
             "race_id": "b3006459000fd28d1cfa303183f2ab1f52d7ce43698407f93dc8546e50a117d5"
+        },
+        {
+            "date": "2026-10-16T17:01:34",
+            "elo": 990,
+            "elo_before": 987,
+            "change": 3,
+            "track": "",
+            "finish": 2,
+            "race_id": "d7245fcb9dddaced58a5f0e470e1021c4f3d5bc8f74ea301f4bf59971d606306"
         }
     ],
     "SrPomit": [
@@ -10437,6 +10464,26 @@
             "track": "",
             "finish": 9,
             "race_id": "49d103c5a8e98620521e9fcdc0bbe0ab737f49c5a0524423123112704d46a7f0"
+        },
+        {
+            "date": "2026-10-16T17:01:34",
+            "elo": 971,
+            "elo_before": 980,
+            "change": -9,
+            "track": "",
+            "finish": 5,
+            "race_id": "d7245fcb9dddaced58a5f0e470e1021c4f3d5bc8f74ea301f4bf59971d606306"
+        }
+    ],
+    "Martinsson": [
+        {
+            "date": "2026-10-16T17:01:34",
+            "elo": 1007,
+            "elo_before": 1000,
+            "change": 7,
+            "track": "",
+            "finish": 1,
+            "race_id": "d7245fcb9dddaced58a5f0e470e1021c4f3d5bc8f74ea301f4bf59971d606306"
         }
     ]
 }
