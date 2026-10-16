@@ -167,10 +167,10 @@
         "grade": "B"
     },
     "Danny Hinkelmann14": {
-        "safety": 106,
-        "races": 25,
+        "safety": 111,
+        "races": 26,
         "contacts": 50,
-        "clean_races": 7,
+        "clean_races": 8,
         "large_lobby_clean_streak": 1,
         "grade": "C"
     },
@@ -535,11 +535,11 @@
         "grade": "C"
     },
     "Dario Andreoni": {
-        "safety": 158,
-        "races": 24,
-        "contacts": 29,
+        "safety": 153,
+        "races": 25,
+        "contacts": 30,
         "clean_races": 10,
-        "large_lobby_clean_streak": 4,
+        "large_lobby_clean_streak": 0,
         "grade": "B"
     },
     "Kubon": {
@@ -750,10 +750,10 @@
         "grade": "B"
     },
     "Rk_44": {
-        "safety": 212,
-        "races": 30,
+        "safety": 217,
+        "races": 31,
         "contacts": 32,
-        "clean_races": 16,
+        "clean_races": 17,
         "large_lobby_clean_streak": 0,
         "grade": "A"
     },
