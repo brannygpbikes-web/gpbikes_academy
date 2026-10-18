@@ -824,6 +824,15 @@
             "track": "",
             "finish": 4,
             "race_id": "8089df21da5a878382f697c9f293a2024f7808e1a46c49657b5654bb3daa9263"
+        },
+        {
+            "date": "2026-10-18T17:15:09",
+            "elo": 1037,
+            "elo_before": 1051,
+            "change": -14,
+            "track": "",
+            "finish": 8,
+            "race_id": "69ac96f78de6ae20c24216b389fc9095b4fe34e3a48af8d78d265719733e0394"
         }
     ],
     "filipknigge20": [
@@ -1096,6 +1105,15 @@
             "track": "",
             "finish": 1,
             "race_id": "9c9a8b7389cb9e5f16daf4b4ec524dd427b622df4411b21273dadc3a9377b51a"
+        },
+        {
+            "date": "2026-10-18T17:15:09",
+            "elo": 1183,
+            "elo_before": 1173,
+            "change": 10,
+            "track": "",
+            "finish": 1,
+            "race_id": "69ac96f78de6ae20c24216b389fc9095b4fe34e3a48af8d78d265719733e0394"
         }
     ],
     "Nuno": [
@@ -3905,6 +3923,15 @@
             "track": "",
             "finish": 3,
             "race_id": "c286e3f8f5d18cd94676b111ece7a71e908d7bdbbd788a25c2eb8dc315e911dd"
+        },
+        {
+            "date": "2026-10-18T17:15:09",
+            "elo": 1087,
+            "elo_before": 1086,
+            "change": 1,
+            "track": "",
+            "finish": 4,
+            "race_id": "69ac96f78de6ae20c24216b389fc9095b4fe34e3a48af8d78d265719733e0394"
         }
     ],
     "Lanzo": [
@@ -4523,6 +4550,15 @@
             "track": "",
             "finish": 1,
             "race_id": "8089df21da5a878382f697c9f293a2024f7808e1a46c49657b5654bb3daa9263"
+        },
+        {
+            "date": "2026-10-18T17:15:09",
+            "elo": 1093,
+            "elo_before": 1097,
+            "change": -4,
+            "track": "",
+            "finish": 5,
+            "race_id": "69ac96f78de6ae20c24216b389fc9095b4fe34e3a48af8d78d265719733e0394"
         }
     ],
     "Maximo Giro": [
@@ -4967,6 +5003,15 @@
             "track": "",
             "finish": 7,
             "race_id": "8089df21da5a878382f697c9f293a2024f7808e1a46c49657b5654bb3daa9263"
+        },
+        {
+            "date": "2026-10-18T17:15:09",
+            "elo": 1042,
+            "elo_before": 1052,
+            "change": -10,
+            "track": "",
+            "finish": 7,
+            "race_id": "69ac96f78de6ae20c24216b389fc9095b4fe34e3a48af8d78d265719733e0394"
         }
     ],
     "KSBR": [
@@ -5362,6 +5407,15 @@
             "track": "",
             "finish": 5,
             "race_id": "8089df21da5a878382f697c9f293a2024f7808e1a46c49657b5654bb3daa9263"
+        },
+        {
+            "date": "2026-10-18T17:15:09",
+            "elo": 982,
+            "elo_before": 972,
+            "change": 10,
+            "track": "",
+            "finish": 3,
+            "race_id": "69ac96f78de6ae20c24216b389fc9095b4fe34e3a48af8d78d265719733e0394"
         }
     ],
     "izan curia": [
@@ -5615,6 +5669,15 @@
             "track": "",
             "finish": 6,
             "race_id": "8089df21da5a878382f697c9f293a2024f7808e1a46c49657b5654bb3daa9263"
+        },
+        {
+            "date": "2026-10-18T17:15:09",
+            "elo": 963,
+            "elo_before": 965,
+            "change": -2,
+            "track": "",
+            "finish": 6,
+            "race_id": "69ac96f78de6ae20c24216b389fc9095b4fe34e3a48af8d78d265719733e0394"
         }
     ],
     "Dimitry": [
@@ -12859,6 +12922,15 @@
             "track": "",
             "finish": 2,
             "race_id": "8089df21da5a878382f697c9f293a2024f7808e1a46c49657b5654bb3daa9263"
+        },
+        {
+            "date": "2026-10-18T17:15:09",
+            "elo": 1091,
+            "elo_before": 1082,
+            "change": 9,
+            "track": "",
+            "finish": 2,
+            "race_id": "69ac96f78de6ae20c24216b389fc9095b4fe34e3a48af8d78d265719733e0394"
         }
     ],
     "jorgeguti160": [
