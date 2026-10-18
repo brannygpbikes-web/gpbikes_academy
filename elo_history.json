@@ -1469,6 +1469,15 @@
             "track": "",
             "finish": 2,
             "race_id": "f499986c6a0cd4879f192a6c9205578804b7b809f518e7def539360f5e73dd2b"
+        },
+        {
+            "date": "2026-10-18T16:03:01",
+            "elo": 1080,
+            "elo_before": 1076,
+            "change": 4,
+            "track": "",
+            "finish": 1,
+            "race_id": "bf4dfeacd032335399936d30becd9a84d09000fff46e317a8c77c7d74044ce9f"
         }
     ],
     "vegasan88": [
@@ -7149,6 +7158,15 @@
             "track": "",
             "finish": 1,
             "race_id": "f499986c6a0cd4879f192a6c9205578804b7b809f518e7def539360f5e73dd2b"
+        },
+        {
+            "date": "2026-10-18T16:03:01",
+            "elo": 1158,
+            "elo_before": 1165,
+            "change": -7,
+            "track": "",
+            "finish": 3,
+            "race_id": "bf4dfeacd032335399936d30becd9a84d09000fff46e317a8c77c7d74044ce9f"
         }
     ],
     "moe": [
@@ -12699,6 +12717,15 @@
             "track": "",
             "finish": 11,
             "race_id": "94fcd4e436d64fcd3101650852d0796a29e8956c3617cc79816c79c4a5efd7c9"
+        },
+        {
+            "date": "2026-10-18T16:03:01",
+            "elo": 892,
+            "elo_before": 889,
+            "change": 3,
+            "track": "",
+            "finish": 2,
+            "race_id": "bf4dfeacd032335399936d30becd9a84d09000fff46e317a8c77c7d74044ce9f"
         }
     ],
     "No Pain No Tartine": [
