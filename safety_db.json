@@ -168,10 +168,10 @@
         "grade": "B"
     },
     "Danny Hinkelmann14": {
-        "safety": 177,
-        "races": 40,
+        "safety": 187,
+        "races": 41,
         "contacts": 55,
-        "clean_races": 19,
+        "clean_races": 20,
         "large_lobby_clean_streak": 0,
         "grade": "A"
     },
@@ -324,10 +324,10 @@
         "grade": "D"
     },
     "moe": {
-        "safety": 209,
-        "races": 42,
+        "safety": 219,
+        "races": 43,
         "contacts": 41,
-        "clean_races": 21,
+        "clean_races": 22,
         "large_lobby_clean_streak": 1,
         "grade": "A"
     },
@@ -580,11 +580,11 @@
         "grade": "B"
     },
     "sbara": {
-        "safety": 260,
-        "races": 34,
-        "contacts": 37,
+        "safety": 256,
+        "races": 35,
+        "contacts": 38,
         "clean_races": 20,
-        "large_lobby_clean_streak": 4,
+        "large_lobby_clean_streak": 0,
         "grade": "A"
     },
     "N1rmata": {
@@ -757,9 +757,9 @@
     },
     "Rk_44": {
         "safety": 300,
-        "races": 52,
+        "races": 53,
         "contacts": 34,
-        "clean_races": 36,
+        "clean_races": 37,
         "large_lobby_clean_streak": 3,
         "grade": "S"
     },
@@ -974,9 +974,9 @@
         "grade": "E"
     },
     "Billy Jones": {
-        "safety": 300,
-        "races": 47,
-        "contacts": 40,
+        "safety": 284,
+        "races": 48,
+        "contacts": 44,
         "clean_races": 29,
         "large_lobby_clean_streak": 0,
         "grade": "S"
@@ -1432,10 +1432,10 @@
         "grade": "C"
     },
     "sergioo14": {
-        "safety": 279,
-        "races": 27,
+        "safety": 289,
+        "races": 28,
         "contacts": 23,
-        "clean_races": 18,
+        "clean_races": 19,
         "large_lobby_clean_streak": 0,
         "grade": "S"
     },
