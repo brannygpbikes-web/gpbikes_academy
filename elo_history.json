@@ -1251,6 +1251,15 @@
             "track": "",
             "finish": 5,
             "race_id": "326e304a04544593f68bf3ce73dbaf3070d6e89d5a0c8a5b522d602b07840e74"
+        },
+        {
+            "date": "2026-10-18T13:20:02",
+            "elo": 1102,
+            "elo_before": 1111,
+            "change": -9,
+            "track": "",
+            "finish": 5,
+            "race_id": "006ec59157545733d7e1dbc6390282de022f59d7ddac830e7c46d4bcd6a9287d"
         }
     ],
     "sbara": [
@@ -2842,6 +2851,15 @@
             "track": "",
             "finish": 1,
             "race_id": "b681db221444d4be35491d5b2cc072ebf3947359e9ebc51d4edc69499e597556"
+        },
+        {
+            "date": "2026-10-18T13:20:02",
+            "elo": 1071,
+            "elo_before": 1065,
+            "change": 6,
+            "track": "",
+            "finish": 2,
+            "race_id": "006ec59157545733d7e1dbc6390282de022f59d7ddac830e7c46d4bcd6a9287d"
         }
     ],
     "waldodj": [
@@ -4706,6 +4724,15 @@
             "track": "",
             "finish": 3,
             "race_id": "5a26fcf8151fab3aae449e2eebec35b8b57874e225015c060080743431a99312"
+        },
+        {
+            "date": "2026-10-18T13:20:02",
+            "elo": 1045,
+            "elo_before": 1056,
+            "change": -11,
+            "track": "",
+            "finish": 6,
+            "race_id": "006ec59157545733d7e1dbc6390282de022f59d7ddac830e7c46d4bcd6a9287d"
         }
     ],
     "KSBR": [
@@ -7229,6 +7256,15 @@
             "track": "",
             "finish": 1,
             "race_id": "326e304a04544593f68bf3ce73dbaf3070d6e89d5a0c8a5b522d602b07840e74"
+        },
+        {
+            "date": "2026-10-18T13:20:02",
+            "elo": 1036,
+            "elo_before": 1038,
+            "change": -2,
+            "track": "",
+            "finish": 4,
+            "race_id": "006ec59157545733d7e1dbc6390282de022f59d7ddac830e7c46d4bcd6a9287d"
         }
     ],
     "JorgeNsr": [
@@ -9487,6 +9523,15 @@
             "track": "",
             "finish": 3,
             "race_id": "326e304a04544593f68bf3ce73dbaf3070d6e89d5a0c8a5b522d602b07840e74"
+        },
+        {
+            "date": "2026-10-18T13:20:02",
+            "elo": 1002,
+            "elo_before": 997,
+            "change": 5,
+            "track": "",
+            "finish": 3,
+            "race_id": "006ec59157545733d7e1dbc6390282de022f59d7ddac830e7c46d4bcd6a9287d"
         }
     ],
     "Pylote": [
@@ -12391,6 +12436,15 @@
             "track": "",
             "finish": 2,
             "race_id": "326e304a04544593f68bf3ce73dbaf3070d6e89d5a0c8a5b522d602b07840e74"
+        },
+        {
+            "date": "2026-10-18T13:20:02",
+            "elo": 1070,
+            "elo_before": 1059,
+            "change": 11,
+            "track": "",
+            "finish": 1,
+            "race_id": "006ec59157545733d7e1dbc6390282de022f59d7ddac830e7c46d4bcd6a9287d"
         }
     ],
     "jorgeguti160": [

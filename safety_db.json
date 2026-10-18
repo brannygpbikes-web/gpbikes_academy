@@ -239,10 +239,10 @@
         "large_lobby_clean_streak": 1
     },
     "Carrasco": {
-        "safety": 200,
-        "races": 33,
+        "safety": 210,
+        "races": 34,
         "contacts": 56,
-        "clean_races": 10,
+        "clean_races": 11,
         "large_lobby_clean_streak": 0,
         "grade": "A"
     },
@@ -316,9 +316,9 @@
         "large_lobby_clean_streak": 2
     },
     "Miquel_Sinke60": {
-        "safety": 92,
-        "races": 51,
-        "contacts": 100,
+        "safety": 84,
+        "races": 52,
+        "contacts": 102,
         "clean_races": 18,
         "large_lobby_clean_streak": 0,
         "grade": "D"
@@ -541,10 +541,10 @@
         "grade": "C"
     },
     "Dario Andreoni": {
-        "safety": 235,
-        "races": 37,
+        "safety": 245,
+        "races": 38,
         "contacts": 32,
-        "clean_races": 20,
+        "clean_races": 21,
         "large_lobby_clean_streak": 4,
         "grade": "A"
     },
@@ -564,9 +564,9 @@
         "grade": "B"
     },
     "Nuno": {
-        "safety": 195,
-        "races": 38,
-        "contacts": 38,
+        "safety": 187,
+        "races": 39,
+        "contacts": 40,
         "clean_races": 18,
         "large_lobby_clean_streak": 0,
         "grade": "A"
@@ -1142,10 +1142,10 @@
         "grade": "D"
     },
     "fisherman": {
-        "safety": 139,
-        "races": 3,
+        "safety": 149,
+        "races": 4,
         "contacts": 2,
-        "clean_races": 2,
+        "clean_races": 3,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     },
@@ -1664,12 +1664,12 @@
         "grade": "B"
     },
     "Maximoquiles28": {
-        "safety": 257,
-        "races": 9,
+        "safety": 267,
+        "races": 10,
         "contacts": 5,
-        "clean_races": 4,
+        "clean_races": 5,
         "large_lobby_clean_streak": 0,
-        "grade": "A"
+        "grade": "S"
     },
     "No Pain No Tartine": {
         "safety": 175,
