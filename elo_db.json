@@ -96,10 +96,10 @@
         "podiums": 12
     },
     "N1rmata": {
-        "elo": 1078,
+        "elo": 1083,
         "wins": 7,
-        "races": 23,
-        "podiums": 12
+        "races": 24,
+        "podiums": 13
     },
     "Yung Savade": {
         "elo": 994,
@@ -140,8 +140,8 @@
     "Rayo__Wombat": {
         "elo": 1080,
         "wins": 3,
-        "races": 32,
-        "podiums": 13
+        "races": 33,
+        "podiums": 14
     },
     "Mikrowelle": {
         "elo": 954,
@@ -300,10 +300,10 @@
         "podiums": 20
     },
     "Danislav1746": {
-        "elo": 1185,
-        "wins": 14,
-        "races": 27,
-        "podiums": 22
+        "elo": 1191,
+        "wins": 15,
+        "races": 28,
+        "podiums": 23
     },
     "AL": {
         "elo": 981,
@@ -750,9 +750,9 @@
         "podiums": 2
     },
     "pr1c3y": {
-        "elo": 956,
+        "elo": 947,
         "wins": 2,
-        "races": 13,
+        "races": 14,
         "podiums": 4
     },
     "F1and3R5": {
@@ -902,7 +902,7 @@
     "Rk_44": {
         "elo": 794,
         "wins": 0,
-        "races": 53,
+        "races": 54,
         "podiums": 8
     },
     "Maximo Giro": {
@@ -1404,9 +1404,9 @@
         "podiums": 0
     },
     "Dezmo": {
-        "elo": 995,
+        "elo": 993,
         "wins": 0,
-        "races": 2,
+        "races": 3,
         "podiums": 0
     }
 }
