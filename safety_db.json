@@ -580,10 +580,10 @@
         "grade": "B"
     },
     "sbara": {
-        "safety": 250,
-        "races": 32,
+        "safety": 255,
+        "races": 33,
         "contacts": 37,
-        "clean_races": 18,
+        "clean_races": 19,
         "large_lobby_clean_streak": 4,
         "grade": "A"
     },
@@ -975,9 +975,9 @@
     },
     "Billy Jones": {
         "safety": 300,
-        "races": 45,
+        "races": 46,
         "contacts": 40,
-        "clean_races": 27,
+        "clean_races": 28,
         "large_lobby_clean_streak": 0,
         "grade": "S"
     },
