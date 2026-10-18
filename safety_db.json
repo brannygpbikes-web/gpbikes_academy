@@ -223,10 +223,10 @@
         "grade": "D"
     },
     "filipknigge20": {
-        "safety": 215,
-        "races": 46,
+        "safety": 220,
+        "races": 47,
         "contacts": 58,
-        "clean_races": 17,
+        "clean_races": 18,
         "large_lobby_clean_streak": 0,
         "grade": "A"
     },
@@ -316,9 +316,9 @@
         "large_lobby_clean_streak": 2
     },
     "Miquel_Sinke60": {
-        "safety": 89,
-        "races": 53,
-        "contacts": 102,
+        "safety": 85,
+        "races": 54,
+        "contacts": 103,
         "clean_races": 19,
         "large_lobby_clean_streak": 0,
         "grade": "D"
@@ -564,9 +564,9 @@
         "grade": "B"
     },
     "Nuno": {
-        "safety": 192,
-        "races": 40,
-        "contacts": 40,
+        "safety": 184,
+        "races": 41,
+        "contacts": 42,
         "clean_races": 19,
         "large_lobby_clean_streak": 0,
         "grade": "A"
@@ -1094,10 +1094,10 @@
         "grade": "A"
     },
     "DUCKSWORTH": {
-        "safety": 125,
-        "races": 4,
+        "safety": 130,
+        "races": 5,
         "contacts": 5,
-        "clean_races": 1,
+        "clean_races": 2,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     },
