@@ -1042,6 +1042,15 @@
             "track": "",
             "finish": 2,
             "race_id": "1b607eccc4329d41ace9c815951457d207c093133694e1a10b05b65ebdb06f16"
+        },
+        {
+            "date": "2026-10-18T14:10:10",
+            "elo": 1164,
+            "elo_before": 1158,
+            "change": 6,
+            "track": "",
+            "finish": 1,
+            "race_id": "db3a990732363f8b04f609f922d74ddba7fa6e33f8600338149ff9096bb1739d"
         }
     ],
     "Nuno": [
@@ -1287,6 +1296,15 @@
             "track": "",
             "finish": 4,
             "race_id": "1b607eccc4329d41ace9c815951457d207c093133694e1a10b05b65ebdb06f16"
+        },
+        {
+            "date": "2026-10-18T14:10:10",
+            "elo": 1092,
+            "elo_before": 1089,
+            "change": 3,
+            "track": "",
+            "finish": 2,
+            "race_id": "db3a990732363f8b04f609f922d74ddba7fa6e33f8600338149ff9096bb1739d"
         }
     ],
     "sbara": [
@@ -4778,6 +4796,15 @@
             "track": "",
             "finish": 1,
             "race_id": "1b607eccc4329d41ace9c815951457d207c093133694e1a10b05b65ebdb06f16"
+        },
+        {
+            "date": "2026-10-18T14:10:10",
+            "elo": 1062,
+            "elo_before": 1062,
+            "change": 0,
+            "track": "",
+            "finish": 3,
+            "race_id": "db3a990732363f8b04f609f922d74ddba7fa6e33f8600338149ff9096bb1739d"
         }
     ],
     "KSBR": [
@@ -4908,6 +4935,15 @@
             "track": "",
             "finish": 3,
             "race_id": "1b607eccc4329d41ace9c815951457d207c093133694e1a10b05b65ebdb06f16"
+        },
+        {
+            "date": "2026-10-18T14:10:10",
+            "elo": 1008,
+            "elo_before": 1015,
+            "change": -7,
+            "track": "",
+            "finish": 5,
+            "race_id": "db3a990732363f8b04f609f922d74ddba7fa6e33f8600338149ff9096bb1739d"
         }
     ],
     "zee": [
@@ -13094,6 +13130,17 @@
             "track": "",
             "finish": 10,
             "race_id": "feb0f24aa5acd443fde8aa8d9bbc4b83a1dfbed773fcac05dda84f6129068dd4"
+        }
+    ],
+    "Dezmo": [
+        {
+            "date": "2026-10-18T14:10:10",
+            "elo": 998,
+            "elo_before": 1000,
+            "change": -2,
+            "track": "",
+            "finish": 4,
+            "race_id": "db3a990732363f8b04f609f922d74ddba7fa6e33f8600338149ff9096bb1739d"
         }
     ]
 }

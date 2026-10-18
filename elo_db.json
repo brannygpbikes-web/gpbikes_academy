@@ -44,8 +44,8 @@
     "Miquel_Sinke60": {
         "elo": 1062,
         "wins": 11,
-        "races": 57,
-        "podiums": 27
+        "races": 58,
+        "podiums": 28
     },
     "AhyaAL": {
         "elo": 1122,
@@ -174,10 +174,10 @@
         "podiums": 16
     },
     "filipknigge20": {
-        "elo": 1158,
-        "wins": 14,
-        "races": 53,
-        "podiums": 35
+        "elo": 1164,
+        "wins": 15,
+        "races": 54,
+        "podiums": 36
     },
     "Billy Jones": {
         "elo": 1157,
@@ -642,10 +642,10 @@
         "podiums": 0
     },
     "Nuno": {
-        "elo": 1089,
+        "elo": 1092,
         "wins": 13,
-        "races": 43,
-        "podiums": 25
+        "races": 44,
+        "podiums": 26
     },
     "vNoHxpe_KJ45": {
         "elo": 1026,
@@ -918,9 +918,9 @@
         "podiums": 0
     },
     "DUCKSWORTH": {
-        "elo": 1015,
+        "elo": 1008,
         "wins": 0,
-        "races": 5,
+        "races": 6,
         "podiums": 1
     },
     "zee": {
@@ -1401,6 +1401,12 @@
         "elo": 990,
         "wins": 0,
         "races": 4,
+        "podiums": 0
+    },
+    "Dezmo": {
+        "elo": 998,
+        "wins": 0,
+        "races": 1,
         "podiums": 0
     }
 }
