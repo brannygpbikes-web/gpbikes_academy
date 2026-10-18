@@ -1451,6 +1451,15 @@
             "track": "",
             "finish": 3,
             "race_id": "5addd4a15ab11cd87ad715ffd3afe168e4e70999fe153f195c2cec78befbf876"
+        },
+        {
+            "date": "2026-10-18T15:29:03",
+            "elo": 1080,
+            "elo_before": 1084,
+            "change": -4,
+            "track": "",
+            "finish": 2,
+            "race_id": "154e5d3c95ed0ba45f74e4b0952743296124ccffb091ca2132511ae7558c60f0"
         }
     ],
     "vegasan88": [
@@ -7113,6 +7122,15 @@
             "track": "",
             "finish": 6,
             "race_id": "b681db221444d4be35491d5b2cc072ebf3947359e9ebc51d4edc69499e597556"
+        },
+        {
+            "date": "2026-10-18T15:29:03",
+            "elo": 1161,
+            "elo_before": 1157,
+            "change": 4,
+            "track": "",
+            "finish": 1,
+            "race_id": "154e5d3c95ed0ba45f74e4b0952743296124ccffb091ca2132511ae7558c60f0"
         }
     ],
     "moe": [
