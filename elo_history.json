@@ -1051,6 +1051,15 @@
             "track": "",
             "finish": 1,
             "race_id": "db3a990732363f8b04f609f922d74ddba7fa6e33f8600338149ff9096bb1739d"
+        },
+        {
+            "date": "2026-10-18T14:27:06",
+            "elo": 1165,
+            "elo_before": 1164,
+            "change": 1,
+            "track": "",
+            "finish": 2,
+            "race_id": "4b51bff10994c1098c52396bb24654fe28e17398cae3aa0cc73d2f1cac4c7b64"
         }
     ],
     "Nuno": [
@@ -1951,6 +1960,15 @@
             "track": "",
             "finish": 11,
             "race_id": "9c1d5c255e953a4b1611588744c862a0a8c888f571bbe1f654c816edb11794c8"
+        },
+        {
+            "date": "2026-10-18T14:27:06",
+            "elo": 1035,
+            "elo_before": 1035,
+            "change": 0,
+            "track": "",
+            "finish": 3,
+            "race_id": "4b51bff10994c1098c52396bb24654fe28e17398cae3aa0cc73d2f1cac4c7b64"
         }
     ],
     "Oover": [
@@ -7485,6 +7503,15 @@
             "track": "",
             "finish": 22,
             "race_id": "c286e3f8f5d18cd94676b111ece7a71e908d7bdbbd788a25c2eb8dc315e911dd"
+        },
+        {
+            "date": "2026-10-18T14:27:06",
+            "elo": 1068,
+            "elo_before": 1061,
+            "change": 7,
+            "track": "",
+            "finish": 1,
+            "race_id": "4b51bff10994c1098c52396bb24654fe28e17398cae3aa0cc73d2f1cac4c7b64"
         }
     ],
     "Aggressive Tax collector": [
@@ -10560,6 +10587,15 @@
             "track": "",
             "finish": 6,
             "race_id": "326e304a04544593f68bf3ce73dbaf3070d6e89d5a0c8a5b522d602b07840e74"
+        },
+        {
+            "date": "2026-10-18T14:27:06",
+            "elo": 927,
+            "elo_before": 932,
+            "change": -5,
+            "track": "",
+            "finish": 5,
+            "race_id": "4b51bff10994c1098c52396bb24654fe28e17398cae3aa0cc73d2f1cac4c7b64"
         }
     ],
     "Gonzalo Molina": [
@@ -13141,6 +13177,15 @@
             "track": "",
             "finish": 4,
             "race_id": "db3a990732363f8b04f609f922d74ddba7fa6e33f8600338149ff9096bb1739d"
+        },
+        {
+            "date": "2026-10-18T14:27:06",
+            "elo": 995,
+            "elo_before": 998,
+            "change": -3,
+            "track": "",
+            "finish": 4,
+            "race_id": "4b51bff10994c1098c52396bb24654fe28e17398cae3aa0cc73d2f1cac4c7b64"
         }
     ]
 }
