@@ -2752,6 +2752,15 @@
             "track": "",
             "finish": 3,
             "race_id": "7403d4c27dd618e2aff2cd19cbfb64247f71cec8ea4f9be09764a9a6f75aa119"
+        },
+        {
+            "date": "2026-10-18T12:13:17",
+            "elo": 1046,
+            "elo_before": 1049,
+            "change": -3,
+            "track": "",
+            "finish": 3,
+            "race_id": "9df40282cb6546488af28f0732beef9c92eafc877ebeac7532df553bd70439b2"
         }
     ],
     "waldodj": [
@@ -4208,6 +4217,15 @@
             "track": "",
             "finish": 1,
             "race_id": "872dbe525184750142c1a1898c85b8528d7e876f8d2144928eb776db36b35915"
+        },
+        {
+            "date": "2026-10-18T12:13:17",
+            "elo": 1094,
+            "elo_before": 1089,
+            "change": 5,
+            "track": "",
+            "finish": 1,
+            "race_id": "9df40282cb6546488af28f0732beef9c92eafc877ebeac7532df553bd70439b2"
         }
     ],
     "Maximo Giro": [
@@ -8364,6 +8382,15 @@
             "track": "",
             "finish": 1,
             "race_id": "c286e3f8f5d18cd94676b111ece7a71e908d7bdbbd788a25c2eb8dc315e911dd"
+        },
+        {
+            "date": "2026-10-18T12:13:17",
+            "elo": 1191,
+            "elo_before": 1193,
+            "change": -2,
+            "track": "",
+            "finish": 2,
+            "race_id": "9df40282cb6546488af28f0732beef9c92eafc877ebeac7532df553bd70439b2"
         }
     ],
     "Fhalopy": [
