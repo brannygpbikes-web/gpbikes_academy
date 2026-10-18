@@ -1188,6 +1188,15 @@
             "track": "",
             "finish": 4,
             "race_id": "feb0f24aa5acd443fde8aa8d9bbc4b83a1dfbed773fcac05dda84f6129068dd4"
+        },
+        {
+            "date": "2026-10-18T12:29:03",
+            "elo": 1125,
+            "elo_before": 1125,
+            "change": 0,
+            "track": "",
+            "finish": 3,
+            "race_id": "182c2af77e013d2efaaf4f80fce8d6b6ccc38662207982937f58c9685028df8f"
         }
     ],
     "sbara": [
@@ -2761,6 +2770,15 @@
             "track": "",
             "finish": 3,
             "race_id": "9df40282cb6546488af28f0732beef9c92eafc877ebeac7532df553bd70439b2"
+        },
+        {
+            "date": "2026-10-18T12:29:03",
+            "elo": 1052,
+            "elo_before": 1046,
+            "change": 6,
+            "track": "",
+            "finish": 2,
+            "race_id": "182c2af77e013d2efaaf4f80fce8d6b6ccc38662207982937f58c9685028df8f"
         }
     ],
     "waldodj": [
@@ -4342,6 +4360,15 @@
             "track": "",
             "finish": 7,
             "race_id": "49d103c5a8e98620521e9fcdc0bbe0ab737f49c5a0524423123112704d46a7f0"
+        },
+        {
+            "date": "2026-10-18T12:29:03",
+            "elo": 988,
+            "elo_before": 993,
+            "change": -5,
+            "track": "",
+            "finish": 5,
+            "race_id": "182c2af77e013d2efaaf4f80fce8d6b6ccc38662207982937f58c9685028df8f"
         }
     ],
     "Riccardo": [
@@ -8391,6 +8418,15 @@
             "track": "",
             "finish": 2,
             "race_id": "9df40282cb6546488af28f0732beef9c92eafc877ebeac7532df553bd70439b2"
+        },
+        {
+            "date": "2026-10-18T12:29:03",
+            "elo": 1185,
+            "elo_before": 1191,
+            "change": -6,
+            "track": "",
+            "finish": 4,
+            "race_id": "182c2af77e013d2efaaf4f80fce8d6b6ccc38662207982937f58c9685028df8f"
         }
     ],
     "Fhalopy": [
@@ -10373,6 +10409,15 @@
             "track": "",
             "finish": 1,
             "race_id": "bfaaa87f24537392b144a957ca6c5d9942e72cfa20becd89f757cbe1454a825a"
+        },
+        {
+            "date": "2026-10-18T12:29:03",
+            "elo": 1225,
+            "elo_before": 1220,
+            "change": 5,
+            "track": "",
+            "finish": 1,
+            "race_id": "182c2af77e013d2efaaf4f80fce8d6b6ccc38662207982937f58c9685028df8f"
         }
     ],
     "Creisi48": [
