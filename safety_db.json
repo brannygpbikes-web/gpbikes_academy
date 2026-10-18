@@ -588,10 +588,10 @@
         "grade": "A"
     },
     "N1rmata": {
-        "safety": 85,
-        "races": 19,
+        "safety": 90,
+        "races": 20,
         "contacts": 55,
-        "clean_races": 4,
+        "clean_races": 5,
         "large_lobby_clean_streak": 0,
         "grade": "D"
     },
@@ -686,10 +686,10 @@
         "grade": "B"
     },
     "tacticworks": {
-        "safety": 107,
-        "races": 25,
+        "safety": 112,
+        "races": 26,
         "contacts": 32,
-        "clean_races": 10,
+        "clean_races": 11,
         "large_lobby_clean_streak": 4,
         "grade": "C"
     },
