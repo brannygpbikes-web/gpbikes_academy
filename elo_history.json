@@ -12816,6 +12816,15 @@
             "track": "",
             "finish": 2,
             "race_id": "22ea5b1987bfa754cae0e5b863152182cc1581e7e8ddf6dbaaf8a33c3ade1257"
+        },
+        {
+            "date": "2026-10-19T22:08:29",
+            "elo": 1068,
+            "elo_before": 1064,
+            "change": 4,
+            "track": "",
+            "finish": 1,
+            "race_id": "e01e3ec65e955bc360232abc1e9404b5b2764de9b0ec25ebc3a042845f652102"
         }
     ],
     "jessedollo17": [
@@ -15692,6 +15701,15 @@
             "track": "",
             "finish": 1,
             "race_id": "27c35ba72b7189e5869f0044e978f52d28aac44cce5dabc01f7b9a2c91e10723"
+        },
+        {
+            "date": "2026-10-19T22:08:29",
+            "elo": 1049,
+            "elo_before": 1049,
+            "change": 0,
+            "track": "",
+            "finish": 2,
+            "race_id": "e01e3ec65e955bc360232abc1e9404b5b2764de9b0ec25ebc3a042845f652102"
         }
     ],
     "Hook": [
@@ -15865,6 +15883,15 @@
             "track": "",
             "finish": 2,
             "race_id": "27c35ba72b7189e5869f0044e978f52d28aac44cce5dabc01f7b9a2c91e10723"
+        },
+        {
+            "date": "2026-10-19T22:08:29",
+            "elo": 1003,
+            "elo_before": 1007,
+            "change": -4,
+            "track": "",
+            "finish": 3,
+            "race_id": "e01e3ec65e955bc360232abc1e9404b5b2764de9b0ec25ebc3a042845f652102"
         }
     ],
     "Black $moke": [
