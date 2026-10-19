@@ -941,6 +941,15 @@
             "track": "",
             "finish": 2,
             "race_id": "19651945fefe1b30b517ef174b0f17e4b081200ddfc62d38ff804eb68f62a957"
+        },
+        {
+            "date": "2026-10-19T21:35:12",
+            "elo": 1038,
+            "elo_before": 1041,
+            "change": -3,
+            "track": "",
+            "finish": 4,
+            "race_id": "20e792bc876ccadb6b56b428f09230c21a5c3cafb6e3154244a95dc783fb3937"
         }
     ],
     "filipknigge20": [
@@ -1258,6 +1267,15 @@
             "track": "",
             "finish": 1,
             "race_id": "19651945fefe1b30b517ef174b0f17e4b081200ddfc62d38ff804eb68f62a957"
+        },
+        {
+            "date": "2026-10-19T21:35:12",
+            "elo": 1175,
+            "elo_before": 1178,
+            "change": -3,
+            "track": "",
+            "finish": 3,
+            "race_id": "20e792bc876ccadb6b56b428f09230c21a5c3cafb6e3154244a95dc783fb3937"
         }
     ],
     "Nuno": [
@@ -14949,6 +14967,15 @@
             "track": "",
             "finish": 4,
             "race_id": "19651945fefe1b30b517ef174b0f17e4b081200ddfc62d38ff804eb68f62a957"
+        },
+        {
+            "date": "2026-10-19T21:35:12",
+            "elo": 890,
+            "elo_before": 892,
+            "change": -2,
+            "track": "",
+            "finish": 5,
+            "race_id": "20e792bc876ccadb6b56b428f09230c21a5c3cafb6e3154244a95dc783fb3937"
         }
     ],
     "No Pain No Tartine": [
@@ -15647,6 +15674,15 @@
             "track": "",
             "finish": 3,
             "race_id": "19651945fefe1b30b517ef174b0f17e4b081200ddfc62d38ff804eb68f62a957"
+        },
+        {
+            "date": "2026-10-19T21:35:12",
+            "elo": 1045,
+            "elo_before": 1034,
+            "change": 11,
+            "track": "",
+            "finish": 1,
+            "race_id": "20e792bc876ccadb6b56b428f09230c21a5c3cafb6e3154244a95dc783fb3937"
         }
     ],
     "Hook": [
@@ -15791,6 +15827,28 @@
             "track": "",
             "finish": 14,
             "race_id": "22ea5b1987bfa754cae0e5b863152182cc1581e7e8ddf6dbaaf8a33c3ade1257"
+        }
+    ],
+    "Raceboi95": [
+        {
+            "date": "2026-10-19T21:35:12",
+            "elo": 1007,
+            "elo_before": 1000,
+            "change": 7,
+            "track": "",
+            "finish": 2,
+            "race_id": "20e792bc876ccadb6b56b428f09230c21a5c3cafb6e3154244a95dc783fb3937"
+        }
+    ],
+    "Black $moke": [
+        {
+            "date": "2026-10-19T21:35:12",
+            "elo": 990,
+            "elo_before": 1000,
+            "change": -10,
+            "track": "",
+            "finish": 6,
+            "race_id": "20e792bc876ccadb6b56b428f09230c21a5c3cafb6e3154244a95dc783fb3937"
         }
     ]
 }

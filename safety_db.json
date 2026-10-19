@@ -168,10 +168,10 @@
         "grade": "B"
     },
     "Danny Hinkelmann14": {
-        "safety": 246,
-        "races": 50,
+        "safety": 256,
+        "races": 51,
         "contacts": 58,
-        "clean_races": 27,
+        "clean_races": 28,
         "large_lobby_clean_streak": 5,
         "grade": "A"
     },
@@ -223,12 +223,12 @@
         "grade": "D"
     },
     "filipknigge20": {
-        "safety": 263,
-        "races": 55,
+        "safety": 273,
+        "races": 56,
         "contacts": 61,
-        "clean_races": 24,
+        "clean_races": 25,
         "large_lobby_clean_streak": 2,
-        "grade": "A"
+        "grade": "S"
     },
     "Matteo 42": {
         "safety": 115,
@@ -620,10 +620,10 @@
         "grade": "C"
     },
     "jorgeguti160": {
-        "safety": 245,
-        "races": 18,
+        "safety": 255,
+        "races": 19,
         "contacts": 16,
-        "clean_races": 9,
+        "clean_races": 10,
         "large_lobby_clean_streak": 3,
         "grade": "A"
     },
@@ -935,12 +935,12 @@
         "grade": "A"
     },
     "BNJMN": {
-        "safety": 121,
-        "races": 17,
+        "safety": 131,
+        "races": 18,
         "contacts": 24,
-        "clean_races": 7,
+        "clean_races": 8,
         "large_lobby_clean_streak": 0,
-        "grade": "C"
+        "grade": "B"
     },
     "adrianrufin7": {
         "safety": 120,
@@ -1877,6 +1877,22 @@
         "contacts": 0,
         "clean_races": 1,
         "large_lobby_clean_streak": 1,
+        "grade": "B"
+    },
+    "Raceboi95": {
+        "safety": 135,
+        "races": 1,
+        "contacts": 0,
+        "clean_races": 1,
+        "large_lobby_clean_streak": 0,
+        "grade": "B"
+    },
+    "Black $moke": {
+        "safety": 135,
+        "races": 1,
+        "contacts": 0,
+        "clean_races": 1,
+        "large_lobby_clean_streak": 0,
         "grade": "B"
     }
 }
