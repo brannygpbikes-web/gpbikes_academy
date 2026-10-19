@@ -72,9 +72,9 @@
         "podiums": 1
     },
     "Simone Ghilardini": {
-        "elo": 1002,
+        "elo": 993,
         "wins": 4,
-        "races": 58,
+        "races": 59,
         "podiums": 17
     },
     "Noa1nl": {
@@ -156,9 +156,9 @@
         "podiums": 0
     },
     "Gonzalo Molina": {
-        "elo": 1232,
+        "elo": 1216,
         "wins": 22,
-        "races": 38,
+        "races": 39,
         "podiums": 30
     },
     "NJIRK5211": {
@@ -240,9 +240,9 @@
         "podiums": 8
     },
     "AwashMicrobe": {
-        "elo": 990,
+        "elo": 999,
         "wins": 2,
-        "races": 19,
+        "races": 20,
         "podiums": 3
     },
     "JW2Stupid": {
@@ -258,9 +258,9 @@
         "podiums": 3
     },
     "izan curia": {
-        "elo": 957,
+        "elo": 946,
         "wins": 0,
-        "races": 11,
+        "races": 12,
         "podiums": 0
     },
     "Thunberg": {
@@ -300,10 +300,10 @@
         "podiums": 20
     },
     "Danislav1746": {
-        "elo": 1213,
+        "elo": 1215,
         "wins": 18,
-        "races": 32,
-        "podiums": 27
+        "races": 33,
+        "podiums": 28
     },
     "AL": {
         "elo": 962,
@@ -732,10 +732,10 @@
         "podiums": 1
     },
     "moleo": {
-        "elo": 1185,
-        "wins": 12,
-        "races": 47,
-        "podiums": 31
+        "elo": 1196,
+        "wins": 13,
+        "races": 48,
+        "podiums": 32
     },
     "JM": {
         "elo": 995,
@@ -978,10 +978,10 @@
         "podiums": 0
     },
     "oover": {
-        "elo": 1138,
+        "elo": 1147,
         "wins": 7,
-        "races": 23,
-        "podiums": 12
+        "races": 24,
+        "podiums": 13
     },
     "queefmccheif": {
         "elo": 985,
@@ -1398,9 +1398,9 @@
         "podiums": 2
     },
     "evanchast30": {
-        "elo": 979,
+        "elo": 981,
         "wins": 0,
-        "races": 6,
+        "races": 7,
         "podiums": 0
     },
     "Dezmo": {
@@ -1414,5 +1414,17 @@
         "wins": 0,
         "races": 1,
         "podiums": 1
+    },
+    "Hook": {
+        "elo": 1005,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
+    },
+    "hofmeistertill": {
+        "elo": 998,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
     }
 }

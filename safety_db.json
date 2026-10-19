@@ -115,12 +115,12 @@
         "grade": "A"
     },
     "Simone Ghilardini": {
-        "safety": 161,
-        "races": 51,
+        "safety": 171,
+        "races": 52,
         "contacts": 61,
-        "clean_races": 24,
-        "large_lobby_clean_streak": 0,
-        "grade": "B"
+        "clean_races": 25,
+        "large_lobby_clean_streak": 1,
+        "grade": "A"
     },
     "EgoMan": {
         "safety": 168,
@@ -285,11 +285,11 @@
         "grade": "B"
     },
     "AwashMicrobe": {
-        "safety": 71,
-        "races": 17,
+        "safety": 85,
+        "races": 18,
         "contacts": 49,
-        "clean_races": 6,
-        "large_lobby_clean_streak": 3,
+        "clean_races": 7,
+        "large_lobby_clean_streak": 4,
         "grade": "D"
     },
     "KeyWay22": {
@@ -300,11 +300,11 @@
         "grade": "C"
     },
     "Shoop46": {
-        "safety": 130,
-        "races": 13,
+        "safety": 144,
+        "races": 14,
         "contacts": 14,
-        "clean_races": 6,
-        "large_lobby_clean_streak": 2,
+        "clean_races": 7,
+        "large_lobby_clean_streak": 3,
         "grade": "B"
     },
     "thecrivi28": {
@@ -727,10 +727,10 @@
     },
     "moleo": {
         "safety": 300,
-        "races": 45,
+        "races": 46,
         "contacts": 41,
-        "clean_races": 24,
-        "large_lobby_clean_streak": 2,
+        "clean_races": 25,
+        "large_lobby_clean_streak": 3,
         "grade": "S"
     },
     "SAGGAs Hemkokta": {
@@ -771,11 +771,11 @@
         "grade": "B"
     },
     "Danislav1746": {
-        "safety": 205,
-        "races": 31,
+        "safety": 217,
+        "races": 32,
         "contacts": 45,
-        "clean_races": 15,
-        "large_lobby_clean_streak": 1,
+        "clean_races": 16,
+        "large_lobby_clean_streak": 2,
         "grade": "A"
     },
     "Damien VTEC [TRC]": {
@@ -787,11 +787,11 @@
         "grade": "D"
     },
     "Gonzalo Molina": {
-        "safety": 280,
-        "races": 30,
+        "safety": 294,
+        "races": 31,
         "contacts": 31,
-        "clean_races": 18,
-        "large_lobby_clean_streak": 2,
+        "clean_races": 19,
+        "large_lobby_clean_streak": 3,
         "grade": "S"
     },
     "Scuderia Silence (tascione)": {
@@ -1086,11 +1086,11 @@
         "grade": "C"
     },
     "izan curia": {
-        "safety": 199,
-        "races": 8,
+        "safety": 211,
+        "races": 9,
         "contacts": 1,
-        "clean_races": 7,
-        "large_lobby_clean_streak": 1,
+        "clean_races": 8,
+        "large_lobby_clean_streak": 2,
         "grade": "A"
     },
     "DUCKSWORTH": {
@@ -1182,11 +1182,11 @@
         "grade": "B"
     },
     "oover": {
-        "safety": 243,
-        "races": 23,
+        "safety": 257,
+        "races": 24,
         "contacts": 26,
-        "clean_races": 14,
-        "large_lobby_clean_streak": 4,
+        "clean_races": 15,
+        "large_lobby_clean_streak": 5,
         "grade": "A"
     },
     "queefmccheif": {
@@ -1776,11 +1776,11 @@
         "grade": "B"
     },
     "evanchast30": {
-        "safety": 133,
-        "races": 6,
+        "safety": 143,
+        "races": 7,
         "contacts": 4,
-        "clean_races": 3,
-        "large_lobby_clean_streak": 0,
+        "clean_races": 4,
+        "large_lobby_clean_streak": 1,
         "grade": "B"
     },
     "Acer": {
@@ -1805,6 +1805,22 @@
         "contacts": 0,
         "clean_races": 1,
         "large_lobby_clean_streak": 0,
+        "grade": "B"
+    },
+    "hofmeistertill": {
+        "safety": 135,
+        "races": 1,
+        "contacts": 0,
+        "clean_races": 1,
+        "large_lobby_clean_streak": 1,
+        "grade": "B"
+    },
+    "Hook": {
+        "safety": 135,
+        "races": 1,
+        "contacts": 0,
+        "clean_races": 1,
+        "large_lobby_clean_streak": 1,
         "grade": "B"
     }
 }
