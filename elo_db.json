@@ -30,9 +30,9 @@
         "podiums": 1
     },
     "moe": {
-        "elo": 1004,
+        "elo": 1003,
         "wins": 1,
-        "races": 47,
+        "races": 48,
         "podiums": 13
     },
     "jackthebikeguy": {
@@ -84,22 +84,22 @@
         "podiums": 3
     },
     "Prove412": {
-        "elo": 978,
+        "elo": 986,
         "wins": 0,
-        "races": 5,
+        "races": 6,
         "podiums": 0
     },
     "tacticworks": {
-        "elo": 1031,
+        "elo": 1014,
         "wins": 0,
-        "races": 31,
+        "races": 32,
         "podiums": 12
     },
     "N1rmata": {
-        "elo": 1110,
+        "elo": 1120,
         "wins": 9,
-        "races": 28,
-        "podiums": 16
+        "races": 29,
+        "podiums": 17
     },
     "Yung Savade": {
         "elo": 994,
@@ -180,9 +180,9 @@
         "podiums": 40
     },
     "Billy Jones": {
-        "elo": 1162,
+        "elo": 1146,
         "wins": 22,
-        "races": 52,
+        "races": 53,
         "podiums": 39
     },
     "patrickfaderl98": {
@@ -192,9 +192,9 @@
         "podiums": 15
     },
     "Danny Hinkelmann14": {
-        "elo": 1038,
+        "elo": 1025,
         "wins": 4,
-        "races": 49,
+        "races": 50,
         "podiums": 14
     },
     "Santos47": {
@@ -210,10 +210,10 @@
         "podiums": 6
     },
     "Lou": {
-        "elo": 999,
-        "wins": 0,
-        "races": 19,
-        "podiums": 2
+        "elo": 1016,
+        "wins": 1,
+        "races": 20,
+        "podiums": 3
     },
     "Riccardo": {
         "elo": 940,
@@ -528,9 +528,9 @@
         "podiums": 30
     },
     "aleso262004": {
-        "elo": 1104,
+        "elo": 1096,
         "wins": 1,
-        "races": 18,
+        "races": 19,
         "podiums": 8
     },
     "pableko": {
@@ -564,15 +564,15 @@
         "podiums": 5
     },
     "Benji": {
-        "elo": 976,
+        "elo": 986,
         "wins": 0,
-        "races": 5,
+        "races": 6,
         "podiums": 0
     },
     "Tardos37Racing": {
-        "elo": 980,
+        "elo": 986,
         "wins": 0,
-        "races": 4,
+        "races": 5,
         "podiums": 0
     },
     "Ger_CarloS": {
@@ -668,7 +668,7 @@
     "jorgeguti160": {
         "elo": 895,
         "wins": 0,
-        "races": 14,
+        "races": 15,
         "podiums": 2
     },
     "JKR": {
@@ -840,10 +840,10 @@
         "podiums": 8
     },
     "The Gyatt": {
-        "elo": 986,
+        "elo": 1000,
         "wins": 0,
-        "races": 9,
-        "podiums": 3
+        "races": 10,
+        "podiums": 4
     },
     "marty_debruyne": {
         "elo": 998,
@@ -1014,9 +1014,9 @@
         "podiums": 0
     },
     "Outrunning Child Support": {
-        "elo": 1031,
+        "elo": 1032,
         "wins": 4,
-        "races": 14,
+        "races": 15,
         "podiums": 5
     },
     "Fhalopy": {
@@ -1026,9 +1026,9 @@
         "podiums": 0
     },
     "J_44": {
-        "elo": 966,
+        "elo": 954,
         "wins": 0,
-        "races": 4,
+        "races": 5,
         "podiums": 0
     },
     "risu39": {
@@ -1160,13 +1160,13 @@
     "Creisi48": {
         "elo": 1016,
         "wins": 0,
-        "races": 15,
+        "races": 16,
         "podiums": 3
     },
     "Marcus": {
-        "elo": 1055,
+        "elo": 1063,
         "wins": 0,
-        "races": 7,
+        "races": 8,
         "podiums": 1
     },
     "jessedollo17": {
@@ -1435,6 +1435,12 @@
     },
     "mrarcin": {
         "elo": 985,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
+    },
+    "LeKiD": {
+        "elo": 993,
         "wins": 0,
         "races": 1,
         "podiums": 0
