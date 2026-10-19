@@ -935,10 +935,10 @@
         "grade": "A"
     },
     "BNJMN": {
-        "safety": 141,
-        "races": 20,
+        "safety": 146,
+        "races": 21,
         "contacts": 24,
-        "clean_races": 10,
+        "clean_races": 11,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     },
@@ -1456,10 +1456,10 @@
         "grade": "A"
     },
     "Marcus": {
-        "safety": 291,
-        "races": 14,
+        "safety": 296,
+        "races": 15,
         "contacts": 6,
-        "clean_races": 11,
+        "clean_races": 12,
         "large_lobby_clean_streak": 2,
         "grade": "S"
     },
@@ -1776,12 +1776,12 @@
         "grade": "B"
     },
     "evanchast30": {
-        "safety": 139,
-        "races": 8,
-        "contacts": 6,
+        "safety": 118,
+        "races": 9,
+        "contacts": 9,
         "clean_races": 4,
         "large_lobby_clean_streak": 0,
-        "grade": "B"
+        "grade": "C"
     },
     "Acer": {
         "safety": 120,
@@ -1880,10 +1880,10 @@
         "grade": "B"
     },
     "Raceboi95": {
-        "safety": 132,
-        "races": 3,
+        "safety": 137,
+        "races": 4,
         "contacts": 1,
-        "clean_races": 2,
+        "clean_races": 3,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     },

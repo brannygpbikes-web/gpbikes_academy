@@ -12825,6 +12825,15 @@
             "track": "",
             "finish": 1,
             "race_id": "e01e3ec65e955bc360232abc1e9404b5b2764de9b0ec25ebc3a042845f652102"
+        },
+        {
+            "date": "2026-10-19T22:23:04",
+            "elo": 1067,
+            "elo_before": 1068,
+            "change": -1,
+            "track": "",
+            "finish": 2,
+            "race_id": "2b9543117e5fcc49acbc08f4da8edf9cb325d93c360d523f382d3b47f390c021"
         }
     ],
     "jessedollo17": [
@@ -15585,6 +15594,15 @@
             "track": "",
             "finish": 8,
             "race_id": "d1c5b19c34786185eb9df83c72f4a4db76bbe0491ff85a6214eb3ff7b32ef376"
+        },
+        {
+            "date": "2026-10-19T22:23:04",
+            "elo": 978,
+            "elo_before": 982,
+            "change": -4,
+            "track": "",
+            "finish": 3,
+            "race_id": "2b9543117e5fcc49acbc08f4da8edf9cb325d93c360d523f382d3b47f390c021"
         }
     ],
     "Tonton_flingueur": [
@@ -15892,6 +15910,15 @@
             "track": "",
             "finish": 3,
             "race_id": "e01e3ec65e955bc360232abc1e9404b5b2764de9b0ec25ebc3a042845f652102"
+        },
+        {
+            "date": "2026-10-19T22:23:04",
+            "elo": 1008,
+            "elo_before": 1003,
+            "change": 5,
+            "track": "",
+            "finish": 1,
+            "race_id": "2b9543117e5fcc49acbc08f4da8edf9cb325d93c360d523f382d3b47f390c021"
         }
     ],
     "Black $moke": [
