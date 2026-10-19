@@ -6,9 +6,9 @@
         "podiums": 0
     },
     "branny": {
-        "elo": 1137,
+        "elo": 1120,
         "wins": 21,
-        "races": 53,
+        "races": 54,
         "podiums": 32
     },
     "non1nr": {
@@ -30,9 +30,9 @@
         "podiums": 1
     },
     "moe": {
-        "elo": 999,
+        "elo": 1008,
         "wins": 1,
-        "races": 51,
+        "races": 52,
         "podiums": 13
     },
     "jackthebikeguy": {
@@ -96,9 +96,9 @@
         "podiums": 12
     },
     "N1rmata": {
-        "elo": 1126,
+        "elo": 1116,
         "wins": 9,
-        "races": 32,
+        "races": 33,
         "podiums": 17
     },
     "Yung Savade": {
@@ -180,10 +180,10 @@
         "podiums": 40
     },
     "Billy Jones": {
-        "elo": 1151,
-        "wins": 24,
-        "races": 56,
-        "podiums": 41
+        "elo": 1162,
+        "wins": 25,
+        "races": 57,
+        "podiums": 42
     },
     "patrickfaderl98": {
         "elo": 1033,
@@ -210,9 +210,9 @@
         "podiums": 6
     },
     "Lou": {
-        "elo": 1034,
+        "elo": 1024,
         "wins": 1,
-        "races": 23,
+        "races": 24,
         "podiums": 4
     },
     "Riccardo": {
@@ -318,10 +318,10 @@
         "podiums": 0
     },
     "Dario Andreoni": {
-        "elo": 1059,
+        "elo": 1070,
         "wins": 5,
-        "races": 47,
-        "podiums": 22
+        "races": 48,
+        "podiums": 23
     },
     "titonagom08": {
         "elo": 957,
@@ -414,9 +414,9 @@
         "podiums": 3
     },
     "EgoMan": {
-        "elo": 919,
+        "elo": 910,
         "wins": 0,
-        "races": 31,
+        "races": 32,
         "podiums": 0
     },
     "RaK": {
@@ -558,10 +558,10 @@
         "podiums": 0
     },
     "MARCO": {
-        "elo": 1027,
+        "elo": 1041,
         "wins": 2,
-        "races": 12,
-        "podiums": 5
+        "races": 13,
+        "podiums": 6
     },
     "Benji": {
         "elo": 985,
@@ -588,9 +588,9 @@
         "podiums": 0
     },
     "Dani": {
-        "elo": 1083,
+        "elo": 1086,
         "wins": 1,
-        "races": 12,
+        "races": 13,
         "podiums": 4
     },
     "Tonton_flingueur": {
@@ -726,9 +726,9 @@
         "podiums": 8
     },
     "Abraham Avila": {
-        "elo": 955,
+        "elo": 962,
         "wins": 0,
-        "races": 10,
+        "races": 11,
         "podiums": 1
     },
     "moleo": {
@@ -750,9 +750,9 @@
         "podiums": 2
     },
     "pr1c3y": {
-        "elo": 947,
+        "elo": 948,
         "wins": 2,
-        "races": 14,
+        "races": 15,
         "podiums": 4
     },
     "F1and3R5": {
@@ -840,9 +840,9 @@
         "podiums": 8
     },
     "The Gyatt": {
-        "elo": 1036,
+        "elo": 1046,
         "wins": 1,
-        "races": 13,
+        "races": 14,
         "podiums": 6
     },
     "marty_debruyne": {
@@ -1110,9 +1110,9 @@
         "podiums": 2
     },
     "bobr684": {
-        "elo": 1016,
+        "elo": 1001,
         "wins": 0,
-        "races": 3,
+        "races": 4,
         "podiums": 1
     },
     "KOUKAIK2": {
@@ -1164,9 +1164,9 @@
         "podiums": 4
     },
     "Marcus": {
-        "elo": 1061,
+        "elo": 1059,
         "wins": 0,
-        "races": 9,
+        "races": 10,
         "podiums": 1
     },
     "jessedollo17": {
@@ -1441,6 +1441,18 @@
     },
     "LeKiD": {
         "elo": 993,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
+    },
+    "Scottogden19": {
+        "elo": 1003,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
+    },
+    "Julio Abellan": {
+        "elo": 994,
         "wins": 0,
         "races": 1,
         "podiums": 0
