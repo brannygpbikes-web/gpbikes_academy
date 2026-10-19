@@ -935,10 +935,10 @@
         "grade": "A"
     },
     "BNJMN": {
-        "safety": 131,
-        "races": 18,
+        "safety": 136,
+        "races": 19,
         "contacts": 24,
-        "clean_races": 8,
+        "clean_races": 9,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     },
@@ -1824,10 +1824,10 @@
         "grade": "B"
     },
     "Nxndxz": {
-        "safety": 125,
-        "races": 1,
+        "safety": 130,
+        "races": 2,
         "contacts": 0,
-        "clean_races": 1,
+        "clean_races": 2,
         "large_lobby_clean_streak": 1,
         "grade": "B"
     },
@@ -1880,9 +1880,9 @@
         "grade": "B"
     },
     "Raceboi95": {
-        "safety": 135,
-        "races": 1,
-        "contacts": 0,
+        "safety": 127,
+        "races": 2,
+        "contacts": 1,
         "clean_races": 1,
         "large_lobby_clean_streak": 0,
         "grade": "B"
