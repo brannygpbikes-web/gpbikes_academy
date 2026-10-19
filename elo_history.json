@@ -3049,6 +3049,15 @@
             "track": "",
             "finish": 2,
             "race_id": "006ec59157545733d7e1dbc6390282de022f59d7ddac830e7c46d4bcd6a9287d"
+        },
+        {
+            "date": "2026-10-19T16:35:48",
+            "elo": 1079,
+            "elo_before": 1071,
+            "change": 8,
+            "track": "",
+            "finish": 1,
+            "race_id": "8b5e25c4b81f45c235c35b1cb6a72a06cde1b0bc9418d40e1a2690a7aebb9384"
         }
     ],
     "waldodj": [
@@ -5508,6 +5517,15 @@
             "track": "",
             "finish": 7,
             "race_id": "e83df48376bf4ccc0077d8d2e05b4843f48fc661df4cc6df788e8baba51ff986"
+        },
+        {
+            "date": "2026-10-19T16:35:48",
+            "elo": 954,
+            "elo_before": 959,
+            "change": -5,
+            "track": "",
+            "finish": 4,
+            "race_id": "8b5e25c4b81f45c235c35b1cb6a72a06cde1b0bc9418d40e1a2690a7aebb9384"
         }
     ],
     "elchivador": [
@@ -9138,6 +9156,15 @@
             "track": "",
             "finish": 1,
             "race_id": "7cdbca9ce3a225d9c20b41175a2f12df8c5af21bf76ae18dbf4b35092ee76f96"
+        },
+        {
+            "date": "2026-10-19T16:35:48",
+            "elo": 1194,
+            "elo_before": 1195,
+            "change": -1,
+            "track": "",
+            "finish": 2,
+            "race_id": "8b5e25c4b81f45c235c35b1cb6a72a06cde1b0bc9418d40e1a2690a7aebb9384"
         }
     ],
     "Fhalopy": [
@@ -13719,6 +13746,17 @@
             "track": "",
             "finish": 2,
             "race_id": "7cdbca9ce3a225d9c20b41175a2f12df8c5af21bf76ae18dbf4b35092ee76f96"
+        }
+    ],
+    "BNJMN": [
+        {
+            "date": "2026-10-19T16:35:48",
+            "elo": 1040,
+            "elo_before": 1042,
+            "change": -2,
+            "track": "",
+            "finish": 3,
+            "race_id": "8b5e25c4b81f45c235c35b1cb6a72a06cde1b0bc9418d40e1a2690a7aebb9384"
         }
     ]
 }
