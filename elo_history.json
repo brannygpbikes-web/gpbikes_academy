@@ -932,6 +932,15 @@
             "track": "",
             "finish": 3,
             "race_id": "22ea5b1987bfa754cae0e5b863152182cc1581e7e8ddf6dbaaf8a33c3ade1257"
+        },
+        {
+            "date": "2026-10-19T21:20:33",
+            "elo": 1041,
+            "elo_before": 1032,
+            "change": 9,
+            "track": "",
+            "finish": 2,
+            "race_id": "19651945fefe1b30b517ef174b0f17e4b081200ddfc62d38ff804eb68f62a957"
         }
     ],
     "filipknigge20": [
@@ -1240,6 +1249,15 @@
             "track": "",
             "finish": 5,
             "race_id": "22ea5b1987bfa754cae0e5b863152182cc1581e7e8ddf6dbaaf8a33c3ade1257"
+        },
+        {
+            "date": "2026-10-19T21:20:33",
+            "elo": 1178,
+            "elo_before": 1171,
+            "change": 7,
+            "track": "",
+            "finish": 1,
+            "race_id": "19651945fefe1b30b517ef174b0f17e4b081200ddfc62d38ff804eb68f62a957"
         }
     ],
     "Nuno": [
@@ -9623,6 +9641,15 @@
             "track": "",
             "finish": 10,
             "race_id": "22ea5b1987bfa754cae0e5b863152182cc1581e7e8ddf6dbaaf8a33c3ade1257"
+        },
+        {
+            "date": "2026-10-19T21:20:33",
+            "elo": 974,
+            "elo_before": 984,
+            "change": -10,
+            "track": "",
+            "finish": 7,
+            "race_id": "19651945fefe1b30b517ef174b0f17e4b081200ddfc62d38ff804eb68f62a957"
         }
     ],
     "NutriaOscura": [
@@ -12028,6 +12055,15 @@
             "track": "",
             "finish": 4,
             "race_id": "22ea5b1987bfa754cae0e5b863152182cc1581e7e8ddf6dbaaf8a33c3ade1257"
+        },
+        {
+            "date": "2026-10-19T21:20:33",
+            "elo": 997,
+            "elo_before": 1004,
+            "change": -7,
+            "track": "",
+            "finish": 6,
+            "race_id": "19651945fefe1b30b517ef174b0f17e4b081200ddfc62d38ff804eb68f62a957"
         }
     ],
     "Rattapol": [
@@ -14306,6 +14342,15 @@
             "track": "",
             "finish": 12,
             "race_id": "22ea5b1987bfa754cae0e5b863152182cc1581e7e8ddf6dbaaf8a33c3ade1257"
+        },
+        {
+            "date": "2026-10-19T21:20:33",
+            "elo": 913,
+            "elo_before": 911,
+            "change": 2,
+            "track": "",
+            "finish": 5,
+            "race_id": "19651945fefe1b30b517ef174b0f17e4b081200ddfc62d38ff804eb68f62a957"
         }
     ],
     "Matteo 42": [
@@ -14675,6 +14720,15 @@
             "track": "",
             "finish": 16,
             "race_id": "22ea5b1987bfa754cae0e5b863152182cc1581e7e8ddf6dbaaf8a33c3ade1257"
+        },
+        {
+            "date": "2026-10-19T21:20:33",
+            "elo": 960,
+            "elo_before": 973,
+            "change": -13,
+            "track": "",
+            "finish": 8,
+            "race_id": "19651945fefe1b30b517ef174b0f17e4b081200ddfc62d38ff804eb68f62a957"
         }
     ],
     "Maximoquiles28": [
@@ -14886,6 +14940,15 @@
             "track": "",
             "finish": 15,
             "race_id": "8b4e7bdc5c4b598b28845587f5115df82abb0a3bb1059d9b59fe530a003d7f04"
+        },
+        {
+            "date": "2026-10-19T21:20:33",
+            "elo": 892,
+            "elo_before": 885,
+            "change": 7,
+            "track": "",
+            "finish": 4,
+            "race_id": "19651945fefe1b30b517ef174b0f17e4b081200ddfc62d38ff804eb68f62a957"
         }
     ],
     "No Pain No Tartine": [
@@ -15575,6 +15638,15 @@
             "track": "",
             "finish": 6,
             "race_id": "2b60891d2aa996db3ef11203d54e9b7ed90128e949e60da928b8389576bdbec3"
+        },
+        {
+            "date": "2026-10-19T21:20:33",
+            "elo": 1034,
+            "elo_before": 1029,
+            "change": 5,
+            "track": "",
+            "finish": 3,
+            "race_id": "19651945fefe1b30b517ef174b0f17e4b081200ddfc62d38ff804eb68f62a957"
         }
     ],
     "Hook": [

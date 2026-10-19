@@ -124,9 +124,9 @@
     },
     "EgoMan": {
         "safety": 300,
-        "races": 45,
+        "races": 46,
         "contacts": 55,
-        "clean_races": 22,
+        "clean_races": 23,
         "grade": "S",
         "large_lobby_clean_streak": 2
     },
@@ -168,10 +168,10 @@
         "grade": "B"
     },
     "Danny Hinkelmann14": {
-        "safety": 236,
-        "races": 49,
+        "safety": 246,
+        "races": 50,
         "contacts": 58,
-        "clean_races": 26,
+        "clean_races": 27,
         "large_lobby_clean_streak": 5,
         "grade": "A"
     },
@@ -223,10 +223,10 @@
         "grade": "D"
     },
     "filipknigge20": {
-        "safety": 253,
-        "races": 54,
+        "safety": 263,
+        "races": 55,
         "contacts": 61,
-        "clean_races": 23,
+        "clean_races": 24,
         "large_lobby_clean_streak": 2,
         "grade": "A"
     },
@@ -620,10 +620,10 @@
         "grade": "C"
     },
     "jorgeguti160": {
-        "safety": 235,
-        "races": 17,
+        "safety": 245,
+        "races": 18,
         "contacts": 16,
-        "clean_races": 8,
+        "clean_races": 9,
         "large_lobby_clean_streak": 3,
         "grade": "A"
     },
@@ -935,10 +935,10 @@
         "grade": "A"
     },
     "BNJMN": {
-        "safety": 111,
-        "races": 16,
+        "safety": 121,
+        "races": 17,
         "contacts": 24,
-        "clean_races": 6,
+        "clean_races": 7,
         "large_lobby_clean_streak": 0,
         "grade": "C"
     },
@@ -1206,11 +1206,11 @@
         "grade": "B"
     },
     "SeBa_volandO7": {
-        "safety": 143,
-        "races": 3,
-        "contacts": 2,
+        "safety": 137,
+        "races": 4,
+        "contacts": 3,
         "clean_races": 1,
-        "large_lobby_clean_streak": 1,
+        "large_lobby_clean_streak": 0,
         "grade": "B"
     },
     "tekn1ka1": {
@@ -1406,10 +1406,10 @@
         "E": 0
     },
     "CHORIPANZETUDO": {
-        "safety": 145,
-        "races": 7,
+        "safety": 155,
+        "races": 8,
         "contacts": 3,
-        "clean_races": 5,
+        "clean_races": 6,
         "large_lobby_clean_streak": 4,
         "grade": "B"
     },
@@ -1656,11 +1656,11 @@
         "grade": "B"
     },
     "Prove412": {
-        "safety": 210,
-        "races": 5,
-        "contacts": 0,
+        "safety": 204,
+        "races": 6,
+        "contacts": 1,
         "clean_races": 5,
-        "large_lobby_clean_streak": 4,
+        "large_lobby_clean_streak": 0,
         "grade": "A"
     },
     "Maximoquiles28": {
