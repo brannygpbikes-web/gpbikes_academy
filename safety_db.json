@@ -123,12 +123,12 @@
         "grade": "A"
     },
     "EgoMan": {
-        "safety": 218,
-        "races": 39,
+        "safety": 243,
+        "races": 40,
         "contacts": 53,
-        "clean_races": 18,
+        "clean_races": 19,
         "grade": "A",
-        "large_lobby_clean_streak": 5
+        "large_lobby_clean_streak": 6
     },
     "Giancarlos13": {
         "safety": 145,
@@ -184,12 +184,12 @@
         "grade": "B"
     },
     "Lou": {
-        "safety": 154,
-        "races": 14,
+        "safety": 179,
+        "races": 15,
         "contacts": 43,
-        "clean_races": 7,
-        "large_lobby_clean_streak": 4,
-        "grade": "B"
+        "clean_races": 8,
+        "large_lobby_clean_streak": 5,
+        "grade": "A"
     },
     "Sturdy": {
         "safety": 192,
@@ -324,11 +324,11 @@
         "grade": "D"
     },
     "moe": {
-        "safety": 289,
-        "races": 49,
+        "safety": 300,
+        "races": 50,
         "contacts": 42,
-        "clean_races": 27,
-        "large_lobby_clean_streak": 3,
+        "clean_races": 28,
+        "large_lobby_clean_streak": 4,
         "grade": "S"
     },
     "Zachy12345": {
@@ -378,11 +378,11 @@
         "grade": "A"
     },
     "aleso262004": {
-        "safety": 137,
-        "races": 20,
+        "safety": 162,
+        "races": 21,
         "contacts": 44,
-        "clean_races": 9,
-        "large_lobby_clean_streak": 5,
+        "clean_races": 10,
+        "large_lobby_clean_streak": 6,
         "grade": "B"
     },
     "MARCO": {
@@ -394,9 +394,9 @@
         "grade": "D"
     },
     "zrezke": {
-        "safety": 165,
-        "races": 17,
-        "contacts": 19,
+        "safety": 190,
+        "races": 18,
+        "contacts": 20,
         "clean_races": 8,
         "large_lobby_clean_streak": 0,
         "grade": "A"
@@ -440,11 +440,11 @@
         "grade": "D"
     },
     "Rayo__Wombat": {
-        "safety": 167,
-        "races": 33,
-        "contacts": 46,
+        "safety": 192,
+        "races": 34,
+        "contacts": 47,
         "clean_races": 13,
-        "large_lobby_clean_streak": 2,
+        "large_lobby_clean_streak": 0,
         "grade": "A"
     },
     "Ricoway46": {
@@ -456,28 +456,28 @@
         "grade": "A"
     },
     "Tardos37Racing": {
-        "safety": 178,
-        "races": 6,
+        "safety": 203,
+        "races": 7,
         "contacts": 5,
-        "clean_races": 3,
+        "clean_races": 4,
         "grade": "A",
-        "large_lobby_clean_streak": 0
+        "large_lobby_clean_streak": 1
     },
     "Benji": {
-        "safety": 119,
-        "races": 7,
-        "contacts": 12,
+        "safety": 144,
+        "races": 8,
+        "contacts": 13,
         "clean_races": 2,
-        "grade": "C",
+        "grade": "B",
         "large_lobby_clean_streak": 0
     },
     "Dani": {
-        "safety": 63,
-        "races": 11,
+        "safety": 88,
+        "races": 12,
         "contacts": 27,
-        "clean_races": 2,
-        "grade": "E",
-        "large_lobby_clean_streak": 1
+        "clean_races": 3,
+        "grade": "D",
+        "large_lobby_clean_streak": 2
     },
     "21vitalio": {
         "safety": 105,
@@ -541,11 +541,11 @@
         "grade": "C"
     },
     "Dario Andreoni": {
-        "safety": 275,
-        "races": 41,
+        "safety": 300,
+        "races": 42,
         "contacts": 32,
-        "clean_races": 24,
-        "large_lobby_clean_streak": 6,
+        "clean_races": 25,
+        "large_lobby_clean_streak": 7,
         "grade": "S"
     },
     "Kubon": {
@@ -588,11 +588,11 @@
         "grade": "A"
     },
     "N1rmata": {
-        "safety": 177,
-        "races": 28,
+        "safety": 202,
+        "races": 29,
         "contacts": 56,
-        "clean_races": 12,
-        "large_lobby_clean_streak": 0,
+        "clean_races": 13,
+        "large_lobby_clean_streak": 1,
         "grade": "A"
     },
     "JKR": {
@@ -620,11 +620,11 @@
         "grade": "C"
     },
     "jorgeguti160": {
-        "safety": 210,
-        "races": 16,
+        "safety": 235,
+        "races": 17,
         "contacts": 16,
-        "clean_races": 7,
-        "large_lobby_clean_streak": 2,
+        "clean_races": 8,
+        "large_lobby_clean_streak": 3,
         "grade": "A"
     },
     "niggaboy#46": {
@@ -686,11 +686,11 @@
         "grade": "B"
     },
     "tacticworks": {
-        "safety": 137,
-        "races": 27,
+        "safety": 162,
+        "races": 28,
         "contacts": 32,
-        "clean_races": 12,
-        "large_lobby_clean_streak": 5,
+        "clean_races": 13,
+        "large_lobby_clean_streak": 6,
         "grade": "B"
     },
     "troyalberto9": {
@@ -710,11 +710,11 @@
         "grade": "A"
     },
     "Abraham Avila": {
-        "safety": 174,
-        "races": 12,
+        "safety": 199,
+        "races": 13,
         "contacts": 11,
-        "clean_races": 9,
-        "large_lobby_clean_streak": 5,
+        "clean_races": 10,
+        "large_lobby_clean_streak": 6,
         "grade": "A"
     },
     "titonagom08": {
@@ -975,10 +975,10 @@
     },
     "Billy Jones": {
         "safety": 300,
-        "races": 51,
+        "races": 52,
         "contacts": 44,
-        "clean_races": 32,
-        "large_lobby_clean_streak": 3,
+        "clean_races": 33,
+        "large_lobby_clean_streak": 4,
         "grade": "S"
     },
     "Quidel Gaétan": {
@@ -998,11 +998,11 @@
         "grade": "C"
     },
     "The Gyatt": {
-        "safety": 229,
-        "races": 7,
-        "contacts": 2,
+        "safety": 225,
+        "races": 8,
+        "contacts": 4,
         "clean_races": 5,
-        "large_lobby_clean_streak": 2,
+        "large_lobby_clean_streak": 0,
         "grade": "A"
     },
     "Spud": {
@@ -1342,12 +1342,12 @@
         "grade": "D"
     },
     "Spr0cket": {
-        "safety": 94,
-        "races": 9,
+        "safety": 119,
+        "races": 10,
         "contacts": 31,
-        "clean_races": 2,
-        "large_lobby_clean_streak": 1,
-        "grade": "D"
+        "clean_races": 3,
+        "large_lobby_clean_streak": 2,
+        "grade": "C"
     },
     "Metadonajack": {
         "safety": 111,
@@ -1528,12 +1528,12 @@
         "grade": "A"
     },
     "Sergi04ab": {
-        "safety": 62,
-        "races": 18,
+        "safety": 87,
+        "races": 19,
         "contacts": 33,
-        "clean_races": 6,
-        "large_lobby_clean_streak": 4,
-        "grade": "E"
+        "clean_races": 7,
+        "large_lobby_clean_streak": 5,
+        "grade": "D"
     },
     "SleppyGame23": {
         "safety": 168,
