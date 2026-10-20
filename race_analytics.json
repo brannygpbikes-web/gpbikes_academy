@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-19T22:24:12.255348+00:00",
+  "generated_at": "2026-10-20T16:38:48.054229+00:00",
   "summary": {
-    "unique_races": 90,
+    "unique_races": 91,
     "unique_riders": 126,
     "duplicates_skipped": 0,
-    "invalid_files_skipped": 21,
+    "invalid_files_skipped": 24,
     "tracks": [
       "Autodromo do Algarve v2.0",
       "Automotodrom Brno v1.0a",
@@ -1491,6 +1491,103 @@
       }
     },
     {
+      "guid": "FF0110000100F622BC",
+      "name": "moe",
+      "races": 13,
+      "wins": 1,
+      "podiums": 1,
+      "win_rate": 7.7,
+      "podium_rate": 7.7,
+      "average_finish": 7.154,
+      "average_start": 9.615,
+      "average_positions_gained": 2.462,
+      "best_finish": 1,
+      "best_recorded_lap": 90.678329,
+      "average_gap_percent": 5.057,
+      "contacts": 5,
+      "contacts_per_race": 0.385,
+      "clean_races": 10,
+      "clean_race_percent": 76.9,
+      "worst_contact_severity": 11.378,
+      "tracks": {
+        "Automotodrom Brno v1.0a": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 10,
+          "contacts": 0,
+          "clean_race_percent": 100.0
+        },
+        "Circuit of the Americas v.1.2": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 4,
+          "contacts": 0,
+          "clean_race_percent": 100.0
+        },
+        "Twin Ring Motegi - GP Layout": {
+          "races": 2,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 5,
+          "contacts": 0,
+          "clean_race_percent": 100.0
+        },
+        "Circuito de Jerez v2.1": {
+          "races": 3,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 7.333,
+          "contacts": 2,
+          "clean_race_percent": 33.3
+        },
+        "Circuit de Catalunya - 2021 v1.0b": {
+          "races": 3,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 9,
+          "contacts": 3,
+          "clean_race_percent": 66.7
+        },
+        "Phillip Island Circuit v1.0": {
+          "races": 3,
+          "wins": 1,
+          "podiums": 1,
+          "average_finish": 6.667,
+          "contacts": 0,
+          "clean_race_percent": 100.0
+        }
+      },
+      "bikes": {
+        "Ducati Motorcorsa Racing": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0
+        },
+        "Honda CBR600RR": {
+          "races": 4,
+          "wins": 1,
+          "podiums": 1
+        },
+        "BOSCOSCURO SC": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0
+        },
+        "KALEX Akrapovic 1": {
+          "races": 2,
+          "wins": 0,
+          "podiums": 0
+        },
+        "FORWARD": {
+          "races": 5,
+          "wins": 0,
+          "podiums": 0
+        }
+      }
+    },
+    {
       "guid": "FF011000013C58BECA",
       "name": "Nuno",
       "races": 13,
@@ -1964,103 +2061,6 @@
           "podiums": 2
         },
         "BOSCOSCURO AKRA": {
-          "races": 5,
-          "wins": 0,
-          "podiums": 0
-        }
-      }
-    },
-    {
-      "guid": "FF0110000100F622BC",
-      "name": "moe",
-      "races": 12,
-      "wins": 0,
-      "podiums": 0,
-      "win_rate": 0.0,
-      "podium_rate": 0.0,
-      "average_finish": 7.667,
-      "average_start": 10.333,
-      "average_positions_gained": 2.667,
-      "best_finish": 4,
-      "best_recorded_lap": 90.678329,
-      "average_gap_percent": 5.563,
-      "contacts": 5,
-      "contacts_per_race": 0.417,
-      "clean_races": 9,
-      "clean_race_percent": 75.0,
-      "worst_contact_severity": 11.378,
-      "tracks": {
-        "Automotodrom Brno v1.0a": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0,
-          "average_finish": 10,
-          "contacts": 0,
-          "clean_race_percent": 100.0
-        },
-        "Circuit of the Americas v.1.2": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0,
-          "average_finish": 4,
-          "contacts": 0,
-          "clean_race_percent": 100.0
-        },
-        "Twin Ring Motegi - GP Layout": {
-          "races": 2,
-          "wins": 0,
-          "podiums": 0,
-          "average_finish": 5,
-          "contacts": 0,
-          "clean_race_percent": 100.0
-        },
-        "Circuito de Jerez v2.1": {
-          "races": 3,
-          "wins": 0,
-          "podiums": 0,
-          "average_finish": 7.333,
-          "contacts": 2,
-          "clean_race_percent": 33.3
-        },
-        "Circuit de Catalunya - 2021 v1.0b": {
-          "races": 3,
-          "wins": 0,
-          "podiums": 0,
-          "average_finish": 9,
-          "contacts": 3,
-          "clean_race_percent": 66.7
-        },
-        "Phillip Island Circuit v1.0": {
-          "races": 2,
-          "wins": 0,
-          "podiums": 0,
-          "average_finish": 9.5,
-          "contacts": 0,
-          "clean_race_percent": 100.0
-        }
-      },
-      "bikes": {
-        "Ducati Motorcorsa Racing": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0
-        },
-        "Honda CBR600RR": {
-          "races": 3,
-          "wins": 0,
-          "podiums": 0
-        },
-        "BOSCOSCURO SC": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0
-        },
-        "KALEX Akrapovic 1": {
-          "races": 2,
-          "wins": 0,
-          "podiums": 0
-        },
-        "FORWARD": {
           "races": 5,
           "wins": 0,
           "podiums": 0
@@ -6027,6 +6027,56 @@
       }
     },
     {
+      "guid": "FF011000011B112290",
+      "name": "Nxndxz",
+      "races": 3,
+      "wins": 0,
+      "podiums": 2,
+      "win_rate": 0.0,
+      "podium_rate": 66.7,
+      "average_finish": 6,
+      "average_start": 5.667,
+      "average_positions_gained": -0.333,
+      "best_finish": 2,
+      "best_recorded_lap": 100.233856,
+      "average_gap_percent": 6.547,
+      "contacts": 0,
+      "contacts_per_race": 0.0,
+      "clean_races": 3,
+      "clean_race_percent": 100.0,
+      "worst_contact_severity": null,
+      "tracks": {
+        "Circuito de Jerez v2.1": {
+          "races": 2,
+          "wins": 0,
+          "podiums": 1,
+          "average_finish": 8,
+          "contacts": 0,
+          "clean_race_percent": 100.0
+        },
+        "Phillip Island Circuit v1.0": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 1,
+          "average_finish": 2,
+          "contacts": 0,
+          "clean_race_percent": 100.0
+        }
+      },
+      "bikes": {
+        "FORWARD": {
+          "races": 2,
+          "wins": 0,
+          "podiums": 1
+        },
+        "Honda CBR600RR": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 1
+        }
+      }
+    },
+    {
       "guid": "FF011000012AE8FFE9",
       "name": "Outrunning Child Support",
       "races": 3,
@@ -6808,43 +6858,6 @@
           "races": 2,
           "wins": 0,
           "podiums": 0
-        }
-      }
-    },
-    {
-      "guid": "FF011000011B112290",
-      "name": "Nxndxz",
-      "races": 2,
-      "wins": 0,
-      "podiums": 1,
-      "win_rate": 0.0,
-      "podium_rate": 50.0,
-      "average_finish": 8,
-      "average_start": 7.5,
-      "average_positions_gained": -0.5,
-      "best_finish": 3,
-      "best_recorded_lap": null,
-      "average_gap_percent": null,
-      "contacts": 0,
-      "contacts_per_race": 0.0,
-      "clean_races": 2,
-      "clean_race_percent": 100.0,
-      "worst_contact_severity": null,
-      "tracks": {
-        "Circuito de Jerez v2.1": {
-          "races": 2,
-          "wins": 0,
-          "podiums": 1,
-          "average_finish": 8,
-          "contacts": 0,
-          "clean_race_percent": 100.0
-        }
-      },
-      "bikes": {
-        "FORWARD": {
-          "races": 2,
-          "wins": 0,
-          "podiums": 1
         }
       }
     },
@@ -32264,6 +32277,75 @@
           "severity": 2.937
         }
       ]
+    },
+    {
+      "source_file": "20261020-151019-Phillip Island Circuit v1.0.xml",
+      "event_timestamp": 1792509019,
+      "date": "2026-10-20T15:10:19+00:00",
+      "event_type": "Race",
+      "track": "Phillip Island Circuit v1.0",
+      "track_id": "Phillip Island Circuit v1.0",
+      "track_length_m": 4444.890137,
+      "scheduled_laps": 4,
+      "field_size": 2,
+      "contact_events": 0,
+      "riders": [
+        {
+          "race_num": "41",
+          "name": "moe",
+          "bike": "Honda CBR600RR",
+          "category": "WSSP 24 V0.6",
+          "guid": "FF0110000100F622BC",
+          "qualifying_position": 1,
+          "qualifying_time": 92.92569,
+          "start_position": 1,
+          "finish_position": 1,
+          "positions_gained": 0,
+          "race_time": 427.196045,
+          "laps_completed": 4,
+          "gap_seconds": 0.0,
+          "gap_percent": 0.0,
+          "penalty": 0.0,
+          "fastest_lap": 92.30867,
+          "fastest_lap_number": 3,
+          "speed": 75.62719,
+          "valid_timed_laps": 4,
+          "average_lap": 106.794,
+          "median_lap": 100.476,
+          "lap_consistency_stdev": 16.626,
+          "contacts": 0,
+          "max_contact_severity": null,
+          "average_contact_severity": null
+        },
+        {
+          "race_num": "18",
+          "name": "Nxndxz",
+          "bike": "Honda CBR600RR",
+          "category": "WSSP 24 V0.6",
+          "guid": "FF011000011B112290",
+          "qualifying_position": 2,
+          "qualifying_time": null,
+          "start_position": 2,
+          "finish_position": 2,
+          "positions_gained": 0,
+          "race_time": 455.163757,
+          "laps_completed": 4,
+          "gap_seconds": 27.967712,
+          "gap_percent": 6.5468,
+          "penalty": 0.0,
+          "fastest_lap": 100.233856,
+          "fastest_lap_number": 4,
+          "speed": 71.217155,
+          "valid_timed_laps": 4,
+          "average_lap": 113.786,
+          "median_lap": 103.179,
+          "lap_consistency_stdev": 20.196,
+          "contacts": 0,
+          "max_contact_severity": null,
+          "average_contact_severity": null
+        }
+      ],
+      "contacts": []
     }
   ]
 }
