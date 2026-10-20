@@ -174,10 +174,10 @@
         "podiums": 16
     },
     "filipknigge20": {
-        "elo": 1178,
-        "wins": 19,
-        "races": 63,
-        "podiums": 43
+        "elo": 1182,
+        "wins": 20,
+        "races": 64,
+        "podiums": 44
     },
     "Billy Jones": {
         "elo": 1164,
@@ -192,10 +192,10 @@
         "podiums": 15
     },
     "Danny Hinkelmann14": {
-        "elo": 1068,
+        "elo": 1067,
         "wins": 6,
-        "races": 58,
-        "podiums": 19
+        "races": 59,
+        "podiums": 20
     },
     "Santos47": {
         "elo": 1033,
@@ -366,10 +366,10 @@
         "podiums": 1
     },
     "Dimitry": {
-        "elo": 965,
+        "elo": 970,
         "wins": 0,
-        "races": 25,
-        "podiums": 3
+        "races": 26,
+        "podiums": 4
     },
     "Wally": {
         "elo": 1039,
@@ -414,9 +414,9 @@
         "podiums": 3
     },
     "EgoMan": {
-        "elo": 914,
+        "elo": 909,
         "wins": 0,
-        "races": 37,
+        "races": 38,
         "podiums": 0
     },
     "RaK": {
@@ -1495,6 +1495,12 @@
     },
     "mend": {
         "elo": 1001,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
+    },
+    "k dizzmeister": {
+        "elo": 997,
         "wins": 0,
         "races": 1,
         "podiums": 0

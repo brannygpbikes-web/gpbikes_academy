@@ -124,9 +124,9 @@
     },
     "EgoMan": {
         "safety": 300,
-        "races": 47,
+        "races": 48,
         "contacts": 55,
-        "clean_races": 24,
+        "clean_races": 25,
         "grade": "S",
         "large_lobby_clean_streak": 2
     },
@@ -168,10 +168,10 @@
         "grade": "B"
     },
     "Danny Hinkelmann14": {
-        "safety": 286,
-        "races": 54,
+        "safety": 291,
+        "races": 55,
         "contacts": 58,
-        "clean_races": 31,
+        "clean_races": 32,
         "large_lobby_clean_streak": 5,
         "grade": "S"
     },
@@ -223,10 +223,10 @@
         "grade": "D"
     },
     "filipknigge20": {
-        "safety": 283,
-        "races": 57,
+        "safety": 288,
+        "races": 58,
         "contacts": 61,
-        "clean_races": 26,
+        "clean_races": 27,
         "large_lobby_clean_streak": 2,
         "grade": "S"
     },
@@ -881,10 +881,10 @@
         "large_lobby_clean_streak": 3
     },
     "Dimitry": {
-        "safety": 126,
-        "races": 28,
+        "safety": 131,
+        "races": 29,
         "contacts": 43,
-        "clean_races": 11,
+        "clean_races": 12,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     },
@@ -1905,6 +1905,14 @@
     },
     "mend": {
         "safety": 135,
+        "races": 1,
+        "contacts": 0,
+        "clean_races": 1,
+        "large_lobby_clean_streak": 0,
+        "grade": "B"
+    },
+    "k dizzmeister": {
+        "safety": 130,
         "races": 1,
         "contacts": 0,
         "clean_races": 1,
