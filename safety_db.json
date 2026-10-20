@@ -115,12 +115,12 @@
         "grade": "A"
     },
     "Simone Ghilardini": {
-        "safety": 181,
-        "races": 53,
-        "contacts": 61,
+        "safety": 146,
+        "races": 54,
+        "contacts": 66,
         "clean_races": 26,
-        "large_lobby_clean_streak": 1,
-        "grade": "A"
+        "large_lobby_clean_streak": 0,
+        "grade": "B"
     },
     "EgoMan": {
         "safety": 300,
@@ -168,10 +168,10 @@
         "grade": "B"
     },
     "Danny Hinkelmann14": {
-        "safety": 266,
-        "races": 52,
+        "safety": 276,
+        "races": 53,
         "contacts": 58,
-        "clean_races": 29,
+        "clean_races": 30,
         "large_lobby_clean_streak": 5,
         "grade": "S"
     },
@@ -239,10 +239,10 @@
         "large_lobby_clean_streak": 1
     },
     "Carrasco": {
-        "safety": 216,
-        "races": 36,
+        "safety": 226,
+        "races": 37,
         "contacts": 57,
-        "clean_races": 12,
+        "clean_races": 13,
         "large_lobby_clean_streak": 0,
         "grade": "A"
     },
@@ -727,9 +727,9 @@
     },
     "moleo": {
         "safety": 300,
-        "races": 50,
+        "races": 51,
         "contacts": 42,
-        "clean_races": 28,
+        "clean_races": 29,
         "large_lobby_clean_streak": 0,
         "grade": "S"
     },
@@ -881,10 +881,10 @@
         "large_lobby_clean_streak": 3
     },
     "Dimitry": {
-        "safety": 128,
-        "races": 26,
+        "safety": 138,
+        "races": 27,
         "contacts": 41,
-        "clean_races": 10,
+        "clean_races": 11,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     },
@@ -1342,10 +1342,10 @@
         "grade": "D"
     },
     "Spr0cket": {
-        "safety": 129,
-        "races": 11,
+        "safety": 139,
+        "races": 12,
         "contacts": 31,
-        "clean_races": 4,
+        "clean_races": 5,
         "large_lobby_clean_streak": 2,
         "grade": "B"
     },
@@ -1792,10 +1792,10 @@
         "grade": "B"
     },
     "Dezmo": {
-        "safety": 180,
-        "races": 7,
+        "safety": 190,
+        "races": 8,
         "contacts": 0,
-        "clean_races": 7,
+        "clean_races": 8,
         "large_lobby_clean_streak": 0,
         "grade": "A"
     },

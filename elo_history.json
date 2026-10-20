@@ -386,6 +386,15 @@
             "track": "",
             "finish": 2,
             "race_id": "beb86bed1d52b1f4e283ae349aeb333df7d1c016f59be0643b196b3f276ccd0c"
+        },
+        {
+            "date": "2026-10-20T20:48:24",
+            "elo": 1215,
+            "elo_before": 1210,
+            "change": 5,
+            "track": "",
+            "finish": 1,
+            "race_id": "3e5afce5e39267f5db4a17eab85da780184ffbe85522f391228180906611b199"
         }
     ],
     "patrickfaderl98": [
@@ -986,6 +995,15 @@
             "track": "",
             "finish": 1,
             "race_id": "beb86bed1d52b1f4e283ae349aeb333df7d1c016f59be0643b196b3f276ccd0c"
+        },
+        {
+            "date": "2026-10-20T20:48:24",
+            "elo": 1057,
+            "elo_before": 1051,
+            "change": 6,
+            "track": "",
+            "finish": 2,
+            "race_id": "3e5afce5e39267f5db4a17eab85da780184ffbe85522f391228180906611b199"
         }
     ],
     "filipknigge20": [
@@ -2841,6 +2859,15 @@
             "track": "",
             "finish": 9,
             "race_id": "969edd67dbbda6ebae6c8253d33779f6358a4bd7b3b6b6fec358b8917b898f62"
+        },
+        {
+            "date": "2026-10-20T20:48:24",
+            "elo": 988,
+            "elo_before": 993,
+            "change": -5,
+            "track": "",
+            "finish": 5,
+            "race_id": "3e5afce5e39267f5db4a17eab85da780184ffbe85522f391228180906611b199"
         }
     ],
     "Lou": [
@@ -11521,6 +11548,15 @@
             "track": "",
             "finish": 5,
             "race_id": "e803d1e68567e978ee87af86e160449fc8c8470c2002967c60e507c73d6b42e3"
+        },
+        {
+            "date": "2026-10-20T20:48:24",
+            "elo": 985,
+            "elo_before": 995,
+            "change": -10,
+            "track": "",
+            "finish": 6,
+            "race_id": "3e5afce5e39267f5db4a17eab85da780184ffbe85522f391228180906611b199"
         }
     ],
     "Pylote": [
@@ -11810,6 +11846,15 @@
             "track": "",
             "finish": 3,
             "race_id": "beb86bed1d52b1f4e283ae349aeb333df7d1c016f59be0643b196b3f276ccd0c"
+        },
+        {
+            "date": "2026-10-20T20:48:24",
+            "elo": 972,
+            "elo_before": 967,
+            "change": 5,
+            "track": "",
+            "finish": 3,
+            "race_id": "3e5afce5e39267f5db4a17eab85da780184ffbe85522f391228180906611b199"
         }
     ],
     "Metadonajack": [
@@ -15931,6 +15976,15 @@
             "track": "",
             "finish": 4,
             "race_id": "beb86bed1d52b1f4e283ae349aeb333df7d1c016f59be0643b196b3f276ccd0c"
+        },
+        {
+            "date": "2026-10-20T20:48:24",
+            "elo": 997,
+            "elo_before": 998,
+            "change": -1,
+            "track": "",
+            "finish": 4,
+            "race_id": "3e5afce5e39267f5db4a17eab85da780184ffbe85522f391228180906611b199"
         }
     ],
     "oliver": [
