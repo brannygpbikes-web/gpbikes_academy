@@ -3490,6 +3490,15 @@
             "track": "",
             "finish": 3,
             "race_id": "c84f39a4d4fb19157db8477f218ace22c18bb4bbc7955493a2a15ca31167d706"
+        },
+        {
+            "date": "2026-10-20T19:20:30",
+            "elo": 1074,
+            "elo_before": 1070,
+            "change": 4,
+            "track": "",
+            "finish": 1,
+            "race_id": "d1757376f89ecc14c42a2e9cd5496dea520938fa2f5c1a8a86cb63605ee37fd7"
         }
     ],
     "waldodj": [
@@ -10438,6 +10447,15 @@
             "track": "",
             "finish": 10,
             "race_id": "2a475c806fd23233ba067edfc48a1d5297d7251c4474cdbb4d78a05f86bed6e5"
+        },
+        {
+            "date": "2026-10-20T19:20:30",
+            "elo": 1091,
+            "elo_before": 1092,
+            "change": -1,
+            "track": "",
+            "finish": 2,
+            "race_id": "d1757376f89ecc14c42a2e9cd5496dea520938fa2f5c1a8a86cb63605ee37fd7"
         }
     ],
     "J_44": [
@@ -11789,6 +11807,15 @@
             "track": "",
             "finish": 14,
             "race_id": "8b4e7bdc5c4b598b28845587f5115df82abb0a3bb1059d9b59fe530a003d7f04"
+        },
+        {
+            "date": "2026-10-20T19:20:30",
+            "elo": 894,
+            "elo_before": 897,
+            "change": -3,
+            "track": "",
+            "finish": 3,
+            "race_id": "d1757376f89ecc14c42a2e9cd5496dea520938fa2f5c1a8a86cb63605ee37fd7"
         }
     ],
     "Wally": [

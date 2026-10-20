@@ -394,10 +394,10 @@
         "grade": "B"
     },
     "zrezke": {
-        "safety": 215,
-        "races": 19,
+        "safety": 220,
+        "races": 20,
         "contacts": 20,
-        "clean_races": 9,
+        "clean_races": 10,
         "large_lobby_clean_streak": 1,
         "grade": "A"
     },
@@ -448,10 +448,10 @@
         "grade": "A"
     },
     "Ricoway46": {
-        "safety": 210,
-        "races": 28,
+        "safety": 215,
+        "races": 29,
         "contacts": 44,
-        "clean_races": 9,
+        "clean_races": 10,
         "large_lobby_clean_streak": 0,
         "grade": "A"
     },
@@ -542,9 +542,9 @@
     },
     "Dario Andreoni": {
         "safety": 300,
-        "races": 44,
+        "races": 45,
         "contacts": 32,
-        "clean_races": 27,
+        "clean_races": 28,
         "large_lobby_clean_streak": 9,
         "grade": "S"
     },
