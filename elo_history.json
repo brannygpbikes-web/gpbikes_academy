@@ -8366,6 +8366,15 @@
             "track": "",
             "finish": 13,
             "race_id": "e40522a8ad4c323165832d20b76e562cf1f897aed354ab30a0facbc3854d923c"
+        },
+        {
+            "date": "2026-10-20T15:10:19",
+            "elo": 998,
+            "elo_before": 993,
+            "change": 5,
+            "track": "",
+            "finish": 1,
+            "race_id": "d7d538e5567163f4279544ab4f6d149a1246c49117231c07832afbd6c9a0e43d"
         }
     ],
     "pableko": [
@@ -15806,6 +15815,15 @@
             "track": "",
             "finish": 3,
             "race_id": "27c35ba72b7189e5869f0044e978f52d28aac44cce5dabc01f7b9a2c91e10723"
+        },
+        {
+            "date": "2026-10-20T15:10:19",
+            "elo": 978,
+            "elo_before": 983,
+            "change": -5,
+            "track": "",
+            "finish": 2,
+            "race_id": "d7d538e5567163f4279544ab4f6d149a1246c49117231c07832afbd6c9a0e43d"
         }
     ],
     "mrarcin": [

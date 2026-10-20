@@ -324,10 +324,10 @@
         "grade": "D"
     },
     "moe": {
-        "safety": 285,
-        "races": 53,
+        "safety": 290,
+        "races": 54,
         "contacts": 46,
-        "clean_races": 29,
+        "clean_races": 30,
         "large_lobby_clean_streak": 0,
         "grade": "S"
     },
@@ -1824,10 +1824,10 @@
         "grade": "B"
     },
     "Nxndxz": {
-        "safety": 130,
-        "races": 2,
+        "safety": 135,
+        "races": 3,
         "contacts": 0,
-        "clean_races": 2,
+        "clean_races": 3,
         "large_lobby_clean_streak": 1,
         "grade": "B"
     },
