@@ -1530,6 +1530,15 @@
             "track": "",
             "finish": 2,
             "race_id": "db3a990732363f8b04f609f922d74ddba7fa6e33f8600338149ff9096bb1739d"
+        },
+        {
+            "date": "2026-10-20T18:24:09",
+            "elo": 1094,
+            "elo_before": 1092,
+            "change": 2,
+            "track": "",
+            "finish": 2,
+            "race_id": "b8ae723576a0688312168730a26f41d82486857be15df4447c49624b622b449f"
         }
     ],
     "sbara": [
@@ -1927,6 +1936,15 @@
             "track": "",
             "finish": 3,
             "race_id": "8089df21da5a878382f697c9f293a2024f7808e1a46c49657b5654bb3daa9263"
+        },
+        {
+            "date": "2026-10-20T18:24:09",
+            "elo": 1026,
+            "elo_before": 1026,
+            "change": 0,
+            "track": "",
+            "finish": 3,
+            "race_id": "b8ae723576a0688312168730a26f41d82486857be15df4447c49624b622b449f"
         }
     ],
     "Hopperle#12": [
@@ -8375,6 +8393,15 @@
             "track": "",
             "finish": 1,
             "race_id": "d7d538e5567163f4279544ab4f6d149a1246c49117231c07832afbd6c9a0e43d"
+        },
+        {
+            "date": "2026-10-20T18:24:09",
+            "elo": 995,
+            "elo_before": 998,
+            "change": -3,
+            "track": "",
+            "finish": 4,
+            "race_id": "b8ae723576a0688312168730a26f41d82486857be15df4447c49624b622b449f"
         }
     ],
     "pableko": [
@@ -9854,6 +9881,15 @@
             "track": "",
             "finish": 8,
             "race_id": "7ea4aec29a730a73b513c90ffe4e892c9d08e10caa52e663d718dd206b99cbf2"
+        },
+        {
+            "date": "2026-10-20T18:24:09",
+            "elo": 1040,
+            "elo_before": 1032,
+            "change": 8,
+            "track": "",
+            "finish": 1,
+            "race_id": "b8ae723576a0688312168730a26f41d82486857be15df4447c49624b622b449f"
         }
     ],
     "Lucce39": [
@@ -15661,6 +15697,15 @@
             "track": "",
             "finish": 4,
             "race_id": "76b9c89b290b45183495f5dec0dbea3cde636d633021e1d1a35226880c87ed37"
+        },
+        {
+            "date": "2026-10-20T18:24:09",
+            "elo": 986,
+            "elo_before": 993,
+            "change": -7,
+            "track": "",
+            "finish": 5,
+            "race_id": "b8ae723576a0688312168730a26f41d82486857be15df4447c49624b622b449f"
         }
     ],
     "oliver": [

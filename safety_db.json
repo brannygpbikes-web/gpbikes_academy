@@ -324,10 +324,10 @@
         "grade": "D"
     },
     "moe": {
-        "safety": 290,
-        "races": 54,
+        "safety": 295,
+        "races": 55,
         "contacts": 46,
-        "clean_races": 30,
+        "clean_races": 31,
         "large_lobby_clean_streak": 0,
         "grade": "S"
     },
@@ -564,10 +564,10 @@
         "grade": "B"
     },
     "Nuno": {
-        "safety": 189,
-        "races": 42,
+        "safety": 194,
+        "races": 43,
         "contacts": 42,
-        "clean_races": 20,
+        "clean_races": 21,
         "large_lobby_clean_streak": 0,
         "grade": "A"
     },
@@ -779,12 +779,12 @@
         "grade": "A"
     },
     "Damien VTEC [TRC]": {
-        "safety": 98,
-        "races": 16,
+        "safety": 103,
+        "races": 17,
         "contacts": 20,
-        "clean_races": 6,
+        "clean_races": 7,
         "large_lobby_clean_streak": 0,
-        "grade": "D"
+        "grade": "C"
     },
     "Gonzalo Molina": {
         "safety": 300,
@@ -1230,10 +1230,10 @@
         "grade": "B"
     },
     "Outrunning Child Support": {
-        "safety": 143,
-        "races": 16,
+        "safety": 148,
+        "races": 17,
         "contacts": 26,
-        "clean_races": 7,
+        "clean_races": 8,
         "large_lobby_clean_streak": 2,
         "grade": "B"
     },
@@ -1792,10 +1792,10 @@
         "grade": "C"
     },
     "Dezmo": {
-        "safety": 145,
-        "races": 3,
+        "safety": 150,
+        "races": 4,
         "contacts": 0,
-        "clean_races": 3,
+        "clean_races": 4,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     },
