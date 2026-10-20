@@ -1031,6 +1031,15 @@
             "track": "",
             "finish": 3,
             "race_id": "578a5f80d359204e5dbd8e171b12e9ac68daab89d468fe8fdca66c1dabc2813c"
+        },
+        {
+            "date": "2026-10-20T21:35:11",
+            "elo": 1059,
+            "elo_before": 1067,
+            "change": -8,
+            "track": "",
+            "finish": 4,
+            "race_id": "070de2e6ca82619c2afa30371bb317ef3bd798c4338f99abbc63c1d0fd202421"
         }
     ],
     "filipknigge20": [
@@ -1375,6 +1384,15 @@
             "track": "",
             "finish": 1,
             "race_id": "578a5f80d359204e5dbd8e171b12e9ac68daab89d468fe8fdca66c1dabc2813c"
+        },
+        {
+            "date": "2026-10-20T21:35:11",
+            "elo": 1187,
+            "elo_before": 1182,
+            "change": 5,
+            "track": "",
+            "finish": 1,
+            "race_id": "070de2e6ca82619c2afa30371bb317ef3bd798c4338f99abbc63c1d0fd202421"
         }
     ],
     "Nuno": [
@@ -6607,6 +6625,15 @@
             "track": "",
             "finish": 2,
             "race_id": "578a5f80d359204e5dbd8e171b12e9ac68daab89d468fe8fdca66c1dabc2813c"
+        },
+        {
+            "date": "2026-10-20T21:35:11",
+            "elo": 970,
+            "elo_before": 970,
+            "change": 0,
+            "track": "",
+            "finish": 3,
+            "race_id": "070de2e6ca82619c2afa30371bb317ef3bd798c4338f99abbc63c1d0fd202421"
         }
     ],
     "Rayo__Wombat": [
@@ -7939,6 +7966,15 @@
             "track": "",
             "finish": 2,
             "race_id": "5c9e2535811626c6a12a33431eb8af4a005509e456830b285478f7f11588e122"
+        },
+        {
+            "date": "2026-10-20T21:35:11",
+            "elo": 1058,
+            "elo_before": 1055,
+            "change": 3,
+            "track": "",
+            "finish": 2,
+            "race_id": "070de2e6ca82619c2afa30371bb317ef3bd798c4338f99abbc63c1d0fd202421"
         }
     ],
     "Billy Jones": [
