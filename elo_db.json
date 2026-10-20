@@ -90,9 +90,9 @@
         "podiums": 0
     },
     "tacticworks": {
-        "elo": 1030,
+        "elo": 1027,
         "wins": 0,
-        "races": 34,
+        "races": 35,
         "podiums": 12
     },
     "N1rmata": {
@@ -192,10 +192,10 @@
         "podiums": 15
     },
     "Danny Hinkelmann14": {
-        "elo": 1038,
-        "wins": 4,
-        "races": 55,
-        "podiums": 16
+        "elo": 1051,
+        "wins": 5,
+        "races": 56,
+        "podiums": 17
     },
     "Santos47": {
         "elo": 1033,
@@ -366,9 +366,9 @@
         "podiums": 1
     },
     "Dimitry": {
-        "elo": 966,
+        "elo": 958,
         "wins": 0,
-        "races": 23,
+        "races": 24,
         "podiums": 2
     },
     "Wally": {
@@ -732,10 +732,10 @@
         "podiums": 1
     },
     "moleo": {
-        "elo": 1208,
+        "elo": 1210,
         "wins": 14,
-        "races": 51,
-        "podiums": 34
+        "races": 52,
+        "podiums": 35
     },
     "JM": {
         "elo": 995,
@@ -1092,10 +1092,10 @@
         "podiums": 0
     },
     "Spr0cket": {
-        "elo": 959,
+        "elo": 967,
         "wins": 0,
-        "races": 6,
-        "podiums": 0
+        "races": 7,
+        "podiums": 1
     },
     "Metadonajack": {
         "elo": 989,
@@ -1152,9 +1152,9 @@
         "podiums": 0
     },
     "sergioo14": {
-        "elo": 920,
+        "elo": 910,
         "wins": 1,
-        "races": 22,
+        "races": 23,
         "podiums": 2
     },
     "Creisi48": {
@@ -1404,9 +1404,9 @@
         "podiums": 1
     },
     "Dezmo": {
-        "elo": 995,
+        "elo": 998,
         "wins": 0,
-        "races": 6,
+        "races": 7,
         "podiums": 1
     },
     "oliver": {
@@ -1488,9 +1488,9 @@
         "podiums": 2
     },
     "Acer": {
-        "elo": 995,
+        "elo": 990,
         "wins": 0,
-        "races": 1,
+        "races": 2,
         "podiums": 0
     }
 }
