@@ -108,9 +108,9 @@
         "podiums": 0
     },
     "BNJMN": {
-        "elo": 1049,
+        "elo": 1038,
         "wins": 7,
-        "races": 26,
+        "races": 27,
         "podiums": 12
     },
     "Spud": {
@@ -236,8 +236,8 @@
     "Ricoway46": {
         "elo": 1091,
         "wins": 1,
-        "races": 30,
-        "podiums": 9
+        "races": 31,
+        "podiums": 10
     },
     "AwashMicrobe": {
         "elo": 984,
@@ -318,10 +318,10 @@
         "podiums": 0
     },
     "Dario Andreoni": {
-        "elo": 1074,
-        "wins": 6,
-        "races": 49,
-        "podiums": 24
+        "elo": 1084,
+        "wins": 7,
+        "races": 50,
+        "podiums": 25
     },
     "titonagom08": {
         "elo": 957,
@@ -648,9 +648,9 @@
         "podiums": 27
     },
     "vNoHxpe_KJ45": {
-        "elo": 1026,
+        "elo": 1024,
         "wins": 0,
-        "races": 20,
+        "races": 21,
         "podiums": 5
     },
     "Fabio_34": {
@@ -1477,6 +1477,18 @@
     },
     "Black $moke": {
         "elo": 990,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
+    },
+    "mwakeforddoyle": {
+        "elo": 1008,
+        "wins": 0,
+        "races": 1,
+        "podiums": 1
+    },
+    "Acer": {
+        "elo": 995,
         "wins": 0,
         "races": 1,
         "podiums": 0

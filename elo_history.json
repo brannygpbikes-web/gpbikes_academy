@@ -3499,6 +3499,15 @@
             "track": "",
             "finish": 1,
             "race_id": "d1757376f89ecc14c42a2e9cd5496dea520938fa2f5c1a8a86cb63605ee37fd7"
+        },
+        {
+            "date": "2026-10-20T19:39:35",
+            "elo": 1084,
+            "elo_before": 1074,
+            "change": 10,
+            "track": "",
+            "finish": 1,
+            "race_id": "e8c82950ea8c94d3562de8fec9fb9ff0129ae8d301b4c5299eb651d5b030289f"
         }
     ],
     "waldodj": [
@@ -10456,6 +10465,15 @@
             "track": "",
             "finish": 2,
             "race_id": "d1757376f89ecc14c42a2e9cd5496dea520938fa2f5c1a8a86cb63605ee37fd7"
+        },
+        {
+            "date": "2026-10-20T19:39:35",
+            "elo": 1091,
+            "elo_before": 1091,
+            "change": 0,
+            "track": "",
+            "finish": 3,
+            "race_id": "e8c82950ea8c94d3562de8fec9fb9ff0129ae8d301b4c5299eb651d5b030289f"
         }
     ],
     "J_44": [
@@ -11572,6 +11590,15 @@
             "track": "",
             "finish": 4,
             "race_id": "9d5b0bc839086a0d4278763714956fc2961f41e12e2e530ebd067fe467df509b"
+        },
+        {
+            "date": "2026-10-20T19:39:35",
+            "elo": 1024,
+            "elo_before": 1026,
+            "change": -2,
+            "track": "",
+            "finish": 4,
+            "race_id": "e8c82950ea8c94d3562de8fec9fb9ff0129ae8d301b4c5299eb651d5b030289f"
         }
     ],
     "GeorgeBowes67": [
@@ -15809,6 +15836,15 @@
             "track": "",
             "finish": 2,
             "race_id": "e01e3ec65e955bc360232abc1e9404b5b2764de9b0ec25ebc3a042845f652102"
+        },
+        {
+            "date": "2026-10-20T19:39:35",
+            "elo": 1038,
+            "elo_before": 1049,
+            "change": -11,
+            "track": "",
+            "finish": 6,
+            "race_id": "e8c82950ea8c94d3562de8fec9fb9ff0129ae8d301b4c5299eb651d5b030289f"
         }
     ],
     "Hook": [
@@ -16020,6 +16056,28 @@
             "track": "",
             "finish": 6,
             "race_id": "20e792bc876ccadb6b56b428f09230c21a5c3cafb6e3154244a95dc783fb3937"
+        }
+    ],
+    "mwakeforddoyle": [
+        {
+            "date": "2026-10-20T19:39:35",
+            "elo": 1008,
+            "elo_before": 1000,
+            "change": 8,
+            "track": "",
+            "finish": 2,
+            "race_id": "e8c82950ea8c94d3562de8fec9fb9ff0129ae8d301b4c5299eb651d5b030289f"
+        }
+    ],
+    "Acer": [
+        {
+            "date": "2026-10-20T19:39:35",
+            "elo": 995,
+            "elo_before": 1000,
+            "change": -5,
+            "track": "",
+            "finish": 5,
+            "race_id": "e8c82950ea8c94d3562de8fec9fb9ff0129ae8d301b4c5299eb651d5b030289f"
         }
     ]
 }
