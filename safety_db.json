@@ -239,10 +239,10 @@
         "large_lobby_clean_streak": 1
     },
     "Carrasco": {
-        "safety": 206,
-        "races": 35,
+        "safety": 216,
+        "races": 36,
         "contacts": 57,
-        "clean_races": 11,
+        "clean_races": 12,
         "large_lobby_clean_streak": 0,
         "grade": "A"
     },
@@ -324,10 +324,10 @@
         "grade": "D"
     },
     "moe": {
-        "safety": 295,
-        "races": 55,
+        "safety": 300,
+        "races": 56,
         "contacts": 46,
-        "clean_races": 31,
+        "clean_races": 32,
         "large_lobby_clean_streak": 0,
         "grade": "S"
     },
@@ -572,11 +572,11 @@
         "grade": "A"
     },
     "vNoHxpe_KJ45": {
-        "safety": 148,
-        "races": 19,
-        "contacts": 26,
+        "safety": 142,
+        "races": 20,
+        "contacts": 27,
         "clean_races": 8,
-        "large_lobby_clean_streak": 2,
+        "large_lobby_clean_streak": 0,
         "grade": "B"
     },
     "sbara": {
@@ -620,12 +620,12 @@
         "grade": "C"
     },
     "jorgeguti160": {
-        "safety": 255,
-        "races": 19,
+        "safety": 265,
+        "races": 20,
         "contacts": 16,
-        "clean_races": 10,
+        "clean_races": 11,
         "large_lobby_clean_streak": 3,
-        "grade": "A"
+        "grade": "S"
     },
     "niggaboy#46": {
         "safety": 85,
@@ -727,9 +727,9 @@
     },
     "moleo": {
         "safety": 300,
-        "races": 47,
+        "races": 48,
         "contacts": 42,
-        "clean_races": 25,
+        "clean_races": 26,
         "large_lobby_clean_streak": 0,
         "grade": "S"
     },
@@ -881,11 +881,11 @@
         "large_lobby_clean_streak": 3
     },
     "Dimitry": {
-        "safety": 131,
-        "races": 23,
-        "contacts": 39,
+        "safety": 125,
+        "races": 24,
+        "contacts": 40,
         "clean_races": 9,
-        "large_lobby_clean_streak": 3,
+        "large_lobby_clean_streak": 0,
         "grade": "B"
     },
     "Postal": {
@@ -935,12 +935,12 @@
         "grade": "A"
     },
     "BNJMN": {
-        "safety": 156,
-        "races": 22,
+        "safety": 166,
+        "races": 23,
         "contacts": 24,
-        "clean_races": 12,
+        "clean_races": 13,
         "large_lobby_clean_streak": 0,
-        "grade": "B"
+        "grade": "A"
     },
     "adrianrufin7": {
         "safety": 120,
@@ -1792,10 +1792,10 @@
         "grade": "B"
     },
     "Dezmo": {
-        "safety": 150,
-        "races": 4,
+        "safety": 160,
+        "races": 5,
         "contacts": 0,
-        "clean_races": 4,
+        "clean_races": 5,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     },
@@ -1896,10 +1896,10 @@
         "grade": "B"
     },
     "mwakeforddoyle": {
-        "safety": 135,
-        "races": 1,
+        "safety": 145,
+        "races": 2,
         "contacts": 0,
-        "clean_races": 1,
+        "clean_races": 2,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     }
