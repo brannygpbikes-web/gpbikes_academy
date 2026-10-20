@@ -124,9 +124,9 @@
     },
     "EgoMan": {
         "safety": 300,
-        "races": 46,
+        "races": 47,
         "contacts": 55,
-        "clean_races": 23,
+        "clean_races": 24,
         "grade": "S",
         "large_lobby_clean_streak": 2
     },
@@ -168,10 +168,10 @@
         "grade": "B"
     },
     "Danny Hinkelmann14": {
-        "safety": 276,
-        "races": 53,
+        "safety": 286,
+        "races": 54,
         "contacts": 58,
-        "clean_races": 30,
+        "clean_races": 31,
         "large_lobby_clean_streak": 5,
         "grade": "S"
     },
@@ -223,10 +223,10 @@
         "grade": "D"
     },
     "filipknigge20": {
-        "safety": 273,
-        "races": 56,
+        "safety": 283,
+        "races": 57,
         "contacts": 61,
-        "clean_races": 25,
+        "clean_races": 26,
         "large_lobby_clean_streak": 2,
         "grade": "S"
     },
@@ -239,10 +239,10 @@
         "large_lobby_clean_streak": 1
     },
     "Carrasco": {
-        "safety": 226,
-        "races": 37,
+        "safety": 236,
+        "races": 38,
         "contacts": 57,
-        "clean_races": 13,
+        "clean_races": 14,
         "large_lobby_clean_streak": 0,
         "grade": "A"
     },
@@ -881,9 +881,9 @@
         "large_lobby_clean_streak": 3
     },
     "Dimitry": {
-        "safety": 138,
-        "races": 27,
-        "contacts": 41,
+        "safety": 126,
+        "races": 28,
+        "contacts": 43,
         "clean_races": 11,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -990,10 +990,10 @@
         "grade": "C"
     },
     "collinlanger96": {
-        "safety": 103,
-        "races": 20,
+        "safety": 113,
+        "races": 21,
         "contacts": 28,
-        "clean_races": 8,
+        "clean_races": 9,
         "large_lobby_clean_streak": 0,
         "grade": "C"
     },
@@ -1432,12 +1432,12 @@
         "grade": "C"
     },
     "sergioo14": {
-        "safety": 155,
-        "races": 33,
+        "safety": 165,
+        "races": 34,
         "contacts": 59,
-        "clean_races": 23,
+        "clean_races": 24,
         "large_lobby_clean_streak": 1,
-        "grade": "B"
+        "grade": "A"
     },
     "Ibai Merino": {
         "safety": 142,
@@ -1900,6 +1900,14 @@
         "races": 3,
         "contacts": 0,
         "clean_races": 3,
+        "large_lobby_clean_streak": 0,
+        "grade": "B"
+    },
+    "mend": {
+        "safety": 135,
+        "races": 1,
+        "contacts": 0,
+        "clean_races": 1,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     }

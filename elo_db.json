@@ -174,10 +174,10 @@
         "podiums": 16
     },
     "filipknigge20": {
-        "elo": 1175,
+        "elo": 1178,
         "wins": 19,
-        "races": 62,
-        "podiums": 42
+        "races": 63,
+        "podiums": 43
     },
     "Billy Jones": {
         "elo": 1164,
@@ -192,10 +192,10 @@
         "podiums": 15
     },
     "Danny Hinkelmann14": {
-        "elo": 1057,
-        "wins": 5,
-        "races": 57,
-        "podiums": 18
+        "elo": 1068,
+        "wins": 6,
+        "races": 58,
+        "podiums": 19
     },
     "Santos47": {
         "elo": 1033,
@@ -228,9 +228,9 @@
         "podiums": 0
     },
     "Carrasco": {
-        "elo": 985,
+        "elo": 979,
         "wins": 2,
-        "races": 34,
+        "races": 35,
         "podiums": 12
     },
     "Ricoway46": {
@@ -366,10 +366,10 @@
         "podiums": 1
     },
     "Dimitry": {
-        "elo": 958,
+        "elo": 965,
         "wins": 0,
-        "races": 24,
-        "podiums": 2
+        "races": 25,
+        "podiums": 3
     },
     "Wally": {
         "elo": 1039,
@@ -414,9 +414,9 @@
         "podiums": 3
     },
     "EgoMan": {
-        "elo": 913,
+        "elo": 914,
         "wins": 0,
-        "races": 36,
+        "races": 37,
         "podiums": 0
     },
     "RaK": {
@@ -870,9 +870,9 @@
         "podiums": 0
     },
     "collinlanger96": {
-        "elo": 885,
+        "elo": 875,
         "wins": 0,
-        "races": 19,
+        "races": 20,
         "podiums": 3
     },
     "skalf": {
@@ -1152,9 +1152,9 @@
         "podiums": 0
     },
     "sergioo14": {
-        "elo": 910,
+        "elo": 903,
         "wins": 1,
-        "races": 23,
+        "races": 24,
         "podiums": 2
     },
     "Creisi48": {
@@ -1491,6 +1491,12 @@
         "elo": 990,
         "wins": 0,
         "races": 2,
+        "podiums": 0
+    },
+    "mend": {
+        "elo": 1001,
+        "wins": 0,
+        "races": 1,
         "podiums": 0
     }
 }
