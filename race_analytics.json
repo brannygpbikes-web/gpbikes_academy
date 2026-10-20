@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-20T16:41:04.721534+00:00",
+  "generated_at": "2026-10-20T17:03:57.242641+00:00",
   "summary": {
     "unique_races": 91,
     "unique_riders": 126,
     "duplicates_skipped": 0,
-    "invalid_files_skipped": 24,
+    "invalid_files_skipped": 25,
     "tracks": [
       "Autodromo do Algarve v2.0",
       "Automotodrom Brno v1.0a",
