@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-20T21:53:39.485116+00:00",
+  "generated_at": "2026-10-21T21:30:22.485776+00:00",
   "summary": {
-    "unique_races": 102,
+    "unique_races": 105,
     "unique_riders": 130,
     "duplicates_skipped": 0,
-    "invalid_files_skipped": 27,
+    "invalid_files_skipped": 29,
     "tracks": [
       "Autodromo do Algarve v2.0",
       "Automotodrom Brno v1.0a",
@@ -17,6 +17,8 @@
       "Phillip Island Circuit v1.0",
       "Red Bull Ring 2.0 Beta3",
       "Sachsenring v1.0b",
+      "Sepang International Circuit v2.1",
+      "Silverstone Circuit v1.0",
       "TT Circuit Assen v1.0",
       "Twin Ring Motegi - GP Layout"
     ]
@@ -1072,6 +1074,119 @@
       }
     },
     {
+      "guid": "FF011000013C58BECA",
+      "name": "Nuno",
+      "races": 17,
+      "wins": 1,
+      "podiums": 10,
+      "win_rate": 5.9,
+      "podium_rate": 58.8,
+      "average_finish": 3.118,
+      "average_start": 3.235,
+      "average_positions_gained": 0.118,
+      "best_finish": 1,
+      "best_recorded_lap": 89.212936,
+      "average_gap_percent": 3.383,
+      "contacts": 9,
+      "contacts_per_race": 0.529,
+      "clean_races": 11,
+      "clean_race_percent": 64.7,
+      "worst_contact_severity": 21.338,
+      "tracks": {
+        "Le Mans Circuit Bugatti v1.1": {
+          "races": 2,
+          "wins": 0,
+          "podiums": 1,
+          "average_finish": 3,
+          "contacts": 0,
+          "clean_race_percent": 100.0
+        },
+        "Sachsenring v1.0b": {
+          "races": 2,
+          "wins": 0,
+          "podiums": 2,
+          "average_finish": 3,
+          "contacts": 1,
+          "clean_race_percent": 50.0
+        },
+        "Lusail International Circuit - Night v1.0": {
+          "races": 4,
+          "wins": 0,
+          "podiums": 3,
+          "average_finish": 2.75,
+          "contacts": 0,
+          "clean_race_percent": 100.0
+        },
+        "Twin Ring Motegi - GP Layout": {
+          "races": 3,
+          "wins": 0,
+          "podiums": 2,
+          "average_finish": 3.333,
+          "contacts": 2,
+          "clean_race_percent": 66.7
+        },
+        "Automotodrom Brno v1.0a": {
+          "races": 2,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 4,
+          "contacts": 0,
+          "clean_race_percent": 100.0
+        },
+        "Circuit of the Americas v.1.2": {
+          "races": 2,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 4.5,
+          "contacts": 3,
+          "clean_race_percent": 0.0
+        },
+        "Silverstone Circuit v1.0": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 1,
+          "average_finish": 2,
+          "contacts": 1,
+          "clean_race_percent": 0.0
+        },
+        "Sepang International Circuit v2.1": {
+          "races": 1,
+          "wins": 1,
+          "podiums": 1,
+          "average_finish": 1,
+          "contacts": 2,
+          "clean_race_percent": 0.0
+        }
+      },
+      "bikes": {
+        "Honda NSF250RW 2026": {
+          "races": 9,
+          "wins": 1,
+          "podiums": 7
+        },
+        "Yamaha R6": {
+          "races": 5,
+          "wins": 0,
+          "podiums": 2
+        },
+        "Kawasaki ZX6R": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0
+        },
+        "Ducati V2": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0
+        },
+        "BMW ROKIT Motorrad Team": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 1
+        }
+      }
+    },
+    {
       "guid": "FF0110000100F622BC",
       "name": "moe",
       "races": 16,
@@ -1462,103 +1577,6 @@
       }
     },
     {
-      "guid": "FF011000013C58BECA",
-      "name": "Nuno",
-      "races": 14,
-      "wins": 0,
-      "podiums": 7,
-      "win_rate": 0.0,
-      "podium_rate": 50.0,
-      "average_finish": 3.429,
-      "average_start": 3.714,
-      "average_positions_gained": 0.286,
-      "best_finish": 2,
-      "best_recorded_lap": 89.212936,
-      "average_gap_percent": 4.104,
-      "contacts": 6,
-      "contacts_per_race": 0.429,
-      "clean_races": 10,
-      "clean_race_percent": 71.4,
-      "worst_contact_severity": 21.338,
-      "tracks": {
-        "Le Mans Circuit Bugatti v1.1": {
-          "races": 2,
-          "wins": 0,
-          "podiums": 1,
-          "average_finish": 3,
-          "contacts": 0,
-          "clean_race_percent": 100.0
-        },
-        "Sachsenring v1.0b": {
-          "races": 2,
-          "wins": 0,
-          "podiums": 2,
-          "average_finish": 3,
-          "contacts": 1,
-          "clean_race_percent": 50.0
-        },
-        "Lusail International Circuit - Night v1.0": {
-          "races": 3,
-          "wins": 0,
-          "podiums": 2,
-          "average_finish": 3,
-          "contacts": 0,
-          "clean_race_percent": 100.0
-        },
-        "Twin Ring Motegi - GP Layout": {
-          "races": 3,
-          "wins": 0,
-          "podiums": 2,
-          "average_finish": 3.333,
-          "contacts": 2,
-          "clean_race_percent": 66.7
-        },
-        "Automotodrom Brno v1.0a": {
-          "races": 2,
-          "wins": 0,
-          "podiums": 0,
-          "average_finish": 4,
-          "contacts": 0,
-          "clean_race_percent": 100.0
-        },
-        "Circuit of the Americas v.1.2": {
-          "races": 2,
-          "wins": 0,
-          "podiums": 0,
-          "average_finish": 4.5,
-          "contacts": 3,
-          "clean_race_percent": 0.0
-        }
-      },
-      "bikes": {
-        "Honda NSF250RW 2026": {
-          "races": 6,
-          "wins": 0,
-          "podiums": 4
-        },
-        "Yamaha R6": {
-          "races": 5,
-          "wins": 0,
-          "podiums": 2
-        },
-        "Kawasaki ZX6R": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0
-        },
-        "Ducati V2": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0
-        },
-        "BMW ROKIT Motorrad Team": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 1
-        }
-      }
-    },
-    {
       "guid": "FF011000012839A54F",
       "name": "sergioo14",
       "races": 14,
@@ -1688,6 +1706,109 @@
           "races": 1,
           "wins": 0,
           "podiums": 0
+        }
+      }
+    },
+    {
+      "guid": "FF0110000100783B33",
+      "name": "AngeLo",
+      "races": 13,
+      "wins": 6,
+      "podiums": 12,
+      "win_rate": 46.2,
+      "podium_rate": 92.3,
+      "average_finish": 2.077,
+      "average_start": 2.417,
+      "average_positions_gained": 0.333,
+      "best_finish": 1,
+      "best_recorded_lap": 88.355652,
+      "average_gap_percent": -3.357,
+      "contacts": 6,
+      "contacts_per_race": 0.462,
+      "clean_races": 9,
+      "clean_race_percent": 69.2,
+      "worst_contact_severity": 6.974,
+      "tracks": {
+        "Automotodrom Brno v1.0a": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 1,
+          "average_finish": 2,
+          "contacts": 1,
+          "clean_race_percent": 0.0
+        },
+        "Misano World Circuit Marco Simoncelli v1.0": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 1,
+          "average_finish": 3,
+          "contacts": 0,
+          "clean_race_percent": 100.0
+        },
+        "Autodromo do Algarve v2.0": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 8,
+          "contacts": 2,
+          "clean_race_percent": 0.0
+        },
+        "Le Mans Circuit Bugatti v1.1": {
+          "races": 3,
+          "wins": 2,
+          "podiums": 3,
+          "average_finish": 1.333,
+          "contacts": 0,
+          "clean_race_percent": 100.0
+        },
+        "Sachsenring v1.0b": {
+          "races": 2,
+          "wins": 2,
+          "podiums": 2,
+          "average_finish": 1,
+          "contacts": 0,
+          "clean_race_percent": 100.0
+        },
+        "Lusail International Circuit - Night v1.0": {
+          "races": 3,
+          "wins": 1,
+          "podiums": 3,
+          "average_finish": 1.667,
+          "contacts": 0,
+          "clean_race_percent": 100.0
+        },
+        "Silverstone Circuit v1.0": {
+          "races": 1,
+          "wins": 1,
+          "podiums": 1,
+          "average_finish": 1,
+          "contacts": 1,
+          "clean_race_percent": 0.0
+        },
+        "Sepang International Circuit v2.1": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 1,
+          "average_finish": 2,
+          "contacts": 2,
+          "clean_race_percent": 0.0
+        }
+      },
+      "bikes": {
+        "Ducati Motorcorsa Racing": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 1
+        },
+        "Honda HRC Team": {
+          "races": 2,
+          "wins": 0,
+          "podiums": 1
+        },
+        "KTM RC250GP 2026": {
+          "races": 10,
+          "wins": 6,
+          "podiums": 10
         }
       }
     },
@@ -2693,93 +2814,6 @@
           "races": 3,
           "wins": 0,
           "podiums": 0
-        }
-      }
-    },
-    {
-      "guid": "FF0110000100783B33",
-      "name": "AngeLo",
-      "races": 10,
-      "wins": 4,
-      "podiums": 9,
-      "win_rate": 40.0,
-      "podium_rate": 90.0,
-      "average_finish": 2.3,
-      "average_start": 2.556,
-      "average_positions_gained": 0.222,
-      "best_finish": 1,
-      "best_recorded_lap": 88.355652,
-      "average_gap_percent": -4.367,
-      "contacts": 3,
-      "contacts_per_race": 0.3,
-      "clean_races": 8,
-      "clean_race_percent": 80.0,
-      "worst_contact_severity": 6.483,
-      "tracks": {
-        "Automotodrom Brno v1.0a": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 1,
-          "average_finish": 2,
-          "contacts": 1,
-          "clean_race_percent": 0.0
-        },
-        "Misano World Circuit Marco Simoncelli v1.0": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 1,
-          "average_finish": 3,
-          "contacts": 0,
-          "clean_race_percent": 100.0
-        },
-        "Autodromo do Algarve v2.0": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0,
-          "average_finish": 8,
-          "contacts": 2,
-          "clean_race_percent": 0.0
-        },
-        "Le Mans Circuit Bugatti v1.1": {
-          "races": 3,
-          "wins": 2,
-          "podiums": 3,
-          "average_finish": 1.333,
-          "contacts": 0,
-          "clean_race_percent": 100.0
-        },
-        "Sachsenring v1.0b": {
-          "races": 2,
-          "wins": 2,
-          "podiums": 2,
-          "average_finish": 1,
-          "contacts": 0,
-          "clean_race_percent": 100.0
-        },
-        "Lusail International Circuit - Night v1.0": {
-          "races": 2,
-          "wins": 0,
-          "podiums": 2,
-          "average_finish": 2,
-          "contacts": 0,
-          "clean_race_percent": 100.0
-        }
-      },
-      "bikes": {
-        "Ducati Motorcorsa Racing": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 1
-        },
-        "Honda HRC Team": {
-          "races": 2,
-          "wins": 0,
-          "podiums": 1
-        },
-        "KTM RC250GP 2026": {
-          "races": 7,
-          "wins": 4,
-          "podiums": 7
         }
       }
     },
@@ -34989,6 +35023,236 @@
           "average_lap": 127.119,
           "median_lap": 103.686,
           "lap_consistency_stdev": 47.956,
+          "contacts": 0,
+          "max_contact_severity": null,
+          "average_contact_severity": null
+        }
+      ],
+      "contacts": []
+    },
+    {
+      "source_file": "20261021-161939-Silverstone Circuit v1.0.xml",
+      "event_timestamp": 1792599579,
+      "date": "2026-10-21T16:19:39+00:00",
+      "event_type": "Race",
+      "track": "Silverstone Circuit v1.0",
+      "track_id": "Silverstone Circuit v1.0",
+      "track_length_m": 6143.786133,
+      "scheduled_laps": 4,
+      "field_size": 2,
+      "contact_events": 1,
+      "riders": [
+        {
+          "race_num": "29",
+          "name": "AngeLo",
+          "bike": "KTM RC250GP 2026",
+          "category": "Moto3 2026 V0.3",
+          "guid": "FF0110000100783B33",
+          "qualifying_position": 2,
+          "qualifying_time": null,
+          "start_position": 2,
+          "finish_position": 1,
+          "positions_gained": 1,
+          "race_time": 724.538696,
+          "laps_completed": 4,
+          "gap_seconds": 0.0,
+          "gap_percent": 0.0,
+          "penalty": 0.0,
+          "fastest_lap": 140.303101,
+          "fastest_lap_number": 4,
+          "speed": 62.244465,
+          "valid_timed_laps": 4,
+          "average_lap": 181.13,
+          "median_lap": 147.298,
+          "lap_consistency_stdev": 62.708,
+          "contacts": 1,
+          "max_contact_severity": 6.974,
+          "average_contact_severity": 6.974
+        },
+        {
+          "race_num": "22",
+          "name": "Nuno",
+          "bike": "Honda NSF250RW 2026",
+          "category": "Moto3 2026 V0.3",
+          "guid": "FF011000013C58BECA",
+          "qualifying_position": 1,
+          "qualifying_time": null,
+          "start_position": 1,
+          "finish_position": 2,
+          "positions_gained": -1,
+          "race_time": 724.723694,
+          "laps_completed": 4,
+          "gap_seconds": 0.184998,
+          "gap_percent": 0.0255,
+          "penalty": 0.0,
+          "fastest_lap": 140.503967,
+          "fastest_lap_number": 4,
+          "speed": 67.253227,
+          "valid_timed_laps": 4,
+          "average_lap": 181.176,
+          "median_lap": 147.388,
+          "lap_consistency_stdev": 62.563,
+          "contacts": 1,
+          "max_contact_severity": 6.974,
+          "average_contact_severity": 6.974
+        }
+      ],
+      "contacts": [
+        {
+          "time_ms": 266497,
+          "rider1": "AngeLo",
+          "rider2": "Nuno",
+          "relative_speed": -6.974402,
+          "severity": 6.974
+        }
+      ]
+    },
+    {
+      "source_file": "20261021-163555-Sepang Circuit v2.1.xml",
+      "event_timestamp": 1792600555,
+      "date": "2026-10-21T16:35:55+00:00",
+      "event_type": "Race",
+      "track": "Sepang International Circuit v2.1",
+      "track_id": "Sepang Circuit v2.1",
+      "track_length_m": 5560.571777,
+      "scheduled_laps": 4,
+      "field_size": 2,
+      "contact_events": 2,
+      "riders": [
+        {
+          "race_num": "22",
+          "name": "Nuno",
+          "bike": "Honda NSF250RW 2026",
+          "category": "Moto3 2026 V0.3",
+          "guid": "FF011000013C58BECA",
+          "qualifying_position": 1,
+          "qualifying_time": 133.706406,
+          "start_position": 1,
+          "finish_position": 1,
+          "positions_gained": 0,
+          "race_time": 567.659363,
+          "laps_completed": 4,
+          "gap_seconds": 0.0,
+          "gap_percent": 0.0,
+          "penalty": 0.0,
+          "fastest_lap": 134.368805,
+          "fastest_lap_number": 4,
+          "speed": 62.425659,
+          "valid_timed_laps": 4,
+          "average_lap": 141.908,
+          "median_lap": 141.969,
+          "lap_consistency_stdev": 5.518,
+          "contacts": 2,
+          "max_contact_severity": 6.099,
+          "average_contact_severity": 3.757
+        },
+        {
+          "race_num": "29",
+          "name": "AngeLo",
+          "bike": "KTM RC250GP 2026",
+          "category": "Moto3 2026 V0.3",
+          "guid": "FF0110000100783B33",
+          "qualifying_position": 2,
+          "qualifying_time": 135.976425,
+          "start_position": 2,
+          "finish_position": 2,
+          "positions_gained": 0,
+          "race_time": 567.810852,
+          "laps_completed": 4,
+          "gap_seconds": 0.151489,
+          "gap_percent": 0.0267,
+          "penalty": 0.0,
+          "fastest_lap": 134.562439,
+          "fastest_lap_number": 4,
+          "speed": 62.824543,
+          "valid_timed_laps": 4,
+          "average_lap": 141.946,
+          "median_lap": 142.163,
+          "lap_consistency_stdev": 5.319,
+          "contacts": 2,
+          "max_contact_severity": 6.099,
+          "average_contact_severity": 3.757
+        }
+      ],
+      "contacts": [
+        {
+          "time_ms": 176123,
+          "rider1": "AngeLo",
+          "rider2": "Nuno",
+          "relative_speed": -6.098981,
+          "severity": 6.099
+        },
+        {
+          "time_ms": 413277,
+          "rider1": "AngeLo",
+          "rider2": "Nuno",
+          "relative_speed": -1.414965,
+          "severity": 1.415
+        }
+      ]
+    },
+    {
+      "source_file": "20261021-165148-Lusail Circuit - Night v1.1.xml",
+      "event_timestamp": 1792601508,
+      "date": "2026-10-21T16:51:48+00:00",
+      "event_type": "Race",
+      "track": "Lusail International Circuit - Night v1.0",
+      "track_id": "Lusail Circuit - Night v1.1",
+      "track_length_m": 5506.229004,
+      "scheduled_laps": 4,
+      "field_size": 2,
+      "contact_events": 0,
+      "riders": [
+        {
+          "race_num": "29",
+          "name": "AngeLo",
+          "bike": "KTM RC250GP 2026",
+          "category": "Moto3 2026 V0.3",
+          "guid": "FF0110000100783B33",
+          "qualifying_position": 2,
+          "qualifying_time": null,
+          "start_position": 2,
+          "finish_position": 1,
+          "positions_gained": 1,
+          "race_time": 645.434143,
+          "laps_completed": 4,
+          "gap_seconds": 0.0,
+          "gap_percent": 0.0,
+          "penalty": 0.0,
+          "fastest_lap": 128.284058,
+          "fastest_lap_number": 4,
+          "speed": 65.628387,
+          "valid_timed_laps": 4,
+          "average_lap": 161.352,
+          "median_lap": 129.007,
+          "lap_consistency_stdev": 56.441,
+          "contacts": 0,
+          "max_contact_severity": null,
+          "average_contact_severity": null
+        },
+        {
+          "race_num": "22",
+          "name": "Nuno",
+          "bike": "Honda NSF250RW 2026",
+          "category": "Moto3 2026 V0.3",
+          "guid": "FF011000013C58BECA",
+          "qualifying_position": 1,
+          "qualifying_time": null,
+          "start_position": 1,
+          "finish_position": 2,
+          "positions_gained": -1,
+          "race_time": 645.637329,
+          "laps_completed": 4,
+          "gap_seconds": 0.203186,
+          "gap_percent": 0.0315,
+          "penalty": 0.0,
+          "fastest_lap": 128.175781,
+          "fastest_lap_number": 3,
+          "speed": 66.604485,
+          "valid_timed_laps": 4,
+          "average_lap": 161.402,
+          "median_lap": 129.384,
+          "lap_consistency_stdev": 56.16,
           "contacts": 0,
           "max_contact_severity": null,
           "average_contact_severity": null
