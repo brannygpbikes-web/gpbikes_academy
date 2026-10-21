@@ -1674,6 +1674,15 @@
             "track": "",
             "finish": 2,
             "race_id": "b8ae723576a0688312168730a26f41d82486857be15df4447c49624b622b449f"
+        },
+        {
+            "date": "2026-10-21T16:19:39",
+            "elo": 1089,
+            "elo_before": 1094,
+            "change": -5,
+            "track": "",
+            "finish": 2,
+            "race_id": "20ab0ae6acf07e103cf53ae24d45e49b68e682906c8b16abf63337137e20c100"
         }
     ],
     "sbara": [
@@ -13508,6 +13517,15 @@
             "track": "",
             "finish": 2,
             "race_id": "29e822bae0873749f8eb76a7d58c382851284f581a8d0964cea83cc4984a4135"
+        },
+        {
+            "date": "2026-10-21T16:19:39",
+            "elo": 1082,
+            "elo_before": 1077,
+            "change": 5,
+            "track": "",
+            "finish": 1,
+            "race_id": "20ab0ae6acf07e103cf53ae24d45e49b68e682906c8b16abf63337137e20c100"
         }
     ],
     "aeziahh on tt": [
