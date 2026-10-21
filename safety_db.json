@@ -564,10 +564,10 @@
         "grade": "B"
     },
     "Nuno": {
-        "safety": 170,
-        "races": 45,
+        "safety": 175,
+        "races": 46,
         "contacts": 45,
-        "clean_races": 21,
+        "clean_races": 22,
         "large_lobby_clean_streak": 0,
         "grade": "A"
     },
@@ -1480,10 +1480,10 @@
         "grade": "D"
     },
     "AngeLo": {
-        "safety": 174,
-        "races": 16,
+        "safety": 179,
+        "races": 17,
         "contacts": 8,
-        "clean_races": 11,
+        "clean_races": 12,
         "large_lobby_clean_streak": 0,
         "grade": "A"
     },
