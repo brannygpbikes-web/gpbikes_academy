@@ -1,8 +1,8 @@
 {
     "branny": {
-        "safety": 300,
-        "races": 55,
-        "contacts": 58,
+        "safety": 295,
+        "races": 56,
+        "contacts": 60,
         "clean_races": 31,
         "large_lobby_clean_streak": 0,
         "grade": "S"
@@ -448,9 +448,9 @@
         "grade": "A"
     },
     "Ricoway46": {
-        "safety": 235,
-        "races": 33,
-        "contacts": 45,
+        "safety": 225,
+        "races": 34,
+        "contacts": 48,
         "clean_races": 13,
         "large_lobby_clean_streak": 0,
         "grade": "A"
@@ -620,9 +620,9 @@
         "grade": "C"
     },
     "jorgeguti160": {
-        "safety": 255,
-        "races": 23,
-        "contacts": 21,
+        "safety": 250,
+        "races": 24,
+        "contacts": 23,
         "clean_races": 12,
         "large_lobby_clean_streak": 0,
         "grade": "A"
@@ -702,10 +702,10 @@
         "grade": "B"
     },
     "ola13": {
-        "safety": 222,
-        "races": 35,
+        "safety": 232,
+        "races": 36,
         "contacts": 25,
-        "clean_races": 20,
+        "clean_races": 21,
         "large_lobby_clean_streak": 0,
         "grade": "A"
     },
@@ -727,8 +727,8 @@
     },
     "moleo": {
         "safety": 300,
-        "races": 56,
-        "contacts": 44,
+        "races": 57,
+        "contacts": 45,
         "clean_races": 32,
         "large_lobby_clean_streak": 0,
         "grade": "S"
@@ -771,11 +771,11 @@
         "grade": "B"
     },
     "Danislav1746": {
-        "safety": 222,
-        "races": 37,
-        "contacts": 45,
+        "safety": 217,
+        "races": 38,
+        "contacts": 47,
         "clean_races": 21,
-        "large_lobby_clean_streak": 6,
+        "large_lobby_clean_streak": 0,
         "grade": "A"
     },
     "Damien VTEC [TRC]": {
