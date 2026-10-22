@@ -258,10 +258,10 @@
         "podiums": 3
     },
     "izan curia": {
-        "elo": 959,
+        "elo": 969,
         "wins": 0,
-        "races": 15,
-        "podiums": 0
+        "races": 16,
+        "podiums": 1
     },
     "Thunberg": {
         "elo": 961,
@@ -306,9 +306,9 @@
         "podiums": 32
     },
     "AL": {
-        "elo": 962,
+        "elo": 961,
         "wins": 0,
-        "races": 38,
+        "races": 39,
         "podiums": 8
     },
     "FastAF": {
@@ -366,9 +366,9 @@
         "podiums": 1
     },
     "Dimitry": {
-        "elo": 970,
+        "elo": 976,
         "wins": 0,
-        "races": 27,
+        "races": 28,
         "podiums": 5
     },
     "Wally": {
@@ -606,9 +606,9 @@
         "podiums": 4
     },
     "Tarmacsurfer": {
-        "elo": 980,
+        "elo": 975,
         "wins": 0,
-        "races": 9,
+        "races": 10,
         "podiums": 0
     },
     "Michiel Oom": {
@@ -666,9 +666,9 @@
         "podiums": 11
     },
     "jorgeguti160": {
-        "elo": 881,
+        "elo": 887,
         "wins": 0,
-        "races": 20,
+        "races": 21,
         "podiums": 2
     },
     "JKR": {
@@ -726,10 +726,10 @@
         "podiums": 8
     },
     "Abraham Avila": {
-        "elo": 958,
+        "elo": 971,
         "wins": 1,
-        "races": 14,
-        "podiums": 2
+        "races": 15,
+        "podiums": 3
     },
     "moleo": {
         "elo": 1215,
@@ -924,9 +924,9 @@
         "podiums": 2
     },
     "zee": {
-        "elo": 981,
+        "elo": 968,
         "wins": 0,
-        "races": 4,
+        "races": 5,
         "podiums": 1
     },
     "elchivador": {
@@ -1182,10 +1182,10 @@
         "podiums": 1
     },
     "AngeLo": {
-        "elo": 1082,
-        "wins": 8,
-        "races": 17,
-        "podiums": 14
+        "elo": 1093,
+        "wins": 9,
+        "races": 18,
+        "podiums": 15
     },
     "aeziahh on tt": {
         "elo": 955,
@@ -1510,5 +1510,17 @@
         "wins": 0,
         "races": 1,
         "podiums": 1
+    },
+    "4grimz": {
+        "elo": 990,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
+    },
+    "LucaSennaa": {
+        "elo": 983,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
     }
 }
