@@ -5449,6 +5449,15 @@
             "track": "",
             "finish": 13,
             "race_id": "1c54a45f6946e6a56867c2572248d069112432ee9e527c751231c7d559ad41be"
+        },
+        {
+            "date": "2026-10-22T15:51:26",
+            "elo": 958,
+            "elo_before": 953,
+            "change": 5,
+            "track": "",
+            "finish": 1,
+            "race_id": "c55ecd67c1da3054ec3f81b3b9e7c62b7e2c2c832c439863a1846d67b8ccdd7f"
         }
     ],
     "Riccardo": [
@@ -5963,6 +5972,15 @@
             "track": "",
             "finish": 12,
             "race_id": "590cce71a99499300ef23bb8d8a31e4feaad654db185c5fc4bfd6069e1f4c3b9"
+        },
+        {
+            "date": "2026-10-22T15:51:26",
+            "elo": 981,
+            "elo_before": 986,
+            "change": -5,
+            "track": "",
+            "finish": 3,
+            "race_id": "c55ecd67c1da3054ec3f81b3b9e7c62b7e2c2c832c439863a1846d67b8ccdd7f"
         }
     ],
     "ola13": [
@@ -16568,6 +16586,17 @@
             "track": "",
             "finish": 4,
             "race_id": "578a5f80d359204e5dbd8e171b12e9ac68daab89d468fe8fdca66c1dabc2813c"
+        }
+    ],
+    "ankle biter": [
+        {
+            "date": "2026-10-22T15:51:26",
+            "elo": 1000,
+            "elo_before": 1000,
+            "change": 0,
+            "track": "",
+            "finish": 2,
+            "race_id": "c55ecd67c1da3054ec3f81b3b9e7c62b7e2c2c832c439863a1846d67b8ccdd7f"
         }
     ]
 }

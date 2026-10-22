@@ -726,10 +726,10 @@
         "podiums": 8
     },
     "Abraham Avila": {
-        "elo": 953,
-        "wins": 0,
-        "races": 13,
-        "podiums": 1
+        "elo": 958,
+        "wins": 1,
+        "races": 14,
+        "podiums": 2
     },
     "moleo": {
         "elo": 1215,
@@ -924,10 +924,10 @@
         "podiums": 2
     },
     "zee": {
-        "elo": 986,
+        "elo": 981,
         "wins": 0,
-        "races": 3,
-        "podiums": 0
+        "races": 4,
+        "podiums": 1
     },
     "elchivador": {
         "elo": 1004,
@@ -1504,5 +1504,11 @@
         "wins": 0,
         "races": 1,
         "podiums": 0
+    },
+    "ankle biter": {
+        "elo": 1000,
+        "wins": 0,
+        "races": 1,
+        "podiums": 1
     }
 }

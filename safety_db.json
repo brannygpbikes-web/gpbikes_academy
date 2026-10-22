@@ -710,10 +710,10 @@
         "grade": "A"
     },
     "Abraham Avila": {
-        "safety": 224,
-        "races": 16,
+        "safety": 229,
+        "races": 17,
         "contacts": 12,
-        "clean_races": 12,
+        "clean_races": 13,
         "large_lobby_clean_streak": 2,
         "grade": "A"
     },
@@ -1102,12 +1102,12 @@
         "grade": "B"
     },
     "zee": {
-        "safety": 98,
-        "races": 4,
+        "safety": 103,
+        "races": 5,
         "contacts": 9,
-        "clean_races": 0,
+        "clean_races": 1,
         "large_lobby_clean_streak": 0,
-        "grade": "D"
+        "grade": "C"
     },
     "elchivador": {
         "safety": 117,
@@ -1916,6 +1916,22 @@
         "races": 2,
         "contacts": 0,
         "clean_races": 2,
+        "large_lobby_clean_streak": 0,
+        "grade": "B"
+    },
+    "ankle biter": {
+        "safety": 130,
+        "races": 1,
+        "contacts": 0,
+        "clean_races": 1,
+        "large_lobby_clean_streak": 0,
+        "grade": "B"
+    },
+    "4grimz": {
+        "safety": 130,
+        "races": 1,
+        "contacts": 0,
+        "clean_races": 1,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     }
