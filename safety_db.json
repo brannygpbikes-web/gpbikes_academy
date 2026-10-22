@@ -76,9 +76,9 @@
         "grade": "B"
     },
     "AL": {
-        "safety": 173,
-        "races": 38,
-        "contacts": 54,
+        "safety": 167,
+        "races": 39,
+        "contacts": 55,
         "clean_races": 18,
         "large_lobby_clean_streak": 0,
         "grade": "A"
@@ -504,10 +504,10 @@
         "large_lobby_clean_streak": 0
     },
     "Tarmacsurfer": {
-        "safety": 82,
-        "races": 11,
+        "safety": 92,
+        "races": 12,
         "contacts": 43,
-        "clean_races": 2,
+        "clean_races": 3,
         "grade": "D",
         "large_lobby_clean_streak": 0
     },
@@ -702,11 +702,11 @@
         "grade": "B"
     },
     "ola13": {
-        "safety": 234,
-        "races": 34,
-        "contacts": 23,
+        "safety": 222,
+        "races": 35,
+        "contacts": 25,
         "clean_races": 20,
-        "large_lobby_clean_streak": 7,
+        "large_lobby_clean_streak": 0,
         "grade": "A"
     },
     "Abraham Avila": {
@@ -935,12 +935,12 @@
         "grade": "A"
     },
     "BNJMN": {
-        "safety": 166,
-        "races": 23,
-        "contacts": 24,
+        "safety": 154,
+        "races": 24,
+        "contacts": 26,
         "clean_races": 13,
         "large_lobby_clean_streak": 0,
-        "grade": "A"
+        "grade": "B"
     },
     "adrianrufin7": {
         "safety": 120,
@@ -1102,9 +1102,9 @@
         "grade": "B"
     },
     "zee": {
-        "safety": 88,
-        "races": 6,
-        "contacts": 12,
+        "safety": 82,
+        "races": 7,
+        "contacts": 13,
         "clean_races": 1,
         "large_lobby_clean_streak": 0,
         "grade": "D"
@@ -1480,12 +1480,12 @@
         "grade": "D"
     },
     "AngeLo": {
-        "safety": 169,
-        "races": 18,
-        "contacts": 10,
+        "safety": 151,
+        "races": 19,
+        "contacts": 13,
         "clean_races": 12,
         "large_lobby_clean_streak": 0,
-        "grade": "A"
+        "grade": "B"
     },
     "alerelinque": {
         "safety": 80,
@@ -1776,9 +1776,9 @@
         "grade": "B"
     },
     "evanchast30": {
-        "safety": 118,
-        "races": 9,
-        "contacts": 9,
+        "safety": 106,
+        "races": 10,
+        "contacts": 11,
         "clean_races": 4,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -1942,5 +1942,13 @@
         "clean_races": 1,
         "large_lobby_clean_streak": 1,
         "grade": "B"
+    },
+    "jmanuel_fs": {
+        "safety": 107,
+        "races": 1,
+        "contacts": 3,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "C"
     }
 }

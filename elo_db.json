@@ -54,10 +54,10 @@
         "podiums": 22
     },
     "ola13": {
-        "elo": 982,
+        "elo": 993,
         "wins": 2,
-        "races": 34,
-        "podiums": 8
+        "races": 35,
+        "podiums": 9
     },
     "fast46": {
         "elo": 1007,
@@ -108,10 +108,10 @@
         "podiums": 0
     },
     "BNJMN": {
-        "elo": 1051,
-        "wins": 8,
-        "races": 28,
-        "podiums": 13
+        "elo": 1063,
+        "wins": 9,
+        "races": 29,
+        "podiums": 14
     },
     "Spud": {
         "elo": 991,
@@ -306,10 +306,10 @@
         "podiums": 32
     },
     "AL": {
-        "elo": 961,
+        "elo": 969,
         "wins": 0,
-        "races": 39,
-        "podiums": 8
+        "races": 40,
+        "podiums": 9
     },
     "FastAF": {
         "elo": 979,
@@ -606,9 +606,9 @@
         "podiums": 4
     },
     "Tarmacsurfer": {
-        "elo": 975,
+        "elo": 970,
         "wins": 0,
-        "races": 10,
+        "races": 11,
         "podiums": 0
     },
     "Michiel Oom": {
@@ -924,9 +924,9 @@
         "podiums": 2
     },
     "zee": {
-        "elo": 968,
+        "elo": 955,
         "wins": 0,
-        "races": 5,
+        "races": 6,
         "podiums": 1
     },
     "elchivador": {
@@ -1182,9 +1182,9 @@
         "podiums": 1
     },
     "AngeLo": {
-        "elo": 1093,
+        "elo": 1091,
         "wins": 9,
-        "races": 18,
+        "races": 19,
         "podiums": 15
     },
     "aeziahh on tt": {
@@ -1398,9 +1398,9 @@
         "podiums": 2
     },
     "evanchast30": {
-        "elo": 978,
+        "elo": 969,
         "wins": 0,
-        "races": 9,
+        "races": 10,
         "podiums": 1
     },
     "Dezmo": {
@@ -1519,6 +1519,12 @@
     },
     "LucaSennaa": {
         "elo": 983,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
+    },
+    "jmanuel_fs": {
+        "elo": 998,
         "wins": 0,
         "races": 1,
         "podiums": 0
