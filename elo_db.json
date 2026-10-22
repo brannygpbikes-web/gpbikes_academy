@@ -306,10 +306,10 @@
         "podiums": 32
     },
     "AL": {
-        "elo": 969,
+        "elo": 973,
         "wins": 0,
-        "races": 41,
-        "podiums": 9
+        "races": 42,
+        "podiums": 10
     },
     "FastAF": {
         "elo": 979,
@@ -368,8 +368,8 @@
     "Dimitry": {
         "elo": 976,
         "wins": 0,
-        "races": 28,
-        "podiums": 5
+        "races": 29,
+        "podiums": 6
     },
     "Wally": {
         "elo": 1039,
@@ -666,9 +666,9 @@
         "podiums": 11
     },
     "jorgeguti160": {
-        "elo": 885,
+        "elo": 880,
         "wins": 0,
-        "races": 22,
+        "races": 23,
         "podiums": 2
     },
     "JKR": {
@@ -732,10 +732,10 @@
         "podiums": 3
     },
     "moleo": {
-        "elo": 1216,
-        "wins": 15,
-        "races": 54,
-        "podiums": 37
+        "elo": 1219,
+        "wins": 16,
+        "races": 55,
+        "podiums": 38
     },
     "JM": {
         "elo": 995,
@@ -1152,9 +1152,9 @@
         "podiums": 0
     },
     "sergioo14": {
-        "elo": 903,
+        "elo": 901,
         "wins": 1,
-        "races": 24,
+        "races": 25,
         "podiums": 2
     },
     "Creisi48": {

@@ -76,9 +76,9 @@
         "grade": "B"
     },
     "AL": {
-        "safety": 153,
-        "races": 40,
-        "contacts": 57,
+        "safety": 143,
+        "races": 41,
+        "contacts": 60,
         "clean_races": 18,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -621,8 +621,8 @@
     },
     "jorgeguti160": {
         "safety": 255,
-        "races": 22,
-        "contacts": 20,
+        "races": 23,
+        "contacts": 21,
         "clean_races": 12,
         "large_lobby_clean_streak": 0,
         "grade": "A"
@@ -727,9 +727,9 @@
     },
     "moleo": {
         "safety": 300,
-        "races": 52,
+        "races": 53,
         "contacts": 42,
-        "clean_races": 30,
+        "clean_races": 31,
         "large_lobby_clean_streak": 0,
         "grade": "S"
     },
@@ -881,9 +881,9 @@
         "large_lobby_clean_streak": 3
     },
     "Dimitry": {
-        "safety": 121,
-        "races": 31,
-        "contacts": 46,
+        "safety": 111,
+        "races": 32,
+        "contacts": 49,
         "clean_races": 13,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -1433,10 +1433,10 @@
     },
     "sergioo14": {
         "safety": 165,
-        "races": 34,
-        "contacts": 59,
+        "races": 35,
+        "contacts": 60,
         "clean_races": 24,
-        "large_lobby_clean_streak": 1,
+        "large_lobby_clean_streak": 0,
         "grade": "A"
     },
     "Ibai Merino": {
