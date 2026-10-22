@@ -1,8 +1,8 @@
 {
     "branny": {
         "safety": 300,
-        "races": 54,
-        "contacts": 57,
+        "races": 55,
+        "contacts": 58,
         "clean_races": 31,
         "large_lobby_clean_streak": 0,
         "grade": "S"
@@ -448,10 +448,10 @@
         "grade": "A"
     },
     "Ricoway46": {
-        "safety": 230,
-        "races": 32,
+        "safety": 235,
+        "races": 33,
         "contacts": 45,
-        "clean_races": 12,
+        "clean_races": 13,
         "large_lobby_clean_streak": 0,
         "grade": "A"
     },
@@ -727,8 +727,8 @@
     },
     "moleo": {
         "safety": 300,
-        "races": 55,
-        "contacts": 43,
+        "races": 56,
+        "contacts": 44,
         "clean_races": 32,
         "large_lobby_clean_streak": 0,
         "grade": "S"
@@ -771,10 +771,10 @@
         "grade": "B"
     },
     "Danislav1746": {
-        "safety": 217,
-        "races": 36,
+        "safety": 222,
+        "races": 37,
         "contacts": 45,
-        "clean_races": 20,
+        "clean_races": 21,
         "large_lobby_clean_streak": 6,
         "grade": "A"
     },
@@ -788,9 +788,9 @@
     },
     "Gonzalo Molina": {
         "safety": 300,
-        "races": 34,
+        "races": 35,
         "contacts": 31,
-        "clean_races": 22,
+        "clean_races": 23,
         "large_lobby_clean_streak": 6,
         "grade": "S"
     },

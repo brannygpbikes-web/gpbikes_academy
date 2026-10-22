@@ -431,6 +431,15 @@
             "track": "",
             "finish": 3,
             "race_id": "8a506a73490e14201525222b15848dfb4aee8f3badb70c200b42945d99e6eff0"
+        },
+        {
+            "date": "2026-10-22T17:46:00",
+            "elo": 1219,
+            "elo_before": 1216,
+            "change": 3,
+            "track": "",
+            "finish": 2,
+            "race_id": "fd4a93890acf5d547b1794f276627c2ed8ce9e59c081975f59175030000dc607"
         }
     ],
     "patrickfaderl98": [
@@ -5124,6 +5133,15 @@
             "track": "",
             "finish": 1,
             "race_id": "8a506a73490e14201525222b15848dfb4aee8f3badb70c200b42945d99e6eff0"
+        },
+        {
+            "date": "2026-10-22T17:46:00",
+            "elo": 1127,
+            "elo_before": 1125,
+            "change": 2,
+            "track": "",
+            "finish": 3,
+            "race_id": "fd4a93890acf5d547b1794f276627c2ed8ce9e59c081975f59175030000dc607"
         }
     ],
     "tobimayer29 on ig": [
@@ -10686,6 +10704,15 @@
             "track": "",
             "finish": 1,
             "race_id": "4c5e92b83336e6d7824cf97774b589298acdc0fa4371ac83b89e15e990b01435"
+        },
+        {
+            "date": "2026-10-22T17:46:00",
+            "elo": 1235,
+            "elo_before": 1241,
+            "change": -6,
+            "track": "",
+            "finish": 4,
+            "race_id": "fd4a93890acf5d547b1794f276627c2ed8ce9e59c081975f59175030000dc607"
         }
     ],
     "Fhalopy": [
@@ -10924,6 +10951,15 @@
             "track": "",
             "finish": 2,
             "race_id": "8a506a73490e14201525222b15848dfb4aee8f3badb70c200b42945d99e6eff0"
+        },
+        {
+            "date": "2026-10-22T17:46:00",
+            "elo": 1084,
+            "elo_before": 1089,
+            "change": -5,
+            "track": "",
+            "finish": 5,
+            "race_id": "fd4a93890acf5d547b1794f276627c2ed8ce9e59c081975f59175030000dc607"
         }
     ],
     "J_44": [
@@ -13172,6 +13208,15 @@
             "track": "",
             "finish": 1,
             "race_id": "22ea5b1987bfa754cae0e5b863152182cc1581e7e8ddf6dbaaf8a33c3ade1257"
+        },
+        {
+            "date": "2026-10-22T17:46:00",
+            "elo": 1244,
+            "elo_before": 1238,
+            "change": 6,
+            "track": "",
+            "finish": 1,
+            "race_id": "fd4a93890acf5d547b1794f276627c2ed8ce9e59c081975f59175030000dc607"
         }
     ],
     "Creisi48": [
