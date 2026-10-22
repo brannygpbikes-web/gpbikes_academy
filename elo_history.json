@@ -2161,6 +2161,15 @@
             "track": "",
             "finish": 3,
             "race_id": "b8ae723576a0688312168730a26f41d82486857be15df4447c49624b622b449f"
+        },
+        {
+            "date": "2026-10-22T18:18:04",
+            "elo": 1039,
+            "elo_before": 1026,
+            "change": 13,
+            "track": "",
+            "finish": 2,
+            "race_id": "756fa66dac49ec777c957fe6e1da682e5279a2f1a4e01642891dd08ca34e8ffc"
         }
     ],
     "Hopperle#12": [
@@ -5160,6 +5169,15 @@
             "track": "",
             "finish": 2,
             "race_id": "177d05d0d881750e6e6894f8f3349521ff277624be1c5484ae548d0b8da61c54"
+        },
+        {
+            "date": "2026-10-22T18:18:04",
+            "elo": 1136,
+            "elo_before": 1133,
+            "change": 3,
+            "track": "",
+            "finish": 3,
+            "race_id": "756fa66dac49ec777c957fe6e1da682e5279a2f1a4e01642891dd08ca34e8ffc"
         }
     ],
     "tobimayer29 on ig": [
@@ -6325,6 +6343,15 @@
             "track": "",
             "finish": 4,
             "race_id": "177d05d0d881750e6e6894f8f3349521ff277624be1c5484ae548d0b8da61c54"
+        },
+        {
+            "date": "2026-10-22T18:18:04",
+            "elo": 989,
+            "elo_before": 994,
+            "change": -5,
+            "track": "",
+            "finish": 6,
+            "race_id": "756fa66dac49ec777c957fe6e1da682e5279a2f1a4e01642891dd08ca34e8ffc"
         }
     ],
     "izan curia": [
@@ -7095,6 +7122,15 @@
             "track": "",
             "finish": 6,
             "race_id": "bbc980cd96d08c7a2b173cc7649bf834697e88c2be2ae58beb5fdd50214214a0"
+        },
+        {
+            "date": "2026-10-22T18:18:04",
+            "elo": 1090,
+            "elo_before": 1095,
+            "change": -5,
+            "track": "",
+            "finish": 5,
+            "race_id": "756fa66dac49ec777c957fe6e1da682e5279a2f1a4e01642891dd08ca34e8ffc"
         }
     ],
     "Emir Eyupoglu": [
@@ -8652,6 +8688,15 @@
             "track": "",
             "finish": 4,
             "race_id": "e40522a8ad4c323165832d20b76e562cf1f897aed354ab30a0facbc3854d923c"
+        },
+        {
+            "date": "2026-10-22T18:18:04",
+            "elo": 1146,
+            "elo_before": 1164,
+            "change": -18,
+            "track": "",
+            "finish": 7,
+            "race_id": "756fa66dac49ec777c957fe6e1da682e5279a2f1a4e01642891dd08ca34e8ffc"
         }
     ],
     "moe": [
@@ -10749,6 +10794,15 @@
             "track": "",
             "finish": 3,
             "race_id": "177d05d0d881750e6e6894f8f3349521ff277624be1c5484ae548d0b8da61c54"
+        },
+        {
+            "date": "2026-10-22T18:18:04",
+            "elo": 1240,
+            "elo_before": 1232,
+            "change": 8,
+            "track": "",
+            "finish": 1,
+            "race_id": "756fa66dac49ec777c957fe6e1da682e5279a2f1a4e01642891dd08ca34e8ffc"
         }
     ],
     "Fhalopy": [
@@ -16570,6 +16624,15 @@
             "track": "",
             "finish": 4,
             "race_id": "3e5afce5e39267f5db4a17eab85da780184ffbe85522f391228180906611b199"
+        },
+        {
+            "date": "2026-10-22T18:18:04",
+            "elo": 1001,
+            "elo_before": 997,
+            "change": 4,
+            "track": "",
+            "finish": 4,
+            "race_id": "756fa66dac49ec777c957fe6e1da682e5279a2f1a4e01642891dd08ca34e8ffc"
         }
     ],
     "oliver": [

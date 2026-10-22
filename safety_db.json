@@ -1,8 +1,8 @@
 {
     "branny": {
         "safety": 295,
-        "races": 56,
-        "contacts": 60,
+        "races": 57,
+        "contacts": 61,
         "clean_races": 31,
         "large_lobby_clean_streak": 0,
         "grade": "S"
@@ -440,18 +440,18 @@
         "grade": "D"
     },
     "Rayo__Wombat": {
-        "safety": 217,
-        "races": 35,
+        "safety": 227,
+        "races": 36,
         "contacts": 48,
-        "clean_races": 13,
+        "clean_races": 14,
         "large_lobby_clean_streak": 0,
         "grade": "A"
     },
     "Ricoway46": {
-        "safety": 225,
-        "races": 34,
+        "safety": 235,
+        "races": 35,
         "contacts": 48,
-        "clean_races": 13,
+        "clean_races": 14,
         "large_lobby_clean_streak": 0,
         "grade": "A"
     },
@@ -702,10 +702,10 @@
         "grade": "B"
     },
     "ola13": {
-        "safety": 232,
-        "races": 36,
+        "safety": 242,
+        "races": 37,
         "contacts": 25,
-        "clean_races": 21,
+        "clean_races": 22,
         "large_lobby_clean_streak": 0,
         "grade": "A"
     },
@@ -718,12 +718,12 @@
         "grade": "A"
     },
     "titonagom08": {
-        "safety": 96,
-        "races": 9,
+        "safety": 106,
+        "races": 10,
         "contacts": 24,
-        "clean_races": 1,
+        "clean_races": 2,
         "large_lobby_clean_streak": 0,
-        "grade": "D"
+        "grade": "C"
     },
     "moleo": {
         "safety": 300,
@@ -772,16 +772,16 @@
     },
     "Danislav1746": {
         "safety": 217,
-        "races": 38,
-        "contacts": 47,
+        "races": 39,
+        "contacts": 48,
         "clean_races": 21,
         "large_lobby_clean_streak": 0,
         "grade": "A"
     },
     "Damien VTEC [TRC]": {
         "safety": 103,
-        "races": 17,
-        "contacts": 20,
+        "races": 18,
+        "contacts": 21,
         "clean_races": 7,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -974,9 +974,9 @@
         "grade": "D"
     },
     "Billy Jones": {
-        "safety": 300,
-        "races": 55,
-        "contacts": 46,
+        "safety": 296,
+        "races": 56,
+        "contacts": 48,
         "clean_races": 34,
         "large_lobby_clean_streak": 0,
         "grade": "S"
@@ -1793,8 +1793,8 @@
     },
     "Dezmo": {
         "safety": 190,
-        "races": 8,
-        "contacts": 0,
+        "races": 9,
+        "contacts": 1,
         "clean_races": 8,
         "large_lobby_clean_streak": 0,
         "grade": "A"
