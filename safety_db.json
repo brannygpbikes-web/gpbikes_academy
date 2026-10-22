@@ -1,9 +1,9 @@
 {
     "branny": {
         "safety": 300,
-        "races": 53,
+        "races": 54,
         "contacts": 57,
-        "clean_races": 30,
+        "clean_races": 31,
         "large_lobby_clean_streak": 0,
         "grade": "S"
     },
@@ -449,8 +449,8 @@
     },
     "Ricoway46": {
         "safety": 230,
-        "races": 31,
-        "contacts": 44,
+        "races": 32,
+        "contacts": 45,
         "clean_races": 12,
         "large_lobby_clean_streak": 0,
         "grade": "A"
@@ -727,8 +727,8 @@
     },
     "moleo": {
         "safety": 300,
-        "races": 54,
-        "contacts": 42,
+        "races": 55,
+        "contacts": 43,
         "clean_races": 32,
         "large_lobby_clean_streak": 0,
         "grade": "S"
