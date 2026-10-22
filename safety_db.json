@@ -448,10 +448,10 @@
         "grade": "A"
     },
     "Ricoway46": {
-        "safety": 225,
-        "races": 30,
+        "safety": 230,
+        "races": 31,
         "contacts": 44,
-        "clean_races": 11,
+        "clean_races": 12,
         "large_lobby_clean_streak": 0,
         "grade": "A"
     },
@@ -727,9 +727,9 @@
     },
     "moleo": {
         "safety": 300,
-        "races": 53,
+        "races": 54,
         "contacts": 42,
-        "clean_races": 31,
+        "clean_races": 32,
         "large_lobby_clean_streak": 0,
         "grade": "S"
     },

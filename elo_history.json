@@ -413,6 +413,15 @@
             "track": "",
             "finish": 1,
             "race_id": "bddce7bbe81bbc6eb2863b2323053ab793378b92c7db9fb482614ed5b82defdc"
+        },
+        {
+            "date": "2026-10-22T17:15:03",
+            "elo": 1222,
+            "elo_before": 1219,
+            "change": 3,
+            "track": "",
+            "finish": 1,
+            "race_id": "0cf9e6e4be2b33ed6b52c0cf7724a4a0379c9819614bcce88d2fee15c6a47bc8"
         }
     ],
     "patrickfaderl98": [
@@ -10879,6 +10888,15 @@
             "track": "",
             "finish": 3,
             "race_id": "e8c82950ea8c94d3562de8fec9fb9ff0129ae8d301b4c5299eb651d5b030289f"
+        },
+        {
+            "date": "2026-10-22T17:15:03",
+            "elo": 1088,
+            "elo_before": 1091,
+            "change": -3,
+            "track": "",
+            "finish": 2,
+            "race_id": "0cf9e6e4be2b33ed6b52c0cf7724a4a0379c9819614bcce88d2fee15c6a47bc8"
         }
     ],
     "J_44": [
