@@ -2170,6 +2170,15 @@
             "track": "",
             "finish": 2,
             "race_id": "756fa66dac49ec777c957fe6e1da682e5279a2f1a4e01642891dd08ca34e8ffc"
+        },
+        {
+            "date": "2026-10-22T18:35:01",
+            "elo": 1034,
+            "elo_before": 1039,
+            "change": -5,
+            "track": "",
+            "finish": 5,
+            "race_id": "9a7adf46f65aac46cba7e71b5027e83128ec5f3c01683849aff1671b7f7da430"
         }
     ],
     "Hopperle#12": [
@@ -7131,6 +7140,15 @@
             "track": "",
             "finish": 5,
             "race_id": "756fa66dac49ec777c957fe6e1da682e5279a2f1a4e01642891dd08ca34e8ffc"
+        },
+        {
+            "date": "2026-10-22T18:35:01",
+            "elo": 1096,
+            "elo_before": 1090,
+            "change": 6,
+            "track": "",
+            "finish": 2,
+            "race_id": "9a7adf46f65aac46cba7e71b5027e83128ec5f3c01683849aff1671b7f7da430"
         }
     ],
     "Emir Eyupoglu": [
@@ -8697,6 +8715,15 @@
             "track": "",
             "finish": 7,
             "race_id": "756fa66dac49ec777c957fe6e1da682e5279a2f1a4e01642891dd08ca34e8ffc"
+        },
+        {
+            "date": "2026-10-22T18:35:01",
+            "elo": 1141,
+            "elo_before": 1146,
+            "change": -5,
+            "track": "",
+            "finish": 4,
+            "race_id": "9a7adf46f65aac46cba7e71b5027e83128ec5f3c01683849aff1671b7f7da430"
         }
     ],
     "moe": [
@@ -10803,6 +10830,15 @@
             "track": "",
             "finish": 1,
             "race_id": "756fa66dac49ec777c957fe6e1da682e5279a2f1a4e01642891dd08ca34e8ffc"
+        },
+        {
+            "date": "2026-10-22T18:35:01",
+            "elo": 1246,
+            "elo_before": 1240,
+            "change": 6,
+            "track": "",
+            "finish": 1,
+            "race_id": "9a7adf46f65aac46cba7e71b5027e83128ec5f3c01683849aff1671b7f7da430"
         }
     ],
     "Fhalopy": [
@@ -12025,6 +12061,15 @@
             "track": "",
             "finish": 6,
             "race_id": "271b9672eba221dbe81cae75c6182e171d3ade387bc0b75dc59acbe6d88c03ee"
+        },
+        {
+            "date": "2026-10-22T18:35:01",
+            "elo": 985,
+            "elo_before": 979,
+            "change": 6,
+            "track": "",
+            "finish": 3,
+            "race_id": "9a7adf46f65aac46cba7e71b5027e83128ec5f3c01683849aff1671b7f7da430"
         }
     ],
     "Pylote": [
@@ -16633,6 +16678,15 @@
             "track": "",
             "finish": 4,
             "race_id": "756fa66dac49ec777c957fe6e1da682e5279a2f1a4e01642891dd08ca34e8ffc"
+        },
+        {
+            "date": "2026-10-22T18:35:01",
+            "elo": 993,
+            "elo_before": 1001,
+            "change": -8,
+            "track": "",
+            "finish": 6,
+            "race_id": "9a7adf46f65aac46cba7e71b5027e83128ec5f3c01683849aff1671b7f7da430"
         }
     ],
     "oliver": [
