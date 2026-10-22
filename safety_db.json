@@ -76,12 +76,12 @@
         "grade": "B"
     },
     "AL": {
-        "safety": 167,
-        "races": 39,
-        "contacts": 55,
+        "safety": 153,
+        "races": 40,
+        "contacts": 57,
         "clean_races": 18,
         "large_lobby_clean_streak": 0,
-        "grade": "A"
+        "grade": "B"
     },
     "Jardoo": {
         "safety": 139,
@@ -620,10 +620,10 @@
         "grade": "C"
     },
     "jorgeguti160": {
-        "safety": 245,
-        "races": 21,
+        "safety": 255,
+        "races": 22,
         "contacts": 20,
-        "clean_races": 11,
+        "clean_races": 12,
         "large_lobby_clean_streak": 0,
         "grade": "A"
     },
@@ -727,9 +727,9 @@
     },
     "moleo": {
         "safety": 300,
-        "races": 51,
+        "races": 52,
         "contacts": 42,
-        "clean_races": 29,
+        "clean_races": 30,
         "large_lobby_clean_streak": 0,
         "grade": "S"
     },
@@ -935,10 +935,10 @@
         "grade": "A"
     },
     "BNJMN": {
-        "safety": 154,
-        "races": 24,
+        "safety": 164,
+        "races": 25,
         "contacts": 26,
-        "clean_races": 13,
+        "clean_races": 14,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     },
@@ -1342,10 +1342,10 @@
         "grade": "D"
     },
     "Spr0cket": {
-        "safety": 139,
-        "races": 12,
+        "safety": 149,
+        "races": 13,
         "contacts": 31,
-        "clean_races": 5,
+        "clean_races": 6,
         "large_lobby_clean_streak": 2,
         "grade": "B"
     },
@@ -1480,9 +1480,9 @@
         "grade": "D"
     },
     "AngeLo": {
-        "safety": 151,
-        "races": 19,
-        "contacts": 13,
+        "safety": 144,
+        "races": 20,
+        "contacts": 14,
         "clean_races": 12,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -1656,9 +1656,9 @@
         "grade": "B"
     },
     "Prove412": {
-        "safety": 204,
-        "races": 6,
-        "contacts": 1,
+        "safety": 197,
+        "races": 7,
+        "contacts": 2,
         "clean_races": 5,
         "large_lobby_clean_streak": 0,
         "grade": "A"

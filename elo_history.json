@@ -395,6 +395,15 @@
             "track": "",
             "finish": 1,
             "race_id": "3e5afce5e39267f5db4a17eab85da780184ffbe85522f391228180906611b199"
+        },
+        {
+            "date": "2026-10-22T16:42:06",
+            "elo": 1216,
+            "elo_before": 1215,
+            "change": 1,
+            "track": "",
+            "finish": 2,
+            "race_id": "86b1bf5518c0028b05c3066cbf7056391f6daee96830f28d0c49de3380d3294e"
         }
     ],
     "patrickfaderl98": [
@@ -7962,6 +7971,15 @@
             "track": "",
             "finish": 3,
             "race_id": "eb035bafbe9487d7222b46cc9ce3ac9665e5530e19d7010b82870afed91b9efe"
+        },
+        {
+            "date": "2026-10-22T16:42:06",
+            "elo": 969,
+            "elo_before": 969,
+            "change": 0,
+            "track": "",
+            "finish": 4,
+            "race_id": "86b1bf5518c0028b05c3066cbf7056391f6daee96830f28d0c49de3380d3294e"
         }
     ],
     "Eder Merino": [
@@ -13670,6 +13688,15 @@
             "track": "",
             "finish": 4,
             "race_id": "eb035bafbe9487d7222b46cc9ce3ac9665e5530e19d7010b82870afed91b9efe"
+        },
+        {
+            "date": "2026-10-22T16:42:06",
+            "elo": 1100,
+            "elo_before": 1091,
+            "change": 9,
+            "track": "",
+            "finish": 1,
+            "race_id": "86b1bf5518c0028b05c3066cbf7056391f6daee96830f28d0c49de3380d3294e"
         }
     ],
     "aeziahh on tt": [
@@ -15377,6 +15404,15 @@
             "track": "",
             "finish": 8,
             "race_id": "19651945fefe1b30b517ef174b0f17e4b081200ddfc62d38ff804eb68f62a957"
+        },
+        {
+            "date": "2026-10-22T16:42:06",
+            "elo": 951,
+            "elo_before": 960,
+            "change": -9,
+            "track": "",
+            "finish": 6,
+            "race_id": "86b1bf5518c0028b05c3066cbf7056391f6daee96830f28d0c49de3380d3294e"
         }
     ],
     "Maximoquiles28": [
@@ -15624,6 +15660,15 @@
             "track": "",
             "finish": 5,
             "race_id": "f819b0a125f694c1e31360253bc20de5a27b8ad5ab8ea86ef14c3c1b34793caf"
+        },
+        {
+            "date": "2026-10-22T16:42:06",
+            "elo": 885,
+            "elo_before": 887,
+            "change": -2,
+            "track": "",
+            "finish": 5,
+            "race_id": "86b1bf5518c0028b05c3066cbf7056391f6daee96830f28d0c49de3380d3294e"
         }
     ],
     "No Pain No Tartine": [
@@ -16439,6 +16484,15 @@
             "track": "",
             "finish": 1,
             "race_id": "eb035bafbe9487d7222b46cc9ce3ac9665e5530e19d7010b82870afed91b9efe"
+        },
+        {
+            "date": "2026-10-22T16:42:06",
+            "elo": 1064,
+            "elo_before": 1063,
+            "change": 1,
+            "track": "",
+            "finish": 3,
+            "race_id": "86b1bf5518c0028b05c3066cbf7056391f6daee96830f28d0c49de3380d3294e"
         }
     ],
     "Hook": [
