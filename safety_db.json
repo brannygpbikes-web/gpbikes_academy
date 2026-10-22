@@ -107,11 +107,11 @@
         "grade": "A"
     },
     "chilliams": {
-        "safety": 183,
-        "races": 31,
-        "contacts": 31,
+        "safety": 175,
+        "races": 32,
+        "contacts": 33,
         "clean_races": 14,
-        "large_lobby_clean_streak": 1,
+        "large_lobby_clean_streak": 0,
         "grade": "A"
     },
     "Simone Ghilardini": {
@@ -223,10 +223,10 @@
         "grade": "D"
     },
     "filipknigge20": {
-        "safety": 298,
-        "races": 60,
+        "safety": 300,
+        "races": 61,
         "contacts": 61,
-        "clean_races": 29,
+        "clean_races": 30,
         "large_lobby_clean_streak": 2,
         "grade": "S"
     },
@@ -370,10 +370,10 @@
         "grade": "D"
     },
     "waldodj": {
-        "safety": 200,
-        "races": 35,
+        "safety": 210,
+        "races": 36,
         "contacts": 29,
-        "clean_races": 18,
+        "clean_races": 19,
         "large_lobby_clean_streak": 1,
         "grade": "A"
     },
@@ -541,9 +541,9 @@
         "grade": "C"
     },
     "Dario Andreoni": {
-        "safety": 295,
-        "races": 47,
-        "contacts": 33,
+        "safety": 287,
+        "races": 48,
+        "contacts": 35,
         "clean_races": 29,
         "large_lobby_clean_streak": 0,
         "grade": "S"
@@ -588,11 +588,11 @@
         "grade": "A"
     },
     "N1rmata": {
-        "safety": 277,
-        "races": 34,
-        "contacts": 57,
+        "safety": 269,
+        "races": 35,
+        "contacts": 59,
         "clean_races": 17,
-        "large_lobby_clean_streak": 4,
+        "large_lobby_clean_streak": 0,
         "grade": "S"
     },
     "JKR": {
@@ -788,11 +788,11 @@
         "grade": "C"
     },
     "Gonzalo Molina": {
-        "safety": 300,
-        "races": 35,
-        "contacts": 31,
+        "safety": 296,
+        "races": 36,
+        "contacts": 32,
         "clean_races": 23,
-        "large_lobby_clean_streak": 6,
+        "large_lobby_clean_streak": 0,
         "grade": "S"
     },
     "Scuderia Silence (tascione)": {
@@ -936,9 +936,9 @@
         "grade": "A"
     },
     "BNJMN": {
-        "safety": 159,
-        "races": 26,
-        "contacts": 27,
+        "safety": 151,
+        "races": 27,
+        "contacts": 29,
         "clean_races": 14,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -1047,11 +1047,11 @@
         "grade": "B"
     },
     "skalf": {
-        "safety": 112,
-        "races": 7,
-        "contacts": 6,
+        "safety": 104,
+        "races": 8,
+        "contacts": 8,
         "clean_races": 2,
-        "large_lobby_clean_streak": 1,
+        "large_lobby_clean_streak": 0,
         "grade": "C"
     },
     "Hopperle#12": {
@@ -1103,9 +1103,9 @@
         "grade": "B"
     },
     "zee": {
-        "safety": 82,
-        "races": 7,
-        "contacts": 13,
+        "safety": 78,
+        "races": 8,
+        "contacts": 14,
         "clean_races": 1,
         "large_lobby_clean_streak": 0,
         "grade": "D"

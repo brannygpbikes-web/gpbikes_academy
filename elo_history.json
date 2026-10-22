@@ -1465,6 +1465,15 @@
             "track": "",
             "finish": 1,
             "race_id": "6d1735ea521c29406d9687971e76f0efe76f3b7de7b481fd2d47ba76463833f5"
+        },
+        {
+            "date": "2026-10-22T19:39:26",
+            "elo": 1179,
+            "elo_before": 1190,
+            "change": -11,
+            "track": "",
+            "finish": 7,
+            "race_id": "bd8f107779772abfb03e65b611749ae70080c2daf970b80dd2f82c75ac332763"
         }
     ],
     "Nuno": [
@@ -2049,6 +2058,15 @@
             "track": "",
             "finish": 3,
             "race_id": "14b2f49c88e086a3762e41dc8972fbb20145ba45d9798eb1461cf06747287fd4"
+        },
+        {
+            "date": "2026-10-22T19:39:26",
+            "elo": 958,
+            "elo_before": 956,
+            "change": 2,
+            "track": "",
+            "finish": 6,
+            "race_id": "bd8f107779772abfb03e65b611749ae70080c2daf970b80dd2f82c75ac332763"
         }
     ],
     "Eneko Garcia #14": [
@@ -3778,6 +3796,15 @@
             "track": "",
             "finish": 1,
             "race_id": "14b2f49c88e086a3762e41dc8972fbb20145ba45d9798eb1461cf06747287fd4"
+        },
+        {
+            "date": "2026-10-22T19:39:26",
+            "elo": 1096,
+            "elo_before": 1092,
+            "change": 4,
+            "track": "",
+            "finish": 4,
+            "race_id": "bd8f107779772abfb03e65b611749ae70080c2daf970b80dd2f82c75ac332763"
         }
     ],
     "waldodj": [
@@ -3915,6 +3942,15 @@
             "track": "",
             "finish": 4,
             "race_id": "14b2f49c88e086a3762e41dc8972fbb20145ba45d9798eb1461cf06747287fd4"
+        },
+        {
+            "date": "2026-10-22T19:39:26",
+            "elo": 1166,
+            "elo_before": 1181,
+            "change": -15,
+            "track": "",
+            "finish": 8,
+            "race_id": "bd8f107779772abfb03e65b611749ae70080c2daf970b80dd2f82c75ac332763"
         }
     ],
     "sergio14moto": [
@@ -6143,6 +6179,15 @@
             "track": "",
             "finish": 8,
             "race_id": "eb035bafbe9487d7222b46cc9ce3ac9665e5530e19d7010b82870afed91b9efe"
+        },
+        {
+            "date": "2026-10-22T19:39:26",
+            "elo": 946,
+            "elo_before": 955,
+            "change": -9,
+            "track": "",
+            "finish": 9,
+            "race_id": "bd8f107779772abfb03e65b611749ae70080c2daf970b80dd2f82c75ac332763"
         }
     ],
     "ola13": [
@@ -8308,6 +8353,15 @@
             "track": "",
             "finish": 2,
             "race_id": "070de2e6ca82619c2afa30371bb317ef3bd798c4338f99abbc63c1d0fd202421"
+        },
+        {
+            "date": "2026-10-22T19:39:26",
+            "elo": 1060,
+            "elo_before": 1058,
+            "change": 2,
+            "track": "",
+            "finish": 5,
+            "race_id": "bd8f107779772abfb03e65b611749ae70080c2daf970b80dd2f82c75ac332763"
         }
     ],
     "Billy Jones": [
@@ -9456,6 +9510,15 @@
             "track": "",
             "finish": 13,
             "race_id": "22ea5b1987bfa754cae0e5b863152182cc1581e7e8ddf6dbaaf8a33c3ade1257"
+        },
+        {
+            "date": "2026-10-22T19:39:26",
+            "elo": 1107,
+            "elo_before": 1093,
+            "change": 14,
+            "track": "",
+            "finish": 1,
+            "race_id": "bd8f107779772abfb03e65b611749ae70080c2daf970b80dd2f82c75ac332763"
         }
     ],
     "Aggressive Tax collector": [
@@ -13406,6 +13469,15 @@
             "track": "",
             "finish": 1,
             "race_id": "fd4a93890acf5d547b1794f276627c2ed8ce9e59c081975f59175030000dc607"
+        },
+        {
+            "date": "2026-10-22T19:39:26",
+            "elo": 1245,
+            "elo_before": 1244,
+            "change": 1,
+            "track": "",
+            "finish": 3,
+            "race_id": "bd8f107779772abfb03e65b611749ae70080c2daf970b80dd2f82c75ac332763"
         }
     ],
     "Creisi48": [
@@ -16853,6 +16925,15 @@
             "track": "",
             "finish": 2,
             "race_id": "14b2f49c88e086a3762e41dc8972fbb20145ba45d9798eb1461cf06747287fd4"
+        },
+        {
+            "date": "2026-10-22T19:39:26",
+            "elo": 1079,
+            "elo_before": 1067,
+            "change": 12,
+            "track": "",
+            "finish": 2,
+            "race_id": "bd8f107779772abfb03e65b611749ae70080c2daf970b80dd2f82c75ac332763"
         }
     ],
     "Hook": [
