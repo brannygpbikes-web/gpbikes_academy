@@ -650,11 +650,12 @@
         "grade": "C"
     },
     "Bonzo": {
-        "safety": 120,
-        "races": 1,
+        "safety": 125,
+        "races": 2,
         "contacts": 1,
-        "clean_races": 0,
-        "grade": "C"
+        "clean_races": 1,
+        "grade": "B",
+        "large_lobby_clean_streak": 0
     },
     "Konyandi": {
         "safety": 125,
@@ -771,9 +772,9 @@
         "grade": "B"
     },
     "Danislav1746": {
-        "safety": 217,
-        "races": 40,
-        "contacts": 49,
+        "safety": 187,
+        "races": 41,
+        "contacts": 54,
         "clean_races": 21,
         "large_lobby_clean_streak": 0,
         "grade": "A"
@@ -974,9 +975,9 @@
         "grade": "D"
     },
     "Billy Jones": {
-        "safety": 296,
-        "races": 57,
-        "contacts": 49,
+        "safety": 266,
+        "races": 58,
+        "contacts": 54,
         "clean_races": 34,
         "large_lobby_clean_streak": 0,
         "grade": "S"

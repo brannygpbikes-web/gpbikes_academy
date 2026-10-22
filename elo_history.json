@@ -8724,6 +8724,15 @@
             "track": "",
             "finish": 4,
             "race_id": "9a7adf46f65aac46cba7e71b5027e83128ec5f3c01683849aff1671b7f7da430"
+        },
+        {
+            "date": "2026-10-22T18:51:56",
+            "elo": 1147,
+            "elo_before": 1141,
+            "change": 6,
+            "track": "",
+            "finish": 1,
+            "race_id": "b3c572eecbab5fb2800de21224ae34e12a82ae35b62c9dd1921515a22d405997"
         }
     ],
     "moe": [
@@ -10839,6 +10848,15 @@
             "track": "",
             "finish": 1,
             "race_id": "9a7adf46f65aac46cba7e71b5027e83128ec5f3c01683849aff1671b7f7da430"
+        },
+        {
+            "date": "2026-10-22T18:51:56",
+            "elo": 1240,
+            "elo_before": 1246,
+            "change": -6,
+            "track": "",
+            "finish": 2,
+            "race_id": "b3c572eecbab5fb2800de21224ae34e12a82ae35b62c9dd1921515a22d405997"
         }
     ],
     "Fhalopy": [
