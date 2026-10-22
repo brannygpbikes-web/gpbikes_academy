@@ -2040,6 +2040,15 @@
             "track": "",
             "finish": 10,
             "race_id": "e38b4a2e0ae0f8c8d6496ab6f6fa9f79b21eb6ed28f34b1559e2733042ca5211"
+        },
+        {
+            "date": "2026-10-22T19:21:48",
+            "elo": 956,
+            "elo_before": 956,
+            "change": 0,
+            "track": "",
+            "finish": 3,
+            "race_id": "14b2f49c88e086a3762e41dc8972fbb20145ba45d9798eb1461cf06747287fd4"
         }
     ],
     "Eneko Garcia #14": [
@@ -3760,6 +3769,15 @@
             "track": "",
             "finish": 1,
             "race_id": "e8c82950ea8c94d3562de8fec9fb9ff0129ae8d301b4c5299eb651d5b030289f"
+        },
+        {
+            "date": "2026-10-22T19:21:48",
+            "elo": 1092,
+            "elo_before": 1084,
+            "change": 8,
+            "track": "",
+            "finish": 1,
+            "race_id": "14b2f49c88e086a3762e41dc8972fbb20145ba45d9798eb1461cf06747287fd4"
         }
     ],
     "waldodj": [
@@ -3888,6 +3906,15 @@
             "track": "",
             "finish": 2,
             "race_id": "bfaaa87f24537392b144a957ca6c5d9942e72cfa20becd89f757cbe1454a825a"
+        },
+        {
+            "date": "2026-10-22T19:21:48",
+            "elo": 1181,
+            "elo_before": 1192,
+            "change": -11,
+            "track": "",
+            "finish": 4,
+            "race_id": "14b2f49c88e086a3762e41dc8972fbb20145ba45d9798eb1461cf06747287fd4"
         }
     ],
     "sergio14moto": [
@@ -16817,6 +16844,15 @@
             "track": "",
             "finish": 3,
             "race_id": "86b1bf5518c0028b05c3066cbf7056391f6daee96830f28d0c49de3380d3294e"
+        },
+        {
+            "date": "2026-10-22T19:21:48",
+            "elo": 1067,
+            "elo_before": 1064,
+            "change": 3,
+            "track": "",
+            "finish": 2,
+            "race_id": "14b2f49c88e086a3762e41dc8972fbb20145ba45d9798eb1461cf06747287fd4"
         }
     ],
     "Hook": [

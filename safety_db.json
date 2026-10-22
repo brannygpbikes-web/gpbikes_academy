@@ -370,10 +370,10 @@
         "grade": "D"
     },
     "waldodj": {
-        "safety": 195,
-        "races": 34,
+        "safety": 200,
+        "races": 35,
         "contacts": 29,
-        "clean_races": 17,
+        "clean_races": 18,
         "large_lobby_clean_streak": 1,
         "grade": "A"
     },
@@ -541,11 +541,11 @@
         "grade": "C"
     },
     "Dario Andreoni": {
-        "safety": 300,
-        "races": 46,
-        "contacts": 32,
+        "safety": 295,
+        "races": 47,
+        "contacts": 33,
         "clean_races": 29,
-        "large_lobby_clean_streak": 9,
+        "large_lobby_clean_streak": 0,
         "grade": "S"
     },
     "Kubon": {
@@ -936,9 +936,9 @@
         "grade": "A"
     },
     "BNJMN": {
-        "safety": 164,
-        "races": 25,
-        "contacts": 26,
+        "safety": 159,
+        "races": 26,
+        "contacts": 27,
         "clean_races": 14,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -1047,10 +1047,10 @@
         "grade": "B"
     },
     "skalf": {
-        "safety": 107,
-        "races": 6,
+        "safety": 112,
+        "races": 7,
         "contacts": 6,
-        "clean_races": 1,
+        "clean_races": 2,
         "large_lobby_clean_streak": 1,
         "grade": "C"
     },
