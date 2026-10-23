@@ -790,9 +790,9 @@
     },
     "Gonzalo Molina": {
         "safety": 300,
-        "races": 40,
+        "races": 41,
         "contacts": 36,
-        "clean_races": 25,
+        "clean_races": 26,
         "large_lobby_clean_streak": 1,
         "grade": "S"
     },
@@ -1434,18 +1434,18 @@
         "grade": "C"
     },
     "sergioo14": {
-        "safety": 159,
-        "races": 36,
-        "contacts": 62,
+        "safety": 149,
+        "races": 37,
+        "contacts": 64,
         "clean_races": 24,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     },
     "Ibai Merino": {
-        "safety": 142,
-        "races": 8,
+        "safety": 147,
+        "races": 9,
         "contacts": 18,
-        "clean_races": 2,
+        "clean_races": 3,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     },
@@ -1960,5 +1960,13 @@
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "B"
+    },
+    "xXxDeadpoolxXx": {
+        "safety": 115,
+        "races": 1,
+        "contacts": 2,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "C"
     }
 }

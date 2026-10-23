@@ -13492,6 +13492,15 @@
             "track": "",
             "finish": 7,
             "race_id": "29e822bae0873749f8eb76a7d58c382851284f581a8d0964cea83cc4984a4135"
+        },
+        {
+            "date": "2026-10-23T16:19:12",
+            "elo": 975,
+            "elo_before": 968,
+            "change": 7,
+            "track": "",
+            "finish": 2,
+            "race_id": "bcd78149018db083edfb97c3a2f85ea3207740a39c51205f6ef9ebb357f2a4ed"
         }
     ],
     "sergioo14": [
@@ -13728,6 +13737,15 @@
             "track": "",
             "finish": 10,
             "race_id": "9effbaa5b8ed10f4ff9b923cecd4cbd69008ddc5e1abfe02e2d94b452571272b"
+        },
+        {
+            "date": "2026-10-23T16:19:12",
+            "elo": 898,
+            "elo_before": 897,
+            "change": 1,
+            "track": "",
+            "finish": 3,
+            "race_id": "bcd78149018db083edfb97c3a2f85ea3207740a39c51205f6ef9ebb357f2a4ed"
         }
     ],
     "Gonzalo Molina": [
@@ -13955,6 +13973,15 @@
             "track": "",
             "finish": 1,
             "race_id": "9effbaa5b8ed10f4ff9b923cecd4cbd69008ddc5e1abfe02e2d94b452571272b"
+        },
+        {
+            "date": "2026-10-23T16:19:12",
+            "elo": 1274,
+            "elo_before": 1271,
+            "change": 3,
+            "track": "",
+            "finish": 1,
+            "race_id": "bcd78149018db083edfb97c3a2f85ea3207740a39c51205f6ef9ebb357f2a4ed"
         }
     ],
     "Creisi48": [
@@ -17912,6 +17939,17 @@
             "track": "",
             "finish": 6,
             "race_id": "72261ff4b1f223111617738a89c83c1fdc1a415eb3c72a56213175d00462c286"
+        }
+    ],
+    "xXxDeadpoolxXx": [
+        {
+            "date": "2026-10-23T16:19:12",
+            "elo": 989,
+            "elo_before": 1000,
+            "change": -11,
+            "track": "",
+            "finish": 4,
+            "race_id": "bcd78149018db083edfb97c3a2f85ea3207740a39c51205f6ef9ebb357f2a4ed"
         }
     ]
 }
