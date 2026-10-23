@@ -174,10 +174,10 @@
         "podiums": 16
     },
     "filipknigge20": {
-        "elo": 1209,
+        "elo": 1215,
         "wins": 24,
-        "races": 77,
-        "podiums": 53
+        "races": 78,
+        "podiums": 54
     },
     "Billy Jones": {
         "elo": 1155,
@@ -192,9 +192,9 @@
         "podiums": 15
     },
     "Danny Hinkelmann14": {
-        "elo": 1089,
+        "elo": 1063,
         "wins": 7,
-        "races": 70,
+        "races": 71,
         "podiums": 23
     },
     "Santos47": {
@@ -318,9 +318,9 @@
         "podiums": 0
     },
     "Dario Andreoni": {
-        "elo": 1109,
+        "elo": 1110,
         "wins": 8,
-        "races": 56,
+        "races": 57,
         "podiums": 28
     },
     "titonagom08": {
@@ -672,9 +672,9 @@
         "podiums": 2
     },
     "JKR": {
-        "elo": 1003,
+        "elo": 1006,
         "wins": 1,
-        "races": 12,
+        "races": 13,
         "podiums": 2
     },
     "niggaboy#46": {
@@ -900,9 +900,9 @@
         "podiums": 2
     },
     "Rk_44": {
-        "elo": 774,
+        "elo": 778,
         "wins": 0,
-        "races": 63,
+        "races": 64,
         "podiums": 8
     },
     "Maximo Giro": {
@@ -978,10 +978,10 @@
         "podiums": 0
     },
     "oover": {
-        "elo": 1164,
-        "wins": 9,
-        "races": 29,
-        "podiums": 16
+        "elo": 1179,
+        "wins": 10,
+        "races": 30,
+        "podiums": 17
     },
     "queefmccheif": {
         "elo": 985,
@@ -1350,9 +1350,9 @@
         "podiums": 1
     },
     "Skittlez": {
-        "elo": 991,
+        "elo": 989,
         "wins": 0,
-        "races": 2,
+        "races": 3,
         "podiums": 0
     },
     "Finnvl": {
@@ -1530,10 +1530,10 @@
         "podiums": 1
     },
     "kam dixon": {
-        "elo": 1009,
+        "elo": 1022,
         "wins": 0,
-        "races": 1,
-        "podiums": 0
+        "races": 2,
+        "podiums": 1
     },
     "xXxDeadpoolxXx": {
         "elo": 988,
@@ -1552,5 +1552,11 @@
         "wins": 0,
         "races": 1,
         "podiums": 1
+    },
+    "bj": {
+        "elo": 986,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
     }
 }
