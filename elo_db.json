@@ -66,9 +66,9 @@
         "podiums": 0
     },
     "Ibai Merino": {
-        "elo": 975,
+        "elo": 965,
         "wins": 0,
-        "races": 10,
+        "races": 11,
         "podiums": 2
     },
     "Simone Ghilardini": {
@@ -108,9 +108,9 @@
         "podiums": 0
     },
     "BNJMN": {
-        "elo": 1082,
+        "elo": 1074,
         "wins": 9,
-        "races": 33,
+        "races": 34,
         "podiums": 17
     },
     "Spud": {
@@ -156,10 +156,10 @@
         "podiums": 0
     },
     "Gonzalo Molina": {
-        "elo": 1274,
-        "wins": 28,
-        "races": 49,
-        "podiums": 40
+        "elo": 1278,
+        "wins": 29,
+        "races": 50,
+        "podiums": 41
     },
     "NJIRK5211": {
         "elo": 1093,
@@ -1152,10 +1152,10 @@
         "podiums": 0
     },
     "sergioo14": {
-        "elo": 898,
+        "elo": 904,
         "wins": 1,
-        "races": 27,
-        "podiums": 3
+        "races": 28,
+        "podiums": 4
     },
     "Creisi48": {
         "elo": 1028,
@@ -1536,9 +1536,9 @@
         "podiums": 0
     },
     "xXxDeadpoolxXx": {
-        "elo": 989,
+        "elo": 997,
         "wins": 0,
-        "races": 1,
-        "podiums": 0
+        "races": 2,
+        "podiums": 1
     }
 }
