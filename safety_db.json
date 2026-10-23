@@ -285,11 +285,11 @@
         "grade": "B"
     },
     "AwashMicrobe": {
-        "safety": 95,
-        "races": 21,
-        "contacts": 51,
+        "safety": 85,
+        "races": 22,
+        "contacts": 53,
         "clean_races": 8,
-        "large_lobby_clean_streak": 1,
+        "large_lobby_clean_streak": 0,
         "grade": "D"
     },
     "KeyWay22": {
@@ -789,11 +789,11 @@
         "grade": "C"
     },
     "Gonzalo Molina": {
-        "safety": 300,
-        "races": 42,
-        "contacts": 36,
+        "safety": 290,
+        "races": 43,
+        "contacts": 38,
         "clean_races": 27,
-        "large_lobby_clean_streak": 1,
+        "large_lobby_clean_streak": 0,
         "grade": "S"
     },
     "Scuderia Silence (tascione)": {
@@ -937,9 +937,9 @@
         "grade": "A"
     },
     "BNJMN": {
-        "safety": 146,
-        "races": 29,
-        "contacts": 34,
+        "safety": 136,
+        "races": 30,
+        "contacts": 36,
         "clean_races": 15,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -1962,12 +1962,12 @@
         "grade": "B"
     },
     "xXxDeadpoolxXx": {
-        "safety": 125,
-        "races": 2,
-        "contacts": 2,
+        "safety": 115,
+        "races": 3,
+        "contacts": 4,
         "clean_races": 1,
         "large_lobby_clean_streak": 0,
-        "grade": "B"
+        "grade": "C"
     },
     "Ovengroente": {
         "safety": 135,

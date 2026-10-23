@@ -108,10 +108,10 @@
         "podiums": 0
     },
     "BNJMN": {
-        "elo": 1074,
+        "elo": 1078,
         "wins": 9,
-        "races": 34,
-        "podiums": 17
+        "races": 35,
+        "podiums": 18
     },
     "Spud": {
         "elo": 991,
@@ -156,10 +156,10 @@
         "podiums": 0
     },
     "Gonzalo Molina": {
-        "elo": 1278,
-        "wins": 29,
-        "races": 50,
-        "podiums": 41
+        "elo": 1283,
+        "wins": 30,
+        "races": 51,
+        "podiums": 42
     },
     "NJIRK5211": {
         "elo": 1093,
@@ -242,8 +242,8 @@
     "AwashMicrobe": {
         "elo": 984,
         "wins": 2,
-        "races": 23,
-        "podiums": 3
+        "races": 24,
+        "podiums": 4
     },
     "JW2Stupid": {
         "elo": 1074,
@@ -1536,9 +1536,9 @@
         "podiums": 0
     },
     "xXxDeadpoolxXx": {
-        "elo": 997,
+        "elo": 988,
         "wins": 0,
-        "races": 2,
+        "races": 3,
         "podiums": 1
     }
 }

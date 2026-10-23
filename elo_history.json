@@ -3484,6 +3484,15 @@
             "track": "",
             "finish": 9,
             "race_id": "2a475c806fd23233ba067edfc48a1d5297d7251c4474cdbb4d78a05f86bed6e5"
+        },
+        {
+            "date": "2026-10-23T16:55:11",
+            "elo": 984,
+            "elo_before": 984,
+            "change": 0,
+            "track": "",
+            "finish": 3,
+            "race_id": "be228b55f2fc9420270ea4a5950ee704191611aba8e89acebcf7f8f4ec96d28f"
         }
     ],
     "Dede": [
@@ -14009,6 +14018,15 @@
             "track": "",
             "finish": 1,
             "race_id": "481a2d525ba94892f4094dfebad7fa5f68cfe4d610be7a2885a0666984649283"
+        },
+        {
+            "date": "2026-10-23T16:55:11",
+            "elo": 1283,
+            "elo_before": 1278,
+            "change": 5,
+            "track": "",
+            "finish": 1,
+            "race_id": "be228b55f2fc9420270ea4a5950ee704191611aba8e89acebcf7f8f4ec96d28f"
         }
     ],
     "Creisi48": [
@@ -17555,6 +17573,15 @@
             "track": "",
             "finish": 4,
             "race_id": "481a2d525ba94892f4094dfebad7fa5f68cfe4d610be7a2885a0666984649283"
+        },
+        {
+            "date": "2026-10-23T16:55:11",
+            "elo": 1078,
+            "elo_before": 1074,
+            "change": 4,
+            "track": "",
+            "finish": 2,
+            "race_id": "be228b55f2fc9420270ea4a5950ee704191611aba8e89acebcf7f8f4ec96d28f"
         }
     ],
     "Hook": [
@@ -17995,6 +18022,15 @@
             "track": "",
             "finish": 2,
             "race_id": "481a2d525ba94892f4094dfebad7fa5f68cfe4d610be7a2885a0666984649283"
+        },
+        {
+            "date": "2026-10-23T16:55:11",
+            "elo": 988,
+            "elo_before": 997,
+            "change": -9,
+            "track": "",
+            "finish": 4,
+            "race_id": "be228b55f2fc9420270ea4a5950ee704191611aba8e89acebcf7f8f4ec96d28f"
         }
     ]
 }
