@@ -107,10 +107,10 @@
         "grade": "A"
     },
     "chilliams": {
-        "safety": 219,
-        "races": 35,
+        "safety": 224,
+        "races": 36,
         "contacts": 35,
-        "clean_races": 16,
+        "clean_races": 17,
         "large_lobby_clean_streak": 1,
         "grade": "A"
     },
@@ -124,9 +124,9 @@
     },
     "EgoMan": {
         "safety": 300,
-        "races": 49,
+        "races": 50,
         "contacts": 55,
-        "clean_races": 26,
+        "clean_races": 27,
         "grade": "S",
         "large_lobby_clean_streak": 2
     },
@@ -1946,10 +1946,10 @@
         "grade": "B"
     },
     "jmanuel_fs": {
-        "safety": 107,
-        "races": 1,
+        "safety": 112,
+        "races": 2,
         "contacts": 3,
-        "clean_races": 0,
+        "clean_races": 1,
         "large_lobby_clean_streak": 0,
         "grade": "C"
     },
