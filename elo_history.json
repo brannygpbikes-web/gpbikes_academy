@@ -777,6 +777,15 @@
             "track": "",
             "finish": 7,
             "race_id": "4efbf2ef343f44fd403aa1e8558aaef3a4bfaedf64fcacc6af303ec775d57708"
+        },
+        {
+            "date": "2026-10-23T19:08:25",
+            "elo": 867,
+            "elo_before": 880,
+            "change": -13,
+            "track": "",
+            "finish": 8,
+            "race_id": "b104ec6f99475e973b62d74bdb47963223cbd57c51a6877e68c9b9a318bfb01b"
         }
     ],
     "Danny Hinkelmann14": [
@@ -1265,6 +1274,15 @@
             "track": "",
             "finish": 3,
             "race_id": "4efbf2ef343f44fd403aa1e8558aaef3a4bfaedf64fcacc6af303ec775d57708"
+        },
+        {
+            "date": "2026-10-23T19:08:25",
+            "elo": 1089,
+            "elo_before": 1090,
+            "change": -1,
+            "track": "",
+            "finish": 4,
+            "race_id": "b104ec6f99475e973b62d74bdb47963223cbd57c51a6877e68c9b9a318bfb01b"
         }
     ],
     "filipknigge20": [
@@ -1717,6 +1735,15 @@
             "track": "",
             "finish": 2,
             "race_id": "4efbf2ef343f44fd403aa1e8558aaef3a4bfaedf64fcacc6af303ec775d57708"
+        },
+        {
+            "date": "2026-10-23T19:08:25",
+            "elo": 1209,
+            "elo_before": 1204,
+            "change": 5,
+            "track": "",
+            "finish": 2,
+            "race_id": "b104ec6f99475e973b62d74bdb47963223cbd57c51a6877e68c9b9a318bfb01b"
         }
     ],
     "Nuno": [
@@ -2337,6 +2364,15 @@
             "track": "",
             "finish": 9,
             "race_id": "4efbf2ef343f44fd403aa1e8558aaef3a4bfaedf64fcacc6af303ec775d57708"
+        },
+        {
+            "date": "2026-10-23T19:08:25",
+            "elo": 953,
+            "elo_before": 951,
+            "change": 2,
+            "track": "",
+            "finish": 5,
+            "race_id": "b104ec6f99475e973b62d74bdb47963223cbd57c51a6877e68c9b9a318bfb01b"
         }
     ],
     "Eneko Garcia #14": [
@@ -4156,6 +4192,15 @@
             "track": "",
             "finish": 2,
             "race_id": "d063d4061ebc868f6ac3f023905f5e2efe149e9b968e0bc7f56ddc0aff9a90c4"
+        },
+        {
+            "date": "2026-10-23T19:08:25",
+            "elo": 1109,
+            "elo_before": 1105,
+            "change": 4,
+            "track": "",
+            "finish": 3,
+            "race_id": "b104ec6f99475e973b62d74bdb47963223cbd57c51a6877e68c9b9a318bfb01b"
         }
     ],
     "waldodj": [
@@ -10954,6 +10999,15 @@
             "track": "",
             "finish": 1,
             "race_id": "4efbf2ef343f44fd403aa1e8558aaef3a4bfaedf64fcacc6af303ec775d57708"
+        },
+        {
+            "date": "2026-10-23T19:08:25",
+            "elo": 1164,
+            "elo_before": 1149,
+            "change": 15,
+            "track": "",
+            "finish": 1,
+            "race_id": "b104ec6f99475e973b62d74bdb47963223cbd57c51a6877e68c9b9a318bfb01b"
         }
     ],
     "queefmccheif": [
@@ -12570,6 +12624,15 @@
             "track": "",
             "finish": 4,
             "race_id": "4efbf2ef343f44fd403aa1e8558aaef3a4bfaedf64fcacc6af303ec775d57708"
+        },
+        {
+            "date": "2026-10-23T19:08:25",
+            "elo": 951,
+            "elo_before": 963,
+            "change": -12,
+            "track": "",
+            "finish": 7,
+            "race_id": "b104ec6f99475e973b62d74bdb47963223cbd57c51a6877e68c9b9a318bfb01b"
         }
     ],
     "reN": [
@@ -17082,6 +17145,15 @@
             "track": "",
             "finish": 11,
             "race_id": "4efbf2ef343f44fd403aa1e8558aaef3a4bfaedf64fcacc6af303ec775d57708"
+        },
+        {
+            "date": "2026-10-23T19:08:25",
+            "elo": 866,
+            "elo_before": 866,
+            "change": 0,
+            "track": "",
+            "finish": 6,
+            "race_id": "b104ec6f99475e973b62d74bdb47963223cbd57c51a6877e68c9b9a318bfb01b"
         }
     ],
     "No Pain No Tartine": [
