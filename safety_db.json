@@ -8,12 +8,12 @@
         "grade": "S"
     },
     "pr1c3y": {
-        "safety": 136,
-        "races": 20,
-        "contacts": 16,
+        "safety": 120,
+        "races": 21,
+        "contacts": 20,
         "clean_races": 11,
         "large_lobby_clean_streak": 0,
-        "grade": "B"
+        "grade": "C"
     },
     "sandnes": {
         "safety": 190,
@@ -541,10 +541,10 @@
         "grade": "C"
     },
     "Dario Andreoni": {
-        "safety": 294,
-        "races": 54,
+        "safety": 300,
+        "races": 55,
         "contacts": 42,
-        "clean_races": 30,
+        "clean_races": 31,
         "large_lobby_clean_streak": 0,
         "grade": "S"
     },
@@ -758,9 +758,9 @@
         "grade": "B"
     },
     "Rk_44": {
-        "safety": 293,
-        "races": 69,
-        "contacts": 47,
+        "safety": 285,
+        "races": 70,
+        "contacts": 49,
         "clean_races": 44,
         "large_lobby_clean_streak": 0,
         "grade": "S"
@@ -937,12 +937,12 @@
         "grade": "A"
     },
     "BNJMN": {
-        "safety": 136,
-        "races": 30,
-        "contacts": 36,
+        "safety": 124,
+        "races": 31,
+        "contacts": 39,
         "clean_races": 15,
         "large_lobby_clean_streak": 0,
-        "grade": "B"
+        "grade": "C"
     },
     "adrianrufin7": {
         "safety": 120,
@@ -1906,10 +1906,10 @@
         "grade": "B"
     },
     "mend": {
-        "safety": 148,
-        "races": 3,
+        "safety": 158,
+        "races": 4,
         "contacts": 4,
-        "clean_races": 2,
+        "clean_races": 3,
         "large_lobby_clean_streak": 1,
         "grade": "B"
     },
@@ -1954,12 +1954,12 @@
         "grade": "D"
     },
     "kam dixon": {
-        "safety": 170,
-        "races": 3,
-        "contacts": 1,
+        "safety": 162,
+        "races": 4,
+        "contacts": 3,
         "clean_races": 2,
         "large_lobby_clean_streak": 0,
-        "grade": "A"
+        "grade": "B"
     },
     "xXxDeadpoolxXx": {
         "safety": 115,
@@ -1994,9 +1994,17 @@
         "grade": "B"
     },
     "bj": {
-        "safety": 131,
-        "races": 2,
-        "contacts": 1,
+        "safety": 127,
+        "races": 3,
+        "contacts": 2,
+        "clean_races": 1,
+        "large_lobby_clean_streak": 0,
+        "grade": "B"
+    },
+    "HarrisonDay15_ONIG": {
+        "safety": 135,
+        "races": 1,
+        "contacts": 0,
         "clean_races": 1,
         "large_lobby_clean_streak": 0,
         "grade": "B"

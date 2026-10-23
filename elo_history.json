@@ -4264,6 +4264,15 @@
             "track": "",
             "finish": 1,
             "race_id": "8d484276153d85fe645c74975b1f008e8229356d8c18862c97c2536b6a9a35f6"
+        },
+        {
+            "date": "2026-10-23T20:03:28",
+            "elo": 1142,
+            "elo_before": 1128,
+            "change": 14,
+            "track": "",
+            "finish": 1,
+            "race_id": "a98e6c38f41011beb95bbc9f80a9f4099be3f6498baee080e5275188ceac68fb"
         }
     ],
     "waldodj": [
@@ -5208,6 +5217,15 @@
             "track": "",
             "finish": 6,
             "race_id": "8d484276153d85fe645c74975b1f008e8229356d8c18862c97c2536b6a9a35f6"
+        },
+        {
+            "date": "2026-10-23T20:03:28",
+            "elo": 791,
+            "elo_before": 787,
+            "change": 4,
+            "track": "",
+            "finish": 6,
+            "race_id": "a98e6c38f41011beb95bbc9f80a9f4099be3f6498baee080e5275188ceac68fb"
         }
     ],
     "JW2Stupid": [
@@ -10757,6 +10775,15 @@
             "track": "",
             "finish": 10,
             "race_id": "c84f39a4d4fb19157db8477f218ace22c18bb4bbc7955493a2a15ca31167d706"
+        },
+        {
+            "date": "2026-10-23T20:03:28",
+            "elo": 948,
+            "elo_before": 948,
+            "change": 0,
+            "track": "",
+            "finish": 5,
+            "race_id": "a98e6c38f41011beb95bbc9f80a9f4099be3f6498baee080e5275188ceac68fb"
         }
     ],
     "will 77": [
@@ -18167,6 +18194,15 @@
             "track": "",
             "finish": 2,
             "race_id": "be228b55f2fc9420270ea4a5950ee704191611aba8e89acebcf7f8f4ec96d28f"
+        },
+        {
+            "date": "2026-10-23T20:03:28",
+            "elo": 1089,
+            "elo_before": 1078,
+            "change": 11,
+            "track": "",
+            "finish": 2,
+            "race_id": "a98e6c38f41011beb95bbc9f80a9f4099be3f6498baee080e5275188ceac68fb"
         }
     ],
     "Hook": [
@@ -18492,6 +18528,15 @@
             "track": "",
             "finish": 2,
             "race_id": "72261ff4b1f223111617738a89c83c1fdc1a415eb3c72a56213175d00462c286"
+        },
+        {
+            "date": "2026-10-23T20:03:28",
+            "elo": 1011,
+            "elo_before": 1029,
+            "change": -18,
+            "track": "",
+            "finish": 7,
+            "race_id": "a98e6c38f41011beb95bbc9f80a9f4099be3f6498baee080e5275188ceac68fb"
         }
     ],
     "k dizzmeister": [
@@ -18632,6 +18677,15 @@
             "track": "",
             "finish": 4,
             "race_id": "8d484276153d85fe645c74975b1f008e8229356d8c18862c97c2536b6a9a35f6"
+        },
+        {
+            "date": "2026-10-23T20:03:28",
+            "elo": 1036,
+            "elo_before": 1029,
+            "change": 7,
+            "track": "",
+            "finish": 3,
+            "race_id": "a98e6c38f41011beb95bbc9f80a9f4099be3f6498baee080e5275188ceac68fb"
         }
     ],
     "xXxDeadpoolxXx": [
@@ -18730,6 +18784,26 @@
             "track": "",
             "finish": 7,
             "race_id": "8d484276153d85fe645c74975b1f008e8229356d8c18862c97c2536b6a9a35f6"
+        },
+        {
+            "date": "2026-10-23T20:03:28",
+            "elo": 983,
+            "elo_before": 978,
+            "change": 5,
+            "track": "",
+            "finish": 4,
+            "race_id": "a98e6c38f41011beb95bbc9f80a9f4099be3f6498baee080e5275188ceac68fb"
+        }
+    ],
+    "HarrisonDay15_ONIG": [
+        {
+            "date": "2026-10-23T20:03:28",
+            "elo": 977,
+            "elo_before": 1000,
+            "change": -23,
+            "track": "",
+            "finish": 8,
+            "race_id": "a98e6c38f41011beb95bbc9f80a9f4099be3f6498baee080e5275188ceac68fb"
         }
     ]
 }

@@ -108,10 +108,10 @@
         "podiums": 0
     },
     "BNJMN": {
-        "elo": 1078,
+        "elo": 1089,
         "wins": 9,
-        "races": 35,
-        "podiums": 18
+        "races": 36,
+        "podiums": 19
     },
     "Spud": {
         "elo": 991,
@@ -318,10 +318,10 @@
         "podiums": 0
     },
     "Dario Andreoni": {
-        "elo": 1128,
-        "wins": 9,
-        "races": 58,
-        "podiums": 29
+        "elo": 1142,
+        "wins": 10,
+        "races": 59,
+        "podiums": 30
     },
     "titonagom08": {
         "elo": 951,
@@ -752,7 +752,7 @@
     "pr1c3y": {
         "elo": 948,
         "wins": 2,
-        "races": 15,
+        "races": 16,
         "podiums": 4
     },
     "F1and3R5": {
@@ -900,9 +900,9 @@
         "podiums": 2
     },
     "Rk_44": {
-        "elo": 787,
+        "elo": 791,
         "wins": 0,
-        "races": 65,
+        "races": 66,
         "podiums": 8
     },
     "Maximo Giro": {
@@ -1494,9 +1494,9 @@
         "podiums": 0
     },
     "mend": {
-        "elo": 1029,
+        "elo": 1011,
         "wins": 0,
-        "races": 3,
+        "races": 4,
         "podiums": 1
     },
     "k dizzmeister": {
@@ -1530,10 +1530,10 @@
         "podiums": 1
     },
     "kam dixon": {
-        "elo": 1029,
+        "elo": 1036,
         "wins": 0,
-        "races": 3,
-        "podiums": 1
+        "races": 4,
+        "podiums": 2
     },
     "xXxDeadpoolxXx": {
         "elo": 988,
@@ -1554,9 +1554,15 @@
         "podiums": 1
     },
     "bj": {
-        "elo": 978,
+        "elo": 983,
         "wins": 0,
-        "races": 2,
+        "races": 3,
+        "podiums": 0
+    },
+    "HarrisonDay15_ONIG": {
+        "elo": 977,
+        "wins": 0,
+        "races": 1,
         "podiums": 0
     }
 }
