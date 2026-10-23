@@ -108,10 +108,10 @@
         "podiums": 0
     },
     "BNJMN": {
-        "elo": 1089,
+        "elo": 1092,
         "wins": 9,
-        "races": 36,
-        "podiums": 19
+        "races": 37,
+        "podiums": 20
     },
     "Spud": {
         "elo": 991,
@@ -1092,9 +1092,9 @@
         "podiums": 0
     },
     "Spr0cket": {
-        "elo": 952,
+        "elo": 948,
         "wins": 0,
-        "races": 9,
+        "races": 10,
         "podiums": 2
     },
     "Metadonajack": {
@@ -1530,10 +1530,10 @@
         "podiums": 1
     },
     "kam dixon": {
-        "elo": 1036,
-        "wins": 0,
-        "races": 4,
-        "podiums": 2
+        "elo": 1047,
+        "wins": 1,
+        "races": 5,
+        "podiums": 3
     },
     "xXxDeadpoolxXx": {
         "elo": 988,
@@ -1554,15 +1554,15 @@
         "podiums": 1
     },
     "bj": {
-        "elo": 983,
+        "elo": 984,
         "wins": 0,
-        "races": 3,
-        "podiums": 0
+        "races": 4,
+        "podiums": 1
     },
     "HarrisonDay15_ONIG": {
-        "elo": 977,
+        "elo": 966,
         "wins": 0,
-        "races": 1,
+        "races": 2,
         "podiums": 0
     }
 }

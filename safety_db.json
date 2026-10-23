@@ -937,9 +937,9 @@
         "grade": "A"
     },
     "BNJMN": {
-        "safety": 124,
-        "races": 31,
-        "contacts": 39,
+        "safety": 104,
+        "races": 32,
+        "contacts": 43,
         "clean_races": 15,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -1344,12 +1344,12 @@
         "grade": "D"
     },
     "Spr0cket": {
-        "safety": 171,
-        "races": 16,
-        "contacts": 37,
+        "safety": 156,
+        "races": 17,
+        "contacts": 40,
         "clean_races": 8,
         "large_lobby_clean_streak": 0,
-        "grade": "A"
+        "grade": "B"
     },
     "Metadonajack": {
         "safety": 111,
@@ -1954,9 +1954,9 @@
         "grade": "D"
     },
     "kam dixon": {
-        "safety": 162,
-        "races": 4,
-        "contacts": 3,
+        "safety": 147,
+        "races": 5,
+        "contacts": 6,
         "clean_races": 2,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -1994,18 +1994,18 @@
         "grade": "B"
     },
     "bj": {
-        "safety": 127,
-        "races": 3,
-        "contacts": 2,
+        "safety": 117,
+        "races": 4,
+        "contacts": 4,
         "clean_races": 1,
         "large_lobby_clean_streak": 0,
-        "grade": "B"
+        "grade": "C"
     },
     "HarrisonDay15_ONIG": {
-        "safety": 135,
-        "races": 1,
+        "safety": 140,
+        "races": 2,
         "contacts": 0,
-        "clean_races": 1,
+        "clean_races": 2,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     }
