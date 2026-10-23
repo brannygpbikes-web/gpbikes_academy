@@ -168,9 +168,9 @@
         "grade": "B"
     },
     "Danny Hinkelmann14": {
-        "safety": 230,
-        "races": 67,
-        "contacts": 86,
+        "safety": 226,
+        "races": 68,
+        "contacts": 87,
         "clean_races": 36,
         "large_lobby_clean_streak": 0,
         "grade": "A"
@@ -223,12 +223,12 @@
         "grade": "D"
     },
     "filipknigge20": {
-        "safety": 268,
-        "races": 72,
-        "contacts": 80,
+        "safety": 264,
+        "races": 73,
+        "contacts": 81,
         "clean_races": 33,
         "large_lobby_clean_streak": 0,
-        "grade": "S"
+        "grade": "A"
     },
     "Matteo 42": {
         "safety": 115,
@@ -541,10 +541,10 @@
         "grade": "C"
     },
     "Dario Andreoni": {
-        "safety": 284,
-        "races": 53,
+        "safety": 294,
+        "races": 54,
         "contacts": 42,
-        "clean_races": 29,
+        "clean_races": 30,
         "large_lobby_clean_streak": 0,
         "grade": "S"
     },
@@ -596,12 +596,12 @@
         "grade": "S"
     },
     "JKR": {
-        "safety": 118,
-        "races": 14,
-        "contacts": 18,
+        "safety": 110,
+        "races": 15,
+        "contacts": 20,
         "clean_races": 7,
         "grade": "C",
-        "large_lobby_clean_streak": 3
+        "large_lobby_clean_streak": 0
     },
     "Honza Ehl": {
         "safety": 146,
@@ -758,10 +758,10 @@
         "grade": "B"
     },
     "Rk_44": {
-        "safety": 283,
-        "races": 68,
+        "safety": 293,
+        "races": 69,
         "contacts": 47,
-        "clean_races": 43,
+        "clean_races": 44,
         "large_lobby_clean_streak": 0,
         "grade": "S"
     },
@@ -1048,9 +1048,9 @@
         "grade": "B"
     },
     "skalf": {
-        "safety": 149,
-        "races": 12,
-        "contacts": 9,
+        "safety": 141,
+        "races": 13,
+        "contacts": 11,
         "clean_races": 5,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -1184,9 +1184,9 @@
         "grade": "B"
     },
     "oover": {
-        "safety": 254,
-        "races": 30,
-        "contacts": 31,
+        "safety": 246,
+        "races": 31,
+        "contacts": 33,
         "clean_races": 18,
         "large_lobby_clean_streak": 0,
         "grade": "A"
@@ -1722,10 +1722,10 @@
         "grade": "A"
     },
     "Skittlez": {
-        "safety": 142,
-        "races": 3,
+        "safety": 152,
+        "races": 4,
         "contacts": 3,
-        "clean_races": 1,
+        "clean_races": 2,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     },
@@ -1954,12 +1954,12 @@
         "grade": "D"
     },
     "kam dixon": {
-        "safety": 160,
-        "races": 2,
+        "safety": 170,
+        "races": 3,
         "contacts": 1,
-        "clean_races": 1,
+        "clean_races": 2,
         "large_lobby_clean_streak": 0,
-        "grade": "B"
+        "grade": "A"
     },
     "xXxDeadpoolxXx": {
         "safety": 115,
@@ -1994,11 +1994,11 @@
         "grade": "B"
     },
     "bj": {
-        "safety": 121,
-        "races": 1,
+        "safety": 131,
+        "races": 2,
         "contacts": 1,
-        "clean_races": 0,
+        "clean_races": 1,
         "large_lobby_clean_streak": 0,
-        "grade": "C"
+        "grade": "B"
     }
 }
