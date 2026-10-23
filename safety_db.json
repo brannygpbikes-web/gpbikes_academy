@@ -124,9 +124,9 @@
     },
     "EgoMan": {
         "safety": 300,
-        "races": 50,
+        "races": 51,
         "contacts": 55,
-        "clean_races": 27,
+        "clean_races": 28,
         "grade": "S",
         "large_lobby_clean_streak": 2
     },
@@ -1971,6 +1971,14 @@
     },
     "Ovengroente": {
         "safety": 135,
+        "races": 1,
+        "contacts": 0,
+        "clean_races": 1,
+        "large_lobby_clean_streak": 0,
+        "grade": "B"
+    },
+    "ihatestoppies": {
+        "safety": 130,
         "races": 1,
         "contacts": 0,
         "clean_races": 1,

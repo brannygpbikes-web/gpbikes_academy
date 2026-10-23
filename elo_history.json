@@ -15989,6 +15989,15 @@
             "track": "",
             "finish": 2,
             "race_id": "a946372491ea79b4dcbb644e4f7a4406a43933a12d2e8c312119bd90abd4f81c"
+        },
+        {
+            "date": "2026-10-23T17:32:39",
+            "elo": 920,
+            "elo_before": 911,
+            "change": 9,
+            "track": "",
+            "finish": 1,
+            "race_id": "76504148ac0afad1ec7ab6d633f4b55856bf38e67c6d08dea983fa08110a1133"
         }
     ],
     "Matteo 42": [
@@ -18058,6 +18067,17 @@
             "track": "",
             "finish": 4,
             "race_id": "be228b55f2fc9420270ea4a5950ee704191611aba8e89acebcf7f8f4ec96d28f"
+        }
+    ],
+    "ihatestoppies": [
+        {
+            "date": "2026-10-23T17:32:39",
+            "elo": 991,
+            "elo_before": 1000,
+            "change": -9,
+            "track": "",
+            "finish": 2,
+            "race_id": "76504148ac0afad1ec7ab6d633f4b55856bf38e67c6d08dea983fa08110a1133"
         }
     ]
 }

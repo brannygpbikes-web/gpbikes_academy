@@ -414,10 +414,10 @@
         "podiums": 3
     },
     "EgoMan": {
-        "elo": 911,
-        "wins": 0,
-        "races": 39,
-        "podiums": 1
+        "elo": 920,
+        "wins": 1,
+        "races": 40,
+        "podiums": 2
     },
     "RaK": {
         "elo": 802,
@@ -1539,6 +1539,12 @@
         "elo": 988,
         "wins": 0,
         "races": 3,
+        "podiums": 1
+    },
+    "ihatestoppies": {
+        "elo": 991,
+        "wins": 0,
+        "races": 1,
         "podiums": 1
     }
 }
