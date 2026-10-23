@@ -123,12 +123,12 @@
         "grade": "B"
     },
     "EgoMan": {
-        "safety": 300,
-        "races": 52,
-        "contacts": 55,
+        "safety": 291,
+        "races": 53,
+        "contacts": 58,
         "clean_races": 29,
         "grade": "S",
-        "large_lobby_clean_streak": 2
+        "large_lobby_clean_streak": 0
     },
     "Giancarlos13": {
         "safety": 145,
@@ -168,9 +168,9 @@
         "grade": "B"
     },
     "Danny Hinkelmann14": {
-        "safety": 232,
-        "races": 62,
-        "contacts": 78,
+        "safety": 226,
+        "races": 63,
+        "contacts": 80,
         "clean_races": 34,
         "large_lobby_clean_streak": 0,
         "grade": "A"
@@ -223,9 +223,9 @@
         "grade": "D"
     },
     "filipknigge20": {
-        "safety": 257,
-        "races": 67,
-        "contacts": 75,
+        "safety": 248,
+        "races": 68,
+        "contacts": 78,
         "clean_races": 31,
         "large_lobby_clean_streak": 0,
         "grade": "A"
@@ -248,8 +248,8 @@
     },
     "KSBR": {
         "safety": 188,
-        "races": 17,
-        "contacts": 22,
+        "races": 18,
+        "contacts": 23,
         "clean_races": 8,
         "large_lobby_clean_streak": 0,
         "grade": "A"
@@ -573,19 +573,19 @@
     },
     "vNoHxpe_KJ45": {
         "safety": 152,
-        "races": 21,
-        "contacts": 27,
+        "races": 22,
+        "contacts": 28,
         "clean_races": 9,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     },
     "sbara": {
-        "safety": 256,
-        "races": 35,
+        "safety": 271,
+        "races": 36,
         "contacts": 38,
-        "clean_races": 20,
-        "large_lobby_clean_streak": 0,
-        "grade": "A"
+        "clean_races": 21,
+        "large_lobby_clean_streak": 1,
+        "grade": "S"
     },
     "N1rmata": {
         "safety": 286,
@@ -689,8 +689,8 @@
     },
     "tacticworks": {
         "safety": 213,
-        "races": 32,
-        "contacts": 36,
+        "races": 33,
+        "contacts": 37,
         "clean_races": 15,
         "large_lobby_clean_streak": 0,
         "grade": "A"
@@ -759,8 +759,8 @@
     },
     "Rk_44": {
         "safety": 300,
-        "races": 64,
-        "contacts": 40,
+        "races": 65,
+        "contacts": 41,
         "clean_races": 43,
         "large_lobby_clean_streak": 0,
         "grade": "S"
@@ -993,8 +993,8 @@
     },
     "collinlanger96": {
         "safety": 115,
-        "races": 25,
-        "contacts": 35,
+        "races": 26,
+        "contacts": 36,
         "clean_races": 10,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -1458,11 +1458,11 @@
         "grade": "A"
     },
     "Marcus": {
-        "safety": 296,
-        "races": 15,
+        "safety": 300,
+        "races": 16,
         "contacts": 6,
-        "clean_races": 12,
-        "large_lobby_clean_streak": 2,
+        "clean_races": 13,
+        "large_lobby_clean_streak": 3,
         "grade": "S"
     },
     "k142000": {
@@ -1947,8 +1947,8 @@
     },
     "jmanuel_fs": {
         "safety": 96,
-        "races": 3,
-        "contacts": 7,
+        "races": 4,
+        "contacts": 8,
         "clean_races": 1,
         "large_lobby_clean_streak": 0,
         "grade": "D"
@@ -1978,12 +1978,12 @@
         "grade": "B"
     },
     "ihatestoppies": {
-        "safety": 122,
-        "races": 2,
+        "safety": 137,
+        "races": 3,
         "contacts": 2,
-        "clean_races": 1,
-        "large_lobby_clean_streak": 0,
-        "grade": "C"
+        "clean_races": 2,
+        "large_lobby_clean_streak": 1,
+        "grade": "B"
     },
     "Nico Rosbot": {
         "safety": 135,
