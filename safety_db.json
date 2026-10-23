@@ -124,9 +124,9 @@
     },
     "EgoMan": {
         "safety": 300,
-        "races": 51,
+        "races": 52,
         "contacts": 55,
-        "clean_races": 28,
+        "clean_races": 29,
         "grade": "S",
         "large_lobby_clean_streak": 2
     },
@@ -223,12 +223,12 @@
         "grade": "D"
     },
     "filipknigge20": {
-        "safety": 265,
-        "races": 66,
-        "contacts": 73,
+        "safety": 257,
+        "races": 67,
+        "contacts": 75,
         "clean_races": 31,
         "large_lobby_clean_streak": 0,
-        "grade": "S"
+        "grade": "A"
     },
     "Matteo 42": {
         "safety": 115,
@@ -541,9 +541,9 @@
         "grade": "C"
     },
     "Dario Andreoni": {
-        "safety": 300,
-        "races": 50,
-        "contacts": 38,
+        "safety": 292,
+        "races": 51,
+        "contacts": 40,
         "clean_races": 29,
         "large_lobby_clean_streak": 0,
         "grade": "S"
@@ -759,9 +759,9 @@
     },
     "Rk_44": {
         "safety": 300,
-        "races": 63,
+        "races": 64,
         "contacts": 40,
-        "clean_races": 42,
+        "clean_races": 43,
         "large_lobby_clean_streak": 0,
         "grade": "S"
     },
@@ -992,9 +992,9 @@
         "grade": "C"
     },
     "collinlanger96": {
-        "safety": 123,
-        "races": 24,
-        "contacts": 33,
+        "safety": 115,
+        "races": 25,
+        "contacts": 35,
         "clean_races": 10,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -1946,12 +1946,12 @@
         "grade": "B"
     },
     "jmanuel_fs": {
-        "safety": 112,
-        "races": 2,
-        "contacts": 3,
+        "safety": 96,
+        "races": 3,
+        "contacts": 7,
         "clean_races": 1,
         "large_lobby_clean_streak": 0,
-        "grade": "C"
+        "grade": "D"
     },
     "kam dixon": {
         "safety": 150,
@@ -1978,7 +1978,15 @@
         "grade": "B"
     },
     "ihatestoppies": {
-        "safety": 130,
+        "safety": 122,
+        "races": 2,
+        "contacts": 2,
+        "clean_races": 1,
+        "large_lobby_clean_streak": 0,
+        "grade": "C"
+    },
+    "Nico Rosbot": {
+        "safety": 135,
         "races": 1,
         "contacts": 0,
         "clean_races": 1,
