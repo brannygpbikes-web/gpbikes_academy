@@ -1,8 +1,8 @@
 {
     "branny": {
         "safety": 283,
-        "races": 58,
-        "contacts": 65,
+        "races": 59,
+        "contacts": 66,
         "clean_races": 31,
         "large_lobby_clean_streak": 0,
         "grade": "S"
@@ -107,11 +107,11 @@
         "grade": "A"
     },
     "chilliams": {
-        "safety": 224,
-        "races": 36,
+        "safety": 239,
+        "races": 37,
         "contacts": 35,
-        "clean_races": 17,
-        "large_lobby_clean_streak": 1,
+        "clean_races": 18,
+        "large_lobby_clean_streak": 2,
         "grade": "A"
     },
     "Simone Ghilardini": {
@@ -124,8 +124,8 @@
     },
     "EgoMan": {
         "safety": 282,
-        "races": 56,
-        "contacts": 63,
+        "races": 57,
+        "contacts": 64,
         "clean_races": 29,
         "grade": "S",
         "large_lobby_clean_streak": 0
@@ -176,12 +176,12 @@
         "grade": "A"
     },
     "JW2Stupid": {
-        "safety": 162,
-        "races": 23,
+        "safety": 177,
+        "races": 24,
         "contacts": 48,
-        "clean_races": 8,
-        "large_lobby_clean_streak": 0,
-        "grade": "B"
+        "clean_races": 9,
+        "large_lobby_clean_streak": 1,
+        "grade": "A"
     },
     "Lou": {
         "safety": 229,
@@ -239,11 +239,11 @@
         "large_lobby_clean_streak": 1
     },
     "Carrasco": {
-        "safety": 208,
-        "races": 42,
+        "safety": 223,
+        "races": 43,
         "contacts": 71,
-        "clean_races": 15,
-        "large_lobby_clean_streak": 1,
+        "clean_races": 16,
+        "large_lobby_clean_streak": 2,
         "grade": "A"
     },
     "KSBR": {
@@ -316,9 +316,9 @@
         "large_lobby_clean_streak": 3
     },
     "Miquel_Sinke60": {
-        "safety": 87,
-        "races": 59,
-        "contacts": 108,
+        "safety": 83,
+        "races": 60,
+        "contacts": 110,
         "clean_races": 22,
         "large_lobby_clean_streak": 0,
         "grade": "D"
@@ -565,8 +565,8 @@
     },
     "Nuno": {
         "safety": 151,
-        "races": 51,
-        "contacts": 52,
+        "races": 52,
+        "contacts": 53,
         "clean_races": 23,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -596,12 +596,12 @@
         "grade": "S"
     },
     "JKR": {
-        "safety": 110,
-        "races": 15,
+        "safety": 125,
+        "races": 16,
         "contacts": 20,
-        "clean_races": 7,
-        "grade": "C",
-        "large_lobby_clean_streak": 0
+        "clean_races": 8,
+        "grade": "B",
+        "large_lobby_clean_streak": 1
     },
     "Honza Ehl": {
         "safety": 146,
@@ -1482,12 +1482,12 @@
         "grade": "D"
     },
     "AngeLo": {
-        "safety": 91,
-        "races": 23,
+        "safety": 106,
+        "races": 24,
         "contacts": 28,
-        "clean_races": 12,
-        "large_lobby_clean_streak": 0,
-        "grade": "D"
+        "clean_races": 13,
+        "large_lobby_clean_streak": 1,
+        "grade": "C"
     },
     "alerelinque": {
         "safety": 80,
@@ -1538,12 +1538,12 @@
         "grade": "C"
     },
     "SleppyGame23": {
-        "safety": 152,
-        "races": 16,
+        "safety": 167,
+        "races": 17,
         "contacts": 10,
-        "clean_races": 9,
-        "large_lobby_clean_streak": 0,
-        "grade": "B"
+        "clean_races": 10,
+        "large_lobby_clean_streak": 1,
+        "grade": "A"
     },
     "CLG21": {
         "safety": 121,
@@ -1707,8 +1707,8 @@
     },
     "ShaiGP": {
         "safety": 175,
-        "races": 3,
-        "contacts": 1,
+        "races": 4,
+        "contacts": 2,
         "clean_races": 2,
         "large_lobby_clean_streak": 0,
         "grade": "A"
@@ -1778,11 +1778,11 @@
         "grade": "B"
     },
     "evanchast30": {
-        "safety": 106,
-        "races": 10,
+        "safety": 121,
+        "races": 11,
         "contacts": 11,
-        "clean_races": 4,
-        "large_lobby_clean_streak": 0,
+        "clean_races": 5,
+        "large_lobby_clean_streak": 1,
         "grade": "C"
     },
     "Acer": {
@@ -1994,12 +1994,12 @@
         "grade": "B"
     },
     "bj": {
-        "safety": 117,
-        "races": 4,
+        "safety": 132,
+        "races": 5,
         "contacts": 4,
-        "clean_races": 1,
-        "large_lobby_clean_streak": 0,
-        "grade": "C"
+        "clean_races": 2,
+        "large_lobby_clean_streak": 1,
+        "grade": "B"
     },
     "HarrisonDay15_ONIG": {
         "safety": 140,
