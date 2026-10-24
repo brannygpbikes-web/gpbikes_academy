@@ -76,9 +76,9 @@
         "grade": "B"
     },
     "AL": {
-        "safety": 143,
-        "races": 41,
-        "contacts": 60,
+        "safety": 135,
+        "races": 42,
+        "contacts": 62,
         "clean_races": 18,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -176,9 +176,9 @@
         "grade": "A"
     },
     "JW2Stupid": {
-        "safety": 182,
-        "races": 21,
-        "contacts": 42,
+        "safety": 174,
+        "races": 22,
+        "contacts": 44,
         "clean_races": 8,
         "large_lobby_clean_streak": 0,
         "grade": "A"
@@ -239,18 +239,18 @@
         "large_lobby_clean_streak": 1
     },
     "Carrasco": {
-        "safety": 209,
-        "races": 40,
-        "contacts": 67,
+        "safety": 193,
+        "races": 41,
+        "contacts": 71,
         "clean_races": 14,
         "large_lobby_clean_streak": 0,
         "grade": "A"
     },
     "KSBR": {
-        "safety": 188,
-        "races": 18,
+        "safety": 198,
+        "races": 19,
         "contacts": 23,
-        "clean_races": 8,
+        "clean_races": 9,
         "large_lobby_clean_streak": 0,
         "grade": "A"
     },
@@ -564,9 +564,9 @@
         "grade": "B"
     },
     "Nuno": {
-        "safety": 163,
-        "races": 49,
-        "contacts": 48,
+        "safety": 151,
+        "races": 50,
+        "contacts": 51,
         "clean_races": 23,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -1434,12 +1434,12 @@
         "grade": "C"
     },
     "sergioo14": {
-        "safety": 169,
-        "races": 40,
-        "contacts": 64,
+        "safety": 149,
+        "races": 41,
+        "contacts": 69,
         "clean_races": 27,
         "large_lobby_clean_streak": 0,
-        "grade": "A"
+        "grade": "B"
     },
     "Ibai Merino": {
         "safety": 157,
@@ -1482,12 +1482,12 @@
         "grade": "D"
     },
     "AngeLo": {
-        "safety": 139,
-        "races": 21,
-        "contacts": 15,
+        "safety": 103,
+        "races": 22,
+        "contacts": 24,
         "clean_races": 12,
         "large_lobby_clean_streak": 0,
-        "grade": "B"
+        "grade": "C"
     },
     "alerelinque": {
         "safety": 80,
@@ -1538,12 +1538,12 @@
         "grade": "C"
     },
     "SleppyGame23": {
-        "safety": 166,
-        "races": 14,
-        "contacts": 6,
+        "safety": 158,
+        "races": 15,
+        "contacts": 8,
         "clean_races": 9,
         "large_lobby_clean_streak": 0,
-        "grade": "A"
+        "grade": "B"
     },
     "CLG21": {
         "safety": 121,
@@ -1658,9 +1658,9 @@
         "grade": "B"
     },
     "Prove412": {
-        "safety": 202,
-        "races": 8,
-        "contacts": 2,
+        "safety": 198,
+        "races": 9,
+        "contacts": 3,
         "clean_races": 6,
         "large_lobby_clean_streak": 0,
         "grade": "A"
@@ -2006,6 +2006,14 @@
         "races": 2,
         "contacts": 0,
         "clean_races": 2,
+        "large_lobby_clean_streak": 0,
+        "grade": "B"
+    },
+    "Goldrecruit": {
+        "safety": 135,
+        "races": 1,
+        "contacts": 0,
+        "clean_races": 1,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     }
