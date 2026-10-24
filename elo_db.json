@@ -6,10 +6,10 @@
         "podiums": 0
     },
     "branny": {
-        "elo": 1136,
-        "wins": 22,
-        "races": 58,
-        "podiums": 36
+        "elo": 1153,
+        "wins": 23,
+        "races": 59,
+        "podiums": 37
     },
     "non1nr": {
         "elo": 1028,
@@ -246,9 +246,9 @@
         "podiums": 4
     },
     "JW2Stupid": {
-        "elo": 1093,
+        "elo": 1099,
         "wins": 3,
-        "races": 29,
+        "races": 30,
         "podiums": 11
     },
     "fisherman": {
@@ -306,9 +306,9 @@
         "podiums": 36
     },
     "AL": {
-        "elo": 976,
+        "elo": 954,
         "wins": 0,
-        "races": 43,
+        "races": 44,
         "podiums": 10
     },
     "FastAF": {
@@ -384,9 +384,9 @@
         "podiums": 1
     },
     "tobimayer29 on ig": {
-        "elo": 1093,
+        "elo": 1072,
         "wins": 9,
-        "races": 33,
+        "races": 34,
         "podiums": 16
     },
     "Justice": {
@@ -414,9 +414,9 @@
         "podiums": 3
     },
     "EgoMan": {
-        "elo": 912,
+        "elo": 913,
         "wins": 1,
-        "races": 44,
+        "races": 45,
         "podiums": 2
     },
     "RaK": {
@@ -642,15 +642,15 @@
         "podiums": 0
     },
     "Nuno": {
-        "elo": 1091,
+        "elo": 1106,
         "wins": 15,
-        "races": 52,
-        "podiums": 33
+        "races": 53,
+        "podiums": 34
     },
     "vNoHxpe_KJ45": {
-        "elo": 979,
+        "elo": 980,
         "wins": 0,
-        "races": 24,
+        "races": 25,
         "podiums": 5
     },
     "Fabio_34": {
@@ -1152,9 +1152,9 @@
         "podiums": 0
     },
     "sergioo14": {
-        "elo": 903,
+        "elo": 891,
         "wins": 1,
-        "races": 31,
+        "races": 32,
         "podiums": 5
     },
     "Creisi48": {
@@ -1182,10 +1182,10 @@
         "podiums": 1
     },
     "AngeLo": {
-        "elo": 1063,
+        "elo": 1076,
         "wins": 10,
-        "races": 22,
-        "podiums": 16
+        "races": 23,
+        "podiums": 17
     },
     "aeziahh on tt": {
         "elo": 955,
@@ -1230,9 +1230,9 @@
         "podiums": 5
     },
     "SleppyGame23": {
-        "elo": 1016,
+        "elo": 1019,
         "wins": 1,
-        "races": 14,
+        "races": 15,
         "podiums": 7
     },
     "CLG21": {
@@ -1434,9 +1434,9 @@
         "podiums": 2
     },
     "mrarcin": {
-        "elo": 985,
+        "elo": 994,
         "wins": 0,
-        "races": 1,
+        "races": 2,
         "podiums": 0
     },
     "LeKiD": {
@@ -1563,6 +1563,12 @@
         "elo": 966,
         "wins": 0,
         "races": 2,
+        "podiums": 0
+    },
+    "Goldrecruit": {
+        "elo": 990,
+        "wins": 0,
+        "races": 1,
         "podiums": 0
     }
 }
