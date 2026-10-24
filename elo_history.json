@@ -6596,6 +6596,15 @@
             "track": "",
             "finish": 3,
             "race_id": "58137da2b6493de80e654378c443f6c88c20043dadc72cbd1fb387b2017c3adf"
+        },
+        {
+            "date": "2026-10-24T15:46:06",
+            "elo": 1030,
+            "elo_before": 1041,
+            "change": -11,
+            "track": "",
+            "finish": 5,
+            "race_id": "d207c4225c5db01887cb4ada86be0976a95f01c954487b6d7d550f93d8625347"
         }
     ],
     "KSBR": [
@@ -7294,6 +7303,15 @@
             "track": "",
             "finish": 5,
             "race_id": "29e822bae0873749f8eb76a7d58c382851284f581a8d0964cea83cc4984a4135"
+        },
+        {
+            "date": "2026-10-24T15:46:06",
+            "elo": 954,
+            "elo_before": 956,
+            "change": -2,
+            "track": "",
+            "finish": 4,
+            "race_id": "d207c4225c5db01887cb4ada86be0976a95f01c954487b6d7d550f93d8625347"
         }
     ],
     "Boomgamertony": [
@@ -8350,6 +8368,15 @@
             "track": "",
             "finish": 3,
             "race_id": "0a8cb5e8bc869e540a3072535905c113f73b0445c08c5a5fa8d8662b3d32ef18"
+        },
+        {
+            "date": "2026-10-24T15:46:06",
+            "elo": 1124,
+            "elo_before": 1113,
+            "change": 11,
+            "track": "",
+            "finish": 1,
+            "race_id": "d207c4225c5db01887cb4ada86be0976a95f01c954487b6d7d550f93d8625347"
         }
     ],
     "TheJr": [
@@ -10019,6 +10046,15 @@
             "track": "",
             "finish": 2,
             "race_id": "58137da2b6493de80e654378c443f6c88c20043dadc72cbd1fb387b2017c3adf"
+        },
+        {
+            "date": "2026-10-24T15:46:06",
+            "elo": 1043,
+            "elo_before": 1042,
+            "change": 1,
+            "track": "",
+            "finish": 3,
+            "race_id": "d207c4225c5db01887cb4ada86be0976a95f01c954487b6d7d550f93d8625347"
         }
     ],
     "JorgeNsr": [
@@ -11188,6 +11224,15 @@
             "track": "",
             "finish": 1,
             "race_id": "58137da2b6493de80e654378c443f6c88c20043dadc72cbd1fb387b2017c3adf"
+        },
+        {
+            "date": "2026-10-24T15:46:06",
+            "elo": 1198,
+            "elo_before": 1197,
+            "change": 1,
+            "track": "",
+            "finish": 2,
+            "race_id": "d207c4225c5db01887cb4ada86be0976a95f01c954487b6d7d550f93d8625347"
         }
     ],
     "queefmccheif": [
