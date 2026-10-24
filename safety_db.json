@@ -223,12 +223,12 @@
         "grade": "D"
     },
     "filipknigge20": {
-        "safety": 264,
-        "races": 73,
+        "safety": 269,
+        "races": 74,
         "contacts": 81,
-        "clean_races": 33,
+        "clean_races": 34,
         "large_lobby_clean_streak": 0,
-        "grade": "A"
+        "grade": "S"
     },
     "Matteo 42": {
         "safety": 115,
@@ -564,10 +564,10 @@
         "grade": "B"
     },
     "Nuno": {
-        "safety": 175,
-        "races": 46,
+        "safety": 180,
+        "races": 47,
         "contacts": 45,
-        "clean_races": 22,
+        "clean_races": 23,
         "large_lobby_clean_streak": 0,
         "grade": "A"
     },
@@ -1538,10 +1538,10 @@
         "grade": "C"
     },
     "SleppyGame23": {
-        "safety": 168,
-        "races": 11,
+        "safety": 173,
+        "races": 12,
         "contacts": 4,
-        "clean_races": 7,
+        "clean_races": 8,
         "large_lobby_clean_streak": 1,
         "grade": "A"
     },
