@@ -564,9 +564,9 @@
         "grade": "B"
     },
     "Nuno": {
-        "safety": 180,
-        "races": 47,
-        "contacts": 45,
+        "safety": 168,
+        "races": 48,
+        "contacts": 47,
         "clean_races": 23,
         "large_lobby_clean_streak": 0,
         "grade": "A"
@@ -1538,12 +1538,12 @@
         "grade": "C"
     },
     "SleppyGame23": {
-        "safety": 173,
-        "races": 12,
-        "contacts": 4,
+        "safety": 161,
+        "races": 13,
+        "contacts": 6,
         "clean_races": 8,
-        "large_lobby_clean_streak": 1,
-        "grade": "A"
+        "large_lobby_clean_streak": 0,
+        "grade": "B"
     },
     "CLG21": {
         "safety": 121,

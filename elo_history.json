@@ -2088,6 +2088,15 @@
             "track": "",
             "finish": 2,
             "race_id": "6285007d5e230a58496ebaf719f9ac5c2e74d1720821705734b0775483377400"
+        },
+        {
+            "date": "2026-10-24T16:39:56",
+            "elo": 1080,
+            "elo_before": 1089,
+            "change": -9,
+            "track": "",
+            "finish": 2,
+            "race_id": "dbc6d4901e4574d2132f2a551e184eb3061aae71c1c27363c00277e108bb3ad1"
         }
     ],
     "sbara": [
@@ -15996,6 +16005,15 @@
             "track": "",
             "finish": 3,
             "race_id": "6285007d5e230a58496ebaf719f9ac5c2e74d1720821705734b0775483377400"
+        },
+        {
+            "date": "2026-10-24T16:39:56",
+            "elo": 1007,
+            "elo_before": 998,
+            "change": 9,
+            "track": "",
+            "finish": 1,
+            "race_id": "dbc6d4901e4574d2132f2a551e184eb3061aae71c1c27363c00277e108bb3ad1"
         }
     ],
     "CLG21": [
