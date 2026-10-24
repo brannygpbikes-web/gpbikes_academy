@@ -123,12 +123,12 @@
         "grade": "B"
     },
     "EgoMan": {
-        "safety": 300,
-        "races": 62,
-        "contacts": 70,
+        "safety": 294,
+        "races": 63,
+        "contacts": 72,
         "clean_races": 31,
         "grade": "S",
-        "large_lobby_clean_streak": 1
+        "large_lobby_clean_streak": 0
     },
     "Giancarlos13": {
         "safety": 145,
@@ -176,10 +176,10 @@
         "grade": "A"
     },
     "JW2Stupid": {
-        "safety": 229,
-        "races": 27,
+        "safety": 239,
+        "races": 28,
         "contacts": 49,
-        "clean_races": 11,
+        "clean_races": 12,
         "large_lobby_clean_streak": 2,
         "grade": "A"
     },
@@ -223,10 +223,10 @@
         "grade": "D"
     },
     "filipknigge20": {
-        "safety": 290,
-        "races": 78,
+        "safety": 300,
+        "races": 79,
         "contacts": 84,
-        "clean_races": 36,
+        "clean_races": 37,
         "large_lobby_clean_streak": 2,
         "grade": "S"
     },
@@ -285,10 +285,10 @@
         "grade": "B"
     },
     "AwashMicrobe": {
-        "safety": 81,
-        "races": 23,
+        "safety": 91,
+        "races": 24,
         "contacts": 55,
-        "clean_races": 8,
+        "clean_races": 9,
         "large_lobby_clean_streak": 0,
         "grade": "D"
     },
@@ -316,9 +316,9 @@
         "large_lobby_clean_streak": 3
     },
     "Miquel_Sinke60": {
-        "safety": 65,
-        "races": 64,
-        "contacts": 119,
+        "safety": 56,
+        "races": 65,
+        "contacts": 122,
         "clean_races": 22,
         "large_lobby_clean_streak": 0,
         "grade": "E"
@@ -992,9 +992,9 @@
         "grade": "C"
     },
     "collinlanger96": {
-        "safety": 60,
-        "races": 32,
-        "contacts": 56,
+        "safety": 48,
+        "races": 33,
+        "contacts": 60,
         "clean_races": 10,
         "large_lobby_clean_streak": 0,
         "grade": "E"
@@ -1048,9 +1048,9 @@
         "grade": "B"
     },
     "skalf": {
-        "safety": 135,
-        "races": 17,
-        "contacts": 16,
+        "safety": 132,
+        "races": 18,
+        "contacts": 17,
         "clean_races": 6,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -1296,10 +1296,10 @@
         "grade": "B"
     },
     "Fick dich Kohlin": {
-        "safety": 86,
-        "races": 13,
+        "safety": 96,
+        "races": 14,
         "contacts": 26,
-        "clean_races": 4,
+        "clean_races": 5,
         "large_lobby_clean_streak": 0,
         "grade": "D"
     },
@@ -1706,12 +1706,12 @@
         "grade": "B"
     },
     "ShaiGP": {
-        "safety": 167,
-        "races": 9,
-        "contacts": 12,
+        "safety": 155,
+        "races": 10,
+        "contacts": 16,
         "clean_races": 3,
-        "large_lobby_clean_streak": 1,
-        "grade": "A"
+        "large_lobby_clean_streak": 0,
+        "grade": "B"
     },
     "lambrider": {
         "safety": 199,
@@ -1906,10 +1906,10 @@
         "grade": "B"
     },
     "mend": {
-        "safety": 170,
-        "races": 5,
+        "safety": 180,
+        "races": 6,
         "contacts": 4,
-        "clean_races": 4,
+        "clean_races": 5,
         "large_lobby_clean_streak": 2,
         "grade": "A"
     },
