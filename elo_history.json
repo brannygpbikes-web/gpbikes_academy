@@ -14029,6 +14029,15 @@
             "track": "",
             "finish": 7,
             "race_id": "e28dc89d385339d390a00ad5e4cf32e2933d79c1367e0036d082ee8968086a43"
+        },
+        {
+            "date": "2026-10-24T20:15:11",
+            "elo": 970,
+            "elo_before": 977,
+            "change": -7,
+            "track": "",
+            "finish": 3,
+            "race_id": "03a12d8123be32e794a1bedd1c74e556993b22ab73bc647d7f1af632dc3c31aa"
         }
     ],
     "GeorgeBowes67": [
@@ -14770,6 +14779,15 @@
             "track": "",
             "finish": 5,
             "race_id": "481a2d525ba94892f4094dfebad7fa5f68cfe4d610be7a2885a0666984649283"
+        },
+        {
+            "date": "2026-10-24T20:15:11",
+            "elo": 973,
+            "elo_before": 965,
+            "change": 8,
+            "track": "",
+            "finish": 1,
+            "race_id": "03a12d8123be32e794a1bedd1c74e556993b22ab73bc647d7f1af632dc3c31aa"
         }
     ],
     "sergioo14": [
@@ -18561,6 +18579,15 @@
             "track": "",
             "finish": 2,
             "race_id": "e28dc89d385339d390a00ad5e4cf32e2933d79c1367e0036d082ee8968086a43"
+        },
+        {
+            "date": "2026-10-24T20:15:11",
+            "elo": 1014,
+            "elo_before": 1015,
+            "change": -1,
+            "track": "",
+            "finish": 2,
+            "race_id": "03a12d8123be32e794a1bedd1c74e556993b22ab73bc647d7f1af632dc3c31aa"
         }
     ],
     "lambrider": [
