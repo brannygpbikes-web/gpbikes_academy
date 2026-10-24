@@ -8323,6 +8323,15 @@
             "track": "",
             "finish": 2,
             "race_id": "b969a7d2e1cacb7285c1b64f3a24d4fea8ef97ec49805a958ce49f7f6b7b72eb"
+        },
+        {
+            "date": "2026-10-24T15:14:52",
+            "elo": 1113,
+            "elo_before": 1122,
+            "change": -9,
+            "track": "",
+            "finish": 3,
+            "race_id": "0a8cb5e8bc869e540a3072535905c113f73b0445c08c5a5fa8d8662b3d32ef18"
         }
     ],
     "TheJr": [
@@ -11134,6 +11143,15 @@
             "track": "",
             "finish": 2,
             "race_id": "8d484276153d85fe645c74975b1f008e8229356d8c18862c97c2536b6a9a35f6"
+        },
+        {
+            "date": "2026-10-24T15:14:52",
+            "elo": 1191,
+            "elo_before": 1187,
+            "change": 4,
+            "track": "",
+            "finish": 1,
+            "race_id": "0a8cb5e8bc869e540a3072535905c113f73b0445c08c5a5fa8d8662b3d32ef18"
         }
     ],
     "queefmccheif": [
@@ -14277,6 +14295,15 @@
             "track": "",
             "finish": 3,
             "race_id": "481a2d525ba94892f4094dfebad7fa5f68cfe4d610be7a2885a0666984649283"
+        },
+        {
+            "date": "2026-10-24T15:14:52",
+            "elo": 909,
+            "elo_before": 904,
+            "change": 5,
+            "track": "",
+            "finish": 2,
+            "race_id": "0a8cb5e8bc869e540a3072535905c113f73b0445c08c5a5fa8d8662b3d32ef18"
         }
     ],
     "Gonzalo Molina": [
