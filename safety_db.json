@@ -123,12 +123,12 @@
         "grade": "B"
     },
     "EgoMan": {
-        "safety": 290,
-        "races": 61,
+        "safety": 300,
+        "races": 62,
         "contacts": 70,
-        "clean_races": 30,
+        "clean_races": 31,
         "grade": "S",
-        "large_lobby_clean_streak": 0
+        "large_lobby_clean_streak": 1
     },
     "Giancarlos13": {
         "safety": 145,
@@ -176,11 +176,11 @@
         "grade": "A"
     },
     "JW2Stupid": {
-        "safety": 217,
-        "races": 26,
+        "safety": 229,
+        "races": 27,
         "contacts": 49,
-        "clean_races": 10,
-        "large_lobby_clean_streak": 1,
+        "clean_races": 11,
+        "large_lobby_clean_streak": 2,
         "grade": "A"
     },
     "Lou": {
@@ -223,11 +223,11 @@
         "grade": "D"
     },
     "filipknigge20": {
-        "safety": 278,
-        "races": 77,
+        "safety": 290,
+        "races": 78,
         "contacts": 84,
-        "clean_races": 35,
-        "large_lobby_clean_streak": 1,
+        "clean_races": 36,
+        "large_lobby_clean_streak": 2,
         "grade": "S"
     },
     "Matteo 42": {
@@ -285,9 +285,9 @@
         "grade": "B"
     },
     "AwashMicrobe": {
-        "safety": 85,
-        "races": 22,
-        "contacts": 53,
+        "safety": 81,
+        "races": 23,
+        "contacts": 55,
         "clean_races": 8,
         "large_lobby_clean_streak": 0,
         "grade": "D"
@@ -635,12 +635,12 @@
         "grade": "D"
     },
     "Dede": {
-        "safety": 68,
-        "races": 15,
+        "safety": 78,
+        "races": 16,
         "contacts": 36,
-        "clean_races": 1,
-        "large_lobby_clean_streak": 0,
-        "grade": "E"
+        "clean_races": 2,
+        "large_lobby_clean_streak": 1,
+        "grade": "D"
     },
     "Uri": {
         "safety": 110,
@@ -937,12 +937,12 @@
         "grade": "A"
     },
     "BNJMN": {
-        "safety": 113,
-        "races": 34,
+        "safety": 125,
+        "races": 35,
         "contacts": 46,
-        "clean_races": 16,
-        "large_lobby_clean_streak": 1,
-        "grade": "C"
+        "clean_races": 17,
+        "large_lobby_clean_streak": 2,
+        "grade": "B"
     },
     "adrianrufin7": {
         "safety": 120,
@@ -1048,9 +1048,9 @@
         "grade": "B"
     },
     "skalf": {
-        "safety": 137,
-        "races": 16,
-        "contacts": 15,
+        "safety": 135,
+        "races": 17,
+        "contacts": 16,
         "clean_races": 6,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -1296,11 +1296,11 @@
         "grade": "B"
     },
     "Fick dich Kohlin": {
-        "safety": 88,
-        "races": 12,
-        "contacts": 25,
+        "safety": 86,
+        "races": 13,
+        "contacts": 26,
         "clean_races": 4,
-        "large_lobby_clean_streak": 1,
+        "large_lobby_clean_streak": 0,
         "grade": "D"
     },
     "nick": {
@@ -1706,12 +1706,12 @@
         "grade": "B"
     },
     "ShaiGP": {
-        "safety": 157,
-        "races": 8,
+        "safety": 167,
+        "races": 9,
         "contacts": 12,
-        "clean_races": 2,
-        "large_lobby_clean_streak": 0,
-        "grade": "B"
+        "clean_races": 3,
+        "large_lobby_clean_streak": 1,
+        "grade": "A"
     },
     "lambrider": {
         "safety": 199,
@@ -1906,12 +1906,12 @@
         "grade": "B"
     },
     "mend": {
-        "safety": 158,
-        "races": 4,
+        "safety": 170,
+        "races": 5,
         "contacts": 4,
-        "clean_races": 3,
-        "large_lobby_clean_streak": 1,
-        "grade": "B"
+        "clean_races": 4,
+        "large_lobby_clean_streak": 2,
+        "grade": "A"
     },
     "k dizzmeister": {
         "safety": 148,
@@ -2026,11 +2026,11 @@
         "grade": "C"
     },
     "rmofro": {
-        "safety": 128,
-        "races": 3,
-        "contacts": 6,
+        "safety": 126,
+        "races": 4,
+        "contacts": 7,
         "clean_races": 1,
-        "large_lobby_clean_streak": 1,
+        "large_lobby_clean_streak": 0,
         "grade": "B"
     },
     "Gonzales": {

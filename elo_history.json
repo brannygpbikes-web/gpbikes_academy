@@ -1843,6 +1843,15 @@
             "track": "",
             "finish": 2,
             "race_id": "5a1148388e7e1cf36bf4f444bb3c01c1d78f58e542aa93a1defd255567825a28"
+        },
+        {
+            "date": "2026-10-24T19:21:46",
+            "elo": 1214,
+            "elo_before": 1209,
+            "change": 5,
+            "track": "",
+            "finish": 2,
+            "race_id": "9d7a02d9be53f2e3528de508b9f218de146860350a74809c3709054bf022070e"
         }
     ],
     "Nuno": [
@@ -2562,6 +2571,15 @@
             "track": "",
             "finish": 6,
             "race_id": "5a1148388e7e1cf36bf4f444bb3c01c1d78f58e542aa93a1defd255567825a28"
+        },
+        {
+            "date": "2026-10-24T19:21:46",
+            "elo": 962,
+            "elo_before": 963,
+            "change": -1,
+            "track": "",
+            "finish": 6,
+            "race_id": "9d7a02d9be53f2e3528de508b9f218de146860350a74809c3709054bf022070e"
         }
     ],
     "Eneko Garcia #14": [
@@ -3871,6 +3889,15 @@
             "track": "",
             "finish": 3,
             "race_id": "be228b55f2fc9420270ea4a5950ee704191611aba8e89acebcf7f8f4ec96d28f"
+        },
+        {
+            "date": "2026-10-24T19:21:46",
+            "elo": 993,
+            "elo_before": 984,
+            "change": 9,
+            "track": "",
+            "finish": 4,
+            "race_id": "9d7a02d9be53f2e3528de508b9f218de146860350a74809c3709054bf022070e"
         }
     ],
     "Dede": [
@@ -3927,6 +3954,15 @@
             "track": "",
             "finish": 4,
             "race_id": "5a1148388e7e1cf36bf4f444bb3c01c1d78f58e542aa93a1defd255567825a28"
+        },
+        {
+            "date": "2026-10-24T19:21:46",
+            "elo": 897,
+            "elo_before": 911,
+            "change": -14,
+            "track": "",
+            "finish": 9,
+            "race_id": "9d7a02d9be53f2e3528de508b9f218de146860350a74809c3709054bf022070e"
         }
     ],
     "Honza Ehl": [
@@ -5561,6 +5597,15 @@
             "track": "",
             "finish": 1,
             "race_id": "5a1148388e7e1cf36bf4f444bb3c01c1d78f58e542aa93a1defd255567825a28"
+        },
+        {
+            "date": "2026-10-24T19:21:46",
+            "elo": 1081,
+            "elo_before": 1103,
+            "change": -22,
+            "track": "",
+            "finish": 8,
+            "race_id": "9d7a02d9be53f2e3528de508b9f218de146860350a74809c3709054bf022070e"
         }
     ],
     "Lanzo": [
@@ -13071,6 +13116,15 @@
             "track": "",
             "finish": 11,
             "race_id": "5a1148388e7e1cf36bf4f444bb3c01c1d78f58e542aa93a1defd255567825a28"
+        },
+        {
+            "date": "2026-10-24T19:21:46",
+            "elo": 997,
+            "elo_before": 994,
+            "change": 3,
+            "track": "",
+            "finish": 5,
+            "race_id": "9d7a02d9be53f2e3528de508b9f218de146860350a74809c3709054bf022070e"
         }
     ],
     "Smurruf": [
@@ -19130,6 +19184,15 @@
             "track": "",
             "finish": 5,
             "race_id": "5a1148388e7e1cf36bf4f444bb3c01c1d78f58e542aa93a1defd255567825a28"
+        },
+        {
+            "date": "2026-10-24T19:21:46",
+            "elo": 1127,
+            "elo_before": 1110,
+            "change": 17,
+            "track": "",
+            "finish": 1,
+            "race_id": "9d7a02d9be53f2e3528de508b9f218de146860350a74809c3709054bf022070e"
         }
     ],
     "Hook": [
@@ -19473,6 +19536,15 @@
             "track": "",
             "finish": 7,
             "race_id": "a98e6c38f41011beb95bbc9f80a9f4099be3f6498baee080e5275188ceac68fb"
+        },
+        {
+            "date": "2026-10-24T19:21:46",
+            "elo": 1024,
+            "elo_before": 1011,
+            "change": 13,
+            "track": "",
+            "finish": 3,
+            "race_id": "9d7a02d9be53f2e3528de508b9f218de146860350a74809c3709054bf022070e"
         }
     ],
     "k dizzmeister": [
@@ -19834,6 +19906,15 @@
             "track": "",
             "finish": 7,
             "race_id": "f2502a61d051002478bacca8c511613f85c6804baabf2b9d6f001e5005038f85"
+        },
+        {
+            "date": "2026-10-24T19:21:46",
+            "elo": 996,
+            "elo_before": 1006,
+            "change": -10,
+            "track": "",
+            "finish": 7,
+            "race_id": "9d7a02d9be53f2e3528de508b9f218de146860350a74809c3709054bf022070e"
         }
     ],
     "Gonzales": [
