@@ -2097,6 +2097,15 @@
             "track": "",
             "finish": 2,
             "race_id": "dbc6d4901e4574d2132f2a551e184eb3061aae71c1c27363c00277e108bb3ad1"
+        },
+        {
+            "date": "2026-10-24T16:58:08",
+            "elo": 1090,
+            "elo_before": 1080,
+            "change": 10,
+            "track": "",
+            "finish": 1,
+            "race_id": "f0b85a9009b6b259462d72b171c13bd3798a60eebb0f5e8a10157e12a2ca93b8"
         }
     ],
     "sbara": [
@@ -15299,6 +15308,15 @@
             "track": "",
             "finish": 1,
             "race_id": "86b1bf5518c0028b05c3066cbf7056391f6daee96830f28d0c49de3380d3294e"
+        },
+        {
+            "date": "2026-10-24T16:58:08",
+            "elo": 1085,
+            "elo_before": 1100,
+            "change": -15,
+            "track": "",
+            "finish": 4,
+            "race_id": "f0b85a9009b6b259462d72b171c13bd3798a60eebb0f5e8a10157e12a2ca93b8"
         }
     ],
     "aeziahh on tt": [
@@ -16014,6 +16032,15 @@
             "track": "",
             "finish": 1,
             "race_id": "dbc6d4901e4574d2132f2a551e184eb3061aae71c1c27363c00277e108bb3ad1"
+        },
+        {
+            "date": "2026-10-24T16:58:08",
+            "elo": 1004,
+            "elo_before": 1007,
+            "change": -3,
+            "track": "",
+            "finish": 3,
+            "race_id": "f0b85a9009b6b259462d72b171c13bd3798a60eebb0f5e8a10157e12a2ca93b8"
         }
     ],
     "CLG21": [
@@ -17177,6 +17204,15 @@
             "track": "",
             "finish": 6,
             "race_id": "86b1bf5518c0028b05c3066cbf7056391f6daee96830f28d0c49de3380d3294e"
+        },
+        {
+            "date": "2026-10-24T16:58:08",
+            "elo": 959,
+            "elo_before": 951,
+            "change": 8,
+            "track": "",
+            "finish": 2,
+            "race_id": "f0b85a9009b6b259462d72b171c13bd3798a60eebb0f5e8a10157e12a2ca93b8"
         }
     ],
     "Maximoquiles28": [
