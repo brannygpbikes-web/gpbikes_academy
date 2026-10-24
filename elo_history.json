@@ -2418,6 +2418,15 @@
             "track": "",
             "finish": 5,
             "race_id": "8d484276153d85fe645c74975b1f008e8229356d8c18862c97c2536b6a9a35f6"
+        },
+        {
+            "date": "2026-10-24T15:31:28",
+            "elo": 955,
+            "elo_before": 958,
+            "change": -3,
+            "track": "",
+            "finish": 4,
+            "race_id": "58137da2b6493de80e654378c443f6c88c20043dadc72cbd1fb387b2017c3adf"
         }
     ],
     "Eneko Garcia #14": [
@@ -6578,6 +6587,15 @@
             "track": "",
             "finish": 7,
             "race_id": "69ac96f78de6ae20c24216b389fc9095b4fe34e3a48af8d78d265719733e0394"
+        },
+        {
+            "date": "2026-10-24T15:31:28",
+            "elo": 1041,
+            "elo_before": 1042,
+            "change": -1,
+            "track": "",
+            "finish": 3,
+            "race_id": "58137da2b6493de80e654378c443f6c88c20043dadc72cbd1fb387b2017c3adf"
         }
     ],
     "KSBR": [
@@ -9992,6 +10010,15 @@
             "track": "",
             "finish": 3,
             "race_id": "e803d1e68567e978ee87af86e160449fc8c8470c2002967c60e507c73d6b42e3"
+        },
+        {
+            "date": "2026-10-24T15:31:28",
+            "elo": 1042,
+            "elo_before": 1036,
+            "change": 6,
+            "track": "",
+            "finish": 2,
+            "race_id": "58137da2b6493de80e654378c443f6c88c20043dadc72cbd1fb387b2017c3adf"
         }
     ],
     "JorgeNsr": [
@@ -11152,6 +11179,15 @@
             "track": "",
             "finish": 1,
             "race_id": "0a8cb5e8bc869e540a3072535905c113f73b0445c08c5a5fa8d8662b3d32ef18"
+        },
+        {
+            "date": "2026-10-24T15:31:28",
+            "elo": 1197,
+            "elo_before": 1191,
+            "change": 6,
+            "track": "",
+            "finish": 1,
+            "race_id": "58137da2b6493de80e654378c443f6c88c20043dadc72cbd1fb387b2017c3adf"
         }
     ],
     "queefmccheif": [
@@ -14304,6 +14340,15 @@
             "track": "",
             "finish": 2,
             "race_id": "0a8cb5e8bc869e540a3072535905c113f73b0445c08c5a5fa8d8662b3d32ef18"
+        },
+        {
+            "date": "2026-10-24T15:31:28",
+            "elo": 901,
+            "elo_before": 909,
+            "change": -8,
+            "track": "",
+            "finish": 5,
+            "race_id": "58137da2b6493de80e654378c443f6c88c20043dadc72cbd1fb387b2017c3adf"
         }
     ],
     "Gonzalo Molina": [
