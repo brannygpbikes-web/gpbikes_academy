@@ -849,6 +849,15 @@
             "track": "",
             "finish": 8,
             "race_id": "886675dcc35e7bd9a3af1bf71e68cfe8bc0bcddc4fbc764c6a946a7f542c1812"
+        },
+        {
+            "date": "2026-10-25T17:50:56",
+            "elo": 928,
+            "elo_before": 921,
+            "change": 7,
+            "track": "",
+            "finish": 8,
+            "race_id": "c2541715f31ee252e117339599f1dc7cc583f812cb5529db0fc08c64546793b5"
         }
     ],
     "Danny Hinkelmann14": [
@@ -1400,6 +1409,15 @@
             "track": "",
             "finish": 15,
             "race_id": "886675dcc35e7bd9a3af1bf71e68cfe8bc0bcddc4fbc764c6a946a7f542c1812"
+        },
+        {
+            "date": "2026-10-25T17:50:56",
+            "elo": 1013,
+            "elo_before": 993,
+            "change": 20,
+            "track": "",
+            "finish": 3,
+            "race_id": "c2541715f31ee252e117339599f1dc7cc583f812cb5529db0fc08c64546793b5"
         }
     ],
     "filipknigge20": [
@@ -3337,6 +3355,15 @@
             "track": "",
             "finish": 5,
             "race_id": "886675dcc35e7bd9a3af1bf71e68cfe8bc0bcddc4fbc764c6a946a7f542c1812"
+        },
+        {
+            "date": "2026-10-25T17:50:56",
+            "elo": 1047,
+            "elo_before": 1064,
+            "change": -17,
+            "track": "",
+            "finish": 12,
+            "race_id": "c2541715f31ee252e117339599f1dc7cc583f812cb5529db0fc08c64546793b5"
         }
     ],
     "Oover": [
@@ -8670,6 +8697,15 @@
             "track": "",
             "finish": 17,
             "race_id": "f293b16d15e2c0c9558171bf385f503584162be0a090a3e688450baf077dd081"
+        },
+        {
+            "date": "2026-10-25T17:50:56",
+            "elo": 1096,
+            "elo_before": 1079,
+            "change": 17,
+            "track": "",
+            "finish": 2,
+            "race_id": "c2541715f31ee252e117339599f1dc7cc583f812cb5529db0fc08c64546793b5"
         }
     ],
     "Emir Eyupoglu": [
@@ -10452,6 +10488,15 @@
             "track": "",
             "finish": 2,
             "race_id": "886675dcc35e7bd9a3af1bf71e68cfe8bc0bcddc4fbc764c6a946a7f542c1812"
+        },
+        {
+            "date": "2026-10-25T17:50:56",
+            "elo": 1206,
+            "elo_before": 1193,
+            "change": 13,
+            "track": "",
+            "finish": 1,
+            "race_id": "c2541715f31ee252e117339599f1dc7cc583f812cb5529db0fc08c64546793b5"
         }
     ],
     "moe": [
@@ -12169,6 +12214,15 @@
             "track": "",
             "finish": 14,
             "race_id": "886675dcc35e7bd9a3af1bf71e68cfe8bc0bcddc4fbc764c6a946a7f542c1812"
+        },
+        {
+            "date": "2026-10-25T17:50:56",
+            "elo": 1177,
+            "elo_before": 1211,
+            "change": -34,
+            "track": "",
+            "finish": 14,
+            "race_id": "c2541715f31ee252e117339599f1dc7cc583f812cb5529db0fc08c64546793b5"
         }
     ],
     "queefmccheif": [
@@ -14284,6 +14338,15 @@
             "track": "",
             "finish": 6,
             "race_id": "886675dcc35e7bd9a3af1bf71e68cfe8bc0bcddc4fbc764c6a946a7f542c1812"
+        },
+        {
+            "date": "2026-10-25T17:50:56",
+            "elo": 1005,
+            "elo_before": 996,
+            "change": 9,
+            "track": "",
+            "finish": 6,
+            "race_id": "c2541715f31ee252e117339599f1dc7cc583f812cb5529db0fc08c64546793b5"
         }
     ],
     "Pylote": [
@@ -14551,6 +14614,15 @@
             "track": "",
             "finish": 3,
             "race_id": "886675dcc35e7bd9a3af1bf71e68cfe8bc0bcddc4fbc764c6a946a7f542c1812"
+        },
+        {
+            "date": "2026-10-25T17:50:56",
+            "elo": 997,
+            "elo_before": 1003,
+            "change": -6,
+            "track": "",
+            "finish": 10,
+            "race_id": "c2541715f31ee252e117339599f1dc7cc583f812cb5529db0fc08c64546793b5"
         }
     ],
     "GeorgeBowes67": [
@@ -14580,6 +14652,15 @@
             "track": "",
             "finish": 5,
             "race_id": "1ce36afeb6e7b66b1a0098320cdcf3088d8f26b46c2ae624e8cfbff5cee64d04"
+        },
+        {
+            "date": "2026-10-25T17:50:56",
+            "elo": 981,
+            "elo_before": 1005,
+            "change": -24,
+            "track": "",
+            "finish": 15,
+            "race_id": "c2541715f31ee252e117339599f1dc7cc583f812cb5529db0fc08c64546793b5"
         }
     ],
     "Spr0cket": [
@@ -16819,6 +16900,15 @@
             "track": "",
             "finish": 2,
             "race_id": "a985ec6ad32eee8f7166606a1a905188d38d7b591cb2feb133be8b196ae8097b"
+        },
+        {
+            "date": "2026-10-25T17:50:56",
+            "elo": 993,
+            "elo_before": 979,
+            "change": 14,
+            "track": "",
+            "finish": 5,
+            "race_id": "c2541715f31ee252e117339599f1dc7cc583f812cb5529db0fc08c64546793b5"
         }
     ],
     "RecklesMD": [
@@ -19218,6 +19308,15 @@
             "track": "",
             "finish": 2,
             "race_id": "03a12d8123be32e794a1bedd1c74e556993b22ab73bc647d7f1af632dc3c31aa"
+        },
+        {
+            "date": "2026-10-25T17:50:56",
+            "elo": 1011,
+            "elo_before": 1014,
+            "change": -3,
+            "track": "",
+            "finish": 9,
+            "race_id": "c2541715f31ee252e117339599f1dc7cc583f812cb5529db0fc08c64546793b5"
         }
     ],
     "lambrider": [
@@ -20713,6 +20812,15 @@
             "track": "",
             "finish": 11,
             "race_id": "886675dcc35e7bd9a3af1bf71e68cfe8bc0bcddc4fbc764c6a946a7f542c1812"
+        },
+        {
+            "date": "2026-10-25T17:50:56",
+            "elo": 975,
+            "elo_before": 968,
+            "change": 7,
+            "track": "",
+            "finish": 7,
+            "race_id": "c2541715f31ee252e117339599f1dc7cc583f812cb5529db0fc08c64546793b5"
         }
     ],
     "ihatestoppies": [
@@ -21005,6 +21113,15 @@
             "track": "",
             "finish": 4,
             "race_id": "886675dcc35e7bd9a3af1bf71e68cfe8bc0bcddc4fbc764c6a946a7f542c1812"
+        },
+        {
+            "date": "2026-10-25T17:50:56",
+            "elo": 994,
+            "elo_before": 977,
+            "change": 17,
+            "track": "",
+            "finish": 4,
+            "race_id": "c2541715f31ee252e117339599f1dc7cc583f812cb5529db0fc08c64546793b5"
         }
     ],
     "thiaswenzel": [
@@ -21043,6 +21160,15 @@
             "track": "",
             "finish": 13,
             "race_id": "886675dcc35e7bd9a3af1bf71e68cfe8bc0bcddc4fbc764c6a946a7f542c1812"
+        },
+        {
+            "date": "2026-10-25T17:50:56",
+            "elo": 947,
+            "elo_before": 960,
+            "change": -13,
+            "track": "",
+            "finish": 13,
+            "race_id": "c2541715f31ee252e117339599f1dc7cc583f812cb5529db0fc08c64546793b5"
         }
     ],
     "85alevale": [
@@ -21081,6 +21207,15 @@
             "track": "",
             "finish": 12,
             "race_id": "886675dcc35e7bd9a3af1bf71e68cfe8bc0bcddc4fbc764c6a946a7f542c1812"
+        },
+        {
+            "date": "2026-10-25T17:50:56",
+            "elo": 959,
+            "elo_before": 966,
+            "change": -7,
+            "track": "",
+            "finish": 11,
+            "race_id": "c2541715f31ee252e117339599f1dc7cc583f812cb5529db0fc08c64546793b5"
         }
     ],
     "Ovengroente": [
