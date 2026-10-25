@@ -30,9 +30,9 @@
         "podiums": 1
     },
     "moe": {
-        "elo": 973,
+        "elo": 959,
         "wins": 2,
-        "races": 59,
+        "races": 60,
         "podiums": 14
     },
     "jackthebikeguy": {
@@ -90,10 +90,10 @@
         "podiums": 1
     },
     "tacticworks": {
-        "elo": 1047,
+        "elo": 1065,
         "wins": 0,
-        "races": 44,
-        "podiums": 14
+        "races": 45,
+        "podiums": 15
     },
     "N1rmata": {
         "elo": 1134,
@@ -138,9 +138,9 @@
         "podiums": 0
     },
     "Rayo__Wombat": {
-        "elo": 1096,
+        "elo": 1077,
         "wins": 3,
-        "races": 46,
+        "races": 47,
         "podiums": 18
     },
     "Mikrowelle": {
@@ -180,9 +180,9 @@
         "podiums": 61
     },
     "Billy Jones": {
-        "elo": 1206,
+        "elo": 1201,
         "wins": 28,
-        "races": 68,
+        "races": 69,
         "podiums": 49
     },
     "patrickfaderl98": {
@@ -192,10 +192,10 @@
         "podiums": 15
     },
     "Danny Hinkelmann14": {
-        "elo": 1013,
-        "wins": 7,
-        "races": 77,
-        "podiums": 25
+        "elo": 1038,
+        "wins": 8,
+        "races": 78,
+        "podiums": 26
     },
     "Santos47": {
         "elo": 1016,
@@ -606,9 +606,9 @@
         "podiums": 4
     },
     "Tarmacsurfer": {
-        "elo": 993,
+        "elo": 990,
         "wins": 0,
-        "races": 15,
+        "races": 16,
         "podiums": 1
     },
     "Michiel Oom": {
@@ -648,9 +648,9 @@
         "podiums": 37
     },
     "vNoHxpe_KJ45": {
-        "elo": 997,
+        "elo": 990,
         "wins": 0,
-        "races": 32,
+        "races": 33,
         "podiums": 7
     },
     "Fabio_34": {
@@ -870,9 +870,9 @@
         "podiums": 0
     },
     "collinlanger96": {
-        "elo": 928,
+        "elo": 938,
         "wins": 0,
-        "races": 36,
+        "races": 37,
         "podiums": 3
     },
     "skalf": {
@@ -1230,10 +1230,10 @@
         "podiums": 5
     },
     "SleppyGame23": {
-        "elo": 1002,
+        "elo": 1019,
         "wins": 1,
-        "races": 23,
-        "podiums": 8
+        "races": 24,
+        "podiums": 9
     },
     "CLG21": {
         "elo": 1014,
@@ -1340,7 +1340,7 @@
     "ShaiGP": {
         "elo": 1011,
         "wins": 0,
-        "races": 12,
+        "races": 13,
         "podiums": 2
     },
     "lambrider": {
@@ -1602,21 +1602,21 @@
         "podiums": 0
     },
     "thiaswenzel": {
-        "elo": 947,
+        "elo": 927,
         "wins": 0,
-        "races": 5,
+        "races": 6,
         "podiums": 0
     },
     "85alevale": {
-        "elo": 959,
+        "elo": 942,
         "wins": 0,
-        "races": 5,
+        "races": 6,
         "podiums": 0
     },
     "Ovengroente": {
-        "elo": 986,
+        "elo": 1001,
         "wins": 0,
-        "races": 1,
+        "races": 2,
         "podiums": 0
     }
 }
