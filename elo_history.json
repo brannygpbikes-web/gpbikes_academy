@@ -2241,6 +2241,15 @@
             "track": "",
             "finish": 2,
             "race_id": "923c484b38c633a39c4541bc5f3556decfeb8931514c84ba7156a7becf1548e1"
+        },
+        {
+            "date": "2026-10-25T15:34:49",
+            "elo": 1114,
+            "elo_before": 1111,
+            "change": 3,
+            "track": "",
+            "finish": 2,
+            "race_id": "0dc10fadae5496cf64df4fffa66984073f85cb7acf30125abb04f6a17664ce7d"
         }
     ],
     "sbara": [
@@ -7073,6 +7082,15 @@
             "track": "",
             "finish": 1,
             "race_id": "a985ec6ad32eee8f7166606a1a905188d38d7b591cb2feb133be8b196ae8097b"
+        },
+        {
+            "date": "2026-10-25T15:34:49",
+            "elo": 1048,
+            "elo_before": 1035,
+            "change": 13,
+            "track": "",
+            "finish": 1,
+            "race_id": "0dc10fadae5496cf64df4fffa66984073f85cb7acf30125abb04f6a17664ce7d"
         }
     ],
     "KSBR": [
@@ -12059,6 +12077,15 @@
             "track": "",
             "finish": 1,
             "race_id": "b8ae723576a0688312168730a26f41d82486857be15df4447c49624b622b449f"
+        },
+        {
+            "date": "2026-10-25T15:34:49",
+            "elo": 1027,
+            "elo_before": 1040,
+            "change": -13,
+            "track": "",
+            "finish": 5,
+            "race_id": "0dc10fadae5496cf64df4fffa66984073f85cb7acf30125abb04f6a17664ce7d"
         }
     ],
     "Lucce39": [
@@ -16815,6 +16842,15 @@
             "track": "",
             "finish": 5,
             "race_id": "f2502a61d051002478bacca8c511613f85c6804baabf2b9d6f001e5005038f85"
+        },
+        {
+            "date": "2026-10-25T15:34:49",
+            "elo": 1013,
+            "elo_before": 1012,
+            "change": 1,
+            "track": "",
+            "finish": 3,
+            "race_id": "0dc10fadae5496cf64df4fffa66984073f85cb7acf30125abb04f6a17664ce7d"
         }
     ],
     "CLG21": [
@@ -20153,6 +20189,17 @@
             "track": "",
             "finish": 16,
             "race_id": "923c484b38c633a39c4541bc5f3556decfeb8931514c84ba7156a7becf1548e1"
+        }
+    ],
+    "Henrik83": [
+        {
+            "date": "2026-10-25T15:34:49",
+            "elo": 996,
+            "elo_before": 1000,
+            "change": -4,
+            "track": "",
+            "finish": 4,
+            "race_id": "0dc10fadae5496cf64df4fffa66984073f85cb7acf30125abb04f6a17664ce7d"
         }
     ]
 }

@@ -316,9 +316,9 @@
         "large_lobby_clean_streak": 3
     },
     "Miquel_Sinke60": {
-        "safety": 49,
-        "races": 67,
-        "contacts": 124,
+        "safety": 41,
+        "races": 68,
+        "contacts": 126,
         "clean_races": 22,
         "large_lobby_clean_streak": 0,
         "grade": "E"
@@ -564,9 +564,9 @@
         "grade": "B"
     },
     "Nuno": {
-        "safety": 145,
-        "races": 53,
-        "contacts": 56,
+        "safety": 137,
+        "races": 54,
+        "contacts": 58,
         "clean_races": 23,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -1232,11 +1232,11 @@
         "grade": "B"
     },
     "Outrunning Child Support": {
-        "safety": 148,
-        "races": 17,
-        "contacts": 26,
+        "safety": 140,
+        "races": 18,
+        "contacts": 28,
         "clean_races": 8,
-        "large_lobby_clean_streak": 2,
+        "large_lobby_clean_streak": 0,
         "grade": "B"
     },
     "Fhalopy": {
@@ -1538,9 +1538,9 @@
         "grade": "C"
     },
     "SleppyGame23": {
-        "safety": 155,
-        "races": 19,
-        "contacts": 16,
+        "safety": 151,
+        "races": 20,
+        "contacts": 17,
         "clean_races": 10,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -2037,6 +2037,14 @@
         "safety": 119,
         "races": 1,
         "contacts": 3,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "C"
+    },
+    "Henrik83": {
+        "safety": 121,
+        "races": 1,
+        "contacts": 1,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
