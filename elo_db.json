@@ -30,9 +30,9 @@
         "podiums": 1
     },
     "moe": {
-        "elo": 940,
+        "elo": 946,
         "wins": 2,
-        "races": 62,
+        "races": 63,
         "podiums": 14
     },
     "jackthebikeguy": {
@@ -90,10 +90,10 @@
         "podiums": 1
     },
     "tacticworks": {
-        "elo": 1106,
+        "elo": 1119,
         "wins": 2,
-        "races": 47,
-        "podiums": 17
+        "races": 48,
+        "podiums": 18
     },
     "N1rmata": {
         "elo": 1134,
@@ -174,10 +174,10 @@
         "podiums": 16
     },
     "filipknigge20": {
-        "elo": 1255,
+        "elo": 1256,
         "wins": 29,
-        "races": 89,
-        "podiums": 64
+        "races": 90,
+        "podiums": 65
     },
     "Billy Jones": {
         "elo": 1201,
@@ -192,10 +192,10 @@
         "podiums": 15
     },
     "Danny Hinkelmann14": {
-        "elo": 1065,
-        "wins": 9,
-        "races": 83,
-        "podiums": 28
+        "elo": 1085,
+        "wins": 10,
+        "races": 84,
+        "podiums": 29
     },
     "Santos47": {
         "elo": 1016,
@@ -228,9 +228,9 @@
         "podiums": 0
     },
     "Carrasco": {
-        "elo": 1005,
+        "elo": 1010,
         "wins": 3,
-        "races": 42,
+        "races": 43,
         "podiums": 14
     },
     "Ricoway46": {
@@ -414,9 +414,9 @@
         "podiums": 3
     },
     "EgoMan": {
-        "elo": 950,
+        "elo": 944,
         "wins": 1,
-        "races": 54,
+        "races": 55,
         "podiums": 4
     },
     "RaK": {
@@ -870,15 +870,15 @@
         "podiums": 0
     },
     "collinlanger96": {
-        "elo": 957,
+        "elo": 969,
         "wins": 0,
-        "races": 39,
+        "races": 40,
         "podiums": 3
     },
     "skalf": {
-        "elo": 977,
+        "elo": 965,
         "wins": 0,
-        "races": 19,
+        "races": 20,
         "podiums": 4
     },
     "Hopperle#12": {
@@ -900,9 +900,9 @@
         "podiums": 2
     },
     "Rk_44": {
-        "elo": 785,
+        "elo": 774,
         "wins": 0,
-        "races": 68,
+        "races": 69,
         "podiums": 8
     },
     "Maximo Giro": {
@@ -1050,9 +1050,9 @@
         "podiums": 0
     },
     "Fick dich Kohlin": {
-        "elo": 990,
+        "elo": 1004,
         "wins": 0,
-        "races": 15,
+        "races": 16,
         "podiums": 2
     },
     "Smurruf": {
@@ -1446,9 +1446,9 @@
         "podiums": 0
     },
     "Scottogden19": {
-        "elo": 980,
+        "elo": 964,
         "wins": 0,
-        "races": 7,
+        "races": 8,
         "podiums": 0
     },
     "Julio Abellan": {
@@ -1596,9 +1596,9 @@
         "podiums": 0
     },
     "HectorLl93": {
-        "elo": 948,
+        "elo": 949,
         "wins": 0,
-        "races": 4,
+        "races": 5,
         "podiums": 0
     },
     "thiaswenzel": {
@@ -1629,6 +1629,18 @@
         "elo": 977,
         "wins": 0,
         "races": 3,
+        "podiums": 0
+    },
+    "xure": {
+        "elo": 994,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
+    },
+    "AITORGP": {
+        "elo": 979,
+        "wins": 0,
+        "races": 1,
         "podiums": 0
     }
 }
