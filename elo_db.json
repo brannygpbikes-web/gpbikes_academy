@@ -30,9 +30,9 @@
         "podiums": 1
     },
     "moe": {
-        "elo": 959,
+        "elo": 940,
         "wins": 2,
-        "races": 61,
+        "races": 62,
         "podiums": 14
     },
     "jackthebikeguy": {
@@ -42,10 +42,10 @@
         "podiums": 1
     },
     "Miquel_Sinke60": {
-        "elo": 1054,
+        "elo": 1072,
         "wins": 13,
-        "races": 78,
-        "podiums": 37
+        "races": 79,
+        "podiums": 38
     },
     "AhyaAL": {
         "elo": 1152,
@@ -192,10 +192,10 @@
         "podiums": 15
     },
     "Danny Hinkelmann14": {
-        "elo": 1043,
-        "wins": 8,
-        "races": 79,
-        "podiums": 26
+        "elo": 1068,
+        "wins": 9,
+        "races": 80,
+        "podiums": 27
     },
     "Santos47": {
         "elo": 1016,
@@ -318,10 +318,10 @@
         "podiums": 0
     },
     "Dario Andreoni": {
-        "elo": 1149,
+        "elo": 1155,
         "wins": 10,
-        "races": 60,
-        "podiums": 31
+        "races": 61,
+        "podiums": 32
     },
     "titonagom08": {
         "elo": 940,
@@ -384,9 +384,9 @@
         "podiums": 1
     },
     "tobimayer29 on ig": {
-        "elo": 1057,
+        "elo": 1042,
         "wins": 12,
-        "races": 41,
+        "races": 42,
         "podiums": 19
     },
     "Justice": {
@@ -660,9 +660,9 @@
         "podiums": 0
     },
     "Honza Ehl": {
-        "elo": 990,
+        "elo": 991,
         "wins": 6,
-        "races": 20,
+        "races": 21,
         "podiums": 11
     },
     "jorgeguti160": {
@@ -942,9 +942,9 @@
         "podiums": 0
     },
     "Emir Eyupoglu": {
-        "elo": 1119,
+        "elo": 1105,
         "wins": 4,
-        "races": 32,
+        "races": 33,
         "podiums": 11
     },
     "SrPomit": {
@@ -1230,9 +1230,9 @@
         "podiums": 5
     },
     "SleppyGame23": {
-        "elo": 1030,
+        "elo": 1034,
         "wins": 1,
-        "races": 25,
+        "races": 26,
         "podiums": 9
     },
     "CLG21": {
@@ -1338,9 +1338,9 @@
         "podiums": 0
     },
     "ShaiGP": {
-        "elo": 1013,
+        "elo": 1023,
         "wins": 0,
-        "races": 14,
+        "races": 15,
         "podiums": 2
     },
     "lambrider": {
@@ -1617,6 +1617,12 @@
         "elo": 1001,
         "wins": 0,
         "races": 2,
+        "podiums": 0
+    },
+    "Dean_Gouw_racing_21 on ig": {
+        "elo": 984,
+        "wins": 0,
+        "races": 1,
         "podiums": 0
     }
 }

@@ -92,9 +92,9 @@
         "grade": "B"
     },
     "tobimayer29 on ig": {
-        "safety": 44,
-        "races": 40,
-        "contacts": 91,
+        "safety": 41,
+        "races": 41,
+        "contacts": 92,
         "clean_races": 11,
         "large_lobby_clean_streak": 0,
         "grade": "E"
@@ -168,9 +168,9 @@
         "grade": "B"
     },
     "Danny Hinkelmann14": {
-        "safety": 240,
-        "races": 75,
-        "contacts": 101,
+        "safety": 231,
+        "races": 76,
+        "contacts": 104,
         "clean_races": 37,
         "large_lobby_clean_streak": 0,
         "grade": "A"
@@ -316,17 +316,17 @@
         "large_lobby_clean_streak": 3
     },
     "Miquel_Sinke60": {
-        "safety": 36,
-        "races": 75,
-        "contacts": 141,
+        "safety": 30,
+        "races": 76,
+        "contacts": 143,
         "clean_races": 23,
         "large_lobby_clean_streak": 0,
         "grade": "E"
     },
     "moe": {
-        "safety": 294,
-        "races": 61,
-        "contacts": 52,
+        "safety": 288,
+        "races": 62,
+        "contacts": 54,
         "clean_races": 34,
         "large_lobby_clean_streak": 0,
         "grade": "S"
@@ -541,9 +541,9 @@
         "grade": "C"
     },
     "Dario Andreoni": {
-        "safety": 296,
-        "races": 56,
-        "contacts": 44,
+        "safety": 290,
+        "races": 57,
+        "contacts": 46,
         "clean_races": 31,
         "large_lobby_clean_streak": 0,
         "grade": "S"
@@ -604,9 +604,9 @@
         "large_lobby_clean_streak": 0
     },
     "Honza Ehl": {
-        "safety": 138,
-        "races": 15,
-        "contacts": 13,
+        "safety": 132,
+        "races": 16,
+        "contacts": 15,
         "clean_races": 7,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -1128,9 +1128,9 @@
         "grade": "A"
     },
     "Emir Eyupoglu": {
-        "safety": 39,
-        "races": 33,
-        "contacts": 61,
+        "safety": 27,
+        "races": 34,
+        "contacts": 65,
         "clean_races": 9,
         "large_lobby_clean_streak": 0,
         "grade": "E"
@@ -1538,9 +1538,9 @@
         "grade": "C"
     },
     "SleppyGame23": {
-        "safety": 154,
-        "races": 26,
-        "contacts": 28,
+        "safety": 139,
+        "races": 27,
+        "contacts": 33,
         "clean_races": 11,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -1706,9 +1706,9 @@
         "grade": "B"
     },
     "ShaiGP": {
-        "safety": 184,
-        "races": 16,
-        "contacts": 25,
+        "safety": 181,
+        "races": 17,
+        "contacts": 26,
         "clean_races": 6,
         "large_lobby_clean_streak": 0,
         "grade": "A"
@@ -2072,5 +2072,13 @@
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "D"
+    },
+    "Dean_Gouw_racing_21 on ig": {
+        "safety": 119,
+        "races": 1,
+        "contacts": 2,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "C"
     }
 }

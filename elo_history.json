@@ -1445,6 +1445,15 @@
             "track": "",
             "finish": 5,
             "race_id": "6810083e33258c7cd1ca6fc91442f2d4546495d5d09893efbdcc2b9d4228e179"
+        },
+        {
+            "date": "2026-10-25T18:43:33",
+            "elo": 1068,
+            "elo_before": 1043,
+            "change": 25,
+            "track": "",
+            "finish": 1,
+            "race_id": "5363decf750013a4638bd15f6c741e9dfa01fc67cdde0ce86d560e5a4f073eea"
         }
     ],
     "filipknigge20": [
@@ -4352,6 +4361,15 @@
             "track": "",
             "finish": 9,
             "race_id": "f2502a61d051002478bacca8c511613f85c6804baabf2b9d6f001e5005038f85"
+        },
+        {
+            "date": "2026-10-25T18:43:33",
+            "elo": 991,
+            "elo_before": 990,
+            "change": 1,
+            "track": "",
+            "finish": 6,
+            "race_id": "5363decf750013a4638bd15f6c741e9dfa01fc67cdde0ce86d560e5a4f073eea"
         }
     ],
     "Dario Andreoni": [
@@ -4777,6 +4795,15 @@
             "track": "",
             "finish": 3,
             "race_id": "6810083e33258c7cd1ca6fc91442f2d4546495d5d09893efbdcc2b9d4228e179"
+        },
+        {
+            "date": "2026-10-25T18:43:33",
+            "elo": 1155,
+            "elo_before": 1149,
+            "change": 6,
+            "track": "",
+            "finish": 3,
+            "race_id": "5363decf750013a4638bd15f6c741e9dfa01fc67cdde0ce86d560e5a4f073eea"
         }
     ],
     "waldodj": [
@@ -6701,6 +6728,15 @@
             "track": "",
             "finish": 9,
             "race_id": "6810083e33258c7cd1ca6fc91442f2d4546495d5d09893efbdcc2b9d4228e179"
+        },
+        {
+            "date": "2026-10-25T18:43:33",
+            "elo": 1042,
+            "elo_before": 1057,
+            "change": -15,
+            "track": "",
+            "finish": 8,
+            "race_id": "5363decf750013a4638bd15f6c741e9dfa01fc67cdde0ce86d560e5a4f073eea"
         }
     ],
     "Maximo Giro": [
@@ -7424,6 +7460,15 @@
             "track": "",
             "finish": 8,
             "race_id": "6810083e33258c7cd1ca6fc91442f2d4546495d5d09893efbdcc2b9d4228e179"
+        },
+        {
+            "date": "2026-10-25T18:43:33",
+            "elo": 1072,
+            "elo_before": 1054,
+            "change": 18,
+            "track": "",
+            "finish": 2,
+            "race_id": "5363decf750013a4638bd15f6c741e9dfa01fc67cdde0ce86d560e5a4f073eea"
         }
     ],
     "KSBR": [
@@ -9077,6 +9122,15 @@
             "track": "",
             "finish": 2,
             "race_id": "6810083e33258c7cd1ca6fc91442f2d4546495d5d09893efbdcc2b9d4228e179"
+        },
+        {
+            "date": "2026-10-25T18:43:33",
+            "elo": 1105,
+            "elo_before": 1119,
+            "change": -14,
+            "track": "",
+            "finish": 7,
+            "race_id": "5363decf750013a4638bd15f6c741e9dfa01fc67cdde0ce86d560e5a4f073eea"
         }
     ],
     "AhyaAL": [
@@ -10877,6 +10931,15 @@
             "track": "",
             "finish": 7,
             "race_id": "6810083e33258c7cd1ca6fc91442f2d4546495d5d09893efbdcc2b9d4228e179"
+        },
+        {
+            "date": "2026-10-25T18:43:33",
+            "elo": 940,
+            "elo_before": 959,
+            "change": -19,
+            "track": "",
+            "finish": 10,
+            "race_id": "5363decf750013a4638bd15f6c741e9dfa01fc67cdde0ce86d560e5a4f073eea"
         }
     ],
     "pableko": [
@@ -17652,6 +17715,15 @@
             "track": "",
             "finish": 4,
             "race_id": "6810083e33258c7cd1ca6fc91442f2d4546495d5d09893efbdcc2b9d4228e179"
+        },
+        {
+            "date": "2026-10-25T18:43:33",
+            "elo": 1034,
+            "elo_before": 1030,
+            "change": 4,
+            "track": "",
+            "finish": 5,
+            "race_id": "5363decf750013a4638bd15f6c741e9dfa01fc67cdde0ce86d560e5a4f073eea"
         }
     ],
     "CLG21": [
@@ -19488,6 +19560,15 @@
             "track": "",
             "finish": 6,
             "race_id": "6810083e33258c7cd1ca6fc91442f2d4546495d5d09893efbdcc2b9d4228e179"
+        },
+        {
+            "date": "2026-10-25T18:43:33",
+            "elo": 1023,
+            "elo_before": 1013,
+            "change": 10,
+            "track": "",
+            "finish": 4,
+            "race_id": "5363decf750013a4638bd15f6c741e9dfa01fc67cdde0ce86d560e5a4f073eea"
         }
     ],
     "lambrider": [
@@ -21443,6 +21524,17 @@
             "track": "",
             "finish": 4,
             "race_id": "d0988f170943555f3fb250a3dda3a8ac5b412c91e6a13449b9beb98f1ef2f240"
+        }
+    ],
+    "Dean_Gouw_racing_21 on ig": [
+        {
+            "date": "2026-10-25T18:43:33",
+            "elo": 984,
+            "elo_before": 1000,
+            "change": -16,
+            "track": "",
+            "finish": 9,
+            "race_id": "5363decf750013a4638bd15f6c741e9dfa01fc67cdde0ce86d560e5a4f073eea"
         }
     ]
 }
