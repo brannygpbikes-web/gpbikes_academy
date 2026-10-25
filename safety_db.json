@@ -92,11 +92,11 @@
         "grade": "B"
     },
     "tobimayer29 on ig": {
-        "safety": 39,
-        "races": 37,
+        "safety": 54,
+        "races": 38,
         "contacts": 86,
-        "clean_races": 10,
-        "large_lobby_clean_streak": 0,
+        "clean_races": 11,
+        "large_lobby_clean_streak": 1,
         "grade": "E"
     },
     "RaK": {
@@ -139,10 +139,10 @@
     },
     "AhyaAL": {
         "safety": 300,
-        "races": 49,
-        "contacts": 37,
+        "races": 50,
+        "contacts": 38,
         "clean_races": 27,
-        "large_lobby_clean_streak": 1,
+        "large_lobby_clean_streak": 0,
         "grade": "S"
     },
     "teeds": {
@@ -316,17 +316,17 @@
         "large_lobby_clean_streak": 3
     },
     "Miquel_Sinke60": {
-        "safety": 29,
-        "races": 70,
-        "contacts": 131,
+        "safety": 23,
+        "races": 71,
+        "contacts": 134,
         "clean_races": 22,
         "large_lobby_clean_streak": 0,
         "grade": "E"
     },
     "moe": {
         "safety": 296,
-        "races": 58,
-        "contacts": 48,
+        "races": 59,
+        "contacts": 49,
         "clean_races": 33,
         "large_lobby_clean_streak": 0,
         "grade": "S"
@@ -564,12 +564,12 @@
         "grade": "B"
     },
     "Nuno": {
-        "safety": 125,
-        "races": 56,
-        "contacts": 63,
+        "safety": 121,
+        "races": 57,
+        "contacts": 65,
         "clean_races": 23,
         "large_lobby_clean_streak": 0,
-        "grade": "B"
+        "grade": "C"
     },
     "vNoHxpe_KJ45": {
         "safety": 140,
@@ -580,12 +580,12 @@
         "grade": "B"
     },
     "sbara": {
-        "safety": 250,
-        "races": 39,
+        "safety": 265,
+        "races": 40,
         "contacts": 46,
-        "clean_races": 21,
-        "large_lobby_clean_streak": 0,
-        "grade": "A"
+        "clean_races": 22,
+        "large_lobby_clean_streak": 1,
+        "grade": "S"
     },
     "N1rmata": {
         "safety": 286,
@@ -1145,8 +1145,8 @@
     },
     "fisherman": {
         "safety": 159,
-        "races": 7,
-        "contacts": 3,
+        "races": 8,
+        "contacts": 4,
         "clean_races": 5,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -1232,9 +1232,9 @@
         "grade": "B"
     },
     "Outrunning Child Support": {
-        "safety": 115,
-        "races": 20,
-        "contacts": 39,
+        "safety": 111,
+        "races": 21,
+        "contacts": 41,
         "clean_races": 8,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -1435,8 +1435,8 @@
     },
     "sergioo14": {
         "safety": 125,
-        "races": 43,
-        "contacts": 78,
+        "races": 44,
+        "contacts": 79,
         "clean_races": 27,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -1539,8 +1539,8 @@
     },
     "SleppyGame23": {
         "safety": 141,
-        "races": 22,
-        "contacts": 21,
+        "races": 23,
+        "contacts": 22,
         "clean_races": 10,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -1771,8 +1771,8 @@
     },
     "MALOUINE": {
         "safety": 133,
-        "races": 2,
-        "contacts": 1,
+        "races": 3,
+        "contacts": 2,
         "clean_races": 1,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -1946,12 +1946,12 @@
         "grade": "B"
     },
     "jmanuel_fs": {
-        "safety": 96,
-        "races": 4,
+        "safety": 111,
+        "races": 5,
         "contacts": 8,
-        "clean_races": 1,
-        "large_lobby_clean_streak": 0,
-        "grade": "D"
+        "clean_races": 2,
+        "large_lobby_clean_streak": 1,
+        "grade": "C"
     },
     "kam dixon": {
         "safety": 147,
@@ -2050,9 +2050,9 @@
         "grade": "C"
     },
     "HectorLl93": {
-        "safety": 108,
-        "races": 2,
-        "contacts": 8,
+        "safety": 100,
+        "races": 3,
+        "contacts": 12,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
