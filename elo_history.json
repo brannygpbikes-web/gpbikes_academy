@@ -7064,6 +7064,15 @@
             "track": "",
             "finish": 6,
             "race_id": "e28dc89d385339d390a00ad5e4cf32e2933d79c1367e0036d082ee8968086a43"
+        },
+        {
+            "date": "2026-10-25T15:16:15",
+            "elo": 1035,
+            "elo_before": 1024,
+            "change": 11,
+            "track": "",
+            "finish": 1,
+            "race_id": "a985ec6ad32eee8f7166606a1a905188d38d7b591cb2feb133be8b196ae8097b"
         }
     ],
     "KSBR": [
@@ -13309,6 +13318,15 @@
             "track": "",
             "finish": 17,
             "race_id": "37d69073a98e9af86f4bbd28102b6681cfc38b2ce3c5a3858cd02cd295151d11"
+        },
+        {
+            "date": "2026-10-25T15:16:15",
+            "elo": 995,
+            "elo_before": 1000,
+            "change": -5,
+            "track": "",
+            "finish": 3,
+            "race_id": "a985ec6ad32eee8f7166606a1a905188d38d7b591cb2feb133be8b196ae8097b"
         }
     ],
     "nick": [
@@ -13452,6 +13470,15 @@
             "track": "",
             "finish": 7,
             "race_id": "b104ec6f99475e973b62d74bdb47963223cbd57c51a6877e68c9b9a318bfb01b"
+        },
+        {
+            "date": "2026-10-25T15:16:15",
+            "elo": 940,
+            "elo_before": 951,
+            "change": -11,
+            "track": "",
+            "finish": 4,
+            "race_id": "a985ec6ad32eee8f7166606a1a905188d38d7b591cb2feb133be8b196ae8097b"
         }
     ],
     "reN": [
@@ -16234,6 +16261,15 @@
             "track": "",
             "finish": 11,
             "race_id": "f2502a61d051002478bacca8c511613f85c6804baabf2b9d6f001e5005038f85"
+        },
+        {
+            "date": "2026-10-25T15:16:15",
+            "elo": 979,
+            "elo_before": 974,
+            "change": 5,
+            "track": "",
+            "finish": 2,
+            "race_id": "a985ec6ad32eee8f7166606a1a905188d38d7b591cb2feb133be8b196ae8097b"
         }
     ],
     "RecklesMD": [
