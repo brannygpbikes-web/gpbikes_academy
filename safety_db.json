@@ -123,9 +123,9 @@
         "grade": "B"
     },
     "EgoMan": {
-        "safety": 280,
-        "races": 70,
-        "contacts": 83,
+        "safety": 278,
+        "races": 71,
+        "contacts": 84,
         "clean_races": 33,
         "grade": "S",
         "large_lobby_clean_streak": 0
@@ -223,11 +223,11 @@
         "grade": "D"
     },
     "filipknigge20": {
-        "safety": 267,
-        "races": 85,
+        "safety": 277,
+        "races": 86,
         "contacts": 96,
-        "clean_races": 37,
-        "large_lobby_clean_streak": 0,
+        "clean_races": 38,
+        "large_lobby_clean_streak": 1,
         "grade": "S"
     },
     "Matteo 42": {
@@ -324,9 +324,9 @@
         "grade": "E"
     },
     "moe": {
-        "safety": 284,
-        "races": 64,
-        "contacts": 57,
+        "safety": 280,
+        "races": 65,
+        "contacts": 59,
         "clean_races": 34,
         "large_lobby_clean_streak": 0,
         "grade": "S"
@@ -688,9 +688,9 @@
         "grade": "B"
     },
     "tacticworks": {
-        "safety": 177,
-        "races": 44,
-        "contacts": 66,
+        "safety": 173,
+        "races": 45,
+        "contacts": 68,
         "clean_races": 16,
         "large_lobby_clean_streak": 0,
         "grade": "A"
@@ -758,9 +758,9 @@
         "grade": "B"
     },
     "Rk_44": {
-        "safety": 273,
-        "races": 74,
-        "contacts": 56,
+        "safety": 265,
+        "races": 75,
+        "contacts": 60,
         "clean_races": 44,
         "large_lobby_clean_streak": 0,
         "grade": "S"
@@ -1296,9 +1296,9 @@
         "grade": "B"
     },
     "Fick dich Kohlin": {
-        "safety": 84,
-        "races": 19,
-        "contacts": 37,
+        "safety": 74,
+        "races": 20,
+        "contacts": 42,
         "clean_races": 6,
         "large_lobby_clean_streak": 0,
         "grade": "D"
@@ -1850,9 +1850,9 @@
         "grade": "B"
     },
     "Scottogden19": {
-        "safety": 134,
-        "races": 10,
-        "contacts": 23,
+        "safety": 130,
+        "races": 11,
+        "contacts": 25,
         "clean_races": 3,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -2050,9 +2050,9 @@
         "grade": "C"
     },
     "HectorLl93": {
-        "safety": 82,
-        "races": 6,
-        "contacts": 21,
+        "safety": 80,
+        "races": 7,
+        "contacts": 22,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "D"
@@ -2082,27 +2082,27 @@
         "grade": "C"
     },
     "Mogger": {
-        "safety": 132,
-        "races": 4,
-        "contacts": 4,
+        "safety": 130,
+        "races": 5,
+        "contacts": 5,
         "clean_races": 2,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     },
     "xure": {
-        "safety": 113,
-        "races": 1,
-        "contacts": 6,
+        "safety": 111,
+        "races": 2,
+        "contacts": 7,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
     },
     "AITORGP": {
-        "safety": 123,
-        "races": 2,
-        "contacts": 6,
+        "safety": 109,
+        "races": 3,
+        "contacts": 13,
         "clean_races": 1,
-        "large_lobby_clean_streak": 1,
+        "large_lobby_clean_streak": 0,
         "grade": "C"
     }
 }
