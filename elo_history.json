@@ -894,6 +894,15 @@
             "track": "",
             "finish": 5,
             "race_id": "d67f5148e0a7d27e7946d0416bb73f2e6e15a94a46f6f5725285b83d71d4df85"
+        },
+        {
+            "date": "2026-10-26T16:52:49",
+            "elo": 964,
+            "elo_before": 969,
+            "change": -5,
+            "track": "",
+            "finish": 2,
+            "race_id": "b58e97fca670e20f27500b66c9f557edd5c5e3a4c7dfb32ca33d17dfd7de3a15"
         }
     ],
     "Danny Hinkelmann14": [
@@ -1526,6 +1535,15 @@
             "track": "",
             "finish": 1,
             "race_id": "6b92d143482b93c144d4b8264c11b874dbaca3ab20c7df55277eaa676b195a90"
+        },
+        {
+            "date": "2026-10-26T16:52:49",
+            "elo": 1108,
+            "elo_before": 1103,
+            "change": 5,
+            "track": "",
+            "finish": 1,
+            "race_id": "b58e97fca670e20f27500b66c9f557edd5c5e3a4c7dfb32ca33d17dfd7de3a15"
         }
     ],
     "filipknigge20": [
