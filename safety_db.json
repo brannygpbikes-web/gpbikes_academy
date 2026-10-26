@@ -123,10 +123,10 @@
         "grade": "B"
     },
     "EgoMan": {
-        "safety": 293,
-        "races": 73,
+        "safety": 300,
+        "races": 74,
         "contacts": 84,
-        "clean_races": 35,
+        "clean_races": 36,
         "grade": "S",
         "large_lobby_clean_streak": 0
     },
@@ -168,9 +168,9 @@
         "grade": "B"
     },
     "Danny Hinkelmann14": {
-        "safety": 163,
-        "races": 86,
-        "contacts": 126,
+        "safety": 155,
+        "races": 87,
+        "contacts": 128,
         "clean_races": 38,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -223,9 +223,9 @@
         "grade": "D"
     },
     "filipknigge20": {
-        "safety": 263,
-        "races": 90,
-        "contacts": 101,
+        "safety": 255,
+        "races": 91,
+        "contacts": 103,
         "clean_races": 40,
         "large_lobby_clean_streak": 0,
         "grade": "A"
@@ -324,10 +324,10 @@
         "grade": "E"
     },
     "moe": {
-        "safety": 290,
-        "races": 66,
+        "safety": 300,
+        "races": 67,
         "contacts": 59,
-        "clean_races": 35,
+        "clean_races": 36,
         "large_lobby_clean_streak": 0,
         "grade": "S"
     },
@@ -580,17 +580,17 @@
         "grade": "B"
     },
     "sbara": {
-        "safety": 261,
-        "races": 41,
-        "contacts": 48,
+        "safety": 257,
+        "races": 42,
+        "contacts": 49,
         "clean_races": 22,
         "large_lobby_clean_streak": 0,
         "grade": "A"
     },
     "N1rmata": {
-        "safety": 287,
-        "races": 42,
-        "contacts": 67,
+        "safety": 283,
+        "races": 43,
+        "contacts": 68,
         "clean_races": 20,
         "large_lobby_clean_streak": 0,
         "grade": "S"
@@ -1184,9 +1184,9 @@
         "grade": "B"
     },
     "oover": {
-        "safety": 292,
-        "races": 41,
-        "contacts": 40,
+        "safety": 284,
+        "races": 42,
+        "contacts": 42,
         "clean_races": 22,
         "large_lobby_clean_streak": 0,
         "grade": "S"
