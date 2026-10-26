@@ -1562,6 +1562,15 @@
             "track": "",
             "finish": 2,
             "race_id": "0bf0ee9756af4436e51527609088ce25166662d72c01d289329b0b4899b4e374"
+        },
+        {
+            "date": "2026-10-26T18:10:21",
+            "elo": 1108,
+            "elo_before": 1107,
+            "change": 1,
+            "track": "",
+            "finish": 2,
+            "race_id": "1fd5a72b882049175dca9311ae263a74c4f92adff371f07aafcd06e39b1c9476"
         }
     ],
     "filipknigge20": [
@@ -2167,6 +2176,15 @@
             "track": "",
             "finish": 1,
             "race_id": "e70d885a906315c5e8a57a2bff0f5d141323f52896d41739ff55949ffb81ad36"
+        },
+        {
+            "date": "2026-10-26T18:10:21",
+            "elo": 1258,
+            "elo_before": 1270,
+            "change": -12,
+            "track": "",
+            "finish": 3,
+            "race_id": "1fd5a72b882049175dca9311ae263a74c4f92adff371f07aafcd06e39b1c9476"
         }
     ],
     "Nuno": [
@@ -17548,6 +17566,15 @@
             "track": "",
             "finish": 8,
             "race_id": "d0988f170943555f3fb250a3dda3a8ac5b412c91e6a13449b9beb98f1ef2f240"
+        },
+        {
+            "date": "2026-10-26T18:10:21",
+            "elo": 1001,
+            "elo_before": 990,
+            "change": 11,
+            "track": "",
+            "finish": 1,
+            "race_id": "1fd5a72b882049175dca9311ae263a74c4f92adff371f07aafcd06e39b1c9476"
         }
     ],
     "RecklesMD": [

@@ -168,12 +168,12 @@
         "grade": "B"
     },
     "Danny Hinkelmann14": {
-        "safety": 177,
-        "races": 83,
-        "contacts": 122,
+        "safety": 162,
+        "races": 84,
+        "contacts": 125,
         "clean_races": 37,
         "large_lobby_clean_streak": 0,
-        "grade": "A"
+        "grade": "B"
     },
     "JW2Stupid": {
         "safety": 239,
@@ -223,12 +223,12 @@
         "grade": "D"
     },
     "filipknigge20": {
-        "safety": 282,
-        "races": 87,
-        "contacts": 96,
+        "safety": 262,
+        "races": 88,
+        "contacts": 100,
         "clean_races": 39,
-        "large_lobby_clean_streak": 1,
-        "grade": "S"
+        "large_lobby_clean_streak": 0,
+        "grade": "A"
     },
     "Matteo 42": {
         "safety": 115,
@@ -504,9 +504,9 @@
         "large_lobby_clean_streak": 0
     },
     "Tarmacsurfer": {
-        "safety": 68,
-        "races": 17,
-        "contacts": 54,
+        "safety": 53,
+        "races": 18,
+        "contacts": 57,
         "clean_races": 3,
         "grade": "E",
         "large_lobby_clean_streak": 0
