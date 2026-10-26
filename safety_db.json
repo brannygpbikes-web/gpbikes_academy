@@ -124,9 +124,9 @@
     },
     "EgoMan": {
         "safety": 300,
-        "races": 76,
+        "races": 77,
         "contacts": 86,
-        "clean_races": 37,
+        "clean_races": 38,
         "grade": "S",
         "large_lobby_clean_streak": 1
     },
@@ -588,10 +588,10 @@
         "grade": "A"
     },
     "N1rmata": {
-        "safety": 298,
-        "races": 44,
+        "safety": 300,
+        "races": 45,
         "contacts": 68,
-        "clean_races": 21,
+        "clean_races": 22,
         "large_lobby_clean_streak": 1,
         "grade": "S"
     },
@@ -604,9 +604,9 @@
         "large_lobby_clean_streak": 0
     },
     "Honza Ehl": {
-        "safety": 124,
-        "races": 17,
-        "contacts": 19,
+        "safety": 118,
+        "races": 18,
+        "contacts": 21,
         "clean_races": 7,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -720,9 +720,9 @@
         "grade": "A"
     },
     "titonagom08": {
-        "safety": 48,
-        "races": 15,
-        "contacts": 43,
+        "safety": 45,
+        "races": 16,
+        "contacts": 44,
         "clean_races": 2,
         "large_lobby_clean_streak": 0,
         "grade": "E"
@@ -891,10 +891,10 @@
         "grade": "C"
     },
     "Postal": {
-        "safety": 73,
-        "races": 14,
+        "safety": 83,
+        "races": 15,
         "contacts": 34,
-        "clean_races": 1,
+        "clean_races": 2,
         "large_lobby_clean_streak": 0,
         "grade": "D"
     },
@@ -1000,9 +1000,9 @@
         "grade": "E"
     },
     "The Gyatt": {
-        "safety": 235,
-        "races": 10,
-        "contacts": 7,
+        "safety": 232,
+        "races": 11,
+        "contacts": 8,
         "clean_races": 6,
         "large_lobby_clean_streak": 0,
         "grade": "A"
@@ -1344,10 +1344,10 @@
         "grade": "D"
     },
     "Spr0cket": {
-        "safety": 171,
-        "races": 19,
+        "safety": 181,
+        "races": 20,
         "contacts": 41,
-        "clean_races": 9,
+        "clean_races": 10,
         "large_lobby_clean_streak": 0,
         "grade": "A"
     },
@@ -1602,9 +1602,9 @@
         "grade": "C"
     },
     "Hervass08": {
-        "safety": 96,
-        "races": 2,
-        "contacts": 8,
+        "safety": 90,
+        "races": 3,
+        "contacts": 10,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "D"
@@ -1850,10 +1850,10 @@
         "grade": "B"
     },
     "Scottogden19": {
-        "safety": 130,
-        "races": 11,
+        "safety": 140,
+        "races": 12,
         "contacts": 25,
-        "clean_races": 3,
+        "clean_races": 4,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     },
