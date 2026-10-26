@@ -1571,6 +1571,15 @@
             "track": "",
             "finish": 2,
             "race_id": "1fd5a72b882049175dca9311ae263a74c4f92adff371f07aafcd06e39b1c9476"
+        },
+        {
+            "date": "2026-10-26T18:45:53",
+            "elo": 1109,
+            "elo_before": 1108,
+            "change": 1,
+            "track": "",
+            "finish": 3,
+            "race_id": "c43a02396b897a9eea57a8b6cf3f5d755bae9cc107b9dc9c008c91871b846441"
         }
     ],
     "filipknigge20": [
@@ -2194,6 +2203,15 @@
             "track": "",
             "finish": 2,
             "race_id": "a9b06b673925f80ec274ede4606f0c6af3a6bc073999722b9dde3112a6f4566f"
+        },
+        {
+            "date": "2026-10-26T18:45:53",
+            "elo": 1261,
+            "elo_before": 1254,
+            "change": 7,
+            "track": "",
+            "finish": 1,
+            "race_id": "c43a02396b897a9eea57a8b6cf3f5d755bae9cc107b9dc9c008c91871b846441"
         }
     ],
     "Nuno": [
@@ -11300,6 +11318,15 @@
             "track": "",
             "finish": 5,
             "race_id": "28671e7712ac3f7d28d288d3c7f08d619ae82f7ddffee7f093cbb7cc8a67b1b9"
+        },
+        {
+            "date": "2026-10-26T18:45:53",
+            "elo": 950,
+            "elo_before": 949,
+            "change": 1,
+            "track": "",
+            "finish": 4,
+            "race_id": "c43a02396b897a9eea57a8b6cf3f5d755bae9cc107b9dc9c008c91871b846441"
         }
     ],
     "pableko": [
@@ -11877,6 +11904,15 @@
             "track": "",
             "finish": 1,
             "race_id": "a9b06b673925f80ec274ede4606f0c6af3a6bc073999722b9dde3112a6f4566f"
+        },
+        {
+            "date": "2026-10-26T18:45:53",
+            "elo": 1129,
+            "elo_before": 1142,
+            "change": -13,
+            "track": "",
+            "finish": 5,
+            "race_id": "c43a02396b897a9eea57a8b6cf3f5d755bae9cc107b9dc9c008c91871b846441"
         }
     ],
     "Aggressive Tax collector": [
@@ -12790,6 +12826,15 @@
             "track": "",
             "finish": 14,
             "race_id": "c2541715f31ee252e117339599f1dc7cc583f812cb5529db0fc08c64546793b5"
+        },
+        {
+            "date": "2026-10-26T18:45:53",
+            "elo": 1181,
+            "elo_before": 1177,
+            "change": 4,
+            "track": "",
+            "finish": 2,
+            "race_id": "c43a02396b897a9eea57a8b6cf3f5d755bae9cc107b9dc9c008c91871b846441"
         }
     ],
     "queefmccheif": [
