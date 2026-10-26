@@ -123,10 +123,10 @@
         "grade": "B"
     },
     "EgoMan": {
-        "safety": 296,
-        "races": 78,
+        "safety": 300,
+        "races": 79,
         "contacts": 87,
-        "clean_races": 38,
+        "clean_races": 39,
         "grade": "S",
         "large_lobby_clean_streak": 0
     },
@@ -448,10 +448,10 @@
         "grade": "S"
     },
     "Ricoway46": {
-        "safety": 231,
-        "races": 36,
+        "safety": 236,
+        "races": 37,
         "contacts": 49,
-        "clean_races": 14,
+        "clean_races": 15,
         "large_lobby_clean_streak": 0,
         "grade": "A"
     },
@@ -541,10 +541,10 @@
         "grade": "C"
     },
     "Dario Andreoni": {
-        "safety": 290,
-        "races": 57,
+        "safety": 295,
+        "races": 58,
         "contacts": 46,
-        "clean_races": 31,
+        "clean_races": 32,
         "large_lobby_clean_streak": 0,
         "grade": "S"
     },
