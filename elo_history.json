@@ -2185,6 +2185,15 @@
             "track": "",
             "finish": 3,
             "race_id": "1fd5a72b882049175dca9311ae263a74c4f92adff371f07aafcd06e39b1c9476"
+        },
+        {
+            "date": "2026-10-26T18:28:53",
+            "elo": 1254,
+            "elo_before": 1258,
+            "change": -4,
+            "track": "",
+            "finish": 2,
+            "race_id": "a9b06b673925f80ec274ede4606f0c6af3a6bc073999722b9dde3112a6f4566f"
         }
     ],
     "Nuno": [
@@ -11859,6 +11868,15 @@
             "track": "",
             "finish": 1,
             "race_id": "42f933698ab6f136959bf0c716eccc79d92ba5665f904ec710b57a7acb3c9cb4"
+        },
+        {
+            "date": "2026-10-26T18:28:53",
+            "elo": 1142,
+            "elo_before": 1134,
+            "change": 8,
+            "track": "",
+            "finish": 1,
+            "race_id": "a9b06b673925f80ec274ede4606f0c6af3a6bc073999722b9dde3112a6f4566f"
         }
     ],
     "Aggressive Tax collector": [
@@ -17575,6 +17593,15 @@
             "track": "",
             "finish": 1,
             "race_id": "1fd5a72b882049175dca9311ae263a74c4f92adff371f07aafcd06e39b1c9476"
+        },
+        {
+            "date": "2026-10-26T18:28:53",
+            "elo": 997,
+            "elo_before": 1001,
+            "change": -4,
+            "track": "",
+            "finish": 3,
+            "race_id": "a9b06b673925f80ec274ede4606f0c6af3a6bc073999722b9dde3112a6f4566f"
         }
     ],
     "RecklesMD": [

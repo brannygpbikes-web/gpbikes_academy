@@ -123,10 +123,10 @@
         "grade": "B"
     },
     "EgoMan": {
-        "safety": 278,
-        "races": 71,
+        "safety": 283,
+        "races": 72,
         "contacts": 84,
-        "clean_races": 33,
+        "clean_races": 34,
         "grade": "S",
         "large_lobby_clean_streak": 0
     },
@@ -168,12 +168,12 @@
         "grade": "B"
     },
     "Danny Hinkelmann14": {
-        "safety": 162,
-        "races": 84,
+        "safety": 167,
+        "races": 85,
         "contacts": 125,
-        "clean_races": 37,
+        "clean_races": 38,
         "large_lobby_clean_streak": 0,
-        "grade": "B"
+        "grade": "A"
     },
     "JW2Stupid": {
         "safety": 239,
@@ -223,12 +223,12 @@
         "grade": "D"
     },
     "filipknigge20": {
-        "safety": 262,
-        "races": 88,
+        "safety": 267,
+        "races": 89,
         "contacts": 100,
-        "clean_races": 39,
+        "clean_races": 40,
         "large_lobby_clean_streak": 0,
-        "grade": "A"
+        "grade": "S"
     },
     "Matteo 42": {
         "safety": 115,
@@ -504,10 +504,10 @@
         "large_lobby_clean_streak": 0
     },
     "Tarmacsurfer": {
-        "safety": 53,
-        "races": 18,
+        "safety": 58,
+        "races": 19,
         "contacts": 57,
-        "clean_races": 3,
+        "clean_races": 4,
         "grade": "E",
         "large_lobby_clean_streak": 0
     },
@@ -588,10 +588,10 @@
         "grade": "A"
     },
     "N1rmata": {
-        "safety": 286,
-        "races": 40,
+        "safety": 291,
+        "races": 41,
         "contacts": 66,
-        "clean_races": 19,
+        "clean_races": 20,
         "large_lobby_clean_streak": 0,
         "grade": "S"
     },
