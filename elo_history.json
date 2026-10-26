@@ -476,6 +476,15 @@
             "track": "",
             "finish": 17,
             "race_id": "72261ff4b1f223111617738a89c83c1fdc1a415eb3c72a56213175d00462c286"
+        },
+        {
+            "date": "2026-10-26T17:09:58",
+            "elo": 1190,
+            "elo_before": 1185,
+            "change": 5,
+            "track": "",
+            "finish": 1,
+            "race_id": "0bf0ee9756af4436e51527609088ce25166662d72c01d289329b0b4899b4e374"
         }
     ],
     "patrickfaderl98": [
@@ -1544,6 +1553,15 @@
             "track": "",
             "finish": 1,
             "race_id": "b58e97fca670e20f27500b66c9f557edd5c5e3a4c7dfb32ca33d17dfd7de3a15"
+        },
+        {
+            "date": "2026-10-26T17:09:58",
+            "elo": 1107,
+            "elo_before": 1108,
+            "change": -1,
+            "track": "",
+            "finish": 2,
+            "race_id": "0bf0ee9756af4436e51527609088ce25166662d72c01d289329b0b4899b4e374"
         }
     ],
     "filipknigge20": [
@@ -10167,6 +10185,15 @@
             "track": "",
             "finish": 12,
             "race_id": "c2056f7cd90553045d12bd057fe11efc001dc1aa35973ff0e2ad09eda1292a17"
+        },
+        {
+            "date": "2026-10-26T17:09:58",
+            "elo": 950,
+            "elo_before": 954,
+            "change": -4,
+            "track": "",
+            "finish": 3,
+            "race_id": "0bf0ee9756af4436e51527609088ce25166662d72c01d289329b0b4899b4e374"
         }
     ],
     "Eder Merino": [
