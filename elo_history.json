@@ -12093,6 +12093,15 @@
             "track": "",
             "finish": 1,
             "race_id": "74ca4160224f34ee37fdbd3b10b267dbdc4e987e3357adbd486cb8e557fa42c4"
+        },
+        {
+            "date": "2026-10-26T20:13:20",
+            "elo": 1142,
+            "elo_before": 1135,
+            "change": 7,
+            "track": "",
+            "finish": 1,
+            "race_id": "642276831570822c0201b81bf45ef90fde556a27d4e397c48759bd97d3492e89"
         }
     ],
     "Aggressive Tax collector": [
@@ -14020,6 +14029,15 @@
             "track": "",
             "finish": 5,
             "race_id": "177d05d0d881750e6e6894f8f3349521ff277624be1c5484ae548d0b8da61c54"
+        },
+        {
+            "date": "2026-10-26T20:13:20",
+            "elo": 1071,
+            "elo_before": 1078,
+            "change": -7,
+            "track": "",
+            "finish": 3,
+            "race_id": "642276831570822c0201b81bf45ef90fde556a27d4e397c48759bd97d3492e89"
         }
     ],
     "J_44": [
@@ -19418,6 +19436,15 @@
             "track": "",
             "finish": 5,
             "race_id": "74ca4160224f34ee37fdbd3b10b267dbdc4e987e3357adbd486cb8e557fa42c4"
+        },
+        {
+            "date": "2026-10-26T20:13:20",
+            "elo": 935,
+            "elo_before": 928,
+            "change": 7,
+            "track": "",
+            "finish": 2,
+            "race_id": "642276831570822c0201b81bf45ef90fde556a27d4e397c48759bd97d3492e89"
         }
     ],
     "Matteo 42": [
@@ -20178,6 +20205,15 @@
             "track": "",
             "finish": 6,
             "race_id": "b104ec6f99475e973b62d74bdb47963223cbd57c51a6877e68c9b9a318bfb01b"
+        },
+        {
+            "date": "2026-10-26T20:13:20",
+            "elo": 859,
+            "elo_before": 866,
+            "change": -7,
+            "track": "",
+            "finish": 4,
+            "race_id": "642276831570822c0201b81bf45ef90fde556a27d4e397c48759bd97d3492e89"
         }
     ],
     "No Pain No Tartine": [
