@@ -2158,6 +2158,15 @@
             "track": "",
             "finish": 1,
             "race_id": "28671e7712ac3f7d28d288d3c7f08d619ae82f7ddffee7f093cbb7cc8a67b1b9"
+        },
+        {
+            "date": "2026-10-26T17:52:06",
+            "elo": 1270,
+            "elo_before": 1267,
+            "change": 3,
+            "track": "",
+            "finish": 1,
+            "race_id": "e70d885a906315c5e8a57a2bff0f5d141323f52896d41739ff55949ffb81ad36"
         }
     ],
     "Nuno": [
@@ -13067,6 +13076,15 @@
             "track": "",
             "finish": 13,
             "race_id": "08428b5c73bafd7d40ba401ab5e568e0f11f99a1274c699691b47ab59eeeec56"
+        },
+        {
+            "date": "2026-10-26T17:52:06",
+            "elo": 1030,
+            "elo_before": 1033,
+            "change": -3,
+            "track": "",
+            "finish": 2,
+            "race_id": "e70d885a906315c5e8a57a2bff0f5d141323f52896d41739ff55949ffb81ad36"
         }
     ],
     "Lucce39": [
