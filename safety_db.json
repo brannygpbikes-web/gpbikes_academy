@@ -124,9 +124,9 @@
     },
     "EgoMan": {
         "safety": 300,
-        "races": 80,
+        "races": 81,
         "contacts": 87,
-        "clean_races": 40,
+        "clean_races": 41,
         "grade": "S",
         "large_lobby_clean_streak": 1
     },
@@ -169,9 +169,9 @@
         "grade": "B"
     },
     "Danny Hinkelmann14": {
-        "safety": 147,
-        "races": 94,
-        "contacts": 140,
+        "safety": 141,
+        "races": 95,
+        "contacts": 142,
         "clean_races": 39,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -224,12 +224,12 @@
         "grade": "D"
     },
     "filipknigge20": {
-        "safety": 263,
-        "races": 97,
+        "safety": 273,
+        "races": 98,
         "contacts": 114,
-        "clean_races": 42,
+        "clean_races": 43,
         "large_lobby_clean_streak": 0,
-        "grade": "A"
+        "grade": "S"
     },
     "Matteo 42": {
         "safety": 115,
@@ -449,9 +449,9 @@
         "grade": "S"
     },
     "Ricoway46": {
-        "safety": 224,
-        "races": 40,
-        "contacts": 55,
+        "safety": 218,
+        "races": 41,
+        "contacts": 57,
         "clean_races": 15,
         "large_lobby_clean_streak": 0,
         "grade": "A"
@@ -589,11 +589,11 @@
         "grade": "A"
     },
     "N1rmata": {
-        "safety": 300,
-        "races": 47,
-        "contacts": 69,
+        "safety": 294,
+        "races": 48,
+        "contacts": 71,
         "clean_races": 23,
-        "large_lobby_clean_streak": 1,
+        "large_lobby_clean_streak": 0,
         "grade": "S"
     },
     "JKR": {
@@ -636,10 +636,10 @@
         "grade": "D"
     },
     "Dede": {
-        "safety": 76,
-        "races": 17,
+        "safety": 86,
+        "races": 18,
         "contacts": 37,
-        "clean_races": 2,
+        "clean_races": 3,
         "large_lobby_clean_streak": 0,
         "grade": "D"
     },
@@ -884,12 +884,12 @@
         "large_lobby_clean_streak": 3
     },
     "Dimitry": {
-        "safety": 121,
-        "races": 33,
+        "safety": 131,
+        "races": 34,
         "contacts": 49,
-        "clean_races": 14,
+        "clean_races": 15,
         "large_lobby_clean_streak": 0,
-        "grade": "C"
+        "grade": "B"
     },
     "Postal": {
         "safety": 73,
@@ -1001,9 +1001,9 @@
         "grade": "E"
     },
     "The Gyatt": {
-        "safety": 232,
-        "races": 11,
-        "contacts": 8,
+        "safety": 223,
+        "races": 12,
+        "contacts": 11,
         "clean_races": 6,
         "large_lobby_clean_streak": 0,
         "grade": "A"
@@ -1065,9 +1065,9 @@
         "grade": "B"
     },
     "d9rko": {
-        "safety": 98,
-        "races": 14,
-        "contacts": 28,
+        "safety": 86,
+        "races": 15,
+        "contacts": 32,
         "clean_races": 4,
         "large_lobby_clean_streak": 0,
         "grade": "D"
@@ -1129,11 +1129,11 @@
         "grade": "A"
     },
     "Emir Eyupoglu": {
-        "safety": 67,
-        "races": 40,
-        "contacts": 79,
+        "safety": 58,
+        "races": 41,
+        "contacts": 82,
         "clean_races": 10,
-        "large_lobby_clean_streak": 1,
+        "large_lobby_clean_streak": 0,
         "grade": "E"
     },
     "SrPomit": {
