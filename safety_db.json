@@ -107,10 +107,10 @@
         "grade": "A"
     },
     "chilliams": {
-        "safety": 252,
-        "races": 41,
+        "safety": 262,
+        "races": 42,
         "contacts": 43,
-        "clean_races": 18,
+        "clean_races": 19,
         "large_lobby_clean_streak": 0,
         "grade": "A"
     },
@@ -169,18 +169,18 @@
         "grade": "B"
     },
     "Danny Hinkelmann14": {
-        "safety": 149,
-        "races": 90,
-        "contacts": 133,
+        "safety": 140,
+        "races": 91,
+        "contacts": 136,
         "clean_races": 38,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     },
     "JW2Stupid": {
-        "safety": 229,
-        "races": 30,
+        "safety": 239,
+        "races": 31,
         "contacts": 54,
-        "clean_races": 12,
+        "clean_races": 13,
         "large_lobby_clean_streak": 0,
         "grade": "A"
     },
@@ -240,9 +240,9 @@
         "large_lobby_clean_streak": 1
     },
     "Carrasco": {
-        "safety": 214,
-        "races": 52,
-        "contacts": 91,
+        "safety": 199,
+        "races": 53,
+        "contacts": 96,
         "clean_races": 16,
         "large_lobby_clean_streak": 0,
         "grade": "A"
@@ -426,10 +426,10 @@
         "grade": "C"
     },
     "Eneko Garcia #14": {
-        "safety": 140,
-        "races": 9,
+        "safety": 150,
+        "races": 10,
         "contacts": 7,
-        "clean_races": 5,
+        "clean_races": 6,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     },
@@ -729,12 +729,12 @@
         "grade": "E"
     },
     "moleo": {
-        "safety": 269,
-        "races": 65,
-        "contacts": 62,
+        "safety": 260,
+        "races": 66,
+        "contacts": 65,
         "clean_races": 33,
         "large_lobby_clean_streak": 0,
-        "grade": "S"
+        "grade": "A"
     },
     "SAGGAs Hemkokta": {
         "safety": 130,
@@ -790,10 +790,10 @@
         "grade": "C"
     },
     "Gonzalo Molina": {
-        "safety": 282,
-        "races": 44,
+        "safety": 292,
+        "races": 45,
         "contacts": 42,
-        "clean_races": 27,
+        "clean_races": 28,
         "large_lobby_clean_streak": 0,
         "grade": "S"
     },
@@ -977,9 +977,9 @@
         "grade": "D"
     },
     "Billy Jones": {
-        "safety": 292,
-        "races": 66,
-        "contacts": 66,
+        "safety": 283,
+        "races": 67,
+        "contacts": 69,
         "clean_races": 38,
         "large_lobby_clean_streak": 0,
         "grade": "S"
@@ -1129,9 +1129,9 @@
         "grade": "A"
     },
     "Emir Eyupoglu": {
-        "safety": 80,
-        "races": 35,
-        "contacts": 68,
+        "safety": 71,
+        "races": 36,
+        "contacts": 71,
         "clean_races": 9,
         "large_lobby_clean_streak": 0,
         "grade": "D"
