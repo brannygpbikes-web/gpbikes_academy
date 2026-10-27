@@ -1796,6 +1796,15 @@
             "track": "",
             "finish": 2,
             "race_id": "e4aced7f0ccafc14281b638f224d6000a9f0092d25e4cef9f49dee0fa080c443"
+        },
+        {
+            "date": "2026-10-27T20:17:35",
+            "elo": 1095,
+            "elo_before": 1126,
+            "change": -31,
+            "track": "",
+            "finish": 15,
+            "race_id": "18d61746d4913f2ef65671c757cd9d07359d94f1b30cbad7f768c59a569b502e"
         }
     ],
     "filipknigge20": [
@@ -2500,6 +2509,15 @@
             "track": "",
             "finish": 1,
             "race_id": "e4aced7f0ccafc14281b638f224d6000a9f0092d25e4cef9f49dee0fa080c443"
+        },
+        {
+            "date": "2026-10-27T20:17:35",
+            "elo": 1250,
+            "elo_before": 1256,
+            "change": -6,
+            "track": "",
+            "finish": 6,
+            "race_id": "18d61746d4913f2ef65671c757cd9d07359d94f1b30cbad7f768c59a569b502e"
         }
     ],
     "Nuno": [
@@ -3731,6 +3749,15 @@
             "track": "",
             "finish": 8,
             "race_id": "e4aced7f0ccafc14281b638f224d6000a9f0092d25e4cef9f49dee0fa080c443"
+        },
+        {
+            "date": "2026-10-27T20:17:35",
+            "elo": 987,
+            "elo_before": 1006,
+            "change": -19,
+            "track": "",
+            "finish": 14,
+            "race_id": "18d61746d4913f2ef65671c757cd9d07359d94f1b30cbad7f768c59a569b502e"
         }
     ],
     "tacticworks": [
@@ -4178,6 +4205,15 @@
             "track": "",
             "finish": 6,
             "race_id": "e4aced7f0ccafc14281b638f224d6000a9f0092d25e4cef9f49dee0fa080c443"
+        },
+        {
+            "date": "2026-10-27T20:17:35",
+            "elo": 1040,
+            "elo_before": 1056,
+            "change": -16,
+            "track": "",
+            "finish": 12,
+            "race_id": "18d61746d4913f2ef65671c757cd9d07359d94f1b30cbad7f768c59a569b502e"
         }
     ],
     "Sturdy": [
@@ -4944,6 +4980,15 @@
             "track": "",
             "finish": 9,
             "race_id": "e4aced7f0ccafc14281b638f224d6000a9f0092d25e4cef9f49dee0fa080c443"
+        },
+        {
+            "date": "2026-10-27T20:17:35",
+            "elo": 883,
+            "elo_before": 880,
+            "change": 3,
+            "track": "",
+            "finish": 10,
+            "race_id": "18d61746d4913f2ef65671c757cd9d07359d94f1b30cbad7f768c59a569b502e"
         }
     ],
     "Honza Ehl": [
@@ -6513,6 +6558,15 @@
             "track": "",
             "finish": 10,
             "race_id": "28671e7712ac3f7d28d288d3c7f08d619ae82f7ddffee7f093cbb7cc8a67b1b9"
+        },
+        {
+            "date": "2026-10-27T20:17:35",
+            "elo": 766,
+            "elo_before": 768,
+            "change": -2,
+            "track": "",
+            "finish": 13,
+            "race_id": "18d61746d4913f2ef65671c757cd9d07359d94f1b30cbad7f768c59a569b502e"
         }
     ],
     "JW2Stupid": [
@@ -9361,6 +9415,15 @@
             "track": "",
             "finish": 7,
             "race_id": "e4aced7f0ccafc14281b638f224d6000a9f0092d25e4cef9f49dee0fa080c443"
+        },
+        {
+            "date": "2026-10-27T20:17:35",
+            "elo": 1000,
+            "elo_before": 982,
+            "change": 18,
+            "track": "",
+            "finish": 4,
+            "race_id": "18d61746d4913f2ef65671c757cd9d07359d94f1b30cbad7f768c59a569b502e"
         }
     ],
     "Rayo__Wombat": [
@@ -10049,6 +10112,15 @@
             "track": "",
             "finish": 3,
             "race_id": "e4aced7f0ccafc14281b638f224d6000a9f0092d25e4cef9f49dee0fa080c443"
+        },
+        {
+            "date": "2026-10-27T20:17:35",
+            "elo": 1158,
+            "elo_before": 1144,
+            "change": 14,
+            "track": "",
+            "finish": 2,
+            "race_id": "18d61746d4913f2ef65671c757cd9d07359d94f1b30cbad7f768c59a569b502e"
         }
     ],
     "AhyaAL": [
@@ -12669,6 +12741,15 @@
             "track": "",
             "finish": 4,
             "race_id": "e4aced7f0ccafc14281b638f224d6000a9f0092d25e4cef9f49dee0fa080c443"
+        },
+        {
+            "date": "2026-10-27T20:17:35",
+            "elo": 1142,
+            "elo_before": 1161,
+            "change": -19,
+            "track": "",
+            "finish": 11,
+            "race_id": "18d61746d4913f2ef65671c757cd9d07359d94f1b30cbad7f768c59a569b502e"
         }
     ],
     "Aggressive Tax collector": [
@@ -13785,6 +13866,15 @@
             "track": "",
             "finish": 9,
             "race_id": "bfc31fd784f5ab67a74c3b70129699d8dc08895c4dd2003b61164a0626e6c49e"
+        },
+        {
+            "date": "2026-10-27T20:17:35",
+            "elo": 964,
+            "elo_before": 955,
+            "change": 9,
+            "track": "",
+            "finish": 7,
+            "race_id": "18d61746d4913f2ef65671c757cd9d07359d94f1b30cbad7f768c59a569b502e"
         }
     ],
     "Outrunning Child Support": [
@@ -13985,6 +14075,15 @@
             "track": "",
             "finish": 2,
             "race_id": "e70d885a906315c5e8a57a2bff0f5d141323f52896d41739ff55949ffb81ad36"
+        },
+        {
+            "date": "2026-10-27T20:17:35",
+            "elo": 1048,
+            "elo_before": 1030,
+            "change": 18,
+            "track": "",
+            "finish": 3,
+            "race_id": "18d61746d4913f2ef65671c757cd9d07359d94f1b30cbad7f768c59a569b502e"
         }
     ],
     "Lucce39": [
@@ -14376,6 +14475,15 @@
             "track": "",
             "finish": 2,
             "race_id": "b3c572eecbab5fb2800de21224ae34e12a82ae35b62c9dd1921515a22d405997"
+        },
+        {
+            "date": "2026-10-27T20:17:35",
+            "elo": 1252,
+            "elo_before": 1240,
+            "change": 12,
+            "track": "",
+            "finish": 1,
+            "race_id": "18d61746d4913f2ef65671c757cd9d07359d94f1b30cbad7f768c59a569b502e"
         }
     ],
     "Fhalopy": [
@@ -14686,6 +14794,15 @@
             "track": "",
             "finish": 5,
             "race_id": "e4aced7f0ccafc14281b638f224d6000a9f0092d25e4cef9f49dee0fa080c443"
+        },
+        {
+            "date": "2026-10-27T20:17:35",
+            "elo": 1072,
+            "elo_before": 1063,
+            "change": 9,
+            "track": "",
+            "finish": 5,
+            "race_id": "18d61746d4913f2ef65671c757cd9d07359d94f1b30cbad7f768c59a569b502e"
         }
     ],
     "J_44": [
@@ -20255,6 +20372,15 @@
             "track": "",
             "finish": 10,
             "race_id": "e4aced7f0ccafc14281b638f224d6000a9f0092d25e4cef9f49dee0fa080c443"
+        },
+        {
+            "date": "2026-10-27T20:17:35",
+            "elo": 937,
+            "elo_before": 930,
+            "change": 7,
+            "track": "",
+            "finish": 8,
+            "race_id": "18d61746d4913f2ef65671c757cd9d07359d94f1b30cbad7f768c59a569b502e"
         }
     ],
     "Matteo 42": [
@@ -23611,6 +23737,15 @@
             "track": "",
             "finish": 12,
             "race_id": "cb0eb7e11de2f47de049659b7b3b6671f5970a4a3595925113b7f9ecb7dd0dba"
+        },
+        {
+            "date": "2026-10-27T20:17:35",
+            "elo": 950,
+            "elo_before": 947,
+            "change": 3,
+            "track": "",
+            "finish": 9,
+            "race_id": "18d61746d4913f2ef65671c757cd9d07359d94f1b30cbad7f768c59a569b502e"
         }
     ],
     "Jens Scriba": [
