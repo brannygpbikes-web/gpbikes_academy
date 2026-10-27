@@ -425,10 +425,10 @@
         "grade": "C"
     },
     "Eneko Garcia #14": {
-        "safety": 135,
-        "races": 7,
+        "safety": 140,
+        "races": 8,
         "contacts": 6,
-        "clean_races": 4,
+        "clean_races": 5,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     },
@@ -2104,5 +2104,13 @@
         "clean_races": 1,
         "large_lobby_clean_streak": 0,
         "grade": "C"
+    },
+    "Jens Scriba": {
+        "safety": 130,
+        "races": 1,
+        "contacts": 0,
+        "clean_races": 1,
+        "large_lobby_clean_streak": 0,
+        "grade": "B"
     }
 }

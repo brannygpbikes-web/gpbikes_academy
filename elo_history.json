@@ -3185,6 +3185,15 @@
             "track": "",
             "finish": 2,
             "race_id": "f95928f21ce700f864a7a0a73a8943acbfa345b2c8bfc556fe157155bf09ebf1"
+        },
+        {
+            "date": "2026-10-27T16:54:43",
+            "elo": 902,
+            "elo_before": 892,
+            "change": 10,
+            "track": "",
+            "finish": 1,
+            "race_id": "8b8ab37f208382309e3ebcc2f1da6fc2bcf156e6f8e9f0033f6ae90fc73aa0df"
         }
     ],
     "Damien VTEC [TRC]": [
@@ -22720,6 +22729,17 @@
             "track": "",
             "finish": 9,
             "race_id": "28671e7712ac3f7d28d288d3c7f08d619ae82f7ddffee7f093cbb7cc8a67b1b9"
+        }
+    ],
+    "Jens Scriba": [
+        {
+            "date": "2026-10-27T16:54:43",
+            "elo": 990,
+            "elo_before": 1000,
+            "change": -10,
+            "track": "",
+            "finish": 2,
+            "race_id": "8b8ab37f208382309e3ebcc2f1da6fc2bcf156e6f8e9f0033f6ae90fc73aa0df"
         }
     ]
 }
