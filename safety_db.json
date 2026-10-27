@@ -728,10 +728,10 @@
         "grade": "E"
     },
     "moleo": {
-        "safety": 278,
-        "races": 61,
+        "safety": 283,
+        "races": 62,
         "contacts": 56,
-        "clean_races": 32,
+        "clean_races": 33,
         "large_lobby_clean_streak": 0,
         "grade": "S"
     },
@@ -2106,10 +2106,10 @@
         "grade": "C"
     },
     "Jens Scriba": {
-        "safety": 130,
-        "races": 1,
+        "safety": 135,
+        "races": 2,
         "contacts": 0,
-        "clean_races": 1,
+        "clean_races": 2,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     }

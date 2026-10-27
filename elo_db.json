@@ -732,10 +732,10 @@
         "podiums": 3
     },
     "moleo": {
-        "elo": 1190,
-        "wins": 19,
-        "races": 63,
-        "podiums": 43
+        "elo": 1194,
+        "wins": 20,
+        "races": 64,
+        "podiums": 44
     },
     "JM": {
         "elo": 995,
@@ -1644,9 +1644,9 @@
         "podiums": 0
     },
     "Jens Scriba": {
-        "elo": 990,
+        "elo": 986,
         "wins": 0,
-        "races": 1,
-        "podiums": 1
+        "races": 2,
+        "podiums": 2
     }
 }
