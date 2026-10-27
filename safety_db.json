@@ -154,11 +154,12 @@
         "large_lobby_clean_streak": 0
     },
     "27diegomartinez_": {
-        "safety": 60,
-        "races": 7,
-        "contacts": 25,
+        "safety": 40,
+        "races": 8,
+        "contacts": 30,
         "clean_races": 3,
-        "grade": "E"
+        "grade": "E",
+        "large_lobby_clean_streak": 0
     },
     "Mohze": {
         "safety": 125,
@@ -448,9 +449,9 @@
         "grade": "S"
     },
     "Ricoway46": {
-        "safety": 236,
-        "races": 37,
-        "contacts": 49,
+        "safety": 232,
+        "races": 38,
+        "contacts": 50,
         "clean_races": 15,
         "large_lobby_clean_streak": 0,
         "grade": "A"
@@ -728,9 +729,9 @@
         "grade": "E"
     },
     "moleo": {
-        "safety": 283,
-        "races": 62,
-        "contacts": 56,
+        "safety": 275,
+        "races": 63,
+        "contacts": 58,
         "clean_races": 33,
         "large_lobby_clean_streak": 0,
         "grade": "S"
@@ -1184,11 +1185,11 @@
         "grade": "B"
     },
     "oover": {
-        "safety": 300,
-        "races": 44,
-        "contacts": 42,
+        "safety": 288,
+        "races": 45,
+        "contacts": 45,
         "clean_races": 24,
-        "large_lobby_clean_streak": 2,
+        "large_lobby_clean_streak": 0,
         "grade": "S"
     },
     "queefmccheif": {
@@ -1538,12 +1539,12 @@
         "grade": "C"
     },
     "SleppyGame23": {
-        "safety": 139,
-        "races": 27,
-        "contacts": 33,
+        "safety": 119,
+        "races": 28,
+        "contacts": 38,
         "clean_races": 11,
         "large_lobby_clean_streak": 0,
-        "grade": "B"
+        "grade": "C"
     },
     "CLG21": {
         "safety": 121,
