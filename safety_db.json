@@ -76,12 +76,12 @@
         "grade": "B"
     },
     "AL": {
-        "safety": 126,
-        "races": 46,
-        "contacts": 67,
+        "safety": 122,
+        "races": 47,
+        "contacts": 68,
         "clean_races": 18,
         "large_lobby_clean_streak": 0,
-        "grade": "B"
+        "grade": "C"
     },
     "Jardoo": {
         "safety": 139,
@@ -107,10 +107,10 @@
         "grade": "A"
     },
     "chilliams": {
-        "safety": 269,
-        "races": 44,
+        "safety": 279,
+        "races": 45,
         "contacts": 44,
-        "clean_races": 20,
+        "clean_races": 21,
         "large_lobby_clean_streak": 0,
         "grade": "S"
     },
@@ -154,10 +154,10 @@
         "large_lobby_clean_streak": 0
     },
     "27diegomartinez_": {
-        "safety": 39,
-        "races": 11,
+        "safety": 49,
+        "races": 12,
         "contacts": 33,
-        "clean_races": 4,
+        "clean_races": 5,
         "grade": "E",
         "large_lobby_clean_streak": 0
     },
@@ -325,10 +325,10 @@
         "grade": "E"
     },
     "moe": {
-        "safety": 292,
-        "races": 72,
+        "safety": 300,
+        "races": 73,
         "contacts": 68,
-        "clean_races": 38,
+        "clean_races": 39,
         "large_lobby_clean_streak": 0,
         "grade": "S"
     },
@@ -790,11 +790,11 @@
         "grade": "C"
     },
     "Gonzalo Molina": {
-        "safety": 300,
-        "races": 51,
-        "contacts": 47,
+        "safety": 296,
+        "races": 52,
+        "contacts": 48,
         "clean_races": 33,
-        "large_lobby_clean_streak": 2,
+        "large_lobby_clean_streak": 0,
         "grade": "S"
     },
     "Scuderia Silence (tascione)": {
@@ -993,10 +993,10 @@
         "grade": "C"
     },
     "collinlanger96": {
-        "safety": 42,
-        "races": 52,
+        "safety": 52,
+        "races": 53,
         "contacts": 95,
-        "clean_races": 14,
+        "clean_races": 15,
         "large_lobby_clean_streak": 0,
         "grade": "E"
     },
@@ -1963,10 +1963,10 @@
         "grade": "B"
     },
     "xXxDeadpoolxXx": {
-        "safety": 110,
-        "races": 9,
+        "safety": 120,
+        "races": 10,
         "contacts": 18,
-        "clean_races": 2,
+        "clean_races": 3,
         "large_lobby_clean_streak": 0,
         "grade": "C"
     },
