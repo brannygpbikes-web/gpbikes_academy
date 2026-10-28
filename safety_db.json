@@ -505,9 +505,9 @@
         "large_lobby_clean_streak": 0
     },
     "Tarmacsurfer": {
-        "safety": 58,
-        "races": 19,
-        "contacts": 57,
+        "safety": 54,
+        "races": 20,
+        "contacts": 58,
         "clean_races": 4,
         "grade": "E",
         "large_lobby_clean_streak": 0
@@ -759,10 +759,10 @@
         "grade": "B"
     },
     "Rk_44": {
-        "safety": 256,
-        "races": 80,
+        "safety": 261,
+        "races": 81,
         "contacts": 69,
-        "clean_races": 45,
+        "clean_races": 46,
         "large_lobby_clean_streak": 0,
         "grade": "A"
     },
@@ -2099,9 +2099,9 @@
         "grade": "C"
     },
     "AITORGP": {
-        "safety": 91,
-        "races": 6,
-        "contacts": 22,
+        "safety": 79,
+        "races": 7,
+        "contacts": 25,
         "clean_races": 1,
         "large_lobby_clean_streak": 0,
         "grade": "D"
@@ -2177,5 +2177,13 @@
         "clean_races": 2,
         "large_lobby_clean_streak": 0,
         "grade": "B"
+    },
+    "darioruiz19": {
+        "safety": 121,
+        "races": 1,
+        "contacts": 1,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "C"
     }
 }

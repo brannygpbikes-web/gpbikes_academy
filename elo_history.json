@@ -6729,6 +6729,15 @@
             "track": "",
             "finish": 3,
             "race_id": "9e5ad78a7a35f4b6d8421800dbc2beda16457321fc95ad76981cb8eca7aad38a"
+        },
+        {
+            "date": "2026-10-28T19:47:03",
+            "elo": 776,
+            "elo_before": 782,
+            "change": -6,
+            "track": "",
+            "finish": 4,
+            "race_id": "62484e4c482124aad2178a3cc2795b852c0186e415c907d781bca6e9702befb8"
         }
     ],
     "JW2Stupid": [
@@ -19276,6 +19285,15 @@
             "track": "",
             "finish": 3,
             "race_id": "a9b06b673925f80ec274ede4606f0c6af3a6bc073999722b9dde3112a6f4566f"
+        },
+        {
+            "date": "2026-10-28T19:47:03",
+            "elo": 1006,
+            "elo_before": 997,
+            "change": 9,
+            "track": "",
+            "finish": 1,
+            "race_id": "62484e4c482124aad2178a3cc2795b852c0186e415c907d781bca6e9702befb8"
         }
     ],
     "RecklesMD": [
@@ -24349,6 +24367,15 @@
             "track": "",
             "finish": 12,
             "race_id": "35d8d2e9bd6ba0fa59c6172e09b9eb61f86bf10ebc62067675f62ae45432dcd8"
+        },
+        {
+            "date": "2026-10-28T19:47:03",
+            "elo": 930,
+            "elo_before": 934,
+            "change": -4,
+            "track": "",
+            "finish": 3,
+            "race_id": "62484e4c482124aad2178a3cc2795b852c0186e415c907d781bca6e9702befb8"
         }
     ],
     "Jens Scriba": [
@@ -24556,6 +24583,17 @@
             "track": "",
             "finish": 4,
             "race_id": "d5d2ce3e2b1334ddf8b1490d12bb777fae3f387fbd3ca4154e21b1603caada45"
+        }
+    ],
+    "darioruiz19": [
+        {
+            "date": "2026-10-28T19:47:03",
+            "elo": 1001,
+            "elo_before": 1000,
+            "change": 1,
+            "track": "",
+            "finish": 2,
+            "race_id": "62484e4c482124aad2178a3cc2795b852c0186e415c907d781bca6e9702befb8"
         }
     ]
 }

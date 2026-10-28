@@ -606,10 +606,10 @@
         "podiums": 4
     },
     "Tarmacsurfer": {
-        "elo": 997,
-        "wins": 1,
-        "races": 18,
-        "podiums": 3
+        "elo": 1006,
+        "wins": 2,
+        "races": 19,
+        "podiums": 4
     },
     "Michiel Oom": {
         "elo": 982,
@@ -900,9 +900,9 @@
         "podiums": 2
     },
     "Rk_44": {
-        "elo": 782,
+        "elo": 776,
         "wins": 0,
-        "races": 76,
+        "races": 77,
         "podiums": 9
     },
     "Maximo Giro": {
@@ -1638,10 +1638,10 @@
         "podiums": 0
     },
     "AITORGP": {
-        "elo": 934,
+        "elo": 930,
         "wins": 0,
-        "races": 5,
-        "podiums": 0
+        "races": 6,
+        "podiums": 1
     },
     "Jens Scriba": {
         "elo": 986,
@@ -1683,6 +1683,12 @@
         "elo": 986,
         "wins": 0,
         "races": 2,
+        "podiums": 1
+    },
+    "darioruiz19": {
+        "elo": 1001,
+        "wins": 0,
+        "races": 1,
         "podiums": 1
     }
 }
