@@ -162,10 +162,10 @@
         "podiums": 50
     },
     "NJIRK5211": {
-        "elo": 1061,
+        "elo": 1060,
         "wins": 8,
-        "races": 22,
-        "podiums": 14
+        "races": 23,
+        "podiums": 15
     },
     "Sturdy": {
         "elo": 1032,
@@ -708,10 +708,10 @@
         "podiums": 0
     },
     "joelhaire222": {
-        "elo": 1010,
-        "wins": 2,
-        "races": 14,
-        "podiums": 3
+        "elo": 1018,
+        "wins": 3,
+        "races": 15,
+        "podiums": 4
     },
     "MATRIX#86": {
         "elo": 900,
@@ -1678,5 +1678,11 @@
         "wins": 0,
         "races": 1,
         "podiums": 0
+    },
+    "BUDDHA": {
+        "elo": 993,
+        "wins": 0,
+        "races": 1,
+        "podiums": 1
     }
 }

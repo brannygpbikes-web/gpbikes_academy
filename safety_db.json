@@ -673,12 +673,12 @@
         "grade": "B"
     },
     "joelhaire222": {
-        "safety": 107,
-        "races": 15,
-        "contacts": 32,
+        "safety": 92,
+        "races": 16,
+        "contacts": 35,
         "clean_races": 6,
-        "grade": "C",
-        "large_lobby_clean_streak": 1
+        "grade": "D",
+        "large_lobby_clean_streak": 0
     },
     "MATRIX#86": {
         "safety": 155,
@@ -744,11 +744,11 @@
         "grade": "B"
     },
     "NJIRK5211": {
-        "safety": 213,
-        "races": 22,
-        "contacts": 23,
+        "safety": 198,
+        "races": 23,
+        "contacts": 26,
         "clean_races": 11,
-        "large_lobby_clean_streak": 1,
+        "large_lobby_clean_streak": 0,
         "grade": "A"
     },
     "hlillomico": {
@@ -2169,5 +2169,13 @@
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
+    },
+    "BUDDHA": {
+        "safety": 130,
+        "races": 1,
+        "contacts": 0,
+        "clean_races": 1,
+        "large_lobby_clean_streak": 0,
+        "grade": "B"
     }
 }
