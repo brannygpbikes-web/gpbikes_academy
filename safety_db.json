@@ -317,12 +317,12 @@
         "large_lobby_clean_streak": 3
     },
     "Miquel_Sinke60": {
-        "safety": 14,
+        "safety": 80,
         "races": 77,
         "contacts": 147,
         "clean_races": 23,
         "large_lobby_clean_streak": 0,
-        "grade": "E"
+        "grade": "D"
     },
     "moe": {
         "safety": 300,
@@ -759,10 +759,10 @@
         "grade": "B"
     },
     "Rk_44": {
-        "safety": 251,
-        "races": 79,
+        "safety": 256,
+        "races": 80,
         "contacts": 69,
-        "clean_races": 44,
+        "clean_races": 45,
         "large_lobby_clean_streak": 0,
         "grade": "A"
     },
@@ -1065,10 +1065,10 @@
         "grade": "B"
     },
     "d9rko": {
-        "safety": 83,
-        "races": 17,
+        "safety": 88,
+        "races": 18,
         "contacts": 36,
-        "clean_races": 5,
+        "clean_races": 6,
         "large_lobby_clean_streak": 0,
         "grade": "D"
     },
@@ -1611,12 +1611,12 @@
         "grade": "D"
     },
     "Bitxo": {
-        "safety": 98,
-        "races": 3,
+        "safety": 103,
+        "races": 4,
         "contacts": 10,
-        "clean_races": 0,
+        "clean_races": 1,
         "large_lobby_clean_streak": 0,
-        "grade": "D"
+        "grade": "C"
     },
     "cxtEstam": {
         "safety": 97,
