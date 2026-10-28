@@ -1805,6 +1805,15 @@
             "track": "",
             "finish": 15,
             "race_id": "18d61746d4913f2ef65671c757cd9d07359d94f1b30cbad7f768c59a569b502e"
+        },
+        {
+            "date": "2026-10-28T16:58:52",
+            "elo": 1092,
+            "elo_before": 1095,
+            "change": -3,
+            "track": "",
+            "finish": 2,
+            "race_id": "9116114be08807e66a422872dc6b7aa63d61262e9aa5b1684b06feb799dfffbb"
         }
     ],
     "filipknigge20": [
@@ -18086,6 +18095,15 @@
             "track": "",
             "finish": 1,
             "race_id": "c054f27da32a08c3aa9ef6f3ec08a1ef2dc3e13974889d25aff13bd99fe0d12e"
+        },
+        {
+            "date": "2026-10-28T16:58:52",
+            "elo": 1317,
+            "elo_before": 1314,
+            "change": 3,
+            "track": "",
+            "finish": 1,
+            "race_id": "9116114be08807e66a422872dc6b7aa63d61262e9aa5b1684b06feb799dfffbb"
         }
     ],
     "Creisi48": [
