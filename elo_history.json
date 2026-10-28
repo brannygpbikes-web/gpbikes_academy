@@ -3821,6 +3821,15 @@
             "track": "",
             "finish": 1,
             "race_id": "9e5ad78a7a35f4b6d8421800dbc2beda16457321fc95ad76981cb8eca7aad38a"
+        },
+        {
+            "date": "2026-10-28T19:30:18",
+            "elo": 974,
+            "elo_before": 987,
+            "change": -13,
+            "track": "",
+            "finish": 5,
+            "race_id": "d5d2ce3e2b1334ddf8b1490d12bb777fae3f387fbd3ca4154e21b1603caada45"
         }
     ],
     "tacticworks": [
@@ -11114,6 +11123,15 @@
             "track": "",
             "finish": 9,
             "race_id": "886675dcc35e7bd9a3af1bf71e68cfe8bc0bcddc4fbc764c6a946a7f542c1812"
+        },
+        {
+            "date": "2026-10-28T19:30:18",
+            "elo": 984,
+            "elo_before": 978,
+            "change": 6,
+            "track": "",
+            "finish": 2,
+            "race_id": "d5d2ce3e2b1334ddf8b1490d12bb777fae3f387fbd3ca4154e21b1603caada45"
         }
     ],
     "chilliams": [
@@ -16026,6 +16044,15 @@
             "track": "",
             "finish": 7,
             "race_id": "74ca4160224f34ee37fdbd3b10b267dbdc4e987e3357adbd486cb8e557fa42c4"
+        },
+        {
+            "date": "2026-10-28T19:30:18",
+            "elo": 920,
+            "elo_before": 917,
+            "change": 3,
+            "track": "",
+            "finish": 3,
+            "race_id": "d5d2ce3e2b1334ddf8b1490d12bb777fae3f387fbd3ca4154e21b1603caada45"
         }
     ],
     "reN": [
@@ -23499,6 +23526,15 @@
             "track": "",
             "finish": 2,
             "race_id": "2b2241057218fa6fc3952ba9195d3343083adffd6907348862cdd315cd9a6f73"
+        },
+        {
+            "date": "2026-10-28T19:30:18",
+            "elo": 1029,
+            "elo_before": 1018,
+            "change": 11,
+            "track": "",
+            "finish": 1,
+            "race_id": "d5d2ce3e2b1334ddf8b1490d12bb777fae3f387fbd3ca4154e21b1603caada45"
         }
     ],
     "kam dixon": [
@@ -24511,6 +24547,15 @@
             "track": "",
             "finish": 3,
             "race_id": "ebfe3f7f9a01e592afc2183a9acff34a004ee9d73b77aa4ae576f09e522b81c9"
+        },
+        {
+            "date": "2026-10-28T19:30:18",
+            "elo": 986,
+            "elo_before": 993,
+            "change": -7,
+            "track": "",
+            "finish": 4,
+            "race_id": "d5d2ce3e2b1334ddf8b1490d12bb777fae3f387fbd3ca4154e21b1603caada45"
         }
     ]
 }

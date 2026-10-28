@@ -278,12 +278,12 @@
         "grade": "C"
     },
     "Eder Merino": {
-        "safety": 140,
-        "races": 9,
-        "contacts": 13,
+        "safety": 120,
+        "races": 10,
+        "contacts": 18,
         "clean_races": 5,
         "large_lobby_clean_streak": 0,
-        "grade": "B"
+        "grade": "C"
     },
     "AwashMicrobe": {
         "safety": 91,
@@ -673,11 +673,11 @@
         "grade": "B"
     },
     "joelhaire222": {
-        "safety": 82,
-        "races": 17,
-        "contacts": 37,
+        "safety": 54,
+        "races": 18,
+        "contacts": 44,
         "clean_races": 6,
-        "grade": "D",
+        "grade": "E",
         "large_lobby_clean_streak": 0
     },
     "MATRIX#86": {
@@ -721,9 +721,9 @@
         "grade": "A"
     },
     "titonagom08": {
-        "safety": 45,
-        "races": 16,
-        "contacts": 44,
+        "safety": 13,
+        "races": 17,
+        "contacts": 52,
         "clean_races": 2,
         "large_lobby_clean_streak": 0,
         "grade": "E"
@@ -1065,9 +1065,9 @@
         "grade": "B"
     },
     "d9rko": {
-        "safety": 88,
-        "races": 18,
-        "contacts": 36,
+        "safety": 80,
+        "races": 19,
+        "contacts": 38,
         "clean_races": 6,
         "large_lobby_clean_streak": 0,
         "grade": "D"
@@ -2171,10 +2171,10 @@
         "grade": "C"
     },
     "BUDDHA": {
-        "safety": 130,
-        "races": 1,
+        "safety": 135,
+        "races": 2,
         "contacts": 0,
-        "clean_races": 1,
+        "clean_races": 2,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     }
