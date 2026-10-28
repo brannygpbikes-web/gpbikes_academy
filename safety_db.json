@@ -107,11 +107,11 @@
         "grade": "A"
     },
     "chilliams": {
-        "safety": 272,
-        "races": 43,
-        "contacts": 43,
+        "safety": 269,
+        "races": 44,
+        "contacts": 44,
         "clean_races": 20,
-        "large_lobby_clean_streak": 1,
+        "large_lobby_clean_streak": 0,
         "grade": "S"
     },
     "Simone Ghilardini": {
@@ -154,9 +154,9 @@
         "large_lobby_clean_streak": 0
     },
     "27diegomartinez_": {
-        "safety": 45,
-        "races": 10,
-        "contacts": 31,
+        "safety": 39,
+        "races": 11,
+        "contacts": 33,
         "clean_races": 4,
         "grade": "E",
         "large_lobby_clean_streak": 0
@@ -169,9 +169,9 @@
         "grade": "B"
     },
     "Danny Hinkelmann14": {
-        "safety": 147,
-        "races": 98,
-        "contacts": 144,
+        "safety": 144,
+        "races": 99,
+        "contacts": 145,
         "clean_races": 41,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -240,9 +240,9 @@
         "large_lobby_clean_streak": 1
     },
     "Carrasco": {
-        "safety": 193,
-        "races": 54,
-        "contacts": 99,
+        "safety": 190,
+        "races": 55,
+        "contacts": 100,
         "clean_races": 16,
         "large_lobby_clean_streak": 0,
         "grade": "A"
@@ -325,10 +325,10 @@
         "grade": "E"
     },
     "moe": {
-        "safety": 282,
-        "races": 71,
+        "safety": 292,
+        "races": 72,
         "contacts": 68,
-        "clean_races": 37,
+        "clean_races": 38,
         "large_lobby_clean_streak": 0,
         "grade": "S"
     },
@@ -791,9 +791,9 @@
     },
     "Gonzalo Molina": {
         "safety": 300,
-        "races": 50,
+        "races": 51,
         "contacts": 47,
-        "clean_races": 32,
+        "clean_races": 33,
         "large_lobby_clean_streak": 2,
         "grade": "S"
     },
@@ -993,9 +993,9 @@
         "grade": "C"
     },
     "collinlanger96": {
-        "safety": 51,
-        "races": 51,
-        "contacts": 92,
+        "safety": 42,
+        "races": 52,
+        "contacts": 95,
         "clean_races": 14,
         "large_lobby_clean_streak": 0,
         "grade": "E"
@@ -1963,9 +1963,9 @@
         "grade": "B"
     },
     "xXxDeadpoolxXx": {
-        "safety": 122,
-        "races": 8,
-        "contacts": 14,
+        "safety": 110,
+        "races": 9,
+        "contacts": 18,
         "clean_races": 2,
         "large_lobby_clean_streak": 0,
         "grade": "C"
