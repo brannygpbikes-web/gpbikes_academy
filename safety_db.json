@@ -169,9 +169,9 @@
         "grade": "B"
     },
     "Danny Hinkelmann14": {
-        "safety": 186,
-        "races": 102,
-        "contacts": 151,
+        "safety": 183,
+        "races": 103,
+        "contacts": 152,
         "clean_races": 41,
         "large_lobby_clean_streak": 0,
         "grade": "A"
@@ -224,11 +224,11 @@
         "grade": "D"
     },
     "filipknigge20": {
-        "safety": 300,
-        "races": 102,
-        "contacts": 119,
+        "safety": 297,
+        "races": 103,
+        "contacts": 120,
         "clean_races": 44,
-        "large_lobby_clean_streak": 1,
+        "large_lobby_clean_streak": 0,
         "grade": "S"
     },
     "Matteo 42": {
@@ -317,9 +317,9 @@
         "large_lobby_clean_streak": 3
     },
     "Miquel_Sinke60": {
-        "safety": 124,
-        "races": 80,
-        "contacts": 152,
+        "safety": 121,
+        "races": 81,
+        "contacts": 153,
         "clean_races": 23,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -363,9 +363,9 @@
         "grade": "C"
     },
     "pableko": {
-        "safety": 139,
-        "races": 20,
-        "contacts": 38,
+        "safety": 136,
+        "races": 21,
+        "contacts": 39,
         "clean_races": 3,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -729,12 +729,12 @@
         "grade": "D"
     },
     "moleo": {
-        "safety": 256,
-        "races": 70,
+        "safety": 266,
+        "races": 71,
         "contacts": 70,
-        "clean_races": 33,
+        "clean_races": 34,
         "large_lobby_clean_streak": 0,
-        "grade": "A"
+        "grade": "S"
     },
     "SAGGAs Hemkokta": {
         "safety": 130,
@@ -844,10 +844,10 @@
         "grade": "B"
     },
     "Lucce39": {
-        "safety": 22,
-        "races": 13,
+        "safety": 32,
+        "races": 14,
         "contacts": 46,
-        "clean_races": 2,
+        "clean_races": 3,
         "large_lobby_clean_streak": 0,
         "grade": "E"
     },
@@ -993,10 +993,10 @@
         "grade": "C"
     },
     "collinlanger96": {
-        "safety": 31,
-        "races": 57,
+        "safety": 41,
+        "races": 58,
         "contacts": 105,
-        "clean_races": 15,
+        "clean_races": 16,
         "large_lobby_clean_streak": 0,
         "grade": "E"
     },
@@ -1459,11 +1459,11 @@
         "grade": "A"
     },
     "Marcus": {
-        "safety": 300,
-        "races": 18,
-        "contacts": 6,
+        "safety": 294,
+        "races": 19,
+        "contacts": 8,
         "clean_races": 15,
-        "large_lobby_clean_streak": 5,
+        "large_lobby_clean_streak": 0,
         "grade": "S"
     },
     "k142000": {
@@ -2195,10 +2195,10 @@
         "grade": "B"
     },
     "vat1028": {
-        "safety": 171,
-        "races": 3,
+        "safety": 181,
+        "races": 4,
         "contacts": 3,
-        "clean_races": 1,
+        "clean_races": 2,
         "large_lobby_clean_streak": 1,
         "grade": "A"
     }
