@@ -10328,6 +10328,15 @@
             "track": "",
             "finish": 2,
             "race_id": "4347986a2ded1bf278d20a2887d3172c965f0a315b86639ce31cf808aff9b7c3"
+        },
+        {
+            "date": "2026-10-29T17:33:41",
+            "elo": 1141,
+            "elo_before": 1141,
+            "change": 0,
+            "track": "",
+            "finish": 2,
+            "race_id": "951ab7d8cabd6cad9773f907289df96be424ec8ff255738ddfcccdf6014964bd"
         }
     ],
     "AhyaAL": [
@@ -12371,6 +12380,15 @@
             "track": "",
             "finish": 3,
             "race_id": "4af5b9878162cae8def9b2ca76afa8f8615031d0da69399ad53d38e0c33f787c"
+        },
+        {
+            "date": "2026-10-29T17:33:41",
+            "elo": 1003,
+            "elo_before": 1007,
+            "change": -4,
+            "track": "",
+            "finish": 3,
+            "race_id": "951ab7d8cabd6cad9773f907289df96be424ec8ff255738ddfcccdf6014964bd"
         }
     ],
     "pableko": [
@@ -14889,6 +14907,15 @@
             "track": "",
             "finish": 1,
             "race_id": "4347986a2ded1bf278d20a2887d3172c965f0a315b86639ce31cf808aff9b7c3"
+        },
+        {
+            "date": "2026-10-29T17:33:41",
+            "elo": 1262,
+            "elo_before": 1258,
+            "change": 4,
+            "track": "",
+            "finish": 1,
+            "race_id": "951ab7d8cabd6cad9773f907289df96be424ec8ff255738ddfcccdf6014964bd"
         }
     ],
     "Fhalopy": [

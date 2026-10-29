@@ -326,9 +326,9 @@
     },
     "moe": {
         "safety": 300,
-        "races": 73,
+        "races": 74,
         "contacts": 68,
-        "clean_races": 39,
+        "clean_races": 40,
         "large_lobby_clean_streak": 0,
         "grade": "S"
     },
@@ -774,10 +774,10 @@
         "grade": "B"
     },
     "Danislav1746": {
-        "safety": 194,
-        "races": 49,
+        "safety": 199,
+        "races": 50,
         "contacts": 61,
-        "clean_races": 24,
+        "clean_races": 25,
         "large_lobby_clean_streak": 0,
         "grade": "A"
     },
@@ -1129,10 +1129,10 @@
         "grade": "A"
     },
     "Emir Eyupoglu": {
-        "safety": 103,
-        "races": 46,
+        "safety": 108,
+        "races": 47,
         "contacts": 82,
-        "clean_races": 15,
+        "clean_races": 16,
         "large_lobby_clean_streak": 2,
         "grade": "C"
     },
