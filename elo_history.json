@@ -10310,6 +10310,15 @@
             "track": "",
             "finish": 2,
             "race_id": "0af0ea7ae2dab7a802c349e6871ef04c9f9184c328470b28295ae1d381fbec37"
+        },
+        {
+            "date": "2026-10-29T17:02:03",
+            "elo": 1146,
+            "elo_before": 1151,
+            "change": -5,
+            "track": "",
+            "finish": 2,
+            "race_id": "a9433374da027404db6289d3f632602d3e88d359c29f44ed0aca2fbd0d3a9f1a"
         }
     ],
     "AhyaAL": [
@@ -14853,6 +14862,15 @@
             "track": "",
             "finish": 1,
             "race_id": "0af0ea7ae2dab7a802c349e6871ef04c9f9184c328470b28295ae1d381fbec37"
+        },
+        {
+            "date": "2026-10-29T17:02:03",
+            "elo": 1253,
+            "elo_before": 1248,
+            "change": 5,
+            "track": "",
+            "finish": 1,
+            "race_id": "a9433374da027404db6289d3f632602d3e88d359c29f44ed0aca2fbd0d3a9f1a"
         }
     ],
     "Fhalopy": [
