@@ -10355,6 +10355,15 @@
             "track": "",
             "finish": 5,
             "race_id": "61ee85506d5f48ce7566e8e964cc6a53cb4a70261da37a3f6e2e77d04f6918be"
+        },
+        {
+            "date": "2026-10-29T18:05:54",
+            "elo": 1132,
+            "elo_before": 1127,
+            "change": 5,
+            "track": "",
+            "finish": 2,
+            "race_id": "b11f69683c914ac17b26a195b95384ab31b18b1e8a1a1422925c759c47bd5771"
         }
     ],
     "AhyaAL": [
@@ -12416,6 +12425,15 @@
             "track": "",
             "finish": 4,
             "race_id": "61ee85506d5f48ce7566e8e964cc6a53cb4a70261da37a3f6e2e77d04f6918be"
+        },
+        {
+            "date": "2026-10-29T18:05:54",
+            "elo": 1004,
+            "elo_before": 1000,
+            "change": 4,
+            "track": "",
+            "finish": 3,
+            "race_id": "b11f69683c914ac17b26a195b95384ab31b18b1e8a1a1422925c759c47bd5771"
         }
     ],
     "pableko": [
@@ -14952,6 +14970,15 @@
             "track": "",
             "finish": 1,
             "race_id": "61ee85506d5f48ce7566e8e964cc6a53cb4a70261da37a3f6e2e77d04f6918be"
+        },
+        {
+            "date": "2026-10-29T18:05:54",
+            "elo": 1273,
+            "elo_before": 1268,
+            "change": 5,
+            "track": "",
+            "finish": 1,
+            "race_id": "b11f69683c914ac17b26a195b95384ab31b18b1e8a1a1422925c759c47bd5771"
         }
     ],
     "Fhalopy": [
@@ -15484,6 +15511,15 @@
             "track": "",
             "finish": 2,
             "race_id": "61ee85506d5f48ce7566e8e964cc6a53cb4a70261da37a3f6e2e77d04f6918be"
+        },
+        {
+            "date": "2026-10-29T18:05:54",
+            "elo": 1027,
+            "elo_before": 1037,
+            "change": -10,
+            "track": "",
+            "finish": 5,
+            "race_id": "b11f69683c914ac17b26a195b95384ab31b18b1e8a1a1422925c759c47bd5771"
         }
     ],
     "adrix": [
@@ -22531,6 +22567,15 @@
             "track": "",
             "finish": 7,
             "race_id": "886675dcc35e7bd9a3af1bf71e68cfe8bc0bcddc4fbc764c6a946a7f542c1812"
+        },
+        {
+            "date": "2026-10-29T18:05:54",
+            "elo": 1025,
+            "elo_before": 1029,
+            "change": -4,
+            "track": "",
+            "finish": 4,
+            "race_id": "b11f69683c914ac17b26a195b95384ab31b18b1e8a1a1422925c759c47bd5771"
         }
     ],
     "evanchast30": [
