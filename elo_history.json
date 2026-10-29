@@ -7017,6 +7017,15 @@
             "track": "",
             "finish": 8,
             "race_id": "5cc20786747bae9161b59afb90d75cdda6eb906563cc6d8ad1b9d42c77f0be50"
+        },
+        {
+            "date": "2026-10-29T20:48:37",
+            "elo": 767,
+            "elo_before": 768,
+            "change": -1,
+            "track": "",
+            "finish": 3,
+            "race_id": "5be6c0800cf6408da81b987ff0e4bfe3e5280026a718cba1102f8e3da2c45fe8"
         }
     ],
     "JW2Stupid": [
@@ -15501,6 +15510,15 @@
             "track": "",
             "finish": 2,
             "race_id": "4fc97b9badc2c218f59e1afc88f95f63dba747ec474c5fee61caedbccb8262eb"
+        },
+        {
+            "date": "2026-10-29T20:48:37",
+            "elo": 1315,
+            "elo_before": 1313,
+            "change": 2,
+            "track": "",
+            "finish": 1,
+            "race_id": "5be6c0800cf6408da81b987ff0e4bfe3e5280026a718cba1102f8e3da2c45fe8"
         }
     ],
     "Fhalopy": [
@@ -19476,6 +19494,15 @@
             "track": "",
             "finish": 2,
             "race_id": "5cc20786747bae9161b59afb90d75cdda6eb906563cc6d8ad1b9d42c77f0be50"
+        },
+        {
+            "date": "2026-10-29T20:48:37",
+            "elo": 1133,
+            "elo_before": 1134,
+            "change": -1,
+            "track": "",
+            "finish": 2,
+            "race_id": "5be6c0800cf6408da81b987ff0e4bfe3e5280026a718cba1102f8e3da2c45fe8"
         }
     ],
     "jessedollo17": [
