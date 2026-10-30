@@ -1182,6 +1182,15 @@
             "track": "",
             "finish": 6,
             "race_id": "56ff7f141e3e16a1fb4b4251f1c571533ff3ecacc21b0c3421e6de2f1372e075"
+        },
+        {
+            "date": "2026-10-30T18:56:09",
+            "elo": 934,
+            "elo_before": 938,
+            "change": -4,
+            "track": "",
+            "finish": 3,
+            "race_id": "3de4d306a391831c3d8313eb3d00b99c79d9a614bac4b69a19c08bb8573f4ada"
         }
     ],
     "Danny Hinkelmann14": [
@@ -8963,6 +8972,15 @@
             "track": "",
             "finish": 1,
             "race_id": "56ff7f141e3e16a1fb4b4251f1c571533ff3ecacc21b0c3421e6de2f1372e075"
+        },
+        {
+            "date": "2026-10-30T18:56:09",
+            "elo": 1110,
+            "elo_before": 1104,
+            "change": 6,
+            "track": "",
+            "finish": 1,
+            "race_id": "3de4d306a391831c3d8313eb3d00b99c79d9a614bac4b69a19c08bb8573f4ada"
         }
     ],
     "KSBR": [
@@ -24062,6 +24080,15 @@
             "track": "",
             "finish": 3,
             "race_id": "56ff7f141e3e16a1fb4b4251f1c571533ff3ecacc21b0c3421e6de2f1372e075"
+        },
+        {
+            "date": "2026-10-30T18:56:09",
+            "elo": 1135,
+            "elo_before": 1137,
+            "change": -2,
+            "track": "",
+            "finish": 2,
+            "race_id": "3de4d306a391831c3d8313eb3d00b99c79d9a614bac4b69a19c08bb8573f4ada"
         }
     ],
     "Hook": [
