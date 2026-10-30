@@ -1173,6 +1173,15 @@
             "track": "",
             "finish": 7,
             "race_id": "ed4f5310e0ddc5e31f41015c3ebd5e5390551cacf79e39de0ae28262950242ef"
+        },
+        {
+            "date": "2026-10-30T18:34:17",
+            "elo": 938,
+            "elo_before": 950,
+            "change": -12,
+            "track": "",
+            "finish": 6,
+            "race_id": "56ff7f141e3e16a1fb4b4251f1c571533ff3ecacc21b0c3421e6de2f1372e075"
         }
     ],
     "Danny Hinkelmann14": [
@@ -2003,6 +2012,15 @@
             "track": "",
             "finish": 6,
             "race_id": "ed4f5310e0ddc5e31f41015c3ebd5e5390551cacf79e39de0ae28262950242ef"
+        },
+        {
+            "date": "2026-10-30T18:34:17",
+            "elo": 1058,
+            "elo_before": 1070,
+            "change": -12,
+            "track": "",
+            "finish": 5,
+            "race_id": "56ff7f141e3e16a1fb4b4251f1c571533ff3ecacc21b0c3421e6de2f1372e075"
         }
     ],
     "filipknigge20": [
@@ -8936,6 +8954,15 @@
             "track": "",
             "finish": 4,
             "race_id": "ed4f5310e0ddc5e31f41015c3ebd5e5390551cacf79e39de0ae28262950242ef"
+        },
+        {
+            "date": "2026-10-30T18:34:17",
+            "elo": 1104,
+            "elo_before": 1089,
+            "change": 15,
+            "track": "",
+            "finish": 1,
+            "race_id": "56ff7f141e3e16a1fb4b4251f1c571533ff3ecacc21b0c3421e6de2f1372e075"
         }
     ],
     "KSBR": [
@@ -23124,6 +23151,15 @@
             "track": "",
             "finish": 8,
             "race_id": "ed4f5310e0ddc5e31f41015c3ebd5e5390551cacf79e39de0ae28262950242ef"
+        },
+        {
+            "date": "2026-10-30T18:34:17",
+            "elo": 994,
+            "elo_before": 994,
+            "change": 0,
+            "track": "",
+            "finish": 4,
+            "race_id": "56ff7f141e3e16a1fb4b4251f1c571533ff3ecacc21b0c3421e6de2f1372e075"
         }
     ],
     "lambrider": [
@@ -24017,6 +24053,15 @@
             "track": "",
             "finish": 2,
             "race_id": "ed4f5310e0ddc5e31f41015c3ebd5e5390551cacf79e39de0ae28262950242ef"
+        },
+        {
+            "date": "2026-10-30T18:34:17",
+            "elo": 1137,
+            "elo_before": 1139,
+            "change": -2,
+            "track": "",
+            "finish": 3,
+            "race_id": "56ff7f141e3e16a1fb4b4251f1c571533ff3ecacc21b0c3421e6de2f1372e075"
         }
     ],
     "Hook": [
@@ -25010,6 +25055,15 @@
             "track": "",
             "finish": 5,
             "race_id": "ed4f5310e0ddc5e31f41015c3ebd5e5390551cacf79e39de0ae28262950242ef"
+        },
+        {
+            "date": "2026-10-30T18:34:17",
+            "elo": 1057,
+            "elo_before": 1046,
+            "change": 11,
+            "track": "",
+            "finish": 2,
+            "race_id": "56ff7f141e3e16a1fb4b4251f1c571533ff3ecacc21b0c3421e6de2f1372e075"
         }
     ],
     "bj": [
