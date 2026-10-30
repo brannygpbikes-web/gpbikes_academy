@@ -1130,12 +1130,12 @@
         "grade": "A"
     },
     "Emir Eyupoglu": {
-        "safety": 118,
-        "races": 59,
+        "safety": 128,
+        "races": 60,
         "contacts": 95,
-        "clean_races": 20,
+        "clean_races": 21,
         "large_lobby_clean_streak": 0,
-        "grade": "C"
+        "grade": "B"
     },
     "SrPomit": {
         "safety": 98,
@@ -1258,9 +1258,9 @@
         "grade": "B"
     },
     "risu39": {
-        "safety": 111,
-        "races": 2,
-        "contacts": 8,
+        "safety": 108,
+        "races": 3,
+        "contacts": 9,
         "clean_races": 1,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -1322,12 +1322,12 @@
         "grade": "C"
     },
     "oskar.bohlin 69": {
-        "safety": 92,
-        "races": 7,
+        "safety": 102,
+        "races": 8,
         "contacts": 27,
-        "clean_races": 0,
+        "clean_races": 1,
         "large_lobby_clean_streak": 0,
-        "grade": "D"
+        "grade": "C"
     },
     "Pylote": {
         "safety": 238,
@@ -1436,9 +1436,9 @@
         "grade": "C"
     },
     "sergioo14": {
-        "safety": 49,
-        "races": 56,
-        "contacts": 121,
+        "safety": 43,
+        "races": 57,
+        "contacts": 123,
         "clean_races": 29,
         "large_lobby_clean_streak": 0,
         "grade": "E"
@@ -1460,10 +1460,10 @@
         "grade": "A"
     },
     "Marcus": {
-        "safety": 279,
-        "races": 30,
+        "safety": 289,
+        "races": 31,
         "contacts": 22,
-        "clean_races": 21,
+        "clean_races": 22,
         "large_lobby_clean_streak": 0,
         "grade": "S"
     },
@@ -1812,10 +1812,10 @@
         "grade": "B"
     },
     "hofmeistertill": {
-        "safety": 146,
-        "races": 4,
+        "safety": 156,
+        "races": 5,
         "contacts": 3,
-        "clean_races": 2,
+        "clean_races": 3,
         "large_lobby_clean_streak": 1,
         "grade": "B"
     },
@@ -2228,6 +2228,22 @@
         "grade": "B"
     },
     "lawawita": {
+        "safety": 135,
+        "races": 1,
+        "contacts": 0,
+        "clean_races": 1,
+        "large_lobby_clean_streak": 0,
+        "grade": "B"
+    },
+    "Gambilla206": {
+        "safety": 122,
+        "races": 1,
+        "contacts": 1,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "C"
+    },
+    "mnenobmw": {
         "safety": 135,
         "races": 1,
         "contacts": 0,

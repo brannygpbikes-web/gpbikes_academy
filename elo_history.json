@@ -10922,6 +10922,15 @@
             "track": "",
             "finish": 3,
             "race_id": "27be0984ab2ac3647cb4435c32581c46666d7ff298ab28e56e66071dba0baeb8"
+        },
+        {
+            "date": "2026-10-30T20:54:40",
+            "elo": 1147,
+            "elo_before": 1133,
+            "change": 14,
+            "track": "",
+            "finish": 1,
+            "race_id": "d5a8f56fa781d7ec412a8cf4478b784d97e48bde42ed56f0e24caa8b0babe8db"
         }
     ],
     "AhyaAL": [
@@ -16328,6 +16337,15 @@
             "track": "",
             "finish": 18,
             "race_id": "9ebdde2199cb1e3bf6fbec162ca6c51dd6e13ac77cf4f9a1b5a30dc4ed8f692b"
+        },
+        {
+            "date": "2026-10-30T20:54:40",
+            "elo": 978,
+            "elo_before": 976,
+            "change": 2,
+            "track": "",
+            "finish": 4,
+            "race_id": "d5a8f56fa781d7ec412a8cf4478b784d97e48bde42ed56f0e24caa8b0babe8db"
         }
     ],
     "ElDiablo": [
@@ -17077,6 +17095,15 @@
             "track": "",
             "finish": 13,
             "race_id": "3fd8ed6fdf8da8c3591ce69d1e880cedcf4b4baae0e1dfc3bd8f4e6f40da574d"
+        },
+        {
+            "date": "2026-10-30T20:54:40",
+            "elo": 998,
+            "elo_before": 989,
+            "change": 9,
+            "track": "",
+            "finish": 3,
+            "race_id": "d5a8f56fa781d7ec412a8cf4478b784d97e48bde42ed56f0e24caa8b0babe8db"
         }
     ],
     "titonagom08": [
@@ -19227,6 +19254,15 @@
             "track": "",
             "finish": 7,
             "race_id": "27be0984ab2ac3647cb4435c32581c46666d7ff298ab28e56e66071dba0baeb8"
+        },
+        {
+            "date": "2026-10-30T20:54:40",
+            "elo": 830,
+            "elo_before": 834,
+            "change": -4,
+            "track": "",
+            "finish": 6,
+            "race_id": "d5a8f56fa781d7ec412a8cf4478b784d97e48bde42ed56f0e24caa8b0babe8db"
         }
     ],
     "Gonzalo Molina": [
@@ -19971,6 +20007,15 @@
             "track": "",
             "finish": 5,
             "race_id": "27be0984ab2ac3647cb4435c32581c46666d7ff298ab28e56e66071dba0baeb8"
+        },
+        {
+            "date": "2026-10-30T20:54:40",
+            "elo": 1140,
+            "elo_before": 1134,
+            "change": 6,
+            "track": "",
+            "finish": 2,
+            "race_id": "d5a8f56fa781d7ec412a8cf4478b784d97e48bde42ed56f0e24caa8b0babe8db"
         }
     ],
     "jessedollo17": [
@@ -24408,6 +24453,15 @@
             "track": "",
             "finish": 11,
             "race_id": "c054f27da32a08c3aa9ef6f3ec08a1ef2dc3e13974889d25aff13bd99fe0d12e"
+        },
+        {
+            "date": "2026-10-30T20:54:40",
+            "elo": 972,
+            "elo_before": 977,
+            "change": -5,
+            "track": "",
+            "finish": 5,
+            "race_id": "d5a8f56fa781d7ec412a8cf4478b784d97e48bde42ed56f0e24caa8b0babe8db"
         }
     ],
     "Nxndxz": [
@@ -26359,6 +26413,17 @@
             "track": "",
             "finish": 5,
             "race_id": "50bda2f22f3d9124c2ec5f39597fd99341932cc1637696cb1e27ae4aa99d6d67"
+        }
+    ],
+    "Gambilla206": [
+        {
+            "date": "2026-10-30T20:54:40",
+            "elo": 978,
+            "elo_before": 1000,
+            "change": -22,
+            "track": "",
+            "finish": 7,
+            "race_id": "d5a8f56fa781d7ec412a8cf4478b784d97e48bde42ed56f0e24caa8b0babe8db"
         }
     ]
 }

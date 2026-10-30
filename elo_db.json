@@ -288,10 +288,10 @@
         "podiums": 13
     },
     "oskar.bohlin 69": {
-        "elo": 989,
+        "elo": 998,
         "wins": 0,
-        "races": 7,
-        "podiums": 0
+        "races": 8,
+        "podiums": 1
     },
     "sbara": {
         "elo": 1065,
@@ -942,10 +942,10 @@
         "podiums": 0
     },
     "Emir Eyupoglu": {
-        "elo": 1133,
-        "wins": 6,
-        "races": 58,
-        "podiums": 26
+        "elo": 1147,
+        "wins": 7,
+        "races": 59,
+        "podiums": 27
     },
     "SrPomit": {
         "elo": 918,
@@ -1032,9 +1032,9 @@
         "podiums": 0
     },
     "risu39": {
-        "elo": 976,
+        "elo": 978,
         "wins": 0,
-        "races": 2,
+        "races": 3,
         "podiums": 0
     },
     "ElDiablo": {
@@ -1152,9 +1152,9 @@
         "podiums": 0
     },
     "sergioo14": {
-        "elo": 834,
+        "elo": 830,
         "wins": 1,
-        "races": 44,
+        "races": 45,
         "podiums": 5
     },
     "Creisi48": {
@@ -1164,10 +1164,10 @@
         "podiums": 4
     },
     "Marcus": {
-        "elo": 1134,
+        "elo": 1140,
         "wins": 3,
-        "races": 29,
-        "podiums": 13
+        "races": 30,
+        "podiums": 14
     },
     "jessedollo17": {
         "elo": 957,
@@ -1422,9 +1422,9 @@
         "podiums": 0
     },
     "hofmeistertill": {
-        "elo": 977,
+        "elo": 972,
         "wins": 0,
-        "races": 4,
+        "races": 5,
         "podiums": 0
     },
     "Nxndxz": {
@@ -1711,6 +1711,12 @@
     },
     "Kinetical": {
         "elo": 988,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
+    },
+    "Gambilla206": {
+        "elo": 978,
         "wins": 0,
         "races": 1,
         "podiums": 0
