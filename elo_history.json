@@ -19263,6 +19263,15 @@
             "track": "",
             "finish": 6,
             "race_id": "d5a8f56fa781d7ec412a8cf4478b784d97e48bde42ed56f0e24caa8b0babe8db"
+        },
+        {
+            "date": "2026-10-30T21:10:12",
+            "elo": 823,
+            "elo_before": 830,
+            "change": -7,
+            "track": "",
+            "finish": 5,
+            "race_id": "0462143ee184e293b7d8568c9f6778f4351015a7437c4e3a410b636872ba1eeb"
         }
     ],
     "Gonzalo Molina": [
@@ -20016,6 +20025,15 @@
             "track": "",
             "finish": 2,
             "race_id": "d5a8f56fa781d7ec412a8cf4478b784d97e48bde42ed56f0e24caa8b0babe8db"
+        },
+        {
+            "date": "2026-10-30T21:10:12",
+            "elo": 1145,
+            "elo_before": 1140,
+            "change": 5,
+            "track": "",
+            "finish": 1,
+            "race_id": "0462143ee184e293b7d8568c9f6778f4351015a7437c4e3a410b636872ba1eeb"
         }
     ],
     "jessedollo17": [
@@ -24462,6 +24480,15 @@
             "track": "",
             "finish": 5,
             "race_id": "d5a8f56fa781d7ec412a8cf4478b784d97e48bde42ed56f0e24caa8b0babe8db"
+        },
+        {
+            "date": "2026-10-30T21:10:12",
+            "elo": 971,
+            "elo_before": 972,
+            "change": -1,
+            "track": "",
+            "finish": 3,
+            "race_id": "0462143ee184e293b7d8568c9f6778f4351015a7437c4e3a410b636872ba1eeb"
         }
     ],
     "Nxndxz": [
@@ -25813,6 +25840,15 @@
             "track": "",
             "finish": 9,
             "race_id": "5a5328ee224d40cdc7d2adb608a1d79e0d90ee254bf0101fe1b4200dd1713f46"
+        },
+        {
+            "date": "2026-10-30T21:10:12",
+            "elo": 921,
+            "elo_before": 913,
+            "change": 8,
+            "track": "",
+            "finish": 2,
+            "race_id": "0462143ee184e293b7d8568c9f6778f4351015a7437c4e3a410b636872ba1eeb"
         }
     ],
     "85alevale": [
@@ -25887,6 +25923,15 @@
             "track": "",
             "finish": 10,
             "race_id": "5a5328ee224d40cdc7d2adb608a1d79e0d90ee254bf0101fe1b4200dd1713f46"
+        },
+        {
+            "date": "2026-10-30T21:10:12",
+            "elo": 913,
+            "elo_before": 918,
+            "change": -5,
+            "track": "",
+            "finish": 4,
+            "race_id": "0462143ee184e293b7d8568c9f6778f4351015a7437c4e3a410b636872ba1eeb"
         }
     ],
     "Ovengroente": [
