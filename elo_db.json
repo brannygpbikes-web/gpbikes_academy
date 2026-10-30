@@ -66,10 +66,10 @@
         "podiums": 0
     },
     "Ibai Merino": {
-        "elo": 1010,
-        "wins": 1,
-        "races": 16,
-        "podiums": 5
+        "elo": 1022,
+        "wins": 2,
+        "races": 17,
+        "podiums": 6
     },
     "Simone Ghilardini": {
         "elo": 988,
@@ -666,10 +666,10 @@
         "podiums": 12
     },
     "jorgeguti160": {
-        "elo": 886,
+        "elo": 891,
         "wins": 0,
-        "races": 31,
-        "podiums": 4
+        "races": 32,
+        "podiums": 5
     },
     "JKR": {
         "elo": 966,
@@ -944,8 +944,8 @@
     "Emir Eyupoglu": {
         "elo": 1145,
         "wins": 5,
-        "races": 53,
-        "podiums": 22
+        "races": 54,
+        "podiums": 23
     },
     "SrPomit": {
         "elo": 918,
@@ -1092,9 +1092,9 @@
         "podiums": 0
     },
     "Spr0cket": {
-        "elo": 965,
+        "elo": 960,
         "wins": 0,
-        "races": 11,
+        "races": 12,
         "podiums": 2
     },
     "Metadonajack": {
@@ -1708,5 +1708,11 @@
         "wins": 0,
         "races": 1,
         "podiums": 1
+    },
+    "Kinetical": {
+        "elo": 988,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
     }
 }
