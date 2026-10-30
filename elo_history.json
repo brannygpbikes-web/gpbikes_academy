@@ -10859,6 +10859,15 @@
             "track": "",
             "finish": 3,
             "race_id": "3fd8ed6fdf8da8c3591ce69d1e880cedcf4b4baae0e1dfc3bd8f4e6f40da574d"
+        },
+        {
+            "date": "2026-10-30T19:12:00",
+            "elo": 1145,
+            "elo_before": 1141,
+            "change": 4,
+            "track": "",
+            "finish": 1,
+            "race_id": "df7a58cd4e3066ba6cdf7fc6ee6c11d67c967914fe5ce93d68df7535bbf19d6e"
         }
     ],
     "AhyaAL": [
@@ -18640,6 +18649,15 @@
             "track": "",
             "finish": 9,
             "race_id": "4fc97b9badc2c218f59e1afc88f95f63dba747ec474c5fee61caedbccb8262eb"
+        },
+        {
+            "date": "2026-10-30T19:12:00",
+            "elo": 1010,
+            "elo_before": 1018,
+            "change": -8,
+            "track": "",
+            "finish": 3,
+            "race_id": "df7a58cd4e3066ba6cdf7fc6ee6c11d67c967914fe5ce93d68df7535bbf19d6e"
         }
     ],
     "sergioo14": [
@@ -22851,6 +22869,15 @@
             "track": "",
             "finish": 9,
             "race_id": "bae3f986fd318fc0294193342f5304900773a7eca0bc46075ae9cd48d03764fc"
+        },
+        {
+            "date": "2026-10-30T19:12:00",
+            "elo": 886,
+            "elo_before": 882,
+            "change": 4,
+            "track": "",
+            "finish": 2,
+            "race_id": "df7a58cd4e3066ba6cdf7fc6ee6c11d67c967914fe5ce93d68df7535bbf19d6e"
         }
     ],
     "No Pain No Tartine": [
