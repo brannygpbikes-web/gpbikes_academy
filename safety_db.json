@@ -318,9 +318,9 @@
         "large_lobby_clean_streak": 3
     },
     "Miquel_Sinke60": {
-        "safety": 91,
-        "races": 82,
-        "contacts": 159,
+        "safety": 79,
+        "races": 83,
+        "contacts": 162,
         "clean_races": 23,
         "large_lobby_clean_streak": 0,
         "grade": "D"
@@ -674,9 +674,9 @@
         "grade": "B"
     },
     "joelhaire222": {
-        "safety": 54,
-        "races": 18,
-        "contacts": 44,
+        "safety": 30,
+        "races": 19,
+        "contacts": 50,
         "clean_races": 6,
         "grade": "E",
         "large_lobby_clean_streak": 0
@@ -1540,12 +1540,12 @@
         "grade": "C"
     },
     "SleppyGame23": {
-        "safety": 119,
-        "races": 31,
-        "contacts": 44,
+        "safety": 83,
+        "races": 32,
+        "contacts": 53,
         "clean_races": 13,
         "large_lobby_clean_streak": 0,
-        "grade": "C"
+        "grade": "D"
     },
     "CLG21": {
         "safety": 121,
@@ -2202,5 +2202,13 @@
         "clean_races": 3,
         "large_lobby_clean_streak": 0,
         "grade": "A"
+    },
+    "Juaki": {
+        "safety": 69,
+        "races": 1,
+        "contacts": 14,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "E"
     }
 }

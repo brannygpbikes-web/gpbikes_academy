@@ -42,9 +42,9 @@
         "podiums": 1
     },
     "Miquel_Sinke60": {
-        "elo": 1100,
+        "elo": 1084,
         "wins": 15,
-        "races": 85,
+        "races": 86,
         "podiums": 41
     },
     "AhyaAL": {
@@ -708,10 +708,10 @@
         "podiums": 0
     },
     "joelhaire222": {
-        "elo": 1029,
-        "wins": 4,
-        "races": 17,
-        "podiums": 6
+        "elo": 1042,
+        "wins": 5,
+        "races": 18,
+        "podiums": 7
     },
     "MATRIX#86": {
         "elo": 900,
@@ -1230,10 +1230,10 @@
         "podiums": 5
     },
     "SleppyGame23": {
-        "elo": 1025,
+        "elo": 1030,
         "wins": 1,
-        "races": 28,
-        "podiums": 10
+        "races": 29,
+        "podiums": 11
     },
     "CLG21": {
         "elo": 1014,
@@ -1702,5 +1702,11 @@
         "wins": 0,
         "races": 1,
         "podiums": 0
+    },
+    "Juaki": {
+        "elo": 998,
+        "wins": 0,
+        "races": 1,
+        "podiums": 1
     }
 }

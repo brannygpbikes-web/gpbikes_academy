@@ -8855,6 +8855,15 @@
             "track": "",
             "finish": 1,
             "race_id": "a9300a051ab2e925ee5cc39a1acc2708b4d2411d6e71e2a08201b988d34a124e"
+        },
+        {
+            "date": "2026-10-30T17:12:08",
+            "elo": 1084,
+            "elo_before": 1100,
+            "change": -16,
+            "track": "",
+            "finish": 4,
+            "race_id": "2b9843a06a7a543f606bc98f6c819b42d310fbad95f6a7df0b3da483f9bebc2d"
         }
     ],
     "KSBR": [
@@ -20829,6 +20838,15 @@
             "track": "",
             "finish": 2,
             "race_id": "a9300a051ab2e925ee5cc39a1acc2708b4d2411d6e71e2a08201b988d34a124e"
+        },
+        {
+            "date": "2026-10-30T17:12:08",
+            "elo": 1030,
+            "elo_before": 1025,
+            "change": 5,
+            "track": "",
+            "finish": 2,
+            "race_id": "2b9843a06a7a543f606bc98f6c819b42d310fbad95f6a7df0b3da483f9bebc2d"
         }
     ],
     "CLG21": [
@@ -24516,6 +24534,15 @@
             "track": "",
             "finish": 1,
             "race_id": "d5d2ce3e2b1334ddf8b1490d12bb777fae3f387fbd3ca4154e21b1603caada45"
+        },
+        {
+            "date": "2026-10-30T17:12:08",
+            "elo": 1042,
+            "elo_before": 1029,
+            "change": 13,
+            "track": "",
+            "finish": 1,
+            "race_id": "2b9843a06a7a543f606bc98f6c819b42d310fbad95f6a7df0b3da483f9bebc2d"
         }
     ],
     "kam dixon": [
@@ -25680,6 +25707,17 @@
             "track": "",
             "finish": 6,
             "race_id": "5cc20786747bae9161b59afb90d75cdda6eb906563cc6d8ad1b9d42c77f0be50"
+        }
+    ],
+    "Juaki": [
+        {
+            "date": "2026-10-30T17:12:08",
+            "elo": 998,
+            "elo_before": 1000,
+            "change": -2,
+            "track": "",
+            "finish": 3,
+            "race_id": "2b9843a06a7a543f606bc98f6c819b42d310fbad95f6a7df0b3da483f9bebc2d"
         }
     ]
 }
