@@ -318,17 +318,17 @@
         "large_lobby_clean_streak": 3
     },
     "Miquel_Sinke60": {
-        "safety": 76,
-        "races": 84,
-        "contacts": 163,
+        "safety": 64,
+        "races": 85,
+        "contacts": 166,
         "clean_races": 23,
         "large_lobby_clean_streak": 0,
-        "grade": "D"
+        "grade": "E"
     },
     "moe": {
-        "safety": 297,
-        "races": 81,
-        "contacts": 74,
+        "safety": 293,
+        "races": 82,
+        "contacts": 75,
         "clean_races": 42,
         "large_lobby_clean_streak": 0,
         "grade": "S"
@@ -450,9 +450,9 @@
         "grade": "S"
     },
     "Ricoway46": {
-        "safety": 223,
-        "races": 52,
-        "contacts": 79,
+        "safety": 211,
+        "races": 53,
+        "contacts": 82,
         "clean_races": 15,
         "large_lobby_clean_streak": 0,
         "grade": "A"
@@ -690,9 +690,9 @@
         "grade": "B"
     },
     "tacticworks": {
-        "safety": 171,
-        "races": 47,
-        "contacts": 72,
+        "safety": 167,
+        "races": 48,
+        "contacts": 73,
         "clean_races": 17,
         "large_lobby_clean_streak": 0,
         "grade": "A"
@@ -1460,10 +1460,10 @@
         "grade": "A"
     },
     "Marcus": {
-        "safety": 297,
-        "races": 24,
+        "safety": 300,
+        "races": 25,
         "contacts": 11,
-        "clean_races": 18,
+        "clean_races": 19,
         "large_lobby_clean_streak": 0,
         "grade": "S"
     },
@@ -1708,9 +1708,9 @@
         "grade": "B"
     },
     "ShaiGP": {
-        "safety": 173,
-        "races": 18,
-        "contacts": 28,
+        "safety": 165,
+        "races": 19,
+        "contacts": 30,
         "clean_races": 6,
         "large_lobby_clean_streak": 0,
         "grade": "A"
@@ -1988,9 +1988,9 @@
         "grade": "B"
     },
     "Nico Rosbot": {
-        "safety": 139,
-        "races": 3,
-        "contacts": 2,
+        "safety": 131,
+        "races": 4,
+        "contacts": 4,
         "clean_races": 2,
         "large_lobby_clean_streak": 0,
         "grade": "B"
