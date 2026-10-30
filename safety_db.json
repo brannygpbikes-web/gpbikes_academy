@@ -217,10 +217,10 @@
         "grade": "C"
     },
     "romeo": {
-        "safety": 36,
-        "races": 10,
+        "safety": 46,
+        "races": 11,
         "contacts": 25,
-        "clean_races": 1,
+        "clean_races": 2,
         "grade": "E",
         "large_lobby_clean_streak": 0
     },
@@ -287,9 +287,9 @@
         "grade": "C"
     },
     "AwashMicrobe": {
-        "safety": 91,
-        "races": 24,
-        "contacts": 55,
+        "safety": 85,
+        "races": 25,
+        "contacts": 57,
         "clean_races": 9,
         "large_lobby_clean_streak": 0,
         "grade": "D"
@@ -450,9 +450,9 @@
         "grade": "S"
     },
     "Ricoway46": {
-        "safety": 217,
-        "races": 55,
-        "contacts": 83,
+        "safety": 208,
+        "races": 56,
+        "contacts": 86,
         "clean_races": 16,
         "large_lobby_clean_streak": 0,
         "grade": "A"
@@ -674,9 +674,9 @@
         "grade": "B"
     },
     "joelhaire222": {
-        "safety": 21,
-        "races": 20,
-        "contacts": 53,
+        "safety": 0,
+        "races": 21,
+        "contacts": 60,
         "clean_races": 6,
         "grade": "E",
         "large_lobby_clean_streak": 0
@@ -775,9 +775,9 @@
         "grade": "B"
     },
     "Danislav1746": {
-        "safety": 213,
-        "races": 59,
-        "contacts": 76,
+        "safety": 189,
+        "races": 60,
+        "contacts": 84,
         "clean_races": 28,
         "large_lobby_clean_streak": 0,
         "grade": "A"
@@ -1130,9 +1130,9 @@
         "grade": "A"
     },
     "Emir Eyupoglu": {
-        "safety": 124,
-        "races": 58,
-        "contacts": 93,
+        "safety": 118,
+        "races": 59,
+        "contacts": 95,
         "clean_races": 20,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -1436,12 +1436,12 @@
         "grade": "C"
     },
     "sergioo14": {
-        "safety": 76,
-        "races": 55,
-        "contacts": 112,
+        "safety": 49,
+        "races": 56,
+        "contacts": 121,
         "clean_races": 29,
         "large_lobby_clean_streak": 0,
-        "grade": "D"
+        "grade": "E"
     },
     "Ibai Merino": {
         "safety": 223,
@@ -1460,9 +1460,9 @@
         "grade": "A"
     },
     "Marcus": {
-        "safety": 300,
-        "races": 29,
-        "contacts": 15,
+        "safety": 279,
+        "races": 30,
+        "contacts": 22,
         "clean_races": 21,
         "large_lobby_clean_streak": 0,
         "grade": "S"
