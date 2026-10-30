@@ -217,9 +217,9 @@
         "grade": "C"
     },
     "romeo": {
-        "safety": 61,
-        "races": 7,
-        "contacts": 18,
+        "safety": 52,
+        "races": 8,
+        "contacts": 21,
         "clean_races": 1,
         "grade": "E",
         "large_lobby_clean_streak": 0
@@ -318,19 +318,19 @@
         "large_lobby_clean_streak": 3
     },
     "Miquel_Sinke60": {
-        "safety": 79,
-        "races": 83,
-        "contacts": 162,
+        "safety": 76,
+        "races": 84,
+        "contacts": 163,
         "clean_races": 23,
         "large_lobby_clean_streak": 0,
         "grade": "D"
     },
     "moe": {
-        "safety": 300,
-        "races": 80,
-        "contacts": 73,
+        "safety": 297,
+        "races": 81,
+        "contacts": 74,
         "clean_races": 42,
-        "large_lobby_clean_streak": 1,
+        "large_lobby_clean_streak": 0,
         "grade": "S"
     },
     "Zachy12345": {
@@ -450,9 +450,9 @@
         "grade": "S"
     },
     "Ricoway46": {
-        "safety": 235,
-        "races": 51,
-        "contacts": 75,
+        "safety": 223,
+        "races": 52,
+        "contacts": 79,
         "clean_races": 15,
         "large_lobby_clean_streak": 0,
         "grade": "A"
@@ -690,9 +690,9 @@
         "grade": "B"
     },
     "tacticworks": {
-        "safety": 183,
-        "races": 46,
-        "contacts": 68,
+        "safety": 171,
+        "races": 47,
+        "contacts": 72,
         "clean_races": 17,
         "large_lobby_clean_streak": 0,
         "grade": "A"
@@ -1090,9 +1090,9 @@
         "grade": "C"
     },
     "izan curia": {
-        "safety": 211,
-        "races": 13,
-        "contacts": 4,
+        "safety": 199,
+        "races": 14,
+        "contacts": 8,
         "clean_races": 10,
         "large_lobby_clean_streak": 0,
         "grade": "A"
@@ -1460,9 +1460,9 @@
         "grade": "A"
     },
     "Marcus": {
-        "safety": 300,
-        "races": 23,
-        "contacts": 10,
+        "safety": 297,
+        "races": 24,
+        "contacts": 11,
         "clean_races": 18,
         "large_lobby_clean_streak": 0,
         "grade": "S"
@@ -1988,9 +1988,9 @@
         "grade": "B"
     },
     "Nico Rosbot": {
-        "safety": 145,
-        "races": 2,
-        "contacts": 0,
+        "safety": 139,
+        "races": 3,
+        "contacts": 2,
         "clean_races": 2,
         "large_lobby_clean_streak": 0,
         "grade": "B"
