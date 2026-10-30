@@ -217,9 +217,9 @@
         "grade": "C"
     },
     "romeo": {
-        "safety": 64,
-        "races": 6,
-        "contacts": 17,
+        "safety": 61,
+        "races": 7,
+        "contacts": 18,
         "clean_races": 1,
         "grade": "E",
         "large_lobby_clean_streak": 0
@@ -674,9 +674,9 @@
         "grade": "B"
     },
     "joelhaire222": {
-        "safety": 30,
-        "races": 19,
-        "contacts": 50,
+        "safety": 21,
+        "races": 20,
+        "contacts": 53,
         "clean_races": 6,
         "grade": "E",
         "large_lobby_clean_streak": 0
@@ -690,10 +690,10 @@
         "grade": "B"
     },
     "tacticworks": {
-        "safety": 173,
-        "races": 45,
+        "safety": 183,
+        "races": 46,
         "contacts": 68,
-        "clean_races": 16,
+        "clean_races": 17,
         "large_lobby_clean_streak": 0,
         "grade": "A"
     },
@@ -1146,9 +1146,9 @@
         "grade": "D"
     },
     "fisherman": {
-        "safety": 159,
-        "races": 8,
-        "contacts": 4,
+        "safety": 147,
+        "races": 9,
+        "contacts": 8,
         "clean_races": 5,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -1460,10 +1460,10 @@
         "grade": "A"
     },
     "Marcus": {
-        "safety": 299,
-        "races": 22,
+        "safety": 300,
+        "races": 23,
         "contacts": 10,
-        "clean_races": 17,
+        "clean_races": 18,
         "large_lobby_clean_streak": 0,
         "grade": "S"
     },
@@ -1540,10 +1540,10 @@
         "grade": "C"
     },
     "SleppyGame23": {
-        "safety": 83,
-        "races": 32,
+        "safety": 93,
+        "races": 33,
         "contacts": 53,
-        "clean_races": 13,
+        "clean_races": 14,
         "large_lobby_clean_streak": 0,
         "grade": "D"
     },
@@ -1988,10 +1988,10 @@
         "grade": "B"
     },
     "Nico Rosbot": {
-        "safety": 135,
-        "races": 1,
+        "safety": 145,
+        "races": 2,
         "contacts": 0,
-        "clean_races": 1,
+        "clean_races": 2,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     },
@@ -2210,5 +2210,13 @@
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "E"
+    },
+    "sidmarshall461": {
+        "safety": 135,
+        "races": 1,
+        "contacts": 0,
+        "clean_races": 1,
+        "large_lobby_clean_streak": 0,
+        "grade": "B"
     }
 }
