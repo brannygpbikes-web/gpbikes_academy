@@ -217,9 +217,9 @@
         "grade": "C"
     },
     "romeo": {
-        "safety": 52,
-        "races": 8,
-        "contacts": 21,
+        "safety": 44,
+        "races": 9,
+        "contacts": 23,
         "clean_races": 1,
         "grade": "E",
         "large_lobby_clean_streak": 0
@@ -279,10 +279,10 @@
         "grade": "C"
     },
     "Eder Merino": {
-        "safety": 112,
-        "races": 11,
+        "safety": 122,
+        "races": 12,
         "contacts": 20,
-        "clean_races": 5,
+        "clean_races": 6,
         "large_lobby_clean_streak": 0,
         "grade": "C"
     },
@@ -327,9 +327,9 @@
     },
     "moe": {
         "safety": 300,
-        "races": 84,
+        "races": 85,
         "contacts": 75,
-        "clean_races": 44,
+        "clean_races": 45,
         "large_lobby_clean_streak": 0,
         "grade": "S"
     },
@@ -1130,12 +1130,12 @@
         "grade": "A"
     },
     "Emir Eyupoglu": {
-        "safety": 118,
-        "races": 56,
+        "safety": 128,
+        "races": 57,
         "contacts": 92,
-        "clean_races": 19,
+        "clean_races": 20,
         "large_lobby_clean_streak": 0,
-        "grade": "C"
+        "grade": "B"
     },
     "SrPomit": {
         "safety": 98,
@@ -1444,10 +1444,10 @@
         "grade": "D"
     },
     "Ibai Merino": {
-        "safety": 213,
-        "races": 17,
+        "safety": 223,
+        "races": 18,
         "contacts": 27,
-        "clean_races": 8,
+        "clean_races": 9,
         "large_lobby_clean_streak": 0,
         "grade": "A"
     },
@@ -1460,9 +1460,9 @@
         "grade": "A"
     },
     "Marcus": {
-        "safety": 300,
-        "races": 27,
-        "contacts": 13,
+        "safety": 292,
+        "races": 28,
+        "contacts": 15,
         "clean_races": 20,
         "large_lobby_clean_streak": 0,
         "grade": "S"

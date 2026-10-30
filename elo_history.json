@@ -10886,6 +10886,15 @@
             "track": "",
             "finish": 1,
             "race_id": "fcda1341bf446cf7ef4454a14aa1b27a059aad9ba8fa4277bad32c90108afda6"
+        },
+        {
+            "date": "2026-10-30T20:02:25",
+            "elo": 1154,
+            "elo_before": 1150,
+            "change": 4,
+            "track": "",
+            "finish": 2,
+            "race_id": "5a4d398dcc2fa84a4aff7b873b054a372c2f2c8550e1535be673994a0f449744"
         }
     ],
     "AhyaAL": [
@@ -11735,6 +11744,15 @@
             "track": "",
             "finish": 3,
             "race_id": "fcda1341bf446cf7ef4454a14aa1b27a059aad9ba8fa4277bad32c90108afda6"
+        },
+        {
+            "date": "2026-10-30T20:02:25",
+            "elo": 978,
+            "elo_before": 978,
+            "change": 0,
+            "track": "",
+            "finish": 4,
+            "race_id": "5a4d398dcc2fa84a4aff7b873b054a372c2f2c8550e1535be673994a0f449744"
         }
     ],
     "chilliams": [
@@ -13055,6 +13073,15 @@
             "track": "",
             "finish": 7,
             "race_id": "15e588fda2a68c25dd1f84164536fc9bfe00818a8d9fe5c311003be916fa8555"
+        },
+        {
+            "date": "2026-10-30T20:02:25",
+            "elo": 1004,
+            "elo_before": 998,
+            "change": 6,
+            "track": "",
+            "finish": 3,
+            "race_id": "5a4d398dcc2fa84a4aff7b873b054a372c2f2c8550e1535be673994a0f449744"
         }
     ],
     "pableko": [
@@ -18712,6 +18739,15 @@
             "track": "",
             "finish": 2,
             "race_id": "fcda1341bf446cf7ef4454a14aa1b27a059aad9ba8fa4277bad32c90108afda6"
+        },
+        {
+            "date": "2026-10-30T20:02:25",
+            "elo": 1014,
+            "elo_before": 1023,
+            "change": -9,
+            "track": "",
+            "finish": 5,
+            "race_id": "5a4d398dcc2fa84a4aff7b873b054a372c2f2c8550e1535be673994a0f449744"
         }
     ],
     "sergioo14": [
@@ -19818,6 +19854,15 @@
             "track": "",
             "finish": 3,
             "race_id": "ed4f5310e0ddc5e31f41015c3ebd5e5390551cacf79e39de0ae28262950242ef"
+        },
+        {
+            "date": "2026-10-30T20:02:25",
+            "elo": 1132,
+            "elo_before": 1119,
+            "change": 13,
+            "track": "",
+            "finish": 1,
+            "race_id": "5a4d398dcc2fa84a4aff7b873b054a372c2f2c8550e1535be673994a0f449744"
         }
     ],
     "jessedollo17": [
@@ -26157,6 +26202,15 @@
             "track": "",
             "finish": 6,
             "race_id": "b7932de7add8ec9e91ea34114e32e462050a8c89f03904116a9b11927aaf11af"
+        },
+        {
+            "date": "2026-10-30T20:02:25",
+            "elo": 961,
+            "elo_before": 975,
+            "change": -14,
+            "track": "",
+            "finish": 6,
+            "race_id": "5a4d398dcc2fa84a4aff7b873b054a372c2f2c8550e1535be673994a0f449744"
         }
     ],
     "Juaki": [
