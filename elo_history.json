@@ -27199,6 +27199,15 @@
             "track": "",
             "finish": 1,
             "race_id": "08d88bcf4d3e412b226d9c3095403bc6c60b9f7fd89596fcd650bb07fe52c436"
+        },
+        {
+            "date": "2026-10-31T21:54:30",
+            "elo": 1015,
+            "elo_before": 1008,
+            "change": 7,
+            "track": "",
+            "finish": 1,
+            "race_id": "65245c2f7ab40b92602b004e4a8bbe565de0bc7922707940560c2c69c0a59e49"
         }
     ],
     "Ma50n": [
@@ -27210,6 +27219,15 @@
             "track": "",
             "finish": 2,
             "race_id": "08d88bcf4d3e412b226d9c3095403bc6c60b9f7fd89596fcd650bb07fe52c436"
+        },
+        {
+            "date": "2026-10-31T21:54:30",
+            "elo": 985,
+            "elo_before": 992,
+            "change": -7,
+            "track": "",
+            "finish": 2,
+            "race_id": "65245c2f7ab40b92602b004e4a8bbe565de0bc7922707940560c2c69c0a59e49"
         }
     ]
 }
