@@ -27189,5 +27189,27 @@
             "finish": 1,
             "race_id": "ec4b69f5f3182d646404ec03267eba40e17001b4832ee4afd572cf8e91635e61"
         }
+    ],
+    "Sullivan Mounsey": [
+        {
+            "date": "2026-10-31T21:41:20",
+            "elo": 1008,
+            "elo_before": 1000,
+            "change": 8,
+            "track": "",
+            "finish": 1,
+            "race_id": "08d88bcf4d3e412b226d9c3095403bc6c60b9f7fd89596fcd650bb07fe52c436"
+        }
+    ],
+    "Ma50n": [
+        {
+            "date": "2026-10-31T21:41:20",
+            "elo": 992,
+            "elo_before": 1000,
+            "change": -8,
+            "track": "",
+            "finish": 2,
+            "race_id": "08d88bcf4d3e412b226d9c3095403bc6c60b9f7fd89596fcd650bb07fe52c436"
+        }
     ]
 }

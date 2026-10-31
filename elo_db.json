@@ -1738,5 +1738,17 @@
         "wins": 0,
         "races": 1,
         "podiums": 0
+    },
+    "Sullivan Mounsey": {
+        "elo": 1008,
+        "wins": 1,
+        "races": 1,
+        "podiums": 1
+    },
+    "Ma50n": {
+        "elo": 992,
+        "wins": 0,
+        "races": 1,
+        "podiums": 1
     }
 }

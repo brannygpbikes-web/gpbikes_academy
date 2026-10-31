@@ -674,11 +674,11 @@
         "grade": "B"
     },
     "joelhaire222": {
-        "safety": 0,
+        "safety": 80,
         "races": 21,
         "contacts": 60,
         "clean_races": 6,
-        "grade": "E",
+        "grade": "D",
         "large_lobby_clean_streak": 0
     },
     "MATRIX#86": {
@@ -994,12 +994,12 @@
         "grade": "B"
     },
     "collinlanger96": {
-        "safety": 1,
+        "safety": 80,
         "races": 63,
         "contacts": 118,
         "clean_races": 17,
         "large_lobby_clean_streak": 0,
-        "grade": "E"
+        "grade": "D"
     },
     "The Gyatt": {
         "safety": 269,
@@ -2274,5 +2274,21 @@
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "B"
+    },
+    "Sullivan Mounsey": {
+        "safety": 65,
+        "races": 1,
+        "contacts": 12,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "E"
+    },
+    "Ma50n": {
+        "safety": 65,
+        "races": 1,
+        "contacts": 12,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "E"
     }
 }
