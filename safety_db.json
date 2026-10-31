@@ -138,10 +138,10 @@
         "grade": "B"
     },
     "AhyaAL": {
-        "safety": 288,
-        "races": 52,
+        "safety": 298,
+        "races": 53,
         "contacts": 43,
-        "clean_races": 27,
+        "clean_races": 28,
         "large_lobby_clean_streak": 0,
         "grade": "S"
     },
@@ -193,17 +193,17 @@
         "grade": "A"
     },
     "Sturdy": {
-        "safety": 227,
-        "races": 30,
+        "safety": 237,
+        "races": 31,
         "contacts": 32,
-        "clean_races": 15,
+        "clean_races": 16,
         "large_lobby_clean_streak": 0,
         "grade": "A"
     },
     "Lanzo": {
-        "safety": 179,
-        "races": 46,
-        "contacts": 62,
+        "safety": 176,
+        "races": 47,
+        "contacts": 63,
         "clean_races": 18,
         "large_lobby_clean_streak": 0,
         "grade": "A"
@@ -327,9 +327,9 @@
     },
     "moe": {
         "safety": 300,
-        "races": 86,
+        "races": 87,
         "contacts": 75,
-        "clean_races": 46,
+        "clean_races": 47,
         "large_lobby_clean_streak": 0,
         "grade": "S"
     },
@@ -450,9 +450,9 @@
         "grade": "S"
     },
     "Ricoway46": {
-        "safety": 204,
-        "races": 57,
-        "contacts": 87,
+        "safety": 198,
+        "races": 58,
+        "contacts": 89,
         "clean_races": 16,
         "large_lobby_clean_streak": 0,
         "grade": "A"
@@ -775,10 +775,10 @@
         "grade": "B"
     },
     "Danislav1746": {
-        "safety": 199,
-        "races": 61,
+        "safety": 209,
+        "races": 62,
         "contacts": 84,
-        "clean_races": 29,
+        "clean_races": 30,
         "large_lobby_clean_streak": 0,
         "grade": "A"
     },
@@ -1436,10 +1436,10 @@
         "grade": "C"
     },
     "sergioo14": {
-        "safety": 44,
-        "races": 59,
+        "safety": 54,
+        "races": 60,
         "contacts": 124,
-        "clean_races": 30,
+        "clean_races": 31,
         "large_lobby_clean_streak": 0,
         "grade": "E"
     },
@@ -2250,5 +2250,13 @@
         "clean_races": 1,
         "large_lobby_clean_streak": 0,
         "grade": "B"
+    },
+    "gianmarcobarcarolo10": {
+        "safety": 116,
+        "races": 1,
+        "contacts": 3,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "C"
     }
 }

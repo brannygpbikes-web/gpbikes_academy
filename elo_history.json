@@ -4783,6 +4783,15 @@
             "track": "",
             "finish": 6,
             "race_id": "8baf26ef9a0624c31ac57f9e89ada567f6682d7a7a3205d92e50e60654d0c505"
+        },
+        {
+            "date": "2026-10-31T16:22:46",
+            "elo": 1002,
+            "elo_before": 1001,
+            "change": 1,
+            "track": "",
+            "finish": 5,
+            "race_id": "6424d7025da8fea88218ccf0e89790eed600da8881f73f0d896a8822070c1738"
         }
     ],
     "Simone Ghilardini": [
@@ -7588,6 +7597,15 @@
             "track": "",
             "finish": 3,
             "race_id": "8baf26ef9a0624c31ac57f9e89ada567f6682d7a7a3205d92e50e60654d0c505"
+        },
+        {
+            "date": "2026-10-31T16:22:46",
+            "elo": 1040,
+            "elo_before": 1048,
+            "change": -8,
+            "track": "",
+            "finish": 6,
+            "race_id": "6424d7025da8fea88218ccf0e89790eed600da8881f73f0d896a8822070c1738"
         }
     ],
     "branny": [
@@ -11158,6 +11176,15 @@
             "track": "",
             "finish": 5,
             "race_id": "8baf26ef9a0624c31ac57f9e89ada567f6682d7a7a3205d92e50e60654d0c505"
+        },
+        {
+            "date": "2026-10-31T16:22:46",
+            "elo": 1149,
+            "elo_before": 1138,
+            "change": 11,
+            "track": "",
+            "finish": 2,
+            "race_id": "6424d7025da8fea88218ccf0e89790eed600da8881f73f0d896a8822070c1738"
         }
     ],
     "TheJr": [
@@ -13154,6 +13181,15 @@
             "track": "",
             "finish": 3,
             "race_id": "0d1c2f17e4f31e27bd29b51af16e12fb099f224230b13bda59e48d87a0a3b7c1"
+        },
+        {
+            "date": "2026-10-31T16:22:46",
+            "elo": 1031,
+            "elo_before": 1018,
+            "change": 13,
+            "track": "",
+            "finish": 3,
+            "race_id": "6424d7025da8fea88218ccf0e89790eed600da8881f73f0d896a8822070c1738"
         }
     ],
     "pableko": [
@@ -15861,6 +15897,15 @@
             "track": "",
             "finish": 1,
             "race_id": "8baf26ef9a0624c31ac57f9e89ada567f6682d7a7a3205d92e50e60654d0c505"
+        },
+        {
+            "date": "2026-10-31T16:22:46",
+            "elo": 1339,
+            "elo_before": 1332,
+            "change": 7,
+            "track": "",
+            "finish": 1,
+            "race_id": "6424d7025da8fea88218ccf0e89790eed600da8881f73f0d896a8822070c1738"
         }
     ],
     "Fhalopy": [
@@ -16315,6 +16360,15 @@
             "track": "",
             "finish": 4,
             "race_id": "8baf26ef9a0624c31ac57f9e89ada567f6682d7a7a3205d92e50e60654d0c505"
+        },
+        {
+            "date": "2026-10-31T16:22:46",
+            "elo": 1142,
+            "elo_before": 1164,
+            "change": -22,
+            "track": "",
+            "finish": 7,
+            "race_id": "6424d7025da8fea88218ccf0e89790eed600da8881f73f0d896a8822070c1738"
         }
     ],
     "J_44": [
@@ -19326,6 +19380,15 @@
             "track": "",
             "finish": 2,
             "race_id": "8baf26ef9a0624c31ac57f9e89ada567f6682d7a7a3205d92e50e60654d0c505"
+        },
+        {
+            "date": "2026-10-31T16:22:46",
+            "elo": 862,
+            "elo_before": 846,
+            "change": 16,
+            "track": "",
+            "finish": 4,
+            "race_id": "6424d7025da8fea88218ccf0e89790eed600da8881f73f0d896a8822070c1738"
         }
     ],
     "Gonzalo Molina": [
@@ -26523,6 +26586,17 @@
             "track": "",
             "finish": 7,
             "race_id": "d5a8f56fa781d7ec412a8cf4478b784d97e48bde42ed56f0e24caa8b0babe8db"
+        }
+    ],
+    "gianmarcobarcarolo10": [
+        {
+            "date": "2026-10-31T16:22:46",
+            "elo": 982,
+            "elo_before": 1000,
+            "change": -18,
+            "track": "",
+            "finish": 8,
+            "race_id": "6424d7025da8fea88218ccf0e89790eed600da8881f73f0d896a8822070c1738"
         }
     ]
 }

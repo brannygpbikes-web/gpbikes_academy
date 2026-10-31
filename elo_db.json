@@ -30,10 +30,10 @@
         "podiums": 1
     },
     "moe": {
-        "elo": 1018,
+        "elo": 1031,
         "wins": 2,
-        "races": 82,
-        "podiums": 20
+        "races": 83,
+        "podiums": 21
     },
     "jackthebikeguy": {
         "elo": 952,
@@ -48,10 +48,10 @@
         "podiums": 44
     },
     "AhyaAL": {
-        "elo": 1138,
+        "elo": 1149,
         "wins": 9,
-        "races": 53,
-        "podiums": 26
+        "races": 54,
+        "podiums": 27
     },
     "ola13": {
         "elo": 974,
@@ -168,9 +168,9 @@
         "podiums": 16
     },
     "Sturdy": {
-        "elo": 1001,
+        "elo": 1002,
         "wins": 3,
-        "races": 34,
+        "races": 35,
         "podiums": 16
     },
     "filipknigge20": {
@@ -234,9 +234,9 @@
         "podiums": 14
     },
     "Ricoway46": {
-        "elo": 1164,
+        "elo": 1142,
         "wins": 6,
-        "races": 57,
+        "races": 58,
         "podiums": 24
     },
     "AwashMicrobe": {
@@ -282,9 +282,9 @@
         "podiums": 0
     },
     "Lanzo": {
-        "elo": 1048,
+        "elo": 1040,
         "wins": 3,
-        "races": 45,
+        "races": 46,
         "podiums": 14
     },
     "oskar.bohlin 69": {
@@ -300,10 +300,10 @@
         "podiums": 22
     },
     "Danislav1746": {
-        "elo": 1332,
-        "wins": 37,
-        "races": 62,
-        "podiums": 53
+        "elo": 1339,
+        "wins": 38,
+        "races": 63,
+        "podiums": 54
     },
     "AL": {
         "elo": 948,
@@ -1152,9 +1152,9 @@
         "podiums": 0
     },
     "sergioo14": {
-        "elo": 846,
+        "elo": 862,
         "wins": 1,
-        "races": 47,
+        "races": 48,
         "podiums": 6
     },
     "Creisi48": {
@@ -1717,6 +1717,12 @@
     },
     "Gambilla206": {
         "elo": 978,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
+    },
+    "gianmarcobarcarolo10": {
+        "elo": 982,
         "wins": 0,
         "races": 1,
         "podiums": 0
