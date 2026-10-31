@@ -3195,6 +3195,15 @@
             "track": "",
             "finish": 7,
             "race_id": "14cbc2d41d3ddc3f634d17d9d3396961c8fd629dc4ea9aaf67328c399fea0555"
+        },
+        {
+            "date": "2026-10-31T18:07:03",
+            "elo": 1055,
+            "elo_before": 1070,
+            "change": -15,
+            "track": "",
+            "finish": 5,
+            "race_id": "ec4b69f5f3182d646404ec03267eba40e17001b4832ee4afd572cf8e91635e61"
         }
     ],
     "sbara": [
@@ -10162,6 +10171,15 @@
             "track": "",
             "finish": 6,
             "race_id": "14cbc2d41d3ddc3f634d17d9d3396961c8fd629dc4ea9aaf67328c399fea0555"
+        },
+        {
+            "date": "2026-10-31T18:07:03",
+            "elo": 1001,
+            "elo_before": 998,
+            "change": 3,
+            "track": "",
+            "finish": 3,
+            "race_id": "ec4b69f5f3182d646404ec03267eba40e17001b4832ee4afd572cf8e91635e61"
         }
     ],
     "Rayo__Wombat": [
@@ -14427,6 +14445,15 @@
             "track": "",
             "finish": 13,
             "race_id": "315343b30f17009809eac237cbb20d94a9364f066367c63d649fdf805a581055"
+        },
+        {
+            "date": "2026-10-31T18:07:03",
+            "elo": 970,
+            "elo_before": 972,
+            "change": -2,
+            "track": "",
+            "finish": 4,
+            "race_id": "ec4b69f5f3182d646404ec03267eba40e17001b4832ee4afd572cf8e91635e61"
         }
     ],
     "pr1c3y": [
@@ -17511,6 +17538,15 @@
             "track": "",
             "finish": 9,
             "race_id": "ed4f5310e0ddc5e31f41015c3ebd5e5390551cacf79e39de0ae28262950242ef"
+        },
+        {
+            "date": "2026-10-31T18:07:03",
+            "elo": 893,
+            "elo_before": 906,
+            "change": -13,
+            "track": "",
+            "finish": 6,
+            "race_id": "ec4b69f5f3182d646404ec03267eba40e17001b4832ee4afd572cf8e91635e61"
         }
     ],
     "reN": [
@@ -25467,6 +25503,15 @@
             "track": "",
             "finish": 9,
             "race_id": "3b5870cc3b42969944e3f207851fe0ae4a4ca5a3a38eb2c62575336f62de0e76"
+        },
+        {
+            "date": "2026-10-31T18:07:03",
+            "elo": 1014,
+            "elo_before": 1004,
+            "change": 10,
+            "track": "",
+            "finish": 2,
+            "race_id": "ec4b69f5f3182d646404ec03267eba40e17001b4832ee4afd572cf8e91635e61"
         }
     ],
     "k dizzmeister": [
@@ -27132,6 +27177,17 @@
             "track": "",
             "finish": 12,
             "race_id": "315343b30f17009809eac237cbb20d94a9364f066367c63d649fdf805a581055"
+        }
+    ],
+    "Quidel Gaétan": [
+        {
+            "date": "2026-10-31T18:07:03",
+            "elo": 1022,
+            "elo_before": 1005,
+            "change": 17,
+            "track": "",
+            "finish": 1,
+            "race_id": "ec4b69f5f3182d646404ec03267eba40e17001b4832ee4afd572cf8e91635e61"
         }
     ]
 }

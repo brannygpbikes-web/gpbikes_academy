@@ -566,12 +566,12 @@
         "grade": "B"
     },
     "Nuno": {
-        "safety": 131,
-        "races": 58,
-        "contacts": 65,
+        "safety": 119,
+        "races": 59,
+        "contacts": 68,
         "clean_races": 24,
         "large_lobby_clean_streak": 0,
-        "grade": "B"
+        "grade": "C"
     },
     "vNoHxpe_KJ45": {
         "safety": 124,
@@ -722,12 +722,12 @@
         "grade": "A"
     },
     "titonagom08": {
-        "safety": 71,
-        "races": 18,
-        "contacts": 55,
+        "safety": 67,
+        "races": 19,
+        "contacts": 56,
         "clean_races": 2,
         "large_lobby_clean_streak": 0,
-        "grade": "D"
+        "grade": "E"
     },
     "moleo": {
         "safety": 286,
@@ -885,9 +885,9 @@
         "large_lobby_clean_streak": 3
     },
     "Dimitry": {
-        "safety": 115,
-        "races": 36,
-        "contacts": 55,
+        "safety": 111,
+        "races": 37,
+        "contacts": 56,
         "clean_races": 15,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -986,12 +986,12 @@
         "grade": "S"
     },
     "Quidel Gaétan": {
-        "safety": 121,
-        "races": 10,
+        "safety": 131,
+        "races": 11,
         "contacts": 18,
-        "clean_races": 4,
+        "clean_races": 5,
         "large_lobby_clean_streak": 0,
-        "grade": "C"
+        "grade": "B"
     },
     "collinlanger96": {
         "safety": 1,
@@ -1178,9 +1178,9 @@
         "grade": "C"
     },
     "Greco": {
-        "safety": 121,
-        "races": 8,
-        "contacts": 14,
+        "safety": 113,
+        "races": 9,
+        "contacts": 16,
         "clean_races": 3,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -1908,11 +1908,11 @@
         "grade": "B"
     },
     "mend": {
-        "safety": 180,
-        "races": 6,
-        "contacts": 4,
+        "safety": 168,
+        "races": 7,
+        "contacts": 7,
         "clean_races": 5,
-        "large_lobby_clean_streak": 2,
+        "large_lobby_clean_streak": 0,
         "grade": "A"
     },
     "k dizzmeister": {
