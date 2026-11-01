@@ -8,12 +8,12 @@
         "grade": "S"
     },
     "pr1c3y": {
-        "safety": 120,
-        "races": 21,
+        "safety": 125,
+        "races": 22,
         "contacts": 20,
-        "clean_races": 11,
+        "clean_races": 12,
         "large_lobby_clean_streak": 0,
-        "grade": "C"
+        "grade": "B"
     },
     "sandnes": {
         "safety": 220,
@@ -622,10 +622,10 @@
         "grade": "C"
     },
     "jorgeguti160": {
-        "safety": 180,
-        "races": 32,
+        "safety": 185,
+        "races": 33,
         "contacts": 55,
-        "clean_races": 12,
+        "clean_races": 13,
         "large_lobby_clean_streak": 0,
         "grade": "A"
     },
@@ -760,12 +760,12 @@
         "grade": "B"
     },
     "Rk_44": {
-        "safety": 260,
-        "races": 87,
+        "safety": 265,
+        "races": 88,
         "contacts": 77,
-        "clean_races": 48,
+        "clean_races": 49,
         "large_lobby_clean_streak": 0,
-        "grade": "A"
+        "grade": "S"
     },
     "JM": {
         "safety": 125,
@@ -994,10 +994,10 @@
         "grade": "B"
     },
     "collinlanger96": {
-        "safety": 80,
-        "races": 63,
+        "safety": 85,
+        "races": 64,
         "contacts": 118,
-        "clean_races": 17,
+        "clean_races": 18,
         "large_lobby_clean_streak": 0,
         "grade": "D"
     },

@@ -1191,6 +1191,15 @@
             "track": "",
             "finish": 3,
             "race_id": "3de4d306a391831c3d8313eb3d00b99c79d9a614bac4b69a19c08bb8573f4ada"
+        },
+        {
+            "date": "2026-11-01T16:42:47",
+            "elo": 944,
+            "elo_before": 934,
+            "change": 10,
+            "track": "",
+            "finish": 1,
+            "race_id": "b0e882b9ec65af0b65393f0d4452bca9afb4b644949f98f17fcdc20641245338"
         }
     ],
     "Danny Hinkelmann14": [
@@ -7188,6 +7197,15 @@
             "track": "",
             "finish": 2,
             "race_id": "cc21b8fe74de3bf11e39c04e8ff1e264b9f8bfcab08e02f4060d0af53455a5b1"
+        },
+        {
+            "date": "2026-11-01T16:42:47",
+            "elo": 784,
+            "elo_before": 783,
+            "change": 1,
+            "track": "",
+            "finish": 3,
+            "race_id": "b0e882b9ec65af0b65393f0d4452bca9afb4b644949f98f17fcdc20641245338"
         }
     ],
     "JW2Stupid": [
@@ -14591,6 +14609,15 @@
             "track": "",
             "finish": 5,
             "race_id": "a98e6c38f41011beb95bbc9f80a9f4099be3f6498baee080e5275188ceac68fb"
+        },
+        {
+            "date": "2026-11-01T16:42:47",
+            "elo": 950,
+            "elo_before": 948,
+            "change": 2,
+            "track": "",
+            "finish": 2,
+            "race_id": "b0e882b9ec65af0b65393f0d4452bca9afb4b644949f98f17fcdc20641245338"
         }
     ],
     "will 77": [
@@ -23724,6 +23751,15 @@
             "track": "",
             "finish": 3,
             "race_id": "50bda2f22f3d9124c2ec5f39597fd99341932cc1637696cb1e27ae4aa99d6d67"
+        },
+        {
+            "date": "2026-11-01T16:42:47",
+            "elo": 878,
+            "elo_before": 891,
+            "change": -13,
+            "track": "",
+            "finish": 4,
+            "race_id": "b0e882b9ec65af0b65393f0d4452bca9afb4b644949f98f17fcdc20641245338"
         }
     ],
     "No Pain No Tartine": [
