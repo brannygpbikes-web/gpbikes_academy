@@ -760,12 +760,12 @@
         "grade": "B"
     },
     "Rk_44": {
-        "safety": 265,
-        "races": 86,
-        "contacts": 76,
+        "safety": 260,
+        "races": 87,
+        "contacts": 77,
         "clean_races": 48,
-        "large_lobby_clean_streak": 1,
-        "grade": "S"
+        "large_lobby_clean_streak": 0,
+        "grade": "A"
     },
     "JM": {
         "safety": 125,
@@ -1436,9 +1436,9 @@
         "grade": "C"
     },
     "sergioo14": {
-        "safety": 20,
-        "races": 64,
-        "contacts": 141,
+        "safety": 15,
+        "races": 65,
+        "contacts": 142,
         "clean_races": 31,
         "large_lobby_clean_streak": 0,
         "grade": "E"

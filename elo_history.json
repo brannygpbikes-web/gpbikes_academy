@@ -7179,6 +7179,15 @@
             "track": "",
             "finish": 6,
             "race_id": "e7911f459e138f8f81d2470e67e0005849905cd5ed0a658b0119238541e7429e"
+        },
+        {
+            "date": "2026-11-01T16:26:23",
+            "elo": 783,
+            "elo_before": 789,
+            "change": -6,
+            "track": "",
+            "finish": 2,
+            "race_id": "cc21b8fe74de3bf11e39c04e8ff1e264b9f8bfcab08e02f4060d0af53455a5b1"
         }
     ],
     "JW2Stupid": [
@@ -19659,6 +19668,15 @@
             "track": "",
             "finish": 10,
             "race_id": "e7911f459e138f8f81d2470e67e0005849905cd5ed0a658b0119238541e7429e"
+        },
+        {
+            "date": "2026-11-01T16:26:23",
+            "elo": 889,
+            "elo_before": 883,
+            "change": 6,
+            "track": "",
+            "finish": 1,
+            "race_id": "cc21b8fe74de3bf11e39c04e8ff1e264b9f8bfcab08e02f4060d0af53455a5b1"
         }
     ],
     "Gonzalo Molina": [
