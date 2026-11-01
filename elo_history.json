@@ -15571,6 +15571,15 @@
             "track": "",
             "finish": 6,
             "race_id": "ff6e177a53f778ae8194884d0ae778f8d9a227f5241f8e1edf5c6a70e9eb6c74"
+        },
+        {
+            "date": "2026-11-01T18:56:23",
+            "elo": 975,
+            "elo_before": 967,
+            "change": 8,
+            "track": "",
+            "finish": 1,
+            "race_id": "0ce7da14dcce25edc7abce2936187c851490d86b4b0cefd55c8440c9cd3f0420"
         }
     ],
     "Danislav1746": [
@@ -21904,6 +21913,15 @@
             "track": "",
             "finish": 14,
             "race_id": "8377a7ea0898b0f5c126b09943506cb338975fb9ff60bc37c116e42cbddfcd2a"
+        },
+        {
+            "date": "2026-11-01T18:56:23",
+            "elo": 972,
+            "elo_before": 980,
+            "change": -8,
+            "track": "",
+            "finish": 2,
+            "race_id": "0ce7da14dcce25edc7abce2936187c851490d86b4b0cefd55c8440c9cd3f0420"
         }
     ],
     "osss": [
