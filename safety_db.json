@@ -74,12 +74,12 @@
         "grade": "C"
     },
     "Dario Andreoni": {
-        "safety": 134,
-        "races": 5,
-        "contacts": 3,
+        "safety": 122,
+        "races": 6,
+        "contacts": 6,
         "clean_races": 3,
         "large_lobby_clean_streak": 0,
-        "grade": "B"
+        "grade": "C"
     },
     "Andro": {
         "safety": 134,
@@ -226,9 +226,9 @@
         "grade": "B"
     },
     "N1rmata": {
-        "safety": 114,
-        "races": 2,
-        "contacts": 3,
+        "safety": 102,
+        "races": 3,
+        "contacts": 6,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -238,6 +238,14 @@
         "races": 1,
         "contacts": 0,
         "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "B"
+    },
+    "Mooning": {
+        "safety": 130,
+        "races": 1,
+        "contacts": 0,
+        "clean_races": 1,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     }

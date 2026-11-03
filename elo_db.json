@@ -50,8 +50,8 @@
     "Dario Andreoni": {
         "elo": 1024,
         "wins": 2,
-        "races": 5,
-        "podiums": 5
+        "races": 6,
+        "podiums": 6
     },
     "Andro": {
         "elo": 991,
@@ -156,12 +156,18 @@
         "podiums": 1
     },
     "N1rmata": {
-        "elo": 995,
-        "wins": 0,
-        "races": 2,
-        "podiums": 2
+        "elo": 1000,
+        "wins": 1,
+        "races": 3,
+        "podiums": 3
     },
     "Luxskick": {
+        "elo": 995,
+        "wins": 0,
+        "races": 1,
+        "podiums": 1
+    },
+    "Mooning": {
         "elo": 995,
         "wins": 0,
         "races": 1,
