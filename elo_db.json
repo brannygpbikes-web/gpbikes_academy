@@ -60,10 +60,10 @@
         "podiums": 1
     },
     "filipknigge20": {
-        "elo": 1011,
+        "elo": 1013,
         "wins": 1,
-        "races": 1,
-        "podiums": 1
+        "races": 2,
+        "podiums": 2
     },
     "ShaiGP": {
         "elo": 1002,
@@ -78,10 +78,10 @@
         "podiums": 1
     },
     "Ricoway46": {
-        "elo": 1000,
-        "wins": 1,
-        "races": 3,
-        "podiums": 2
+        "elo": 1008,
+        "wins": 2,
+        "races": 4,
+        "podiums": 3
     },
     "Mopee": {
         "elo": 1005,
@@ -96,9 +96,15 @@
         "podiums": 1
     },
     "moe": {
+        "elo": 990,
+        "wins": 0,
+        "races": 3,
+        "podiums": 3
+    },
+    "moleo": {
         "elo": 992,
         "wins": 0,
-        "races": 2,
-        "podiums": 2
+        "races": 1,
+        "podiums": 0
     }
 }

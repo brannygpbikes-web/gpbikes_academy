@@ -98,17 +98,17 @@
         "grade": "C"
     },
     "filipknigge20": {
-        "safety": 135,
-        "races": 1,
-        "contacts": 0,
+        "safety": 129,
+        "races": 2,
+        "contacts": 2,
         "clean_races": 1,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     },
     "Ricoway46": {
-        "safety": 140,
-        "races": 3,
-        "contacts": 0,
+        "safety": 137,
+        "races": 4,
+        "contacts": 1,
         "clean_races": 3,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -138,11 +138,19 @@
         "grade": "C"
     },
     "moe": {
-        "safety": 135,
-        "races": 2,
-        "contacts": 0,
+        "safety": 132,
+        "races": 3,
+        "contacts": 1,
         "clean_races": 2,
         "large_lobby_clean_streak": 0,
         "grade": "B"
+    },
+    "moleo": {
+        "safety": 119,
+        "races": 1,
+        "contacts": 2,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "C"
     }
 }
