@@ -75,6 +75,15 @@
             "track": "",
             "finish": 1,
             "race_id": "a165bceda3e6c64837271dd217799482004a2d61113cf65133b7d7ac1da373c6"
+        },
+        {
+            "date": "2026-11-03T17:08:56",
+            "elo": 1003,
+            "elo_before": 995,
+            "change": 8,
+            "track": "",
+            "finish": 1,
+            "race_id": "acdce58a7a47b929592043e5791db0cb3e0437026ea0ba4aad1b8542c5dd287f"
         }
     ],
     "Rk_44": [
@@ -104,6 +113,15 @@
             "track": "",
             "finish": 2,
             "race_id": "a165bceda3e6c64837271dd217799482004a2d61113cf65133b7d7ac1da373c6"
+        },
+        {
+            "date": "2026-11-03T17:08:56",
+            "elo": 975,
+            "elo_before": 983,
+            "change": -8,
+            "track": "",
+            "finish": 4,
+            "race_id": "acdce58a7a47b929592043e5791db0cb3e0437026ea0ba4aad1b8542c5dd287f"
         }
     ],
     "Billy Jones": [
@@ -322,6 +340,15 @@
             "track": "",
             "finish": 5,
             "race_id": "7c8811c0ed4b486c1459ab8f1582f24813a2ad7940cd94692b4e2b2509e779bf"
+        },
+        {
+            "date": "2026-11-03T17:08:56",
+            "elo": 995,
+            "elo_before": 992,
+            "change": 3,
+            "track": "",
+            "finish": 2,
+            "race_id": "acdce58a7a47b929592043e5791db0cb3e0437026ea0ba4aad1b8542c5dd287f"
         }
     ],
     "Mopee": [
@@ -353,6 +380,17 @@
             "track": "",
             "finish": 3,
             "race_id": "75cf5d26fc4bf2676ad906c20bb36c9e73f4f865d741bb8f2d14b61da7ebc67f"
+        }
+    ],
+    "moe": [
+        {
+            "date": "2026-11-03T17:08:56",
+            "elo": 997,
+            "elo_before": 1000,
+            "change": -3,
+            "track": "",
+            "finish": 3,
+            "race_id": "acdce58a7a47b929592043e5791db0cb3e0437026ea0ba4aad1b8542c5dd287f"
         }
     ]
 }

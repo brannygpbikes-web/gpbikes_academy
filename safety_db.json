@@ -1,9 +1,9 @@
 {
     "Miquel_Sinke60": {
-        "safety": 103,
-        "races": 4,
+        "safety": 108,
+        "races": 5,
         "contacts": 7,
-        "clean_races": 0,
+        "clean_races": 1,
         "large_lobby_clean_streak": 0,
         "grade": "C"
     },
@@ -24,10 +24,10 @@
         "grade": "B"
     },
     "Rk_44": {
-        "safety": 131,
-        "races": 3,
+        "safety": 136,
+        "races": 4,
         "contacts": 1,
-        "clean_races": 2,
+        "clean_races": 3,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     },
@@ -106,10 +106,10 @@
         "grade": "B"
     },
     "Ricoway46": {
-        "safety": 130,
-        "races": 1,
+        "safety": 135,
+        "races": 2,
         "contacts": 0,
-        "clean_races": 1,
+        "clean_races": 2,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     },
@@ -136,5 +136,13 @@
         "clean_races": 1,
         "large_lobby_clean_streak": 0,
         "grade": "C"
+    },
+    "moe": {
+        "safety": 130,
+        "races": 1,
+        "contacts": 0,
+        "clean_races": 1,
+        "large_lobby_clean_streak": 0,
+        "grade": "B"
     }
 }

@@ -12,15 +12,15 @@
         "podiums": 2
     },
     "Miquel_Sinke60": {
-        "elo": 995,
-        "wins": 1,
-        "races": 4,
-        "podiums": 3
+        "elo": 1003,
+        "wins": 2,
+        "races": 5,
+        "podiums": 4
     },
     "Rk_44": {
-        "elo": 983,
+        "elo": 975,
         "wins": 0,
-        "races": 3,
+        "races": 4,
         "podiums": 1
     },
     "Billy Jones": {
@@ -78,10 +78,10 @@
         "podiums": 1
     },
     "Ricoway46": {
-        "elo": 992,
+        "elo": 995,
         "wins": 0,
-        "races": 1,
-        "podiums": 0
+        "races": 2,
+        "podiums": 1
     },
     "Mopee": {
         "elo": 1005,
@@ -91,6 +91,12 @@
     },
     "Jack": {
         "elo": 995,
+        "wins": 0,
+        "races": 1,
+        "podiums": 1
+    },
+    "moe": {
+        "elo": 997,
         "wins": 0,
         "races": 1,
         "podiums": 1
