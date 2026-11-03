@@ -726,6 +726,15 @@
             "track": "",
             "finish": 1,
             "race_id": "8ba389d0f810aa936321aadd2d1c470aad8d78c3d0770f4b61893177a85571f1"
+        },
+        {
+            "date": "2026-11-03T20:50:32",
+            "elo": 995,
+            "elo_before": 1000,
+            "change": -5,
+            "track": "",
+            "finish": 2,
+            "race_id": "fe30c2678b5a2fedcf37fafce3aa7991756d60c36b60cb145bfbeddf107586a2"
         }
     ],
     "Luxskick": [
@@ -748,6 +757,15 @@
             "track": "",
             "finish": 3,
             "race_id": "8ba389d0f810aa936321aadd2d1c470aad8d78c3d0770f4b61893177a85571f1"
+        },
+        {
+            "date": "2026-11-03T20:50:32",
+            "elo": 1000,
+            "elo_before": 995,
+            "change": 5,
+            "track": "",
+            "finish": 1,
+            "race_id": "fe30c2678b5a2fedcf37fafce3aa7991756d60c36b60cb145bfbeddf107586a2"
         }
     ]
 }

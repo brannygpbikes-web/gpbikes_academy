@@ -156,10 +156,10 @@
         "podiums": 1
     },
     "N1rmata": {
-        "elo": 1000,
+        "elo": 995,
         "wins": 1,
-        "races": 3,
-        "podiums": 3
+        "races": 4,
+        "podiums": 4
     },
     "Luxskick": {
         "elo": 995,
@@ -168,9 +168,9 @@
         "podiums": 1
     },
     "Mooning": {
-        "elo": 995,
-        "wins": 0,
-        "races": 1,
-        "podiums": 1
+        "elo": 1000,
+        "wins": 1,
+        "races": 2,
+        "podiums": 2
     }
 }
