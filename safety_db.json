@@ -42,9 +42,9 @@
     "safety_maximum": 300,
     "safety_minimum": 0,
     "Billy Jones": {
-        "safety": 122,
-        "races": 1,
-        "contacts": 1,
+        "safety": 119,
+        "races": 2,
+        "contacts": 2,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -74,10 +74,10 @@
         "grade": "C"
     },
     "Dario Andreoni": {
-        "safety": 129,
-        "races": 4,
+        "safety": 134,
+        "races": 5,
         "contacts": 3,
-        "clean_races": 2,
+        "clean_races": 3,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     },
@@ -226,11 +226,19 @@
         "grade": "B"
     },
     "N1rmata": {
-        "safety": 117,
-        "races": 1,
-        "contacts": 2,
+        "safety": 114,
+        "races": 2,
+        "contacts": 3,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
+    },
+    "Goldrecruit": {
+        "safety": 125,
+        "races": 1,
+        "contacts": 0,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "B"
     }
 }

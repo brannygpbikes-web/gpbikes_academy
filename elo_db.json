@@ -24,10 +24,10 @@
         "podiums": 2
     },
     "Billy Jones": {
-        "elo": 1000,
-        "wins": 0,
-        "races": 1,
-        "podiums": 1
+        "elo": 1005,
+        "wins": 1,
+        "races": 2,
+        "podiums": 2
     },
     "sandnes": {
         "elo": 996,
@@ -50,8 +50,8 @@
     "Dario Andreoni": {
         "elo": 1024,
         "wins": 2,
-        "races": 4,
-        "podiums": 4
+        "races": 5,
+        "podiums": 5
     },
     "Andro": {
         "elo": 991,
@@ -156,10 +156,10 @@
         "podiums": 1
     },
     "N1rmata": {
-        "elo": 1000,
+        "elo": 995,
         "wins": 0,
-        "races": 1,
-        "podiums": 1
+        "races": 2,
+        "podiums": 2
     },
     "Luxskick": {
         "elo": 995,

@@ -160,6 +160,15 @@
             "track": "",
             "finish": 3,
             "race_id": "10efa591cce130ee38d25f1e01dc9cb96f9e7d7fd3b9663ff66057ae88c92c68"
+        },
+        {
+            "date": "2026-11-03T20:18:01",
+            "elo": 1005,
+            "elo_before": 1000,
+            "change": 5,
+            "track": "",
+            "finish": 1,
+            "race_id": "06bca6d215f369576dfeb50d01d7a9d031c92d0f06865dd9c88b296bff66e04d"
         }
     ],
     "sandnes": [
@@ -276,6 +285,15 @@
             "track": "",
             "finish": 1,
             "race_id": "6ec7b672315f043382763cb3339ab62885560bb4f38977047dd56f046c1e9b85"
+        },
+        {
+            "date": "2026-11-03T20:18:01",
+            "elo": 1024,
+            "elo_before": 1024,
+            "change": 0,
+            "track": "",
+            "finish": 2,
+            "race_id": "06bca6d215f369576dfeb50d01d7a9d031c92d0f06865dd9c88b296bff66e04d"
         }
     ],
     "Andro": [
@@ -681,6 +699,15 @@
             "track": "",
             "finish": 2,
             "race_id": "6ec7b672315f043382763cb3339ab62885560bb4f38977047dd56f046c1e9b85"
+        },
+        {
+            "date": "2026-11-03T20:18:01",
+            "elo": 995,
+            "elo_before": 1000,
+            "change": -5,
+            "track": "",
+            "finish": 3,
+            "race_id": "06bca6d215f369576dfeb50d01d7a9d031c92d0f06865dd9c88b296bff66e04d"
         }
     ],
     "Luxskick": [
