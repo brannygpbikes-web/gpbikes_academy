@@ -18,10 +18,10 @@
         "podiums": 5
     },
     "Rk_44": {
-        "elo": 965,
+        "elo": 964,
         "wins": 0,
-        "races": 5,
-        "podiums": 1
+        "races": 6,
+        "podiums": 2
     },
     "Billy Jones": {
         "elo": 1000,
@@ -60,10 +60,10 @@
         "podiums": 1
     },
     "filipknigge20": {
-        "elo": 1033,
-        "wins": 2,
-        "races": 4,
-        "podiums": 4
+        "elo": 1040,
+        "wins": 3,
+        "races": 5,
+        "podiums": 5
     },
     "ShaiGP": {
         "elo": 1002,
@@ -102,10 +102,10 @@
         "podiums": 3
     },
     "moleo": {
-        "elo": 1013,
+        "elo": 1015,
         "wins": 1,
-        "races": 3,
-        "podiums": 2
+        "races": 4,
+        "podiums": 3
     },
     "Ibai Merino": {
         "elo": 1000,
@@ -139,6 +139,12 @@
     },
     "collinlanger96": {
         "elo": 993,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
+    },
+    "Postal": {
+        "elo": 992,
         "wins": 0,
         "races": 1,
         "podiums": 0

@@ -140,6 +140,15 @@
             "track": "",
             "finish": 6,
             "race_id": "7e63bd604b18b5045846447cf79d1d10d6aaa3081d1d5dff1408916a6ee14b9b"
+        },
+        {
+            "date": "2026-11-03T18:33:28",
+            "elo": 964,
+            "elo_before": 965,
+            "change": -1,
+            "track": "",
+            "finish": 3,
+            "race_id": "e7405a5ec23cb4de7cbf4d45e6899d7065a7021b45e8876670caf768b46cf37f"
         }
     ],
     "Billy Jones": [
@@ -325,6 +334,15 @@
             "track": "",
             "finish": 2,
             "race_id": "7e63bd604b18b5045846447cf79d1d10d6aaa3081d1d5dff1408916a6ee14b9b"
+        },
+        {
+            "date": "2026-11-03T18:33:28",
+            "elo": 1040,
+            "elo_before": 1033,
+            "change": 7,
+            "track": "",
+            "finish": 1,
+            "race_id": "e7405a5ec23cb4de7cbf4d45e6899d7065a7021b45e8876670caf768b46cf37f"
         }
     ],
     "ShaiGP": [
@@ -519,6 +537,15 @@
             "track": "",
             "finish": 1,
             "race_id": "7e63bd604b18b5045846447cf79d1d10d6aaa3081d1d5dff1408916a6ee14b9b"
+        },
+        {
+            "date": "2026-11-03T18:33:28",
+            "elo": 1015,
+            "elo_before": 1013,
+            "change": 2,
+            "track": "",
+            "finish": 2,
+            "race_id": "e7405a5ec23cb4de7cbf4d45e6899d7065a7021b45e8876670caf768b46cf37f"
         }
     ],
     "Ibai Merino": [
@@ -585,6 +612,17 @@
             "track": "",
             "finish": 5,
             "race_id": "7e63bd604b18b5045846447cf79d1d10d6aaa3081d1d5dff1408916a6ee14b9b"
+        }
+    ],
+    "Postal": [
+        {
+            "date": "2026-11-03T18:33:28",
+            "elo": 992,
+            "elo_before": 1000,
+            "change": -8,
+            "track": "",
+            "finish": 4,
+            "race_id": "e7405a5ec23cb4de7cbf4d45e6899d7065a7021b45e8876670caf768b46cf37f"
         }
     ]
 }
