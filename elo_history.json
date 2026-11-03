@@ -343,6 +343,15 @@
             "track": "",
             "finish": 1,
             "race_id": "e7405a5ec23cb4de7cbf4d45e6899d7065a7021b45e8876670caf768b46cf37f"
+        },
+        {
+            "date": "2026-11-03T18:48:03",
+            "elo": 1035,
+            "elo_before": 1040,
+            "change": -5,
+            "track": "",
+            "finish": 2,
+            "race_id": "3ed4225ae1e4a3f1df20facdc205ca5a58d8fd4ab8fc80011268eb96523dc796"
         }
     ],
     "ShaiGP": [
@@ -546,6 +555,15 @@
             "track": "",
             "finish": 2,
             "race_id": "e7405a5ec23cb4de7cbf4d45e6899d7065a7021b45e8876670caf768b46cf37f"
+        },
+        {
+            "date": "2026-11-03T18:48:03",
+            "elo": 1020,
+            "elo_before": 1015,
+            "change": 5,
+            "track": "",
+            "finish": 1,
+            "race_id": "3ed4225ae1e4a3f1df20facdc205ca5a58d8fd4ab8fc80011268eb96523dc796"
         }
     ],
     "Ibai Merino": [

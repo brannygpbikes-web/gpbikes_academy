@@ -25,7 +25,7 @@
     },
     "Rk_44": {
         "safety": 151,
-        "races": 6,
+        "races": 7,
         "contacts": 1,
         "clean_races": 5,
         "large_lobby_clean_streak": 0,
@@ -98,9 +98,9 @@
         "grade": "C"
     },
     "filipknigge20": {
-        "safety": 130,
-        "races": 5,
-        "contacts": 5,
+        "safety": 126,
+        "races": 6,
+        "contacts": 6,
         "clean_races": 2,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -146,9 +146,9 @@
         "grade": "B"
     },
     "moleo": {
-        "safety": 120,
-        "races": 4,
-        "contacts": 5,
+        "safety": 116,
+        "races": 5,
+        "contacts": 6,
         "clean_races": 1,
         "large_lobby_clean_streak": 0,
         "grade": "C"
