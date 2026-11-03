@@ -74,9 +74,9 @@
         "grade": "C"
     },
     "Dario Andreoni": {
-        "safety": 137,
-        "races": 3,
-        "contacts": 1,
+        "safety": 129,
+        "races": 4,
+        "contacts": 3,
         "clean_races": 2,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -213,6 +213,22 @@
         "safety": 121,
         "races": 1,
         "contacts": 1,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "C"
+    },
+    "Luxskick": {
+        "safety": 130,
+        "races": 1,
+        "contacts": 0,
+        "clean_races": 1,
+        "large_lobby_clean_streak": 0,
+        "grade": "B"
+    },
+    "N1rmata": {
+        "safety": 117,
+        "races": 1,
+        "contacts": 2,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
