@@ -102,10 +102,10 @@
         "podiums": 3
     },
     "moleo": {
-        "elo": 1020,
-        "wins": 2,
-        "races": 5,
-        "podiums": 4
+        "elo": 1025,
+        "wins": 3,
+        "races": 6,
+        "podiums": 5
     },
     "Ibai Merino": {
         "elo": 1000,
@@ -148,5 +148,11 @@
         "wins": 0,
         "races": 1,
         "podiums": 0
+    },
+    "Kancooi77skins.army": {
+        "elo": 995,
+        "wins": 0,
+        "races": 1,
+        "podiums": 1
     }
 }

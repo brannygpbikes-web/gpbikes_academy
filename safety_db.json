@@ -146,10 +146,10 @@
         "grade": "B"
     },
     "moleo": {
-        "safety": 116,
-        "races": 5,
+        "safety": 121,
+        "races": 6,
         "contacts": 6,
-        "clean_races": 1,
+        "clean_races": 2,
         "large_lobby_clean_streak": 0,
         "grade": "C"
     },
@@ -205,6 +205,14 @@
         "safety": 119,
         "races": 1,
         "contacts": 2,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "C"
+    },
+    "Kancooi77skins.army": {
+        "safety": 121,
+        "races": 1,
+        "contacts": 1,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
