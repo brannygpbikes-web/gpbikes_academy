@@ -131,6 +131,15 @@
             "track": "",
             "finish": 4,
             "race_id": "acdce58a7a47b929592043e5791db0cb3e0437026ea0ba4aad1b8542c5dd287f"
+        },
+        {
+            "date": "2026-11-03T18:17:29",
+            "elo": 965,
+            "elo_before": 975,
+            "change": -10,
+            "track": "",
+            "finish": 6,
+            "race_id": "7e63bd604b18b5045846447cf79d1d10d6aaa3081d1d5dff1408916a6ee14b9b"
         }
     ],
     "Billy Jones": [
@@ -307,6 +316,15 @@
             "track": "",
             "finish": 1,
             "race_id": "46535ba007c77df096fc2bdc7bd627c9f25c9b6dd5e25ec2f0021f176ae0468d"
+        },
+        {
+            "date": "2026-11-03T18:17:29",
+            "elo": 1033,
+            "elo_before": 1027,
+            "change": 6,
+            "track": "",
+            "finish": 2,
+            "race_id": "7e63bd604b18b5045846447cf79d1d10d6aaa3081d1d5dff1408916a6ee14b9b"
         }
     ],
     "ShaiGP": [
@@ -492,6 +510,15 @@
             "track": "",
             "finish": 2,
             "race_id": "46535ba007c77df096fc2bdc7bd627c9f25c9b6dd5e25ec2f0021f176ae0468d"
+        },
+        {
+            "date": "2026-11-03T18:17:29",
+            "elo": 1013,
+            "elo_before": 1002,
+            "change": 11,
+            "track": "",
+            "finish": 1,
+            "race_id": "7e63bd604b18b5045846447cf79d1d10d6aaa3081d1d5dff1408916a6ee14b9b"
         }
     ],
     "Ibai Merino": [
@@ -525,6 +552,39 @@
             "track": "",
             "finish": 7,
             "race_id": "46535ba007c77df096fc2bdc7bd627c9f25c9b6dd5e25ec2f0021f176ae0468d"
+        }
+    ],
+    "Cummin Jizzwood": [
+        {
+            "date": "2026-11-03T18:17:29",
+            "elo": 1002,
+            "elo_before": 1000,
+            "change": 2,
+            "track": "",
+            "finish": 3,
+            "race_id": "7e63bd604b18b5045846447cf79d1d10d6aaa3081d1d5dff1408916a6ee14b9b"
+        }
+    ],
+    "HectorLl93": [
+        {
+            "date": "2026-11-03T18:17:29",
+            "elo": 998,
+            "elo_before": 1000,
+            "change": -2,
+            "track": "",
+            "finish": 4,
+            "race_id": "7e63bd604b18b5045846447cf79d1d10d6aaa3081d1d5dff1408916a6ee14b9b"
+        }
+    ],
+    "collinlanger96": [
+        {
+            "date": "2026-11-03T18:17:29",
+            "elo": 993,
+            "elo_before": 1000,
+            "change": -7,
+            "track": "",
+            "finish": 5,
+            "race_id": "7e63bd604b18b5045846447cf79d1d10d6aaa3081d1d5dff1408916a6ee14b9b"
         }
     ]
 }

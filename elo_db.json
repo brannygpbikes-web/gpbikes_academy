@@ -18,9 +18,9 @@
         "podiums": 5
     },
     "Rk_44": {
-        "elo": 975,
+        "elo": 965,
         "wins": 0,
-        "races": 4,
+        "races": 5,
         "podiums": 1
     },
     "Billy Jones": {
@@ -60,10 +60,10 @@
         "podiums": 1
     },
     "filipknigge20": {
-        "elo": 1027,
+        "elo": 1033,
         "wins": 2,
-        "races": 3,
-        "podiums": 3
+        "races": 4,
+        "podiums": 4
     },
     "ShaiGP": {
         "elo": 1002,
@@ -102,10 +102,10 @@
         "podiums": 3
     },
     "moleo": {
-        "elo": 1002,
-        "wins": 0,
-        "races": 2,
-        "podiums": 1
+        "elo": 1013,
+        "wins": 1,
+        "races": 3,
+        "podiums": 2
     },
     "Ibai Merino": {
         "elo": 1000,
@@ -121,6 +121,24 @@
     },
     "BAM SanKa": {
         "elo": 986,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
+    },
+    "Cummin Jizzwood": {
+        "elo": 1002,
+        "wins": 0,
+        "races": 1,
+        "podiums": 1
+    },
+    "HectorLl93": {
+        "elo": 998,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
+    },
+    "collinlanger96": {
+        "elo": 993,
         "wins": 0,
         "races": 1,
         "podiums": 0
