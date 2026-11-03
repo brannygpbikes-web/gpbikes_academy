@@ -84,6 +84,15 @@
             "track": "",
             "finish": 1,
             "race_id": "acdce58a7a47b929592043e5791db0cb3e0437026ea0ba4aad1b8542c5dd287f"
+        },
+        {
+            "date": "2026-11-03T17:24:46",
+            "elo": 1003,
+            "elo_before": 1003,
+            "change": 0,
+            "track": "",
+            "finish": 2,
+            "race_id": "e23ac9c452f70ae971d374ae3e70188c6819061835ce1755fd40a0ffe0930926"
         }
     ],
     "Rk_44": [
@@ -349,6 +358,15 @@
             "track": "",
             "finish": 2,
             "race_id": "acdce58a7a47b929592043e5791db0cb3e0437026ea0ba4aad1b8542c5dd287f"
+        },
+        {
+            "date": "2026-11-03T17:24:46",
+            "elo": 1000,
+            "elo_before": 995,
+            "change": 5,
+            "track": "",
+            "finish": 1,
+            "race_id": "e23ac9c452f70ae971d374ae3e70188c6819061835ce1755fd40a0ffe0930926"
         }
     ],
     "Mopee": [
@@ -391,6 +409,15 @@
             "track": "",
             "finish": 3,
             "race_id": "acdce58a7a47b929592043e5791db0cb3e0437026ea0ba4aad1b8542c5dd287f"
+        },
+        {
+            "date": "2026-11-03T17:24:46",
+            "elo": 992,
+            "elo_before": 997,
+            "change": -5,
+            "track": "",
+            "finish": 3,
+            "race_id": "e23ac9c452f70ae971d374ae3e70188c6819061835ce1755fd40a0ffe0930926"
         }
     ]
 }

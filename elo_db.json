@@ -14,8 +14,8 @@
     "Miquel_Sinke60": {
         "elo": 1003,
         "wins": 2,
-        "races": 5,
-        "podiums": 4
+        "races": 6,
+        "podiums": 5
     },
     "Rk_44": {
         "elo": 975,
@@ -78,10 +78,10 @@
         "podiums": 1
     },
     "Ricoway46": {
-        "elo": 995,
-        "wins": 0,
-        "races": 2,
-        "podiums": 1
+        "elo": 1000,
+        "wins": 1,
+        "races": 3,
+        "podiums": 2
     },
     "Mopee": {
         "elo": 1005,
@@ -96,9 +96,9 @@
         "podiums": 1
     },
     "moe": {
-        "elo": 997,
+        "elo": 992,
         "wins": 0,
-        "races": 1,
-        "podiums": 1
+        "races": 2,
+        "podiums": 2
     }
 }
