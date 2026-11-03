@@ -298,6 +298,15 @@
             "track": "",
             "finish": 2,
             "race_id": "296e86be7261f37154ab04754840e6bf3d60bd35798dd078d42a953228473d00"
+        },
+        {
+            "date": "2026-11-03T17:58:13",
+            "elo": 1027,
+            "elo_before": 1013,
+            "change": 14,
+            "track": "",
+            "finish": 1,
+            "race_id": "46535ba007c77df096fc2bdc7bd627c9f25c9b6dd5e25ec2f0021f176ae0468d"
         }
     ],
     "ShaiGP": [
@@ -385,6 +394,15 @@
             "track": "",
             "finish": 1,
             "race_id": "296e86be7261f37154ab04754840e6bf3d60bd35798dd078d42a953228473d00"
+        },
+        {
+            "date": "2026-11-03T17:58:13",
+            "elo": 1012,
+            "elo_before": 1008,
+            "change": 4,
+            "track": "",
+            "finish": 3,
+            "race_id": "46535ba007c77df096fc2bdc7bd627c9f25c9b6dd5e25ec2f0021f176ae0468d"
         }
     ],
     "Mopee": [
@@ -445,6 +463,15 @@
             "track": "",
             "finish": 3,
             "race_id": "296e86be7261f37154ab04754840e6bf3d60bd35798dd078d42a953228473d00"
+        },
+        {
+            "date": "2026-11-03T17:58:13",
+            "elo": 986,
+            "elo_before": 990,
+            "change": -4,
+            "track": "",
+            "finish": 5,
+            "race_id": "46535ba007c77df096fc2bdc7bd627c9f25c9b6dd5e25ec2f0021f176ae0468d"
         }
     ],
     "moleo": [
@@ -456,6 +483,48 @@
             "track": "",
             "finish": 4,
             "race_id": "296e86be7261f37154ab04754840e6bf3d60bd35798dd078d42a953228473d00"
+        },
+        {
+            "date": "2026-11-03T17:58:13",
+            "elo": 1002,
+            "elo_before": 992,
+            "change": 10,
+            "track": "",
+            "finish": 2,
+            "race_id": "46535ba007c77df096fc2bdc7bd627c9f25c9b6dd5e25ec2f0021f176ae0468d"
+        }
+    ],
+    "Ibai Merino": [
+        {
+            "date": "2026-11-03T17:58:13",
+            "elo": 1000,
+            "elo_before": 1000,
+            "change": 0,
+            "track": "",
+            "finish": 4,
+            "race_id": "46535ba007c77df096fc2bdc7bd627c9f25c9b6dd5e25ec2f0021f176ae0468d"
+        }
+    ],
+    "afonsodalmeida10": [
+        {
+            "date": "2026-11-03T17:58:13",
+            "elo": 990,
+            "elo_before": 1000,
+            "change": -10,
+            "track": "",
+            "finish": 6,
+            "race_id": "46535ba007c77df096fc2bdc7bd627c9f25c9b6dd5e25ec2f0021f176ae0468d"
+        }
+    ],
+    "BAM SanKa": [
+        {
+            "date": "2026-11-03T17:58:13",
+            "elo": 986,
+            "elo_before": 1000,
+            "change": -14,
+            "track": "",
+            "finish": 7,
+            "race_id": "46535ba007c77df096fc2bdc7bd627c9f25c9b6dd5e25ec2f0021f176ae0468d"
         }
     ]
 }
