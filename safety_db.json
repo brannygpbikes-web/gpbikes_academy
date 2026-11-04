@@ -24,10 +24,10 @@
         "grade": "B"
     },
     "Rk_44": {
-        "safety": 151,
-        "races": 7,
+        "safety": 156,
+        "races": 8,
         "contacts": 1,
-        "clean_races": 5,
+        "clean_races": 6,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     },
@@ -246,6 +246,14 @@
         "races": 2,
         "contacts": 0,
         "clean_races": 2,
+        "large_lobby_clean_streak": 0,
+        "grade": "B"
+    },
+    "AngeLo": {
+        "safety": 130,
+        "races": 1,
+        "contacts": 0,
+        "clean_races": 1,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     }

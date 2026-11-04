@@ -149,6 +149,15 @@
             "track": "",
             "finish": 3,
             "race_id": "e7405a5ec23cb4de7cbf4d45e6899d7065a7021b45e8876670caf768b46cf37f"
+        },
+        {
+            "date": "2026-11-04T17:09:06",
+            "elo": 969,
+            "elo_before": 964,
+            "change": 5,
+            "track": "",
+            "finish": 1,
+            "race_id": "0c9bfbc1e16fef592fe535a901cb3933f3af4e2a3e231a2aa25de0341060f171"
         }
     ],
     "Billy Jones": [
@@ -766,6 +775,17 @@
             "track": "",
             "finish": 1,
             "race_id": "fe30c2678b5a2fedcf37fafce3aa7991756d60c36b60cb145bfbeddf107586a2"
+        }
+    ],
+    "AngeLo": [
+        {
+            "date": "2026-11-04T17:09:06",
+            "elo": 995,
+            "elo_before": 1000,
+            "change": -5,
+            "track": "",
+            "finish": 2,
+            "race_id": "0c9bfbc1e16fef592fe535a901cb3933f3af4e2a3e231a2aa25de0341060f171"
         }
     ]
 }
