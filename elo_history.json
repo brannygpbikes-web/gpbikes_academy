@@ -158,6 +158,15 @@
             "track": "",
             "finish": 1,
             "race_id": "0c9bfbc1e16fef592fe535a901cb3933f3af4e2a3e231a2aa25de0341060f171"
+        },
+        {
+            "date": "2026-11-04T17:27:03",
+            "elo": 962,
+            "elo_before": 969,
+            "change": -7,
+            "track": "",
+            "finish": 4,
+            "race_id": "8f3c56f47eecf64f787f74051bfbc0c4424d5e17b1a27acfac2408afe2667bf7"
         }
     ],
     "Billy Jones": [
@@ -618,6 +627,15 @@
             "track": "",
             "finish": 1,
             "race_id": "72e4bd4fd4a66a34c3568f6c5dc8ce94d2102d29445d9069fb0e31c01fbf27ad"
+        },
+        {
+            "date": "2026-11-04T17:27:03",
+            "elo": 1032,
+            "elo_before": 1025,
+            "change": 7,
+            "track": "",
+            "finish": 1,
+            "race_id": "8f3c56f47eecf64f787f74051bfbc0c4424d5e17b1a27acfac2408afe2667bf7"
         }
     ],
     "Ibai Merino": [
@@ -786,6 +804,26 @@
             "track": "",
             "finish": 2,
             "race_id": "0c9bfbc1e16fef592fe535a901cb3933f3af4e2a3e231a2aa25de0341060f171"
+        },
+        {
+            "date": "2026-11-04T17:27:03",
+            "elo": 998,
+            "elo_before": 995,
+            "change": 3,
+            "track": "",
+            "finish": 2,
+            "race_id": "8f3c56f47eecf64f787f74051bfbc0c4424d5e17b1a27acfac2408afe2667bf7"
+        }
+    ],
+    "xXxDeadpoolxXx": [
+        {
+            "date": "2026-11-04T17:27:03",
+            "elo": 997,
+            "elo_before": 1000,
+            "change": -3,
+            "track": "",
+            "finish": 3,
+            "race_id": "8f3c56f47eecf64f787f74051bfbc0c4424d5e17b1a27acfac2408afe2667bf7"
         }
     ]
 }

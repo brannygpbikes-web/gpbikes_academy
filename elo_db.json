@@ -18,9 +18,9 @@
         "podiums": 5
     },
     "Rk_44": {
-        "elo": 969,
+        "elo": 962,
         "wins": 1,
-        "races": 7,
+        "races": 8,
         "podiums": 3
     },
     "Billy Jones": {
@@ -102,10 +102,10 @@
         "podiums": 3
     },
     "moleo": {
-        "elo": 1025,
-        "wins": 3,
-        "races": 6,
-        "podiums": 5
+        "elo": 1032,
+        "wins": 4,
+        "races": 7,
+        "podiums": 6
     },
     "Ibai Merino": {
         "elo": 1000,
@@ -174,7 +174,13 @@
         "podiums": 2
     },
     "AngeLo": {
-        "elo": 995,
+        "elo": 998,
+        "wins": 0,
+        "races": 2,
+        "podiums": 2
+    },
+    "xXxDeadpoolxXx": {
+        "elo": 997,
         "wins": 0,
         "races": 1,
         "podiums": 1

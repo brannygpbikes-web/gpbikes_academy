@@ -24,10 +24,10 @@
         "grade": "B"
     },
     "Rk_44": {
-        "safety": 156,
-        "races": 8,
+        "safety": 161,
+        "races": 9,
         "contacts": 1,
-        "clean_races": 6,
+        "clean_races": 7,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     },
@@ -146,12 +146,12 @@
         "grade": "B"
     },
     "moleo": {
-        "safety": 121,
-        "races": 6,
+        "safety": 126,
+        "races": 7,
         "contacts": 6,
-        "clean_races": 2,
+        "clean_races": 3,
         "large_lobby_clean_streak": 0,
-        "grade": "C"
+        "grade": "B"
     },
     "BAM SanKa": {
         "safety": 116,
@@ -250,6 +250,14 @@
         "grade": "B"
     },
     "AngeLo": {
+        "safety": 135,
+        "races": 2,
+        "contacts": 0,
+        "clean_races": 2,
+        "large_lobby_clean_streak": 0,
+        "grade": "B"
+    },
+    "xXxDeadpoolxXx": {
         "safety": 130,
         "races": 1,
         "contacts": 0,
