@@ -54,10 +54,10 @@
         "podiums": 6
     },
     "Andro": {
-        "elo": 991,
-        "wins": 0,
-        "races": 3,
-        "podiums": 1
+        "elo": 996,
+        "wins": 1,
+        "races": 4,
+        "podiums": 2
     },
     "filipknigge20": {
         "elo": 1035,
@@ -181,6 +181,12 @@
     },
     "xXxDeadpoolxXx": {
         "elo": 997,
+        "wins": 0,
+        "races": 1,
+        "podiums": 1
+    },
+    "sergioo14": {
+        "elo": 995,
         "wins": 0,
         "races": 1,
         "podiums": 1
