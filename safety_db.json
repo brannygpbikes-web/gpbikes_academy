@@ -280,5 +280,29 @@
         "clean_races": 1,
         "large_lobby_clean_streak": 0,
         "grade": "B"
+    },
+    "Sullivan Mounsey": {
+        "safety": 125,
+        "races": 1,
+        "contacts": 0,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "B"
+    },
+    "ihatestoppies": {
+        "safety": 117,
+        "races": 1,
+        "contacts": 2,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "C"
+    },
+    "pa": {
+        "safety": 117,
+        "races": 1,
+        "contacts": 2,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "C"
     }
 }

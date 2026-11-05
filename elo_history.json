@@ -910,5 +910,27 @@
             "finish": 2,
             "race_id": "8870729e0d8c62d38db4163b67d1db046b3b4011f49434acca9e32b30b121fb2"
         }
+    ],
+    "ihatestoppies": [
+        {
+            "date": "2026-11-05T18:15:30",
+            "elo": 1005,
+            "elo_before": 1000,
+            "change": 5,
+            "track": "",
+            "finish": 1,
+            "race_id": "77ead67959250d640e426ab2eb55060f7380eb434edfdc4045a90eedf2b4fead"
+        }
+    ],
+    "pa": [
+        {
+            "date": "2026-11-05T18:15:30",
+            "elo": 995,
+            "elo_before": 1000,
+            "change": -5,
+            "track": "",
+            "finish": 2,
+            "race_id": "77ead67959250d640e426ab2eb55060f7380eb434edfdc4045a90eedf2b4fead"
+        }
     ]
 }

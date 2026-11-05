@@ -196,5 +196,17 @@
         "wins": 0,
         "races": 1,
         "podiums": 1
+    },
+    "ihatestoppies": {
+        "elo": 1005,
+        "wins": 1,
+        "races": 1,
+        "podiums": 1
+    },
+    "pa": {
+        "elo": 995,
+        "wins": 0,
+        "races": 1,
+        "podiums": 1
     }
 }
