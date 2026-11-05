@@ -224,13 +224,13 @@
     "Sullivan Mounsey": {
         "elo": 1000,
         "wins": 0,
-        "races": 3,
+        "races": 4,
         "podiums": 0
     },
     "MaonFedrick50": {
-        "elo": 984,
+        "elo": 970,
         "wins": 0,
-        "races": 3,
+        "races": 4,
         "podiums": 0
     },
     "SleppyGame23": {
@@ -258,15 +258,15 @@
         "podiums": 0
     },
     "Gixnni.": {
-        "elo": 1005,
+        "elo": 1014,
         "wins": 0,
-        "races": 1,
-        "podiums": 0
+        "races": 2,
+        "podiums": 1
     },
     "A.Arenas": {
-        "elo": 1000,
+        "elo": 991,
         "wins": 0,
-        "races": 1,
+        "races": 2,
         "podiums": 0
     },
     "Carrasco": {
@@ -276,9 +276,9 @@
         "podiums": 0
     },
     "alerelinque": {
-        "elo": 996,
+        "elo": 991,
         "wins": 0,
-        "races": 1,
+        "races": 2,
         "podiums": 0
     },
     "J_44": {
@@ -286,5 +286,17 @@
         "wins": 0,
         "races": 1,
         "podiums": 0
+    },
+    "Emir Eyupoglu": {
+        "elo": 1014,
+        "wins": 1,
+        "races": 1,
+        "podiums": 1
+    },
+    "will 77": {
+        "elo": 1005,
+        "wins": 0,
+        "races": 1,
+        "podiums": 1
     }
 }
