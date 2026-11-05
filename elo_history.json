@@ -93,6 +93,15 @@
             "track": "",
             "finish": 2,
             "race_id": "e23ac9c452f70ae971d374ae3e70188c6819061835ce1755fd40a0ffe0930926"
+        },
+        {
+            "date": "2026-11-05T16:24:36",
+            "elo": 1008,
+            "elo_before": 1003,
+            "change": 5,
+            "track": "",
+            "finish": 1,
+            "race_id": "d58e54afc5d67ed8deef49a61a54e207b8a4237f46e6f708d4e86d65cd8123f2"
         }
     ],
     "Rk_44": [
@@ -359,6 +368,15 @@
             "track": "",
             "finish": 1,
             "race_id": "c17e47e84bf8fef5e513c99402b84038d258b07f2c113b1460f30d9810db0bfb"
+        },
+        {
+            "date": "2026-11-05T16:24:36",
+            "elo": 991,
+            "elo_before": 996,
+            "change": -5,
+            "track": "",
+            "finish": 2,
+            "race_id": "d58e54afc5d67ed8deef49a61a54e207b8a4237f46e6f708d4e86d65cd8123f2"
         }
     ],
     "filipknigge20": [
