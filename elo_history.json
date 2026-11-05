@@ -867,6 +867,15 @@
             "track": "",
             "finish": 1,
             "race_id": "2a302b0b0a83c6ec539b90221c2b4146aaa22f06de2f933cabcf02b9f1ff3f2a"
+        },
+        {
+            "date": "2026-11-05T17:18:18",
+            "elo": 1008,
+            "elo_before": 1003,
+            "change": 5,
+            "track": "",
+            "finish": 1,
+            "race_id": "8870729e0d8c62d38db4163b67d1db046b3b4011f49434acca9e32b30b121fb2"
         }
     ],
     "xXxDeadpoolxXx": [
@@ -889,6 +898,17 @@
             "track": "",
             "finish": 2,
             "race_id": "c17e47e84bf8fef5e513c99402b84038d258b07f2c113b1460f30d9810db0bfb"
+        }
+    ],
+    "rayzenev": [
+        {
+            "date": "2026-11-05T17:18:18",
+            "elo": 995,
+            "elo_before": 1000,
+            "change": -5,
+            "track": "",
+            "finish": 2,
+            "race_id": "8870729e0d8c62d38db4163b67d1db046b3b4011f49434acca9e32b30b121fb2"
         }
     ]
 }

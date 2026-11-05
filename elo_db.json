@@ -174,10 +174,10 @@
         "podiums": 2
     },
     "AngeLo": {
-        "elo": 1003,
-        "wins": 1,
-        "races": 3,
-        "podiums": 3
+        "elo": 1008,
+        "wins": 2,
+        "races": 4,
+        "podiums": 4
     },
     "xXxDeadpoolxXx": {
         "elo": 997,
@@ -186,6 +186,12 @@
         "podiums": 1
     },
     "sergioo14": {
+        "elo": 995,
+        "wins": 0,
+        "races": 1,
+        "podiums": 1
+    },
+    "rayzenev": {
         "elo": 995,
         "wins": 0,
         "races": 1,

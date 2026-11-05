@@ -250,10 +250,10 @@
         "grade": "B"
     },
     "AngeLo": {
-        "safety": 127,
-        "races": 3,
+        "safety": 132,
+        "races": 4,
         "contacts": 2,
-        "clean_races": 2,
+        "clean_races": 3,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     },
@@ -272,5 +272,13 @@
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
+    },
+    "rayzenev": {
+        "safety": 130,
+        "races": 1,
+        "contacts": 0,
+        "clean_races": 1,
+        "large_lobby_clean_streak": 0,
+        "grade": "B"
     }
 }
