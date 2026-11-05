@@ -111,6 +111,15 @@
             "track": "",
             "finish": 2,
             "race_id": "2a302b0b0a83c6ec539b90221c2b4146aaa22f06de2f933cabcf02b9f1ff3f2a"
+        },
+        {
+            "date": "2026-11-05T19:00:24",
+            "elo": 1021,
+            "elo_before": 1008,
+            "change": 13,
+            "track": "",
+            "finish": 2,
+            "race_id": "7cfb8cff7fe1a2e26b7c8cabb7bfe36e147eb140dea62b0d732fdcea1716c3c9"
         }
     ],
     "Rk_44": [
@@ -243,6 +252,15 @@
             "track": "",
             "finish": 5,
             "race_id": "d07c8eb3c050b211c29ddd6a6a06cf8d536e001f4fb11c31738e6f4d93f66a5b"
+        },
+        {
+            "date": "2026-11-05T19:00:24",
+            "elo": 994,
+            "elo_before": 996,
+            "change": -2,
+            "track": "",
+            "finish": 8,
+            "race_id": "7cfb8cff7fe1a2e26b7c8cabb7bfe36e147eb140dea62b0d732fdcea1716c3c9"
         }
     ],
     "Bonzo": [
@@ -283,6 +301,15 @@
             "track": "",
             "finish": 4,
             "race_id": "72c7a47d6c8fd4c52df31395b3497d23af802e4891f524f1697ba7b876c48dc0"
+        },
+        {
+            "date": "2026-11-05T19:00:24",
+            "elo": 977,
+            "elo_before": 992,
+            "change": -15,
+            "track": "",
+            "finish": 13,
+            "race_id": "7cfb8cff7fe1a2e26b7c8cabb7bfe36e147eb140dea62b0d732fdcea1716c3c9"
         }
     ],
     "Dario Andreoni": [
@@ -395,6 +422,15 @@
             "track": "",
             "finish": 3,
             "race_id": "2a302b0b0a83c6ec539b90221c2b4146aaa22f06de2f933cabcf02b9f1ff3f2a"
+        },
+        {
+            "date": "2026-11-05T19:00:24",
+            "elo": 987,
+            "elo_before": 986,
+            "change": 1,
+            "track": "",
+            "finish": 7,
+            "race_id": "7cfb8cff7fe1a2e26b7c8cabb7bfe36e147eb140dea62b0d732fdcea1716c3c9"
         }
     ],
     "filipknigge20": [
@@ -690,6 +726,15 @@
             "track": "",
             "finish": 1,
             "race_id": "86d2648d5f5eff046c47f2e1d00ed0bf1652df8b7ea023c71ae6b09cdf2226ee"
+        },
+        {
+            "date": "2026-11-05T19:00:24",
+            "elo": 1059,
+            "elo_before": 1045,
+            "change": 14,
+            "track": "",
+            "finish": 1,
+            "race_id": "7cfb8cff7fe1a2e26b7c8cabb7bfe36e147eb140dea62b0d732fdcea1716c3c9"
         }
     ],
     "Ibai Merino": [
@@ -756,6 +801,15 @@
             "track": "",
             "finish": 5,
             "race_id": "7e63bd604b18b5045846447cf79d1d10d6aaa3081d1d5dff1408916a6ee14b9b"
+        },
+        {
+            "date": "2026-11-05T19:00:24",
+            "elo": 988,
+            "elo_before": 993,
+            "change": -5,
+            "track": "",
+            "finish": 9,
+            "race_id": "7cfb8cff7fe1a2e26b7c8cabb7bfe36e147eb140dea62b0d732fdcea1716c3c9"
         }
     ],
     "Postal": [
@@ -907,6 +961,15 @@
             "track": "",
             "finish": 2,
             "race_id": "c17e47e84bf8fef5e513c99402b84038d258b07f2c113b1460f30d9810db0bfb"
+        },
+        {
+            "date": "2026-11-05T19:00:24",
+            "elo": 1006,
+            "elo_before": 995,
+            "change": 11,
+            "track": "",
+            "finish": 3,
+            "race_id": "7cfb8cff7fe1a2e26b7c8cabb7bfe36e147eb140dea62b0d732fdcea1716c3c9"
         }
     ],
     "rayzenev": [
@@ -938,6 +1001,15 @@
             "track": "",
             "finish": 2,
             "race_id": "86d2648d5f5eff046c47f2e1d00ed0bf1652df8b7ea023c71ae6b09cdf2226ee"
+        },
+        {
+            "date": "2026-11-05T19:00:24",
+            "elo": 1022,
+            "elo_before": 1015,
+            "change": 7,
+            "track": "",
+            "finish": 4,
+            "race_id": "7cfb8cff7fe1a2e26b7c8cabb7bfe36e147eb140dea62b0d732fdcea1716c3c9"
         }
     ],
     "pa": [
@@ -980,6 +1052,15 @@
             "track": "",
             "finish": 4,
             "race_id": "86d2648d5f5eff046c47f2e1d00ed0bf1652df8b7ea023c71ae6b09cdf2226ee"
+        },
+        {
+            "date": "2026-11-05T19:00:24",
+            "elo": 1007,
+            "elo_before": 1002,
+            "change": 5,
+            "track": "",
+            "finish": 5,
+            "race_id": "7cfb8cff7fe1a2e26b7c8cabb7bfe36e147eb140dea62b0d732fdcea1716c3c9"
         }
     ],
     "Sullivan Mounsey": [
@@ -991,6 +1072,15 @@
             "track": "",
             "finish": 5,
             "race_id": "86d2648d5f5eff046c47f2e1d00ed0bf1652df8b7ea023c71ae6b09cdf2226ee"
+        },
+        {
+            "date": "2026-11-05T19:00:24",
+            "elo": 990,
+            "elo_before": 998,
+            "change": -8,
+            "track": "",
+            "finish": 10,
+            "race_id": "7cfb8cff7fe1a2e26b7c8cabb7bfe36e147eb140dea62b0d732fdcea1716c3c9"
         }
     ],
     "MaonFedrick50": [
@@ -1002,6 +1092,15 @@
             "track": "",
             "finish": 6,
             "race_id": "86d2648d5f5eff046c47f2e1d00ed0bf1652df8b7ea023c71ae6b09cdf2226ee"
+        },
+        {
+            "date": "2026-11-05T19:00:24",
+            "elo": 981,
+            "elo_before": 994,
+            "change": -13,
+            "track": "",
+            "finish": 12,
+            "race_id": "7cfb8cff7fe1a2e26b7c8cabb7bfe36e147eb140dea62b0d732fdcea1716c3c9"
         }
     ],
     "SleppyGame23": [
@@ -1013,6 +1112,28 @@
             "track": "",
             "finish": 8,
             "race_id": "86d2648d5f5eff046c47f2e1d00ed0bf1652df8b7ea023c71ae6b09cdf2226ee"
+        }
+    ],
+    "The Gyatt": [
+        {
+            "date": "2026-11-05T19:00:24",
+            "elo": 1003,
+            "elo_before": 1000,
+            "change": 3,
+            "track": "",
+            "finish": 6,
+            "race_id": "7cfb8cff7fe1a2e26b7c8cabb7bfe36e147eb140dea62b0d732fdcea1716c3c9"
+        }
+    ],
+    "niggaboy#46": [
+        {
+            "date": "2026-11-05T19:00:24",
+            "elo": 989,
+            "elo_before": 1000,
+            "change": -11,
+            "track": "",
+            "finish": 11,
+            "race_id": "7cfb8cff7fe1a2e26b7c8cabb7bfe36e147eb140dea62b0d732fdcea1716c3c9"
         }
     ]
 }

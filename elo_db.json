@@ -12,10 +12,10 @@
         "podiums": 2
     },
     "Miquel_Sinke60": {
-        "elo": 1008,
+        "elo": 1021,
         "wins": 3,
-        "races": 8,
-        "podiums": 7
+        "races": 9,
+        "podiums": 8
     },
     "Rk_44": {
         "elo": 962,
@@ -30,9 +30,9 @@
         "podiums": 2
     },
     "sandnes": {
-        "elo": 996,
+        "elo": 994,
         "wins": 1,
-        "races": 4,
+        "races": 5,
         "podiums": 3
     },
     "Bonzo": {
@@ -42,9 +42,9 @@
         "podiums": 1
     },
     "fast46": {
-        "elo": 992,
+        "elo": 977,
         "wins": 1,
-        "races": 3,
+        "races": 4,
         "podiums": 2
     },
     "Dario Andreoni": {
@@ -54,9 +54,9 @@
         "podiums": 6
     },
     "Andro": {
-        "elo": 986,
+        "elo": 987,
         "wins": 1,
-        "races": 6,
+        "races": 7,
         "podiums": 4
     },
     "filipknigge20": {
@@ -102,10 +102,10 @@
         "podiums": 3
     },
     "moleo": {
-        "elo": 1045,
-        "wins": 5,
-        "races": 8,
-        "podiums": 7
+        "elo": 1059,
+        "wins": 6,
+        "races": 9,
+        "podiums": 8
     },
     "Ibai Merino": {
         "elo": 1000,
@@ -138,9 +138,9 @@
         "podiums": 0
     },
     "collinlanger96": {
-        "elo": 993,
+        "elo": 988,
         "wins": 0,
-        "races": 1,
+        "races": 2,
         "podiums": 0
     },
     "Postal": {
@@ -186,10 +186,10 @@
         "podiums": 1
     },
     "sergioo14": {
-        "elo": 995,
+        "elo": 1006,
         "wins": 0,
-        "races": 1,
-        "podiums": 1
+        "races": 2,
+        "podiums": 2
     },
     "rayzenev": {
         "elo": 995,
@@ -198,9 +198,9 @@
         "podiums": 1
     },
     "ihatestoppies": {
-        "elo": 1015,
+        "elo": 1022,
         "wins": 1,
-        "races": 2,
+        "races": 3,
         "podiums": 2
     },
     "pa": {
@@ -216,25 +216,37 @@
         "podiums": 1
     },
     "Sturdy": {
-        "elo": 1002,
+        "elo": 1007,
         "wins": 0,
-        "races": 1,
+        "races": 2,
         "podiums": 0
     },
     "Sullivan Mounsey": {
-        "elo": 998,
+        "elo": 990,
         "wins": 0,
-        "races": 1,
+        "races": 2,
         "podiums": 0
     },
     "MaonFedrick50": {
-        "elo": 994,
+        "elo": 981,
         "wins": 0,
-        "races": 1,
+        "races": 2,
         "podiums": 0
     },
     "SleppyGame23": {
         "elo": 986,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
+    },
+    "The Gyatt": {
+        "elo": 1003,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
+    },
+    "niggaboy#46": {
+        "elo": 989,
         "wins": 0,
         "races": 1,
         "podiums": 0
