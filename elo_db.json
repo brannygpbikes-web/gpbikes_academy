@@ -216,21 +216,21 @@
         "podiums": 1
     },
     "Sturdy": {
-        "elo": 1007,
+        "elo": 1011,
         "wins": 0,
-        "races": 2,
-        "podiums": 0
+        "races": 3,
+        "podiums": 1
     },
     "Sullivan Mounsey": {
         "elo": 997,
         "wins": 0,
-        "races": 5,
-        "podiums": 1
+        "races": 6,
+        "podiums": 2
     },
     "MaonFedrick50": {
-        "elo": 963,
+        "elo": 960,
         "wins": 0,
-        "races": 5,
+        "races": 6,
         "podiums": 0
     },
     "SleppyGame23": {
@@ -288,15 +288,15 @@
         "podiums": 0
     },
     "Emir Eyupoglu": {
-        "elo": 1016,
-        "wins": 1,
-        "races": 2,
-        "podiums": 2
+        "elo": 1023,
+        "wins": 2,
+        "races": 3,
+        "podiums": 3
     },
     "will 77": {
-        "elo": 1013,
+        "elo": 1005,
         "wins": 1,
-        "races": 2,
+        "races": 3,
         "podiums": 2
     }
 }

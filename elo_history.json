@@ -1106,6 +1106,15 @@
             "track": "",
             "finish": 5,
             "race_id": "7cfb8cff7fe1a2e26b7c8cabb7bfe36e147eb140dea62b0d732fdcea1716c3c9"
+        },
+        {
+            "date": "2026-11-05T20:29:16",
+            "elo": 1011,
+            "elo_before": 1007,
+            "change": 4,
+            "track": "",
+            "finish": 2,
+            "race_id": "72dc9c28b7b4104708c844a99cafbc435cb2b7d28abc5e515135c7124caa9383"
         }
     ],
     "Sullivan Mounsey": [
@@ -1153,6 +1162,15 @@
             "track": "",
             "finish": 3,
             "race_id": "58f33f38d9c06c28ef3b49341d9d987737395c31af6e1f674131e044c6994879"
+        },
+        {
+            "date": "2026-11-05T20:29:16",
+            "elo": 997,
+            "elo_before": 997,
+            "change": 0,
+            "track": "",
+            "finish": 3,
+            "race_id": "72dc9c28b7b4104708c844a99cafbc435cb2b7d28abc5e515135c7124caa9383"
         }
     ],
     "MaonFedrick50": [
@@ -1200,6 +1218,15 @@
             "track": "",
             "finish": 4,
             "race_id": "58f33f38d9c06c28ef3b49341d9d987737395c31af6e1f674131e044c6994879"
+        },
+        {
+            "date": "2026-11-05T20:29:16",
+            "elo": 960,
+            "elo_before": 963,
+            "change": -3,
+            "track": "",
+            "finish": 4,
+            "race_id": "72dc9c28b7b4104708c844a99cafbc435cb2b7d28abc5e515135c7124caa9383"
         }
     ],
     "SleppyGame23": [
@@ -1364,6 +1391,15 @@
             "track": "",
             "finish": 2,
             "race_id": "58f33f38d9c06c28ef3b49341d9d987737395c31af6e1f674131e044c6994879"
+        },
+        {
+            "date": "2026-11-05T20:29:16",
+            "elo": 1023,
+            "elo_before": 1016,
+            "change": 7,
+            "track": "",
+            "finish": 1,
+            "race_id": "72dc9c28b7b4104708c844a99cafbc435cb2b7d28abc5e515135c7124caa9383"
         }
     ],
     "will 77": [
@@ -1384,6 +1420,15 @@
             "track": "",
             "finish": 1,
             "race_id": "58f33f38d9c06c28ef3b49341d9d987737395c31af6e1f674131e044c6994879"
+        },
+        {
+            "date": "2026-11-05T20:29:16",
+            "elo": 1005,
+            "elo_before": 1013,
+            "change": -8,
+            "track": "",
+            "finish": 5,
+            "race_id": "72dc9c28b7b4104708c844a99cafbc435cb2b7d28abc5e515135c7124caa9383"
         }
     ]
 }

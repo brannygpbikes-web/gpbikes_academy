@@ -282,9 +282,9 @@
         "grade": "B"
     },
     "Sullivan Mounsey": {
-        "safety": 106,
-        "races": 6,
-        "contacts": 12,
+        "safety": 100,
+        "races": 7,
+        "contacts": 14,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -322,17 +322,17 @@
         "grade": "B"
     },
     "MaonFedrick50": {
-        "safety": 105,
-        "races": 5,
+        "safety": 110,
+        "races": 6,
         "contacts": 13,
-        "clean_races": 1,
+        "clean_races": 2,
         "large_lobby_clean_streak": 0,
         "grade": "C"
     },
     "Sturdy": {
-        "safety": 119,
-        "races": 3,
-        "contacts": 4,
+        "safety": 116,
+        "races": 4,
+        "contacts": 5,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -410,19 +410,19 @@
         "grade": "C"
     },
     "Emir Eyupoglu": {
-        "safety": 110,
-        "races": 2,
-        "contacts": 5,
+        "safety": 107,
+        "races": 3,
+        "contacts": 6,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
     },
     "will 77": {
-        "safety": 95,
-        "races": 2,
+        "safety": 100,
+        "races": 3,
         "contacts": 10,
-        "clean_races": 0,
+        "clean_races": 1,
         "large_lobby_clean_streak": 0,
-        "grade": "D"
+        "grade": "C"
     }
 }
