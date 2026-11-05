@@ -102,6 +102,15 @@
             "track": "",
             "finish": 1,
             "race_id": "d58e54afc5d67ed8deef49a61a54e207b8a4237f46e6f708d4e86d65cd8123f2"
+        },
+        {
+            "date": "2026-11-05T16:43:00",
+            "elo": 1008,
+            "elo_before": 1008,
+            "change": 0,
+            "track": "",
+            "finish": 2,
+            "race_id": "2a302b0b0a83c6ec539b90221c2b4146aaa22f06de2f933cabcf02b9f1ff3f2a"
         }
     ],
     "Rk_44": [
@@ -377,6 +386,15 @@
             "track": "",
             "finish": 2,
             "race_id": "d58e54afc5d67ed8deef49a61a54e207b8a4237f46e6f708d4e86d65cd8123f2"
+        },
+        {
+            "date": "2026-11-05T16:43:00",
+            "elo": 986,
+            "elo_before": 991,
+            "change": -5,
+            "track": "",
+            "finish": 3,
+            "race_id": "2a302b0b0a83c6ec539b90221c2b4146aaa22f06de2f933cabcf02b9f1ff3f2a"
         }
     ],
     "filipknigge20": [
@@ -840,6 +858,15 @@
             "track": "",
             "finish": 2,
             "race_id": "8f3c56f47eecf64f787f74051bfbc0c4424d5e17b1a27acfac2408afe2667bf7"
+        },
+        {
+            "date": "2026-11-05T16:43:00",
+            "elo": 1003,
+            "elo_before": 998,
+            "change": 5,
+            "track": "",
+            "finish": 1,
+            "race_id": "2a302b0b0a83c6ec539b90221c2b4146aaa22f06de2f933cabcf02b9f1ff3f2a"
         }
     ],
     "xXxDeadpoolxXx": [
