@@ -146,12 +146,12 @@
         "grade": "B"
     },
     "moleo": {
-        "safety": 126,
-        "races": 7,
-        "contacts": 6,
+        "safety": 124,
+        "races": 8,
+        "contacts": 7,
         "clean_races": 3,
         "large_lobby_clean_streak": 0,
-        "grade": "B"
+        "grade": "C"
     },
     "BAM SanKa": {
         "safety": 116,
@@ -282,23 +282,55 @@
         "grade": "B"
     },
     "Sullivan Mounsey": {
-        "safety": 125,
+        "safety": 123,
+        "races": 2,
+        "contacts": 1,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "C"
+    },
+    "ihatestoppies": {
+        "safety": 115,
+        "races": 2,
+        "contacts": 3,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "C"
+    },
+    "pa": {
+        "safety": 115,
+        "races": 2,
+        "contacts": 3,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "C"
+    },
+    "Titouan Lajarge": {
+        "safety": 135,
         "races": 1,
         "contacts": 0,
-        "clean_races": 0,
+        "clean_races": 1,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     },
-    "ihatestoppies": {
-        "safety": 117,
+    "SleppyGame23": {
+        "safety": 135,
+        "races": 1,
+        "contacts": 0,
+        "clean_races": 1,
+        "large_lobby_clean_streak": 0,
+        "grade": "B"
+    },
+    "MaonFedrick50": {
+        "safety": 121,
         "races": 1,
         "contacts": 2,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
     },
-    "pa": {
-        "safety": 117,
+    "Sturdy": {
+        "safety": 121,
         "races": 1,
         "contacts": 2,
         "clean_races": 0,

@@ -102,10 +102,10 @@
         "podiums": 3
     },
     "moleo": {
-        "elo": 1032,
-        "wins": 4,
-        "races": 7,
-        "podiums": 6
+        "elo": 1045,
+        "wins": 5,
+        "races": 8,
+        "podiums": 7
     },
     "Ibai Merino": {
         "elo": 1000,
@@ -198,15 +198,45 @@
         "podiums": 1
     },
     "ihatestoppies": {
-        "elo": 1005,
+        "elo": 1015,
         "wins": 1,
-        "races": 1,
-        "podiums": 1
+        "races": 2,
+        "podiums": 2
     },
     "pa": {
-        "elo": 995,
+        "elo": 985,
+        "wins": 0,
+        "races": 2,
+        "podiums": 1
+    },
+    "Titouan Lajarge": {
+        "elo": 1007,
         "wins": 0,
         "races": 1,
         "podiums": 1
+    },
+    "Sturdy": {
+        "elo": 1002,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
+    },
+    "Sullivan Mounsey": {
+        "elo": 998,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
+    },
+    "MaonFedrick50": {
+        "elo": 994,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
+    },
+    "SleppyGame23": {
+        "elo": 986,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
     }
 }

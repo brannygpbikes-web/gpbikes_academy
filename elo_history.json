@@ -681,6 +681,15 @@
             "track": "",
             "finish": 1,
             "race_id": "8f3c56f47eecf64f787f74051bfbc0c4424d5e17b1a27acfac2408afe2667bf7"
+        },
+        {
+            "date": "2026-11-05T18:36:07",
+            "elo": 1045,
+            "elo_before": 1032,
+            "change": 13,
+            "track": "",
+            "finish": 1,
+            "race_id": "86d2648d5f5eff046c47f2e1d00ed0bf1652df8b7ea023c71ae6b09cdf2226ee"
         }
     ],
     "Ibai Merino": [
@@ -920,6 +929,15 @@
             "track": "",
             "finish": 1,
             "race_id": "77ead67959250d640e426ab2eb55060f7380eb434edfdc4045a90eedf2b4fead"
+        },
+        {
+            "date": "2026-11-05T18:36:07",
+            "elo": 1015,
+            "elo_before": 1005,
+            "change": 10,
+            "track": "",
+            "finish": 2,
+            "race_id": "86d2648d5f5eff046c47f2e1d00ed0bf1652df8b7ea023c71ae6b09cdf2226ee"
         }
     ],
     "pa": [
@@ -931,6 +949,70 @@
             "track": "",
             "finish": 2,
             "race_id": "77ead67959250d640e426ab2eb55060f7380eb434edfdc4045a90eedf2b4fead"
+        },
+        {
+            "date": "2026-11-05T18:36:07",
+            "elo": 985,
+            "elo_before": 995,
+            "change": -10,
+            "track": "",
+            "finish": 7,
+            "race_id": "86d2648d5f5eff046c47f2e1d00ed0bf1652df8b7ea023c71ae6b09cdf2226ee"
+        }
+    ],
+    "Titouan Lajarge": [
+        {
+            "date": "2026-11-05T18:36:07",
+            "elo": 1007,
+            "elo_before": 1000,
+            "change": 7,
+            "track": "",
+            "finish": 3,
+            "race_id": "86d2648d5f5eff046c47f2e1d00ed0bf1652df8b7ea023c71ae6b09cdf2226ee"
+        }
+    ],
+    "Sturdy": [
+        {
+            "date": "2026-11-05T18:36:07",
+            "elo": 1002,
+            "elo_before": 1000,
+            "change": 2,
+            "track": "",
+            "finish": 4,
+            "race_id": "86d2648d5f5eff046c47f2e1d00ed0bf1652df8b7ea023c71ae6b09cdf2226ee"
+        }
+    ],
+    "Sullivan Mounsey": [
+        {
+            "date": "2026-11-05T18:36:07",
+            "elo": 998,
+            "elo_before": 1000,
+            "change": -2,
+            "track": "",
+            "finish": 5,
+            "race_id": "86d2648d5f5eff046c47f2e1d00ed0bf1652df8b7ea023c71ae6b09cdf2226ee"
+        }
+    ],
+    "MaonFedrick50": [
+        {
+            "date": "2026-11-05T18:36:07",
+            "elo": 994,
+            "elo_before": 1000,
+            "change": -6,
+            "track": "",
+            "finish": 6,
+            "race_id": "86d2648d5f5eff046c47f2e1d00ed0bf1652df8b7ea023c71ae6b09cdf2226ee"
+        }
+    ],
+    "SleppyGame23": [
+        {
+            "date": "2026-11-05T18:36:07",
+            "elo": 986,
+            "elo_before": 1000,
+            "change": -14,
+            "track": "",
+            "finish": 8,
+            "race_id": "86d2648d5f5eff046c47f2e1d00ed0bf1652df8b7ea023c71ae6b09cdf2226ee"
         }
     ]
 }
