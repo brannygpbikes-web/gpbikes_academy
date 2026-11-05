@@ -210,9 +210,9 @@
         "grade": "C"
     },
     "Kancooi77skins.army": {
-        "safety": 121,
-        "races": 1,
-        "contacts": 1,
+        "safety": 115,
+        "races": 2,
+        "contacts": 7,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -267,8 +267,8 @@
     },
     "sergioo14": {
         "safety": 87,
-        "races": 4,
-        "contacts": 19,
+        "races": 5,
+        "contacts": 20,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "D"
@@ -283,7 +283,7 @@
     },
     "Sullivan Mounsey": {
         "safety": 85,
-        "races": 8,
+        "races": 9,
         "contacts": 19,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
@@ -323,7 +323,7 @@
     },
     "MaonFedrick50": {
         "safety": 120,
-        "races": 7,
+        "races": 8,
         "contacts": 13,
         "clean_races": 3,
         "large_lobby_clean_streak": 0,
@@ -354,9 +354,9 @@
         "grade": "C"
     },
     "Carrasco": {
-        "safety": 119,
-        "races": 1,
-        "contacts": 6,
+        "safety": 116,
+        "races": 2,
+        "contacts": 9,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -411,8 +411,8 @@
     },
     "Emir Eyupoglu": {
         "safety": 117,
-        "races": 4,
-        "contacts": 6,
+        "races": 5,
+        "contacts": 7,
         "clean_races": 1,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -426,17 +426,17 @@
         "grade": "C"
     },
     "alexiis_1622": {
-        "safety": 135,
-        "races": 1,
-        "contacts": 0,
+        "safety": 133,
+        "races": 2,
+        "contacts": 2,
         "clean_races": 1,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     },
     "jorgeguti160": {
-        "safety": 113,
-        "races": 1,
-        "contacts": 4,
+        "safety": 111,
+        "races": 2,
+        "contacts": 6,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -448,5 +448,37 @@
         "clean_races": 1,
         "large_lobby_clean_streak": 0,
         "grade": "B"
+    },
+    "YPandaBoy": {
+        "safety": 120,
+        "races": 1,
+        "contacts": 5,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "C"
+    },
+    "A.Garcia": {
+        "safety": 120,
+        "races": 1,
+        "contacts": 5,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "C"
+    },
+    "Hervass08": {
+        "safety": 120,
+        "races": 1,
+        "contacts": 5,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "C"
+    },
+    "0nE_XurE": {
+        "safety": 121,
+        "races": 1,
+        "contacts": 4,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "C"
     }
 }
