@@ -1144,6 +1144,15 @@
             "track": "",
             "finish": 4,
             "race_id": "29683db5824df37ed7230badc32051d061afb70d3847b7f0a7fc1ea223c71d8d"
+        },
+        {
+            "date": "2026-11-05T20:08:37",
+            "elo": 997,
+            "elo_before": 1000,
+            "change": -3,
+            "track": "",
+            "finish": 3,
+            "race_id": "58f33f38d9c06c28ef3b49341d9d987737395c31af6e1f674131e044c6994879"
         }
     ],
     "MaonFedrick50": [
@@ -1182,6 +1191,15 @@
             "track": "",
             "finish": 7,
             "race_id": "29683db5824df37ed7230badc32051d061afb70d3847b7f0a7fc1ea223c71d8d"
+        },
+        {
+            "date": "2026-11-05T20:08:37",
+            "elo": 963,
+            "elo_before": 970,
+            "change": -7,
+            "track": "",
+            "finish": 4,
+            "race_id": "58f33f38d9c06c28ef3b49341d9d987737395c31af6e1f674131e044c6994879"
         }
     ],
     "SleppyGame23": [
@@ -1337,6 +1355,15 @@
             "track": "",
             "finish": 1,
             "race_id": "29683db5824df37ed7230badc32051d061afb70d3847b7f0a7fc1ea223c71d8d"
+        },
+        {
+            "date": "2026-11-05T20:08:37",
+            "elo": 1016,
+            "elo_before": 1014,
+            "change": 2,
+            "track": "",
+            "finish": 2,
+            "race_id": "58f33f38d9c06c28ef3b49341d9d987737395c31af6e1f674131e044c6994879"
         }
     ],
     "will 77": [
@@ -1348,6 +1375,15 @@
             "track": "",
             "finish": 3,
             "race_id": "29683db5824df37ed7230badc32051d061afb70d3847b7f0a7fc1ea223c71d8d"
+        },
+        {
+            "date": "2026-11-05T20:08:37",
+            "elo": 1013,
+            "elo_before": 1005,
+            "change": 8,
+            "track": "",
+            "finish": 1,
+            "race_id": "58f33f38d9c06c28ef3b49341d9d987737395c31af6e1f674131e044c6994879"
         }
     ]
 }
