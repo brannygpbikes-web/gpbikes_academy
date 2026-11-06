@@ -82,10 +82,10 @@
         "grade": "C"
     },
     "Andro": {
-        "safety": 117,
-        "races": 7,
+        "safety": 122,
+        "races": 8,
         "contacts": 11,
-        "clean_races": 4,
+        "clean_races": 5,
         "large_lobby_clean_streak": 0,
         "grade": "C"
     },
@@ -330,10 +330,10 @@
         "grade": "C"
     },
     "Sturdy": {
-        "safety": 116,
-        "races": 4,
+        "safety": 121,
+        "races": 5,
         "contacts": 5,
-        "clean_races": 0,
+        "clean_races": 1,
         "large_lobby_clean_streak": 0,
         "grade": "C"
     },
@@ -480,5 +480,13 @@
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
+    },
+    "Gonzalo Molina": {
+        "safety": 130,
+        "races": 1,
+        "contacts": 0,
+        "clean_races": 1,
+        "large_lobby_clean_streak": 0,
+        "grade": "B"
     }
 }

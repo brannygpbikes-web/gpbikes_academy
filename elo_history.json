@@ -449,6 +449,15 @@
             "track": "",
             "finish": 7,
             "race_id": "7cfb8cff7fe1a2e26b7c8cabb7bfe36e147eb140dea62b0d732fdcea1716c3c9"
+        },
+        {
+            "date": "2026-11-06T16:59:42",
+            "elo": 982,
+            "elo_before": 987,
+            "change": -5,
+            "track": "",
+            "finish": 3,
+            "race_id": "81649dc8fdb4cb5f0674b6648c6f6ff92bcabaabbe0d91090f3ea5ee6266c7af"
         }
     ],
     "filipknigge20": [
@@ -1142,6 +1151,15 @@
             "track": "",
             "finish": 2,
             "race_id": "72dc9c28b7b4104708c844a99cafbc435cb2b7d28abc5e515135c7124caa9383"
+        },
+        {
+            "date": "2026-11-06T16:59:42",
+            "elo": 1011,
+            "elo_before": 1011,
+            "change": 0,
+            "track": "",
+            "finish": 2,
+            "race_id": "81649dc8fdb4cb5f0674b6648c6f6ff92bcabaabbe0d91090f3ea5ee6266c7af"
         }
     ],
     "Sullivan Mounsey": [
@@ -1587,6 +1605,17 @@
             "track": "",
             "finish": 9,
             "race_id": "51168620a60a58f20be4dba3f577ec51013f59297f204cdc4be903fb16cb3127"
+        }
+    ],
+    "Gonzalo Molina": [
+        {
+            "date": "2026-11-06T16:59:42",
+            "elo": 1005,
+            "elo_before": 1000,
+            "change": 5,
+            "track": "",
+            "finish": 1,
+            "race_id": "81649dc8fdb4cb5f0674b6648c6f6ff92bcabaabbe0d91090f3ea5ee6266c7af"
         }
     ]
 }

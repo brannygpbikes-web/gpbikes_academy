@@ -54,10 +54,10 @@
         "podiums": 6
     },
     "Andro": {
-        "elo": 987,
+        "elo": 982,
         "wins": 1,
-        "races": 7,
-        "podiums": 4
+        "races": 8,
+        "podiums": 5
     },
     "filipknigge20": {
         "elo": 1035,
@@ -218,8 +218,8 @@
     "Sturdy": {
         "elo": 1011,
         "wins": 0,
-        "races": 3,
-        "podiums": 1
+        "races": 4,
+        "podiums": 2
     },
     "Sullivan Mounsey": {
         "elo": 997,
@@ -340,5 +340,11 @@
         "wins": 0,
         "races": 1,
         "podiums": 0
+    },
+    "Gonzalo Molina": {
+        "elo": 1005,
+        "wins": 1,
+        "races": 1,
+        "podiums": 1
     }
 }
