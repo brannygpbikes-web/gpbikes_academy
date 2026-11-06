@@ -174,9 +174,9 @@
         "podiums": 2
     },
     "AngeLo": {
-        "elo": 1008,
+        "elo": 1004,
         "wins": 2,
-        "races": 4,
+        "races": 5,
         "podiums": 4
     },
     "xXxDeadpoolxXx": {
@@ -216,10 +216,10 @@
         "podiums": 1
     },
     "Sturdy": {
-        "elo": 1011,
-        "wins": 0,
-        "races": 4,
-        "podiums": 2
+        "elo": 1019,
+        "wins": 1,
+        "races": 5,
+        "podiums": 3
     },
     "Sullivan Mounsey": {
         "elo": 997,
@@ -294,9 +294,9 @@
         "podiums": 5
     },
     "will 77": {
-        "elo": 1005,
+        "elo": 997,
         "wins": 1,
-        "races": 3,
+        "races": 4,
         "podiums": 2
     },
     "alexiis_1622": {
@@ -344,6 +344,18 @@
     "Gonzalo Molina": {
         "elo": 1005,
         "wins": 1,
+        "races": 1,
+        "podiums": 1
+    },
+    "Lou": {
+        "elo": 1004,
+        "wins": 0,
+        "races": 1,
+        "podiums": 1
+    },
+    "oover": {
+        "elo": 1000,
+        "wins": 0,
         "races": 1,
         "podiums": 1
     }

@@ -993,6 +993,15 @@
             "track": "",
             "finish": 1,
             "race_id": "8870729e0d8c62d38db4163b67d1db046b3b4011f49434acca9e32b30b121fb2"
+        },
+        {
+            "date": "2026-11-06T17:23:06",
+            "elo": 1004,
+            "elo_before": 1008,
+            "change": -4,
+            "track": "",
+            "finish": 4,
+            "race_id": "cbdfb35aabe63d6f4eaa2cca5682b13f692c263ac71b44fa4e1f0565f6af6722"
         }
     ],
     "xXxDeadpoolxXx": [
@@ -1160,6 +1169,15 @@
             "track": "",
             "finish": 2,
             "race_id": "81649dc8fdb4cb5f0674b6648c6f6ff92bcabaabbe0d91090f3ea5ee6266c7af"
+        },
+        {
+            "date": "2026-11-06T17:23:06",
+            "elo": 1019,
+            "elo_before": 1011,
+            "change": 8,
+            "track": "",
+            "finish": 1,
+            "race_id": "cbdfb35aabe63d6f4eaa2cca5682b13f692c263ac71b44fa4e1f0565f6af6722"
         }
     ],
     "Sullivan Mounsey": [
@@ -1510,6 +1528,15 @@
             "track": "",
             "finish": 5,
             "race_id": "72dc9c28b7b4104708c844a99cafbc435cb2b7d28abc5e515135c7124caa9383"
+        },
+        {
+            "date": "2026-11-06T17:23:06",
+            "elo": 997,
+            "elo_before": 1005,
+            "change": -8,
+            "track": "",
+            "finish": 5,
+            "race_id": "cbdfb35aabe63d6f4eaa2cca5682b13f692c263ac71b44fa4e1f0565f6af6722"
         }
     ],
     "alexiis_1622": [
@@ -1616,6 +1643,28 @@
             "track": "",
             "finish": 1,
             "race_id": "81649dc8fdb4cb5f0674b6648c6f6ff92bcabaabbe0d91090f3ea5ee6266c7af"
+        }
+    ],
+    "Lou": [
+        {
+            "date": "2026-11-06T17:23:06",
+            "elo": 1004,
+            "elo_before": 1000,
+            "change": 4,
+            "track": "",
+            "finish": 2,
+            "race_id": "cbdfb35aabe63d6f4eaa2cca5682b13f692c263ac71b44fa4e1f0565f6af6722"
+        }
+    ],
+    "oover": [
+        {
+            "date": "2026-11-06T17:23:06",
+            "elo": 1000,
+            "elo_before": 1000,
+            "change": 0,
+            "track": "",
+            "finish": 3,
+            "race_id": "cbdfb35aabe63d6f4eaa2cca5682b13f692c263ac71b44fa4e1f0565f6af6722"
         }
     ]
 }
