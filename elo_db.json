@@ -96,9 +96,9 @@
         "podiums": 1
     },
     "moe": {
-        "elo": 980,
+        "elo": 981,
         "wins": 0,
-        "races": 5,
+        "races": 6,
         "podiums": 3
     },
     "moleo": {
@@ -342,28 +342,28 @@
         "podiums": 0
     },
     "Gonzalo Molina": {
-        "elo": 1011,
-        "wins": 1,
-        "races": 2,
-        "podiums": 1
+        "elo": 1025,
+        "wins": 2,
+        "races": 3,
+        "podiums": 2
     },
     "Lou": {
-        "elo": 1017,
+        "elo": 1002,
         "wins": 0,
-        "races": 2,
+        "races": 3,
         "podiums": 2
     },
     "oover": {
-        "elo": 1016,
+        "elo": 1023,
         "wins": 1,
-        "races": 2,
-        "podiums": 2
+        "races": 3,
+        "podiums": 3
     },
     "Mikey 93": {
-        "elo": 1010,
+        "elo": 1020,
         "wins": 0,
-        "races": 1,
-        "podiums": 1
+        "races": 2,
+        "podiums": 2
     },
     "Marcus": {
         "elo": 997,
@@ -372,19 +372,31 @@
         "podiums": 0
     },
     "JW2Stupid": {
-        "elo": 991,
+        "elo": 995,
         "wins": 0,
-        "races": 1,
+        "races": 2,
         "podiums": 0
     },
     "Draco15": {
-        "elo": 987,
+        "elo": 981,
         "wins": 0,
-        "races": 1,
+        "races": 2,
         "podiums": 0
     },
     "AL": {
         "elo": 984,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
+    },
+    "Adrianrodriguez58": {
+        "elo": 996,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
+    },
+    "Danislav1746": {
+        "elo": 989,
         "wins": 0,
         "races": 1,
         "podiums": 0

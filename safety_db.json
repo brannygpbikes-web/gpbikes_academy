@@ -138,12 +138,12 @@
         "grade": "C"
     },
     "moe": {
-        "safety": 126,
-        "races": 7,
-        "contacts": 5,
+        "safety": 110,
+        "races": 8,
+        "contacts": 13,
         "clean_races": 2,
         "large_lobby_clean_streak": 0,
-        "grade": "B"
+        "grade": "C"
     },
     "moleo": {
         "safety": 121,
@@ -195,7 +195,7 @@
     },
     "HectorLl93": {
         "safety": 122,
-        "races": 1,
+        "races": 2,
         "contacts": 1,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
@@ -482,49 +482,49 @@
         "grade": "C"
     },
     "Gonzalo Molina": {
-        "safety": 123,
-        "races": 2,
-        "contacts": 7,
+        "safety": 121,
+        "races": 3,
+        "contacts": 8,
         "clean_races": 1,
         "large_lobby_clean_streak": 0,
         "grade": "C"
     },
     "oover": {
-        "safety": 109,
-        "races": 2,
+        "safety": 119,
+        "races": 3,
         "contacts": 6,
-        "clean_races": 0,
+        "clean_races": 1,
         "large_lobby_clean_streak": 0,
         "grade": "C"
     },
     "Lou": {
-        "safety": 105,
-        "races": 2,
-        "contacts": 10,
+        "safety": 99,
+        "races": 3,
+        "contacts": 13,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
-        "grade": "C"
+        "grade": "D"
     },
     "Mikey 93": {
-        "safety": 118,
-        "races": 1,
-        "contacts": 7,
+        "safety": 114,
+        "races": 2,
+        "contacts": 9,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
     },
     "Draco15": {
-        "safety": 123,
-        "races": 1,
-        "contacts": 2,
+        "safety": 121,
+        "races": 2,
+        "contacts": 3,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
     },
     "JW2Stupid": {
-        "safety": 121,
-        "races": 1,
-        "contacts": 4,
+        "safety": 113,
+        "races": 2,
+        "contacts": 8,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -541,6 +541,22 @@
         "safety": 123,
         "races": 1,
         "contacts": 2,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "C"
+    },
+    "Danislav1746": {
+        "safety": 117,
+        "races": 1,
+        "contacts": 4,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "C"
+    },
+    "Adrianrodriguez58": {
+        "safety": 107,
+        "races": 1,
+        "contacts": 9,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
