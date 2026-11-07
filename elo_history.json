@@ -514,6 +514,15 @@
             "track": "",
             "finish": 2,
             "race_id": "3ed4225ae1e4a3f1df20facdc205ca5a58d8fd4ab8fc80011268eb96523dc796"
+        },
+        {
+            "date": "2026-11-07T15:56:48",
+            "elo": 1034,
+            "elo_before": 1035,
+            "change": -1,
+            "track": "",
+            "finish": 2,
+            "race_id": "7b67d8892c0e1664961087a8128219d8f1d8188e64f38f31b2f4ddbc9af62467"
         }
     ],
     "ShaiGP": [
@@ -942,6 +951,15 @@
             "track": "",
             "finish": 2,
             "race_id": "fe30c2678b5a2fedcf37fafce3aa7991756d60c36b60cb145bfbeddf107586a2"
+        },
+        {
+            "date": "2026-11-07T15:56:48",
+            "elo": 991,
+            "elo_before": 995,
+            "change": -4,
+            "track": "",
+            "finish": 3,
+            "race_id": "7b67d8892c0e1664961087a8128219d8f1d8188e64f38f31b2f4ddbc9af62467"
         }
     ],
     "Luxskick": [
@@ -1859,6 +1877,17 @@
             "track": "",
             "finish": 8,
             "race_id": "d6a1aff6e6ba25a735fe577d4de03216a7ab858a05e45c8f5c7356d172f55155"
+        }
+    ],
+    "Fick dich Kohlin": [
+        {
+            "date": "2026-11-07T15:56:48",
+            "elo": 1005,
+            "elo_before": 1000,
+            "change": 5,
+            "track": "",
+            "finish": 1,
+            "race_id": "7b67d8892c0e1664961087a8128219d8f1d8188e64f38f31b2f4ddbc9af62467"
         }
     ]
 }

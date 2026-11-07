@@ -60,10 +60,10 @@
         "podiums": 5
     },
     "filipknigge20": {
-        "elo": 1035,
+        "elo": 1034,
         "wins": 3,
-        "races": 6,
-        "podiums": 6
+        "races": 7,
+        "podiums": 7
     },
     "ShaiGP": {
         "elo": 1002,
@@ -156,10 +156,10 @@
         "podiums": 2
     },
     "N1rmata": {
-        "elo": 995,
+        "elo": 991,
         "wins": 1,
-        "races": 4,
-        "podiums": 4
+        "races": 5,
+        "podiums": 5
     },
     "Luxskick": {
         "elo": 995,
@@ -400,5 +400,11 @@
         "wins": 0,
         "races": 1,
         "podiums": 0
+    },
+    "Fick dich Kohlin": {
+        "elo": 1005,
+        "wins": 1,
+        "races": 1,
+        "podiums": 1
     }
 }

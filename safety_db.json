@@ -98,10 +98,10 @@
         "grade": "C"
     },
     "filipknigge20": {
-        "safety": 126,
-        "races": 6,
+        "safety": 131,
+        "races": 7,
         "contacts": 6,
-        "clean_races": 2,
+        "clean_races": 3,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     },
@@ -226,10 +226,10 @@
         "grade": "B"
     },
     "N1rmata": {
-        "safety": 107,
-        "races": 4,
+        "safety": 112,
+        "races": 5,
         "contacts": 6,
-        "clean_races": 1,
+        "clean_races": 2,
         "large_lobby_clean_streak": 0,
         "grade": "C"
     },
@@ -560,5 +560,13 @@
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
+    },
+    "Fick dich Kohlin": {
+        "safety": 130,
+        "races": 1,
+        "contacts": 0,
+        "clean_races": 1,
+        "large_lobby_clean_streak": 0,
+        "grade": "B"
     }
 }
