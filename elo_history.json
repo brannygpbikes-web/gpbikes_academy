@@ -706,6 +706,15 @@
             "track": "",
             "finish": 5,
             "race_id": "d6a1aff6e6ba25a735fe577d4de03216a7ab858a05e45c8f5c7356d172f55155"
+        },
+        {
+            "date": "2026-11-07T17:50:04",
+            "elo": 977,
+            "elo_before": 981,
+            "change": -4,
+            "track": "",
+            "finish": 5,
+            "race_id": "4dd0de31a1818a7c6863eec79201b1c3358bf18b7010eaa2ce6e2653fb266bbc"
         }
     ],
     "moleo": [
@@ -1096,6 +1105,15 @@
             "track": "",
             "finish": 2,
             "race_id": "51168620a60a58f20be4dba3f577ec51013f59297f204cdc4be903fb16cb3127"
+        },
+        {
+            "date": "2026-11-07T17:50:04",
+            "elo": 1025,
+            "elo_before": 1036,
+            "change": -11,
+            "track": "",
+            "finish": 6,
+            "race_id": "4dd0de31a1818a7c6863eec79201b1c3358bf18b7010eaa2ce6e2653fb266bbc"
         }
     ],
     "rayzenev": [
@@ -1145,6 +1163,15 @@
             "track": "",
             "finish": 1,
             "race_id": "ac0dc4afff82340ed7cb6a0c4b044d91b11eb8ceae8d3245125f134951229017"
+        },
+        {
+            "date": "2026-11-07T17:50:04",
+            "elo": 1031,
+            "elo_before": 1027,
+            "change": 4,
+            "track": "",
+            "finish": 3,
+            "race_id": "4dd0de31a1818a7c6863eec79201b1c3358bf18b7010eaa2ce6e2653fb266bbc"
         }
     ],
     "pa": [
@@ -1831,6 +1858,15 @@
             "track": "",
             "finish": 2,
             "race_id": "52ffdb91f9cb48570ef77a6ce056d5bd007136f67ebfa75c27981319f47ae2fb"
+        },
+        {
+            "date": "2026-11-07T17:50:04",
+            "elo": 1007,
+            "elo_before": 992,
+            "change": 15,
+            "track": "",
+            "finish": 1,
+            "race_id": "4dd0de31a1818a7c6863eec79201b1c3358bf18b7010eaa2ce6e2653fb266bbc"
         }
     ],
     "JW2Stupid": [
@@ -1926,6 +1962,39 @@
             "track": "",
             "finish": 1,
             "race_id": "52ffdb91f9cb48570ef77a6ce056d5bd007136f67ebfa75c27981319f47ae2fb"
+        }
+    ],
+    "chilliams": [
+        {
+            "date": "2026-11-07T17:50:04",
+            "elo": 1010,
+            "elo_before": 1000,
+            "change": 10,
+            "track": "",
+            "finish": 2,
+            "race_id": "4dd0de31a1818a7c6863eec79201b1c3358bf18b7010eaa2ce6e2653fb266bbc"
+        }
+    ],
+    "thecrivi28": [
+        {
+            "date": "2026-11-07T17:50:04",
+            "elo": 1000,
+            "elo_before": 1000,
+            "change": 0,
+            "track": "",
+            "finish": 4,
+            "race_id": "4dd0de31a1818a7c6863eec79201b1c3358bf18b7010eaa2ce6e2653fb266bbc"
+        }
+    ],
+    "mrarcin": [
+        {
+            "date": "2026-11-07T17:50:04",
+            "elo": 986,
+            "elo_before": 1000,
+            "change": -14,
+            "track": "",
+            "finish": 7,
+            "race_id": "4dd0de31a1818a7c6863eec79201b1c3358bf18b7010eaa2ce6e2653fb266bbc"
         }
     ]
 }
