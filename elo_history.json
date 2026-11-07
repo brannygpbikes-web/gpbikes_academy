@@ -1136,6 +1136,15 @@
             "track": "",
             "finish": 4,
             "race_id": "7cfb8cff7fe1a2e26b7c8cabb7bfe36e147eb140dea62b0d732fdcea1716c3c9"
+        },
+        {
+            "date": "2026-11-07T17:05:51",
+            "elo": 1027,
+            "elo_before": 1022,
+            "change": 5,
+            "track": "",
+            "finish": 1,
+            "race_id": "ac0dc4afff82340ed7cb6a0c4b044d91b11eb8ceae8d3245125f134951229017"
         }
     ],
     "pa": [
@@ -1223,6 +1232,15 @@
             "track": "",
             "finish": 5,
             "race_id": "96b27ceadb3f8c25cccd91325e4261deb087a7381213712d52c752d5cf9daf48"
+        },
+        {
+            "date": "2026-11-07T17:05:51",
+            "elo": 1016,
+            "elo_before": 1021,
+            "change": -5,
+            "track": "",
+            "finish": 2,
+            "race_id": "ac0dc4afff82340ed7cb6a0c4b044d91b11eb8ceae8d3245125f134951229017"
         }
     ],
     "Sullivan Mounsey": [

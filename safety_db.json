@@ -290,10 +290,10 @@
         "grade": "D"
     },
     "ihatestoppies": {
-        "safety": 112,
-        "races": 3,
+        "safety": 117,
+        "races": 4,
         "contacts": 6,
-        "clean_races": 0,
+        "clean_races": 1,
         "large_lobby_clean_streak": 0,
         "grade": "C"
     },
@@ -330,10 +330,10 @@
         "grade": "C"
     },
     "Sturdy": {
-        "safety": 130,
-        "races": 7,
+        "safety": 135,
+        "races": 8,
         "contacts": 6,
-        "clean_races": 2,
+        "clean_races": 3,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     },
