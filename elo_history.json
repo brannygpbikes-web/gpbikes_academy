@@ -2083,6 +2083,15 @@
             "track": "",
             "finish": 1,
             "race_id": "6e1045c88d31e09bf280940021aecbb88ea05af3dd1fdb1eeeead59acc645202"
+        },
+        {
+            "date": "2026-11-07T18:56:49",
+            "elo": 1020,
+            "elo_before": 1016,
+            "change": 4,
+            "track": "",
+            "finish": 1,
+            "race_id": "a6d8775e80b8772beee4bdb8287cbba263a0f558ba39ee32e4ff421fb727c44c"
         }
     ],
     "mrarcin": [
@@ -2154,6 +2163,15 @@
             "track": "",
             "finish": 5,
             "race_id": "6e1045c88d31e09bf280940021aecbb88ea05af3dd1fdb1eeeead59acc645202"
+        },
+        {
+            "date": "2026-11-07T18:56:49",
+            "elo": 979,
+            "elo_before": 983,
+            "change": -4,
+            "track": "",
+            "finish": 2,
+            "race_id": "a6d8775e80b8772beee4bdb8287cbba263a0f558ba39ee32e4ff421fb727c44c"
         }
     ],
     "Santos47": [
