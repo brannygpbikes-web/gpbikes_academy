@@ -366,10 +366,10 @@
         "podiums": 2
     },
     "Marcus": {
-        "elo": 997,
+        "elo": 992,
         "wins": 0,
-        "races": 1,
-        "podiums": 0
+        "races": 2,
+        "podiums": 1
     },
     "JW2Stupid": {
         "elo": 995,
@@ -402,6 +402,12 @@
         "podiums": 0
     },
     "Fick dich Kohlin": {
+        "elo": 1005,
+        "wins": 1,
+        "races": 1,
+        "podiums": 1
+    },
+    "Lanzo": {
         "elo": 1005,
         "wins": 1,
         "races": 1,
