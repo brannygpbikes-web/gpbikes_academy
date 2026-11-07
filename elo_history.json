@@ -715,6 +715,15 @@
             "track": "",
             "finish": 5,
             "race_id": "4dd0de31a1818a7c6863eec79201b1c3358bf18b7010eaa2ce6e2653fb266bbc"
+        },
+        {
+            "date": "2026-11-07T18:11:14",
+            "elo": 966,
+            "elo_before": 977,
+            "change": -11,
+            "track": "",
+            "finish": 9,
+            "race_id": "75cb7394eee8376c61c665101f1f7fb6d3c16cb7db16109ab45c091cb5681c29"
         }
     ],
     "moleo": [
@@ -1172,6 +1181,15 @@
             "track": "",
             "finish": 3,
             "race_id": "4dd0de31a1818a7c6863eec79201b1c3358bf18b7010eaa2ce6e2653fb266bbc"
+        },
+        {
+            "date": "2026-11-07T18:11:14",
+            "elo": 1038,
+            "elo_before": 1031,
+            "change": 7,
+            "track": "",
+            "finish": 3,
+            "race_id": "75cb7394eee8376c61c665101f1f7fb6d3c16cb7db16109ab45c091cb5681c29"
         }
     ],
     "pa": [
@@ -1268,6 +1286,15 @@
             "track": "",
             "finish": 2,
             "race_id": "ac0dc4afff82340ed7cb6a0c4b044d91b11eb8ceae8d3245125f134951229017"
+        },
+        {
+            "date": "2026-11-07T18:11:14",
+            "elo": 1020,
+            "elo_before": 1016,
+            "change": 4,
+            "track": "",
+            "finish": 4,
+            "race_id": "75cb7394eee8376c61c665101f1f7fb6d3c16cb7db16109ab45c091cb5681c29"
         }
     ],
     "Sullivan Mounsey": [
@@ -1687,6 +1714,15 @@
             "track": "",
             "finish": 7,
             "race_id": "26d2366b293a5f8205e9d8a99383a18ecd7f78161fd091604b7435652bb70800"
+        },
+        {
+            "date": "2026-11-07T18:11:14",
+            "elo": 1003,
+            "elo_before": 986,
+            "change": 17,
+            "track": "",
+            "finish": 1,
+            "race_id": "75cb7394eee8376c61c665101f1f7fb6d3c16cb7db16109ab45c091cb5681c29"
         }
     ],
     "A.Garcia": [
@@ -1973,6 +2009,15 @@
             "track": "",
             "finish": 2,
             "race_id": "4dd0de31a1818a7c6863eec79201b1c3358bf18b7010eaa2ce6e2653fb266bbc"
+        },
+        {
+            "date": "2026-11-07T18:11:14",
+            "elo": 1008,
+            "elo_before": 1010,
+            "change": -2,
+            "track": "",
+            "finish": 6,
+            "race_id": "75cb7394eee8376c61c665101f1f7fb6d3c16cb7db16109ab45c091cb5681c29"
         }
     ],
     "thecrivi28": [
@@ -1984,6 +2029,15 @@
             "track": "",
             "finish": 4,
             "race_id": "4dd0de31a1818a7c6863eec79201b1c3358bf18b7010eaa2ce6e2653fb266bbc"
+        },
+        {
+            "date": "2026-11-07T18:11:14",
+            "elo": 1002,
+            "elo_before": 1000,
+            "change": 2,
+            "track": "",
+            "finish": 5,
+            "race_id": "75cb7394eee8376c61c665101f1f7fb6d3c16cb7db16109ab45c091cb5681c29"
         }
     ],
     "mrarcin": [
@@ -1995,6 +2049,48 @@
             "track": "",
             "finish": 7,
             "race_id": "4dd0de31a1818a7c6863eec79201b1c3358bf18b7010eaa2ce6e2653fb266bbc"
+        },
+        {
+            "date": "2026-11-07T18:11:14",
+            "elo": 978,
+            "elo_before": 986,
+            "change": -8,
+            "track": "",
+            "finish": 8,
+            "race_id": "75cb7394eee8376c61c665101f1f7fb6d3c16cb7db16109ab45c091cb5681c29"
+        }
+    ],
+    "Vinsky": [
+        {
+            "date": "2026-11-07T18:11:14",
+            "elo": 1012,
+            "elo_before": 1000,
+            "change": 12,
+            "track": "",
+            "finish": 2,
+            "race_id": "75cb7394eee8376c61c665101f1f7fb6d3c16cb7db16109ab45c091cb5681c29"
+        }
+    ],
+    "titonagom08": [
+        {
+            "date": "2026-11-07T18:11:14",
+            "elo": 995,
+            "elo_before": 1000,
+            "change": -5,
+            "track": "",
+            "finish": 7,
+            "race_id": "75cb7394eee8376c61c665101f1f7fb6d3c16cb7db16109ab45c091cb5681c29"
+        }
+    ],
+    "Nepodar z Albrechtic": [
+        {
+            "date": "2026-11-07T18:11:14",
+            "elo": 984,
+            "elo_before": 1000,
+            "change": -16,
+            "track": "",
+            "finish": 10,
+            "race_id": "75cb7394eee8376c61c665101f1f7fb6d3c16cb7db16109ab45c091cb5681c29"
         }
     ]
 }

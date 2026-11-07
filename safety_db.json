@@ -139,8 +139,8 @@
     },
     "moe": {
         "safety": 104,
-        "races": 10,
-        "contacts": 15,
+        "races": 11,
+        "contacts": 16,
         "clean_races": 2,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -267,7 +267,7 @@
     },
     "sergioo14": {
         "safety": 81,
-        "races": 6,
+        "races": 7,
         "contacts": 22,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
@@ -290,9 +290,9 @@
         "grade": "D"
     },
     "ihatestoppies": {
-        "safety": 127,
-        "races": 6,
-        "contacts": 6,
+        "safety": 125,
+        "races": 7,
+        "contacts": 8,
         "clean_races": 2,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -330,9 +330,9 @@
         "grade": "C"
     },
     "Sturdy": {
-        "safety": 135,
-        "races": 8,
-        "contacts": 6,
+        "safety": 133,
+        "races": 9,
+        "contacts": 8,
         "clean_races": 3,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -363,8 +363,8 @@
     },
     "titonagom08": {
         "safety": 125,
-        "races": 1,
-        "contacts": 0,
+        "races": 2,
+        "contacts": 1,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -442,9 +442,9 @@
         "grade": "C"
     },
     "BNJMN": {
-        "safety": 135,
-        "races": 1,
-        "contacts": 0,
+        "safety": 132,
+        "races": 2,
+        "contacts": 3,
         "clean_races": 1,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -555,7 +555,7 @@
     },
     "Adrianrodriguez58": {
         "safety": 107,
-        "races": 1,
+        "races": 2,
         "contacts": 9,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
@@ -579,26 +579,42 @@
     },
     "thecrivi28": {
         "safety": 135,
-        "races": 1,
-        "contacts": 0,
+        "races": 2,
+        "contacts": 1,
         "clean_races": 1,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     },
     "mrarcin": {
         "safety": 122,
-        "races": 1,
-        "contacts": 1,
+        "races": 2,
+        "contacts": 2,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
     },
     "chilliams": {
         "safety": 122,
+        "races": 2,
+        "contacts": 2,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "C"
+    },
+    "Vinsky": {
+        "safety": 125,
         "races": 1,
         "contacts": 1,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
-        "grade": "C"
+        "grade": "B"
+    },
+    "Nepodar z Albrechtic": {
+        "safety": 125,
+        "races": 1,
+        "contacts": 1,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "B"
     }
 }
