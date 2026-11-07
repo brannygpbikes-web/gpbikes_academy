@@ -572,6 +572,15 @@
             "track": "",
             "finish": 1,
             "race_id": "7c8811c0ed4b486c1459ab8f1582f24813a2ad7940cd94692b4e2b2509e779bf"
+        },
+        {
+            "date": "2026-11-07T18:37:19",
+            "elo": 997,
+            "elo_before": 1008,
+            "change": -11,
+            "track": "",
+            "finish": 7,
+            "race_id": "6e1045c88d31e09bf280940021aecbb88ea05af3dd1fdb1eeeead59acc645202"
         }
     ],
     "Ricoway46": [
@@ -1723,6 +1732,15 @@
             "track": "",
             "finish": 1,
             "race_id": "75cb7394eee8376c61c665101f1f7fb6d3c16cb7db16109ab45c091cb5681c29"
+        },
+        {
+            "date": "2026-11-07T18:37:19",
+            "elo": 1005,
+            "elo_before": 1003,
+            "change": 2,
+            "track": "",
+            "finish": 4,
+            "race_id": "6e1045c88d31e09bf280940021aecbb88ea05af3dd1fdb1eeeead59acc645202"
         }
     ],
     "A.Garcia": [
@@ -1923,6 +1941,15 @@
             "track": "",
             "finish": 4,
             "race_id": "d6a1aff6e6ba25a735fe577d4de03216a7ab858a05e45c8f5c7356d172f55155"
+        },
+        {
+            "date": "2026-11-07T18:37:19",
+            "elo": 1005,
+            "elo_before": 995,
+            "change": 10,
+            "track": "",
+            "finish": 2,
+            "race_id": "6e1045c88d31e09bf280940021aecbb88ea05af3dd1fdb1eeeead59acc645202"
         }
     ],
     "Draco15": [
@@ -2018,6 +2045,15 @@
             "track": "",
             "finish": 6,
             "race_id": "75cb7394eee8376c61c665101f1f7fb6d3c16cb7db16109ab45c091cb5681c29"
+        },
+        {
+            "date": "2026-11-07T18:37:19",
+            "elo": 1014,
+            "elo_before": 1008,
+            "change": 6,
+            "track": "",
+            "finish": 3,
+            "race_id": "6e1045c88d31e09bf280940021aecbb88ea05af3dd1fdb1eeeead59acc645202"
         }
     ],
     "thecrivi28": [
@@ -2038,6 +2074,15 @@
             "track": "",
             "finish": 5,
             "race_id": "75cb7394eee8376c61c665101f1f7fb6d3c16cb7db16109ab45c091cb5681c29"
+        },
+        {
+            "date": "2026-11-07T18:37:19",
+            "elo": 1016,
+            "elo_before": 1002,
+            "change": 14,
+            "track": "",
+            "finish": 1,
+            "race_id": "6e1045c88d31e09bf280940021aecbb88ea05af3dd1fdb1eeeead59acc645202"
         }
     ],
     "mrarcin": [
@@ -2080,6 +2125,15 @@
             "track": "",
             "finish": 7,
             "race_id": "75cb7394eee8376c61c665101f1f7fb6d3c16cb7db16109ab45c091cb5681c29"
+        },
+        {
+            "date": "2026-11-07T18:37:19",
+            "elo": 981,
+            "elo_before": 995,
+            "change": -14,
+            "track": "",
+            "finish": 8,
+            "race_id": "6e1045c88d31e09bf280940021aecbb88ea05af3dd1fdb1eeeead59acc645202"
         }
     ],
     "Nepodar z Albrechtic": [
@@ -2091,6 +2145,26 @@
             "track": "",
             "finish": 10,
             "race_id": "75cb7394eee8376c61c665101f1f7fb6d3c16cb7db16109ab45c091cb5681c29"
+        },
+        {
+            "date": "2026-11-07T18:37:19",
+            "elo": 983,
+            "elo_before": 984,
+            "change": -1,
+            "track": "",
+            "finish": 5,
+            "race_id": "6e1045c88d31e09bf280940021aecbb88ea05af3dd1fdb1eeeead59acc645202"
+        }
+    ],
+    "Santos47": [
+        {
+            "date": "2026-11-07T18:37:19",
+            "elo": 994,
+            "elo_before": 1000,
+            "change": -6,
+            "track": "",
+            "finish": 6,
+            "race_id": "6e1045c88d31e09bf280940021aecbb88ea05af3dd1fdb1eeeead59acc645202"
         }
     ]
 }

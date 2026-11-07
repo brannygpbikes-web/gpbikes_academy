@@ -72,9 +72,9 @@
         "podiums": 4
     },
     "tacticworks": {
-        "elo": 1008,
+        "elo": 997,
         "wins": 1,
-        "races": 1,
+        "races": 2,
         "podiums": 1
     },
     "Ricoway46": {
@@ -312,9 +312,9 @@
         "podiums": 0
     },
     "BNJMN": {
-        "elo": 1003,
+        "elo": 1005,
         "wins": 1,
-        "races": 2,
+        "races": 3,
         "podiums": 1
     },
     "A.Garcia": {
@@ -372,10 +372,10 @@
         "podiums": 2
     },
     "JW2Stupid": {
-        "elo": 995,
+        "elo": 1005,
         "wins": 0,
-        "races": 2,
-        "podiums": 0
+        "races": 3,
+        "podiums": 1
     },
     "Draco15": {
         "elo": 981,
@@ -414,16 +414,16 @@
         "podiums": 1
     },
     "chilliams": {
-        "elo": 1008,
+        "elo": 1014,
         "wins": 0,
-        "races": 2,
-        "podiums": 1
+        "races": 3,
+        "podiums": 2
     },
     "thecrivi28": {
-        "elo": 1002,
-        "wins": 0,
-        "races": 2,
-        "podiums": 0
+        "elo": 1016,
+        "wins": 1,
+        "races": 3,
+        "podiums": 1
     },
     "mrarcin": {
         "elo": 978,
@@ -438,13 +438,19 @@
         "podiums": 1
     },
     "titonagom08": {
-        "elo": 995,
+        "elo": 981,
         "wins": 0,
-        "races": 1,
+        "races": 2,
         "podiums": 0
     },
     "Nepodar z Albrechtic": {
-        "elo": 984,
+        "elo": 983,
+        "wins": 0,
+        "races": 2,
+        "podiums": 0
+    },
+    "Santos47": {
+        "elo": 994,
         "wins": 0,
         "races": 1,
         "podiums": 0
