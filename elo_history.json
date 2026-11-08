@@ -626,6 +626,15 @@
             "track": "",
             "finish": 3,
             "race_id": "852af9d98e8e39f6fc57025b51803c547237675fedc87159ac2692e5811cd755"
+        },
+        {
+            "date": "2026-11-08T18:25:22",
+            "elo": 1030,
+            "elo_before": 1018,
+            "change": 12,
+            "track": "",
+            "finish": 2,
+            "race_id": "6d2192a6e0ac42f0cdf243a6ebfb2adda721901bccda545c7b341703d15a924f"
         }
     ],
     "Ricoway46": [
@@ -700,6 +709,15 @@
             "track": "",
             "finish": 1,
             "race_id": "852af9d98e8e39f6fc57025b51803c547237675fedc87159ac2692e5811cd755"
+        },
+        {
+            "date": "2026-11-08T18:25:22",
+            "elo": 1030,
+            "elo_before": 1014,
+            "change": 16,
+            "track": "",
+            "finish": 1,
+            "race_id": "6d2192a6e0ac42f0cdf243a6ebfb2adda721901bccda545c7b341703d15a924f"
         }
     ],
     "Mopee": [
@@ -979,6 +997,15 @@
             "track": "",
             "finish": 4,
             "race_id": "7e63bd604b18b5045846447cf79d1d10d6aaa3081d1d5dff1408916a6ee14b9b"
+        },
+        {
+            "date": "2026-11-08T18:25:22",
+            "elo": 1000,
+            "elo_before": 998,
+            "change": 2,
+            "track": "",
+            "finish": 5,
+            "race_id": "6d2192a6e0ac42f0cdf243a6ebfb2adda721901bccda545c7b341703d15a924f"
         }
     ],
     "collinlanger96": [
@@ -2005,6 +2032,15 @@
             "track": "",
             "finish": 5,
             "race_id": "852af9d98e8e39f6fc57025b51803c547237675fedc87159ac2692e5811cd755"
+        },
+        {
+            "date": "2026-11-08T18:25:22",
+            "elo": 988,
+            "elo_before": 1004,
+            "change": -16,
+            "track": "",
+            "finish": 10,
+            "race_id": "6d2192a6e0ac42f0cdf243a6ebfb2adda721901bccda545c7b341703d15a924f"
         }
     ],
     "oover": [
@@ -2201,6 +2237,15 @@
             "track": "",
             "finish": 2,
             "race_id": "852af9d98e8e39f6fc57025b51803c547237675fedc87159ac2692e5811cd755"
+        },
+        {
+            "date": "2026-11-08T18:25:22",
+            "elo": 1022,
+            "elo_before": 1017,
+            "change": 5,
+            "track": "",
+            "finish": 4,
+            "race_id": "6d2192a6e0ac42f0cdf243a6ebfb2adda721901bccda545c7b341703d15a924f"
         }
     ],
     "Fick dich Kohlin": [
@@ -2270,6 +2315,15 @@
             "track": "",
             "finish": 6,
             "race_id": "852af9d98e8e39f6fc57025b51803c547237675fedc87159ac2692e5811cd755"
+        },
+        {
+            "date": "2026-11-08T18:25:22",
+            "elo": 1015,
+            "elo_before": 1017,
+            "change": -2,
+            "track": "",
+            "finish": 6,
+            "race_id": "6d2192a6e0ac42f0cdf243a6ebfb2adda721901bccda545c7b341703d15a924f"
         }
     ],
     "thecrivi28": [
@@ -2450,6 +2504,15 @@
             "track": "",
             "finish": 4,
             "race_id": "852af9d98e8e39f6fc57025b51803c547237675fedc87159ac2692e5811cd755"
+        },
+        {
+            "date": "2026-11-08T18:25:22",
+            "elo": 1016,
+            "elo_before": 1007,
+            "change": 9,
+            "track": "",
+            "finish": 3,
+            "race_id": "6d2192a6e0ac42f0cdf243a6ebfb2adda721901bccda545c7b341703d15a924f"
         }
     ],
     "vat1028": [
@@ -2481,6 +2544,39 @@
             "track": "",
             "finish": 8,
             "race_id": "d98eb53929cc3de8cef5bb5e681c08168cc1b80c8a90937c7096fcb4d4c0e72e"
+        }
+    ],
+    "El-Ninety-Nine": [
+        {
+            "date": "2026-11-08T18:25:22",
+            "elo": 995,
+            "elo_before": 1000,
+            "change": -5,
+            "track": "",
+            "finish": 7,
+            "race_id": "6d2192a6e0ac42f0cdf243a6ebfb2adda721901bccda545c7b341703d15a924f"
+        }
+    ],
+    "Andrea De Santis": [
+        {
+            "date": "2026-11-08T18:25:22",
+            "elo": 991,
+            "elo_before": 1000,
+            "change": -9,
+            "track": "",
+            "finish": 8,
+            "race_id": "6d2192a6e0ac42f0cdf243a6ebfb2adda721901bccda545c7b341703d15a924f"
+        }
+    ],
+    "Prove412": [
+        {
+            "date": "2026-11-08T18:25:22",
+            "elo": 988,
+            "elo_before": 1000,
+            "change": -12,
+            "track": "",
+            "finish": 9,
+            "race_id": "6d2192a6e0ac42f0cdf243a6ebfb2adda721901bccda545c7b341703d15a924f"
         }
     ]
 }
