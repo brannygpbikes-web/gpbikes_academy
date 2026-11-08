@@ -1388,6 +1388,15 @@
             "track": "",
             "finish": 2,
             "race_id": "1453915cd14368712b1ed56ab25814a55142b9368d91dc152d4aad86e0c1b483"
+        },
+        {
+            "date": "2026-11-08T20:12:28",
+            "elo": 1045,
+            "elo_before": 1041,
+            "change": 4,
+            "track": "",
+            "finish": 1,
+            "race_id": "500886e8ca9e689162b05c750d86f6a6d4ab68abfc297f05d9f5e5077dddf58a"
         }
     ],
     "pa": [
@@ -2227,6 +2236,15 @@
             "track": "",
             "finish": 1,
             "race_id": "1453915cd14368712b1ed56ab25814a55142b9368d91dc152d4aad86e0c1b483"
+        },
+        {
+            "date": "2026-11-08T20:12:28",
+            "elo": 1011,
+            "elo_before": 1015,
+            "change": -4,
+            "track": "",
+            "finish": 2,
+            "race_id": "500886e8ca9e689162b05c750d86f6a6d4ab68abfc297f05d9f5e5077dddf58a"
         }
     ],
     "JW2Stupid": [
