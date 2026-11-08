@@ -733,6 +733,15 @@
             "track": "",
             "finish": 9,
             "race_id": "75cb7394eee8376c61c665101f1f7fb6d3c16cb7db16109ab45c091cb5681c29"
+        },
+        {
+            "date": "2026-11-08T15:34:02",
+            "elo": 969,
+            "elo_before": 966,
+            "change": 3,
+            "track": "",
+            "finish": 2,
+            "race_id": "6ef54b6ff56fbe4dcbe4353a9057bb03a88dac9d20e9ddd4f314a77dd9413272"
         }
     ],
     "moleo": [
@@ -1741,6 +1750,15 @@
             "track": "",
             "finish": 4,
             "race_id": "6e1045c88d31e09bf280940021aecbb88ea05af3dd1fdb1eeeead59acc645202"
+        },
+        {
+            "date": "2026-11-08T15:34:02",
+            "elo": 1013,
+            "elo_before": 1005,
+            "change": 8,
+            "track": "",
+            "finish": 1,
+            "race_id": "6ef54b6ff56fbe4dcbe4353a9057bb03a88dac9d20e9ddd4f314a77dd9413272"
         }
     ],
     "A.Garcia": [
@@ -1981,6 +1999,15 @@
             "track": "",
             "finish": 11,
             "race_id": "96b27ceadb3f8c25cccd91325e4261deb087a7381213712d52c752d5cf9daf48"
+        },
+        {
+            "date": "2026-11-08T15:34:02",
+            "elo": 981,
+            "elo_before": 984,
+            "change": -3,
+            "track": "",
+            "finish": 3,
+            "race_id": "6ef54b6ff56fbe4dcbe4353a9057bb03a88dac9d20e9ddd4f314a77dd9413272"
         }
     ],
     "Adrianrodriguez58": [
@@ -2183,6 +2210,17 @@
             "track": "",
             "finish": 6,
             "race_id": "6e1045c88d31e09bf280940021aecbb88ea05af3dd1fdb1eeeead59acc645202"
+        }
+    ],
+    "SrPomit": [
+        {
+            "date": "2026-11-08T15:34:02",
+            "elo": 992,
+            "elo_before": 1000,
+            "change": -8,
+            "track": "",
+            "finish": 4,
+            "race_id": "6ef54b6ff56fbe4dcbe4353a9057bb03a88dac9d20e9ddd4f314a77dd9413272"
         }
     ]
 }

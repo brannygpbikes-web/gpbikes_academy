@@ -96,10 +96,10 @@
         "podiums": 1
     },
     "moe": {
-        "elo": 966,
+        "elo": 969,
         "wins": 0,
-        "races": 8,
-        "podiums": 3
+        "races": 9,
+        "podiums": 4
     },
     "moleo": {
         "elo": 1040,
@@ -312,10 +312,10 @@
         "podiums": 0
     },
     "BNJMN": {
-        "elo": 1005,
-        "wins": 1,
-        "races": 3,
-        "podiums": 1
+        "elo": 1013,
+        "wins": 2,
+        "races": 4,
+        "podiums": 2
     },
     "A.Garcia": {
         "elo": 1004,
@@ -384,10 +384,10 @@
         "podiums": 0
     },
     "AL": {
-        "elo": 984,
+        "elo": 981,
         "wins": 0,
-        "races": 1,
-        "podiums": 0
+        "races": 2,
+        "podiums": 1
     },
     "Adrianrodriguez58": {
         "elo": 996,
@@ -451,6 +451,12 @@
     },
     "Santos47": {
         "elo": 994,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
+    },
+    "SrPomit": {
+        "elo": 992,
         "wins": 0,
         "races": 1,
         "podiums": 0
