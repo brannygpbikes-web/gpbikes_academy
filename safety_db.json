@@ -138,9 +138,9 @@
         "grade": "C"
     },
     "moe": {
-        "safety": 113,
-        "races": 16,
-        "contacts": 19,
+        "safety": 110,
+        "races": 17,
+        "contacts": 20,
         "clean_races": 4,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -330,9 +330,9 @@
         "grade": "C"
     },
     "Sturdy": {
-        "safety": 146,
-        "races": 12,
-        "contacts": 9,
+        "safety": 137,
+        "races": 13,
+        "contacts": 12,
         "clean_races": 5,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -650,11 +650,11 @@
         "grade": "B"
     },
     "Nuno": {
-        "safety": 139,
-        "races": 4,
-        "contacts": 3,
+        "safety": 133,
+        "races": 5,
+        "contacts": 5,
         "clean_races": 2,
-        "large_lobby_clean_streak": 1,
+        "large_lobby_clean_streak": 0,
         "grade": "B"
     },
     "izan curia": {
@@ -702,6 +702,22 @@
         "races": 1,
         "contacts": 0,
         "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "B"
+    },
+    "Juaki": {
+        "safety": 130,
+        "races": 1,
+        "contacts": 0,
+        "clean_races": 1,
+        "large_lobby_clean_streak": 0,
+        "grade": "B"
+    },
+    "EgoMan": {
+        "safety": 130,
+        "races": 1,
+        "contacts": 0,
+        "clean_races": 1,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     }
