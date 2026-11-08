@@ -129,6 +129,15 @@
             "track": "",
             "finish": 1,
             "race_id": "0f5cb702c0d2f2f9ea3f5dfb67614f63637003cbaabb637b035e22e9752d1587"
+        },
+        {
+            "date": "2026-11-08T18:01:50",
+            "elo": 1022,
+            "elo_before": 1036,
+            "change": -14,
+            "track": "",
+            "finish": 9,
+            "race_id": "852af9d98e8e39f6fc57025b51803c547237675fedc87159ac2692e5811cd755"
         }
     ],
     "Rk_44": [
@@ -608,6 +617,15 @@
             "track": "",
             "finish": 2,
             "race_id": "d98eb53929cc3de8cef5bb5e681c08168cc1b80c8a90937c7096fcb4d4c0e72e"
+        },
+        {
+            "date": "2026-11-08T18:01:50",
+            "elo": 1018,
+            "elo_before": 1009,
+            "change": 9,
+            "track": "",
+            "finish": 3,
+            "race_id": "852af9d98e8e39f6fc57025b51803c547237675fedc87159ac2692e5811cd755"
         }
     ],
     "Ricoway46": [
@@ -673,6 +691,15 @@
             "track": "",
             "finish": 7,
             "race_id": "d98eb53929cc3de8cef5bb5e681c08168cc1b80c8a90937c7096fcb4d4c0e72e"
+        },
+        {
+            "date": "2026-11-08T18:01:50",
+            "elo": 1014,
+            "elo_before": 998,
+            "change": 16,
+            "track": "",
+            "finish": 1,
+            "race_id": "852af9d98e8e39f6fc57025b51803c547237675fedc87159ac2692e5811cd755"
         }
     ],
     "Mopee": [
@@ -796,6 +823,15 @@
             "track": "",
             "finish": 6,
             "race_id": "62607d65559d140ccc89b29d197f26ee3f3cf5e8611e6044c153c29a87d0462e"
+        },
+        {
+            "date": "2026-11-08T18:01:50",
+            "elo": 957,
+            "elo_before": 964,
+            "change": -7,
+            "track": "",
+            "finish": 8,
+            "race_id": "852af9d98e8e39f6fc57025b51803c547237675fedc87159ac2692e5811cd755"
         }
     ],
     "moleo": [
@@ -1394,6 +1430,15 @@
             "track": "",
             "finish": 5,
             "race_id": "d98eb53929cc3de8cef5bb5e681c08168cc1b80c8a90937c7096fcb4d4c0e72e"
+        },
+        {
+            "date": "2026-11-08T18:01:50",
+            "elo": 1016,
+            "elo_before": 1022,
+            "change": -6,
+            "track": "",
+            "finish": 7,
+            "race_id": "852af9d98e8e39f6fc57025b51803c547237675fedc87159ac2692e5811cd755"
         }
     ],
     "Sullivan Mounsey": [
@@ -1951,6 +1996,15 @@
             "track": "",
             "finish": 9,
             "race_id": "d6a1aff6e6ba25a735fe577d4de03216a7ab858a05e45c8f5c7356d172f55155"
+        },
+        {
+            "date": "2026-11-08T18:01:50",
+            "elo": 1004,
+            "elo_before": 1002,
+            "change": 2,
+            "track": "",
+            "finish": 5,
+            "race_id": "852af9d98e8e39f6fc57025b51803c547237675fedc87159ac2692e5811cd755"
         }
     ],
     "oover": [
@@ -2138,6 +2192,15 @@
             "track": "",
             "finish": 1,
             "race_id": "d98eb53929cc3de8cef5bb5e681c08168cc1b80c8a90937c7096fcb4d4c0e72e"
+        },
+        {
+            "date": "2026-11-08T18:01:50",
+            "elo": 1017,
+            "elo_before": 1004,
+            "change": 13,
+            "track": "",
+            "finish": 2,
+            "race_id": "852af9d98e8e39f6fc57025b51803c547237675fedc87159ac2692e5811cd755"
         }
     ],
     "Fick dich Kohlin": [
@@ -2198,6 +2261,15 @@
             "track": "",
             "finish": 3,
             "race_id": "d98eb53929cc3de8cef5bb5e681c08168cc1b80c8a90937c7096fcb4d4c0e72e"
+        },
+        {
+            "date": "2026-11-08T18:01:50",
+            "elo": 1017,
+            "elo_before": 1020,
+            "change": -3,
+            "track": "",
+            "finish": 6,
+            "race_id": "852af9d98e8e39f6fc57025b51803c547237675fedc87159ac2692e5811cd755"
         }
     ],
     "thecrivi28": [
@@ -2369,6 +2441,15 @@
             "track": "",
             "finish": 4,
             "race_id": "d98eb53929cc3de8cef5bb5e681c08168cc1b80c8a90937c7096fcb4d4c0e72e"
+        },
+        {
+            "date": "2026-11-08T18:01:50",
+            "elo": 1007,
+            "elo_before": 1002,
+            "change": 5,
+            "track": "",
+            "finish": 4,
+            "race_id": "852af9d98e8e39f6fc57025b51803c547237675fedc87159ac2692e5811cd755"
         }
     ],
     "vat1028": [
@@ -2380,6 +2461,15 @@
             "track": "",
             "finish": 6,
             "race_id": "d98eb53929cc3de8cef5bb5e681c08168cc1b80c8a90937c7096fcb4d4c0e72e"
+        },
+        {
+            "date": "2026-11-08T18:01:50",
+            "elo": 979,
+            "elo_before": 994,
+            "change": -15,
+            "track": "",
+            "finish": 10,
+            "race_id": "852af9d98e8e39f6fc57025b51803c547237675fedc87159ac2692e5811cd755"
         }
     ],
     "izan curia": [
