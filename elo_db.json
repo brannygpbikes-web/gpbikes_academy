@@ -72,15 +72,15 @@
         "podiums": 4
     },
     "tacticworks": {
-        "elo": 998,
+        "elo": 1009,
         "wins": 1,
-        "races": 4,
-        "podiums": 3
+        "races": 5,
+        "podiums": 4
     },
     "Ricoway46": {
-        "elo": 1009,
+        "elo": 998,
         "wins": 2,
-        "races": 6,
+        "races": 7,
         "podiums": 4
     },
     "Mopee": {
@@ -216,9 +216,9 @@
         "podiums": 1
     },
     "Sturdy": {
-        "elo": 1025,
+        "elo": 1022,
         "wins": 2,
-        "races": 9,
+        "races": 10,
         "podiums": 5
     },
     "Sullivan Mounsey": {
@@ -396,10 +396,10 @@
         "podiums": 0
     },
     "Danislav1746": {
-        "elo": 989,
-        "wins": 0,
-        "races": 1,
-        "podiums": 0
+        "elo": 1004,
+        "wins": 1,
+        "races": 2,
+        "podiums": 1
     },
     "Fick dich Kohlin": {
         "elo": 1005,
@@ -414,10 +414,10 @@
         "podiums": 1
     },
     "chilliams": {
-        "elo": 1014,
+        "elo": 1020,
         "wins": 0,
-        "races": 3,
-        "podiums": 2
+        "races": 4,
+        "podiums": 3
     },
     "thecrivi28": {
         "elo": 1020,
@@ -462,6 +462,24 @@
         "podiums": 0
     },
     "jmanuel_fs": {
+        "elo": 986,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
+    },
+    "Nuno": {
+        "elo": 1002,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
+    },
+    "vat1028": {
+        "elo": 994,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
+    },
+    "izan curia": {
         "elo": 986,
         "wins": 0,
         "races": 1,

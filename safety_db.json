@@ -106,17 +106,17 @@
         "grade": "B"
     },
     "Ricoway46": {
-        "safety": 138,
-        "races": 6,
+        "safety": 148,
+        "races": 7,
         "contacts": 4,
-        "clean_races": 4,
+        "clean_races": 5,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     },
     "tacticworks": {
-        "safety": 123,
-        "races": 4,
-        "contacts": 3,
+        "safety": 121,
+        "races": 5,
+        "contacts": 4,
         "clean_races": 1,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -330,10 +330,10 @@
         "grade": "C"
     },
     "Sturdy": {
-        "safety": 138,
-        "races": 10,
+        "safety": 148,
+        "races": 11,
         "contacts": 8,
-        "clean_races": 4,
+        "clean_races": 5,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     },
@@ -546,12 +546,12 @@
         "grade": "B"
     },
     "Danislav1746": {
-        "safety": 117,
-        "races": 1,
+        "safety": 127,
+        "races": 2,
         "contacts": 4,
-        "clean_races": 0,
+        "clean_races": 1,
         "large_lobby_clean_streak": 0,
-        "grade": "C"
+        "grade": "B"
     },
     "Adrianrodriguez58": {
         "safety": 107,
@@ -594,12 +594,12 @@
         "grade": "C"
     },
     "chilliams": {
-        "safety": 120,
-        "races": 3,
+        "safety": 130,
+        "races": 4,
         "contacts": 3,
-        "clean_races": 0,
+        "clean_races": 1,
         "large_lobby_clean_streak": 0,
-        "grade": "C"
+        "grade": "B"
     },
     "Vinsky": {
         "safety": 125,
@@ -648,5 +648,29 @@
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "B"
+    },
+    "Nuno": {
+        "safety": 121,
+        "races": 1,
+        "contacts": 2,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "C"
+    },
+    "izan curia": {
+        "safety": 135,
+        "races": 1,
+        "contacts": 0,
+        "clean_races": 1,
+        "large_lobby_clean_streak": 0,
+        "grade": "B"
+    },
+    "vat1028": {
+        "safety": 123,
+        "races": 1,
+        "contacts": 1,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "C"
     }
 }
