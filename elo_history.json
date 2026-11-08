@@ -590,6 +590,15 @@
             "track": "",
             "finish": 3,
             "race_id": "62607d65559d140ccc89b29d197f26ee3f3cf5e8611e6044c153c29a87d0462e"
+        },
+        {
+            "date": "2026-11-08T17:15:12",
+            "elo": 998,
+            "elo_before": 1003,
+            "change": -5,
+            "track": "",
+            "finish": 2,
+            "race_id": "e6808082235e1536da05b4112fb10172cdfb1c6fcc74f7b5aa00cebd61ab9531"
         }
     ],
     "Ricoway46": [
@@ -1349,6 +1358,15 @@
             "track": "",
             "finish": 4,
             "race_id": "75cb7394eee8376c61c665101f1f7fb6d3c16cb7db16109ab45c091cb5681c29"
+        },
+        {
+            "date": "2026-11-08T17:15:12",
+            "elo": 1025,
+            "elo_before": 1020,
+            "change": 5,
+            "track": "",
+            "finish": 1,
+            "race_id": "e6808082235e1536da05b4112fb10172cdfb1c6fcc74f7b5aa00cebd61ab9531"
         }
     ],
     "Sullivan Mounsey": [

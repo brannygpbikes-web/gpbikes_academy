@@ -72,10 +72,10 @@
         "podiums": 4
     },
     "tacticworks": {
-        "elo": 1003,
+        "elo": 998,
         "wins": 1,
-        "races": 3,
-        "podiums": 2
+        "races": 4,
+        "podiums": 3
     },
     "Ricoway46": {
         "elo": 1009,
@@ -216,10 +216,10 @@
         "podiums": 1
     },
     "Sturdy": {
-        "elo": 1020,
-        "wins": 1,
-        "races": 8,
-        "podiums": 4
+        "elo": 1025,
+        "wins": 2,
+        "races": 9,
+        "podiums": 5
     },
     "Sullivan Mounsey": {
         "elo": 997,
