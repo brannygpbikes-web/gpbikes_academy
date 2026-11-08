@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-07T23:00:21.562031+00:00",
+  "generated_at": "2026-11-08T23:00:25.997520+00:00",
   "summary": {
-    "unique_races": 48,
-    "unique_riders": 76,
+    "unique_races": 59,
+    "unique_riders": 93,
     "duplicates_skipped": 0,
     "invalid_files_skipped": 14,
     "tracks": [
@@ -12,6 +12,7 @@
       "Circuito de Jerez v2.1",
       "Le Mans Circuit Bugatti v1.1",
       "Lusail International Circuit - Night v1.0",
+      "Misano World Circuit Marco Simoncelli v1.0",
       "Motorland Aragon 1.0b",
       "Mugello Circuit v2.2",
       "Pertamina Mandalika International Circuit v1.2",
@@ -28,28 +29,28 @@
     {
       "guid": "FF0110000100F622BC",
       "name": "moe",
-      "races": 11,
+      "races": 18,
       "wins": 0,
-      "podiums": 4,
+      "podiums": 6,
       "win_rate": 0.0,
-      "podium_rate": 36.4,
-      "average_finish": 5.909,
-      "average_start": 5.273,
-      "average_positions_gained": -0.636,
-      "best_finish": 3,
+      "podium_rate": 33.3,
+      "average_finish": 5.889,
+      "average_start": 5.056,
+      "average_positions_gained": -0.833,
+      "best_finish": 2,
       "best_recorded_lap": 84.102386,
-      "average_gap_percent": -2.887,
-      "contacts": 16,
-      "contacts_per_race": 1.455,
-      "clean_races": 5,
-      "clean_race_percent": 45.5,
+      "average_gap_percent": -6.956,
+      "contacts": 20,
+      "contacts_per_race": 1.111,
+      "clean_races": 9,
+      "clean_race_percent": 50.0,
       "worst_contact_severity": 21.434,
       "tracks": {
         "Red Bull Ring 2.0 Beta3": {
-          "races": 1,
+          "races": 2,
           "wins": 0,
           "podiums": 1,
-          "average_finish": 3,
+          "average_finish": 5.5,
           "contacts": 0,
           "clean_race_percent": 100.0
         },
@@ -86,19 +87,19 @@
           "clean_race_percent": 100.0
         },
         "Sepang International Circuit v2.1": {
-          "races": 1,
+          "races": 3,
           "wins": 0,
-          "podiums": 0,
-          "average_finish": 6,
+          "podiums": 1,
+          "average_finish": 6.333,
           "contacts": 0,
           "clean_race_percent": 100.0
         },
         "Circuit of the Americas v.1.2": {
-          "races": 1,
+          "races": 2,
           "wins": 0,
           "podiums": 0,
           "average_finish": 8,
-          "contacts": 3,
+          "contacts": 5,
           "clean_race_percent": 0.0
         },
         "Le Mans Circuit Bugatti v1.1": {
@@ -124,6 +125,22 @@
           "average_finish": 9,
           "contacts": 1,
           "clean_race_percent": 0.0
+        },
+        "Misano World Circuit Marco Simoncelli v1.0": {
+          "races": 2,
+          "wins": 0,
+          "podiums": 1,
+          "average_finish": 4,
+          "contacts": 1,
+          "clean_race_percent": 50.0
+        },
+        "Twin Ring Motegi - GP Layout": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 4,
+          "contacts": 1,
+          "clean_race_percent": 0.0
         }
       },
       "bikes": {
@@ -146,36 +163,165 @@
           "races": 1,
           "wins": 0,
           "podiums": 0
+        },
+        "BOSCOSCURO AKRA": {
+          "races": 7,
+          "wins": 0,
+          "podiums": 2
+        }
+      }
+    },
+    {
+      "guid": "FF011000013EB470E5",
+      "name": "Sturdy",
+      "races": 14,
+      "wins": 2,
+      "podiums": 6,
+      "win_rate": 14.3,
+      "podium_rate": 42.9,
+      "average_finish": 4.5,
+      "average_start": 4.786,
+      "average_positions_gained": 0.286,
+      "best_finish": 1,
+      "best_recorded_lap": 90.150909,
+      "average_gap_percent": 1.755,
+      "contacts": 16,
+      "contacts_per_race": 1.143,
+      "clean_races": 6,
+      "clean_race_percent": 42.9,
+      "worst_contact_severity": 26.89,
+      "tracks": {
+        "Sachsenring v1.0b": {
+          "races": 2,
+          "wins": 0,
+          "podiums": 1,
+          "average_finish": 3,
+          "contacts": 3,
+          "clean_race_percent": 0.0
+        },
+        "Mugello Circuit v2.2": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 5,
+          "contacts": 2,
+          "clean_race_percent": 0.0
+        },
+        "Circuito de Jerez v2.1": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 17,
+          "contacts": 0,
+          "clean_race_percent": 100.0
+        },
+        "Lusail International Circuit - Night v1.0": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 1,
+          "average_finish": 2,
+          "contacts": 0,
+          "clean_race_percent": 100.0
+        },
+        "Sepang International Circuit v2.1": {
+          "races": 1,
+          "wins": 1,
+          "podiums": 1,
+          "average_finish": 1,
+          "contacts": 0,
+          "clean_race_percent": 100.0
+        },
+        "Circuit of the Americas v.1.2": {
+          "races": 2,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 6,
+          "contacts": 2,
+          "clean_race_percent": 0.0
+        },
+        "TT Circuit Assen v1.0": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 1,
+          "average_finish": 2,
+          "contacts": 0,
+          "clean_race_percent": 100.0
+        },
+        "Pertamina Mandalika International Circuit v1.2": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 4,
+          "contacts": 2,
+          "clean_race_percent": 0.0
+        },
+        "Twin Ring Motegi - GP Layout": {
+          "races": 2,
+          "wins": 1,
+          "podiums": 2,
+          "average_finish": 2,
+          "contacts": 3,
+          "clean_race_percent": 50.0
+        },
+        "Red Bull Ring 2.0 Beta3": {
+          "races": 2,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 5,
+          "contacts": 4,
+          "clean_race_percent": 50.0
+        }
+      },
+      "bikes": {
+        "KTM RC250GP 2026": {
+          "races": 4,
+          "wins": 0,
+          "podiums": 1
+        },
+        "Ducati 999RS 2006": {
+          "races": 3,
+          "wins": 1,
+          "podiums": 2
+        },
+        "Honda HRC Team": {
+          "races": 2,
+          "wins": 0,
+          "podiums": 1
+        },
+        "BOSCOSCURO AKRA": {
+          "races": 5,
+          "wins": 1,
+          "podiums": 2
         }
       }
     },
     {
       "guid": "FF011000013182150D",
       "name": "Miquel_Sinke60",
-      "races": 10,
+      "races": 11,
       "wins": 4,
       "podiums": 9,
-      "win_rate": 40.0,
-      "podium_rate": 90.0,
-      "average_finish": 2.1,
-      "average_start": 1.7,
-      "average_positions_gained": -0.4,
+      "win_rate": 36.4,
+      "podium_rate": 81.8,
+      "average_finish": 2.727,
+      "average_start": 2.091,
+      "average_positions_gained": -0.636,
       "best_finish": 1,
       "best_recorded_lap": 84.022827,
-      "average_gap_percent": 0.939,
+      "average_gap_percent": -0.565,
       "contacts": 10,
-      "contacts_per_race": 1.0,
-      "clean_races": 4,
-      "clean_race_percent": 40.0,
+      "contacts_per_race": 0.909,
+      "clean_races": 5,
+      "clean_race_percent": 45.5,
       "worst_contact_severity": 16.435,
       "tracks": {
         "Circuit of the Americas v.1.2": {
-          "races": 2,
+          "races": 3,
           "wins": 0,
           "podiums": 1,
-          "average_finish": 4.5,
+          "average_finish": 6,
           "contacts": 4,
-          "clean_race_percent": 0.0
+          "clean_race_percent": 33.3
         },
         "Sepang International Circuit v2.1": {
           "races": 1,
@@ -241,6 +387,130 @@
           "races": 4,
           "wins": 2,
           "podiums": 4
+        },
+        "KALEX Akrapovic 1": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0
+        }
+      }
+    },
+    {
+      "guid": "FF0110000136765EE2",
+      "name": "ihatestoppies",
+      "races": 10,
+      "wins": 3,
+      "podiums": 7,
+      "win_rate": 30.0,
+      "podium_rate": 70.0,
+      "average_finish": 2.5,
+      "average_start": 2.5,
+      "average_positions_gained": 0,
+      "best_finish": 1,
+      "best_recorded_lap": 91.6492,
+      "average_gap_percent": 1.993,
+      "contacts": 14,
+      "contacts_per_race": 1.4,
+      "clean_races": 3,
+      "clean_race_percent": 30.0,
+      "worst_contact_severity": 49.991,
+      "tracks": {
+        "Twin Ring Motegi - GP Layout": {
+          "races": 1,
+          "wins": 1,
+          "podiums": 1,
+          "average_finish": 1,
+          "contacts": 2,
+          "clean_race_percent": 0.0
+        },
+        "Sachsenring v1.0b": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 1,
+          "average_finish": 2,
+          "contacts": 1,
+          "clean_race_percent": 0.0
+        },
+        "Mugello Circuit v2.2": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 4,
+          "contacts": 3,
+          "clean_race_percent": 0.0
+        },
+        "TT Circuit Assen v1.0": {
+          "races": 1,
+          "wins": 1,
+          "podiums": 1,
+          "average_finish": 1,
+          "contacts": 0,
+          "clean_race_percent": 100.0
+        },
+        "Circuit de Catalunya - 2021 v1.0b": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 4,
+          "contacts": 0,
+          "clean_race_percent": 100.0
+        },
+        "Automotodrom Brno v1.0a": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 1,
+          "average_finish": 3,
+          "contacts": 0,
+          "clean_race_percent": 100.0
+        },
+        "Pertamina Mandalika International Circuit v1.2": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 1,
+          "average_finish": 3,
+          "contacts": 2,
+          "clean_race_percent": 0.0
+        },
+        "Red Bull Ring 2.0 Beta3": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 4,
+          "contacts": 4,
+          "clean_race_percent": 0.0
+        },
+        "Circuit of the Americas v.1.2": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 1,
+          "average_finish": 2,
+          "contacts": 1,
+          "clean_race_percent": 0.0
+        },
+        "Sepang International Circuit v2.1": {
+          "races": 1,
+          "wins": 1,
+          "podiums": 1,
+          "average_finish": 1,
+          "contacts": 1,
+          "clean_race_percent": 0.0
+        }
+      },
+      "bikes": {
+        "CFMOTO RC250GP 2026": {
+          "races": 3,
+          "wins": 1,
+          "podiums": 2
+        },
+        "BMW ROKIT Motorrad Team": {
+          "races": 4,
+          "wins": 1,
+          "podiums": 3
+        },
+        "FORWARD": {
+          "races": 3,
+          "wins": 1,
+          "podiums": 2
         }
       }
     },
@@ -345,6 +615,106 @@
       }
     },
     {
+      "guid": "FF011000010327D643",
+      "name": "Ricoway46",
+      "races": 10,
+      "wins": 4,
+      "podiums": 7,
+      "win_rate": 40.0,
+      "podium_rate": 70.0,
+      "average_finish": 2.9,
+      "average_start": 2.5,
+      "average_positions_gained": -0.4,
+      "best_finish": 1,
+      "best_recorded_lap": 83.558472,
+      "average_gap_percent": -5.837,
+      "contacts": 6,
+      "contacts_per_race": 0.6,
+      "clean_races": 7,
+      "clean_race_percent": 70.0,
+      "worst_contact_severity": 10.127,
+      "tracks": {
+        "Sepang International Circuit v2.1": {
+          "races": 2,
+          "wins": 1,
+          "podiums": 1,
+          "average_finish": 3,
+          "contacts": 0,
+          "clean_race_percent": 100.0
+        },
+        "Red Bull Ring 2.0 Beta3": {
+          "races": 2,
+          "wins": 0,
+          "podiums": 1,
+          "average_finish": 4.5,
+          "contacts": 0,
+          "clean_race_percent": 100.0
+        },
+        "Sachsenring v1.0b": {
+          "races": 1,
+          "wins": 1,
+          "podiums": 1,
+          "average_finish": 1,
+          "contacts": 0,
+          "clean_race_percent": 100.0
+        },
+        "Circuito de Jerez v2.1": {
+          "races": 1,
+          "wins": 1,
+          "podiums": 1,
+          "average_finish": 1,
+          "contacts": 1,
+          "clean_race_percent": 0.0
+        },
+        "Circuit de Catalunya - 2021 v1.0b": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 1,
+          "average_finish": 3,
+          "contacts": 3,
+          "clean_race_percent": 0.0
+        },
+        "Misano World Circuit Marco Simoncelli v1.0": {
+          "races": 2,
+          "wins": 0,
+          "podiums": 1,
+          "average_finish": 4,
+          "contacts": 2,
+          "clean_race_percent": 50.0
+        },
+        "Circuit of the Americas v.1.2": {
+          "races": 1,
+          "wins": 1,
+          "podiums": 1,
+          "average_finish": 1,
+          "contacts": 0,
+          "clean_race_percent": 100.0
+        }
+      },
+      "bikes": {
+        "Yamaha YZF-R1 2008": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0
+        },
+        "BMW ROKIT Motorrad Team": {
+          "races": 3,
+          "wins": 2,
+          "podiums": 3
+        },
+        "Ducati Aruba.it Racing": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 1
+        },
+        "FORWARD": {
+          "races": 5,
+          "wins": 2,
+          "podiums": 3
+        }
+      }
+    },
+    {
       "guid": "FF011000012D774940",
       "name": "Rk_44",
       "races": 9,
@@ -442,109 +812,6 @@
         "Aprilia RS660 Trofeo": {
           "races": 2,
           "wins": 1,
-          "podiums": 1
-        }
-      }
-    },
-    {
-      "guid": "FF011000013EB470E5",
-      "name": "Sturdy",
-      "races": 9,
-      "wins": 1,
-      "podiums": 4,
-      "win_rate": 11.1,
-      "podium_rate": 44.4,
-      "average_finish": 4.667,
-      "average_start": 5.111,
-      "average_positions_gained": 0.444,
-      "best_finish": 1,
-      "best_recorded_lap": 90.150909,
-      "average_gap_percent": 0.774,
-      "contacts": 8,
-      "contacts_per_race": 0.889,
-      "clean_races": 4,
-      "clean_race_percent": 44.4,
-      "worst_contact_severity": 5.516,
-      "tracks": {
-        "Sachsenring v1.0b": {
-          "races": 2,
-          "wins": 0,
-          "podiums": 1,
-          "average_finish": 3,
-          "contacts": 3,
-          "clean_race_percent": 0.0
-        },
-        "Mugello Circuit v2.2": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0,
-          "average_finish": 5,
-          "contacts": 2,
-          "clean_race_percent": 0.0
-        },
-        "Circuito de Jerez v2.1": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0,
-          "average_finish": 17,
-          "contacts": 0,
-          "clean_race_percent": 100.0
-        },
-        "Lusail International Circuit - Night v1.0": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 1,
-          "average_finish": 2,
-          "contacts": 0,
-          "clean_race_percent": 100.0
-        },
-        "Sepang International Circuit v2.1": {
-          "races": 1,
-          "wins": 1,
-          "podiums": 1,
-          "average_finish": 1,
-          "contacts": 0,
-          "clean_race_percent": 100.0
-        },
-        "Circuit of the Americas v.1.2": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0,
-          "average_finish": 5,
-          "contacts": 1,
-          "clean_race_percent": 0.0
-        },
-        "TT Circuit Assen v1.0": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 1,
-          "average_finish": 2,
-          "contacts": 0,
-          "clean_race_percent": 100.0
-        },
-        "Pertamina Mandalika International Circuit v1.2": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0,
-          "average_finish": 4,
-          "contacts": 2,
-          "clean_race_percent": 0.0
-        }
-      },
-      "bikes": {
-        "KTM RC250GP 2026": {
-          "races": 4,
-          "wins": 0,
-          "podiums": 1
-        },
-        "Ducati 999RS 2006": {
-          "races": 3,
-          "wins": 1,
-          "podiums": 2
-        },
-        "Honda HRC Team": {
-          "races": 2,
-          "wins": 0,
           "podiums": 1
         }
       }
@@ -862,96 +1129,6 @@
       }
     },
     {
-      "guid": "FF0110000136765EE2",
-      "name": "ihatestoppies",
-      "races": 7,
-      "wins": 2,
-      "podiums": 5,
-      "win_rate": 28.6,
-      "podium_rate": 71.4,
-      "average_finish": 2.571,
-      "average_start": 2.714,
-      "average_positions_gained": 0.143,
-      "best_finish": 1,
-      "best_recorded_lap": 91.6492,
-      "average_gap_percent": 1.833,
-      "contacts": 8,
-      "contacts_per_race": 1.143,
-      "clean_races": 3,
-      "clean_race_percent": 42.9,
-      "worst_contact_severity": 49.991,
-      "tracks": {
-        "Twin Ring Motegi - GP Layout": {
-          "races": 1,
-          "wins": 1,
-          "podiums": 1,
-          "average_finish": 1,
-          "contacts": 2,
-          "clean_race_percent": 0.0
-        },
-        "Sachsenring v1.0b": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 1,
-          "average_finish": 2,
-          "contacts": 1,
-          "clean_race_percent": 0.0
-        },
-        "Mugello Circuit v2.2": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0,
-          "average_finish": 4,
-          "contacts": 3,
-          "clean_race_percent": 0.0
-        },
-        "TT Circuit Assen v1.0": {
-          "races": 1,
-          "wins": 1,
-          "podiums": 1,
-          "average_finish": 1,
-          "contacts": 0,
-          "clean_race_percent": 100.0
-        },
-        "Circuit de Catalunya - 2021 v1.0b": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0,
-          "average_finish": 4,
-          "contacts": 0,
-          "clean_race_percent": 100.0
-        },
-        "Automotodrom Brno v1.0a": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 1,
-          "average_finish": 3,
-          "contacts": 0,
-          "clean_race_percent": 100.0
-        },
-        "Pertamina Mandalika International Circuit v1.2": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 1,
-          "average_finish": 3,
-          "contacts": 2,
-          "clean_race_percent": 0.0
-        }
-      },
-      "bikes": {
-        "CFMOTO RC250GP 2026": {
-          "races": 3,
-          "wins": 1,
-          "podiums": 2
-        },
-        "BMW ROKIT Motorrad Team": {
-          "races": 4,
-          "wins": 1,
-          "podiums": 3
-        }
-      }
-    },
-    {
       "guid": "FF011000012839A54F",
       "name": "sergioo14",
       "races": 7,
@@ -1027,6 +1204,180 @@
           "races": 2,
           "wins": 0,
           "podiums": 0
+        }
+      }
+    },
+    {
+      "guid": "FF0110000147B62069",
+      "name": "tacticworks",
+      "races": 7,
+      "wins": 1,
+      "podiums": 6,
+      "win_rate": 14.3,
+      "podium_rate": 85.7,
+      "average_finish": 2.857,
+      "average_start": 4,
+      "average_positions_gained": 1,
+      "best_finish": 1,
+      "best_recorded_lap": 94.392517,
+      "average_gap_percent": -8.936,
+      "contacts": 4,
+      "contacts_per_race": 0.571,
+      "clean_races": 3,
+      "clean_race_percent": 42.9,
+      "worst_contact_severity": 4.825,
+      "tracks": {
+        "Sepang International Circuit v2.1": {
+          "races": 2,
+          "wins": 1,
+          "podiums": 2,
+          "average_finish": 1.5,
+          "contacts": 1,
+          "clean_race_percent": 50.0
+        },
+        "Silverstone Circuit v1.0": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 7,
+          "contacts": 1,
+          "clean_race_percent": 0.0
+        },
+        "Misano World Circuit Marco Simoncelli v1.0": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 1,
+          "average_finish": 3,
+          "contacts": 1,
+          "clean_race_percent": 0.0
+        },
+        "Twin Ring Motegi - GP Layout": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 1,
+          "average_finish": 2,
+          "contacts": 0,
+          "clean_race_percent": 100.0
+        },
+        "Red Bull Ring 2.0 Beta3": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 1,
+          "average_finish": 2,
+          "contacts": 1,
+          "clean_race_percent": 0.0
+        },
+        "Circuit of the Americas v.1.2": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 1,
+          "average_finish": 3,
+          "contacts": 0,
+          "clean_race_percent": 100.0
+        }
+      },
+      "bikes": {
+        "Yamaha YZF-R1 2008": {
+          "races": 1,
+          "wins": 1,
+          "podiums": 1
+        },
+        "Honda HRC Team": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0
+        },
+        "BOSCOSCURO SC": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 1
+        },
+        "FORWARD": {
+          "races": 4,
+          "wins": 0,
+          "podiums": 4
+        }
+      }
+    },
+    {
+      "guid": "FF011000014C9788AB",
+      "name": "chilliams",
+      "races": 6,
+      "wins": 0,
+      "podiums": 3,
+      "win_rate": 0.0,
+      "podium_rate": 50.0,
+      "average_finish": 4.333,
+      "average_start": 4.5,
+      "average_positions_gained": 0.167,
+      "best_finish": 2,
+      "best_recorded_lap": 94.275696,
+      "average_gap_percent": 2.731,
+      "contacts": 5,
+      "contacts_per_race": 0.833,
+      "clean_races": 1,
+      "clean_race_percent": 16.7,
+      "worst_contact_severity": 4.155,
+      "tracks": {
+        "Automotodrom Brno v1.0a": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 1,
+          "average_finish": 2,
+          "contacts": 1,
+          "clean_race_percent": 0.0
+        },
+        "Pertamina Mandalika International Circuit v1.2": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 6,
+          "contacts": 1,
+          "clean_race_percent": 0.0
+        },
+        "Silverstone Circuit v1.0": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 1,
+          "average_finish": 3,
+          "contacts": 1,
+          "clean_race_percent": 0.0
+        },
+        "Red Bull Ring 2.0 Beta3": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 1,
+          "average_finish": 3,
+          "contacts": 0,
+          "clean_race_percent": 100.0
+        },
+        "Circuit of the Americas v.1.2": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 6,
+          "contacts": 1,
+          "clean_race_percent": 0.0
+        },
+        "Sepang International Circuit v2.1": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 6,
+          "contacts": 1,
+          "clean_race_percent": 0.0
+        }
+      },
+      "bikes": {
+        "BMW ROKIT Motorrad Team": {
+          "races": 3,
+          "wins": 0,
+          "podiums": 2
+        },
+        "BOSCOSCURO AKRA": {
+          "races": 3,
+          "wins": 0,
+          "podiums": 1
         }
       }
     },
@@ -1113,6 +1464,233 @@
       }
     },
     {
+      "guid": "FF011000010F6AEA30",
+      "name": "Lou",
+      "races": 6,
+      "wins": 0,
+      "podiums": 2,
+      "win_rate": 0.0,
+      "podium_rate": 33.3,
+      "average_finish": 6.333,
+      "average_start": 3.667,
+      "average_positions_gained": -2.667,
+      "best_finish": 2,
+      "best_recorded_lap": 122.701401,
+      "average_gap_percent": -26.405,
+      "contacts": 20,
+      "contacts_per_race": 3.333,
+      "clean_races": 1,
+      "clean_race_percent": 16.7,
+      "worst_contact_severity": 6.462,
+      "tracks": {
+        "Sepang International Circuit v2.1": {
+          "races": 2,
+          "wins": 0,
+          "podiums": 1,
+          "average_finish": 6,
+          "contacts": 9,
+          "clean_race_percent": 0.0
+        },
+        "Circuit of the Americas v.1.2": {
+          "races": 2,
+          "wins": 0,
+          "podiums": 1,
+          "average_finish": 3.5,
+          "contacts": 8,
+          "clean_race_percent": 0.0
+        },
+        "Le Mans Circuit Bugatti v1.1": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 9,
+          "contacts": 3,
+          "clean_race_percent": 0.0
+        },
+        "Misano World Circuit Marco Simoncelli v1.0": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 10,
+          "contacts": 0,
+          "clean_race_percent": 100.0
+        }
+      },
+      "bikes": {
+        "Suzuki GSXR 1000 2007": {
+          "races": 3,
+          "wins": 0,
+          "podiums": 2
+        },
+        "BOSCOSCURO AKRA": {
+          "races": 3,
+          "wins": 0,
+          "podiums": 0
+        }
+      }
+    },
+    {
+      "guid": "FF0110000144441578",
+      "name": "N1rmata",
+      "races": 6,
+      "wins": 1,
+      "podiums": 5,
+      "win_rate": 16.7,
+      "podium_rate": 83.3,
+      "average_finish": 2.5,
+      "average_start": 2.2,
+      "average_positions_gained": -0.4,
+      "best_finish": 1,
+      "best_recorded_lap": 83.572754,
+      "average_gap_percent": -2.139,
+      "contacts": 6,
+      "contacts_per_race": 1.0,
+      "clean_races": 3,
+      "clean_race_percent": 50.0,
+      "worst_contact_severity": 6.831,
+      "tracks": {
+        "Red Bull Ring 2.0 Beta3": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 1,
+          "average_finish": 2,
+          "contacts": 2,
+          "clean_race_percent": 0.0
+        },
+        "Sachsenring v1.0b": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 1,
+          "average_finish": 3,
+          "contacts": 1,
+          "clean_race_percent": 0.0
+        },
+        "Circuito de Jerez v2.1": {
+          "races": 1,
+          "wins": 1,
+          "podiums": 1,
+          "average_finish": 1,
+          "contacts": 3,
+          "clean_race_percent": 0.0
+        },
+        "Circuit de Catalunya - 2021 v1.0b": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 1,
+          "average_finish": 2,
+          "contacts": 0,
+          "clean_race_percent": 100.0
+        },
+        "Silverstone Circuit v1.0": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 1,
+          "average_finish": 3,
+          "contacts": 0,
+          "clean_race_percent": 100.0
+        },
+        "Misano World Circuit Marco Simoncelli v1.0": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 4,
+          "contacts": 0,
+          "clean_race_percent": 100.0
+        }
+      },
+      "bikes": {
+        "Ducati Aruba.it Racing": {
+          "races": 3,
+          "wins": 1,
+          "podiums": 3
+        },
+        "Kawasaki Racing Team": {
+          "races": 2,
+          "wins": 0,
+          "podiums": 2
+        },
+        "FORWARD": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0
+        }
+      }
+    },
+    {
+      "guid": "FF011000013C58BECA",
+      "name": "Nuno",
+      "races": 6,
+      "wins": 1,
+      "podiums": 2,
+      "win_rate": 16.7,
+      "podium_rate": 33.3,
+      "average_finish": 3.833,
+      "average_start": 4.833,
+      "average_positions_gained": 1,
+      "best_finish": 1,
+      "best_recorded_lap": 93.490997,
+      "average_gap_percent": -0.151,
+      "contacts": 7,
+      "contacts_per_race": 1.167,
+      "clean_races": 2,
+      "clean_race_percent": 33.3,
+      "worst_contact_severity": 10.739,
+      "tracks": {
+        "Red Bull Ring 2.0 Beta3": {
+          "races": 2,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 5,
+          "contacts": 4,
+          "clean_race_percent": 0.0
+        },
+        "Circuit of the Americas v.1.2": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 4,
+          "contacts": 1,
+          "clean_race_percent": 0.0
+        },
+        "Sepang International Circuit v2.1": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 1,
+          "average_finish": 3,
+          "contacts": 0,
+          "clean_race_percent": 100.0
+        },
+        "Misano World Circuit Marco Simoncelli v1.0": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 5,
+          "contacts": 0,
+          "clean_race_percent": 100.0
+        },
+        "Twin Ring Motegi - GP Layout": {
+          "races": 1,
+          "wins": 1,
+          "podiums": 1,
+          "average_finish": 1,
+          "contacts": 2,
+          "clean_race_percent": 0.0
+        }
+      },
+      "bikes": {
+        "BOSCOSCURO AKRA": {
+          "races": 4,
+          "wins": 1,
+          "podiums": 2
+        },
+        "KALEX Akrapovic 1": {
+          "races": 2,
+          "wins": 0,
+          "podiums": 0
+        }
+      }
+    },
+    {
       "guid": "FF0110000100783B33",
       "name": "AngeLo",
       "races": 5,
@@ -1180,6 +1758,159 @@
           "races": 1,
           "wins": 0,
           "podiums": 0
+        }
+      }
+    },
+    {
+      "guid": "FF011000010E6C0C98",
+      "name": "BNJMN",
+      "races": 5,
+      "wins": 2,
+      "podiums": 3,
+      "win_rate": 40.0,
+      "podium_rate": 60.0,
+      "average_finish": 3,
+      "average_start": 3.6,
+      "average_positions_gained": 0.6,
+      "best_finish": 1,
+      "best_recorded_lap": 93.769287,
+      "average_gap_percent": 1.046,
+      "contacts": 8,
+      "contacts_per_race": 1.6,
+      "clean_races": 1,
+      "clean_race_percent": 20.0,
+      "worst_contact_severity": 13.42,
+      "tracks": {
+        "Mugello Circuit v2.2": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 7,
+          "contacts": 0,
+          "clean_race_percent": 100.0
+        },
+        "Pertamina Mandalika International Circuit v1.2": {
+          "races": 1,
+          "wins": 1,
+          "podiums": 1,
+          "average_finish": 1,
+          "contacts": 3,
+          "clean_race_percent": 0.0
+        },
+        "Silverstone Circuit v1.0": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 4,
+          "contacts": 3,
+          "clean_race_percent": 0.0
+        },
+        "Sepang International Circuit v2.1": {
+          "races": 1,
+          "wins": 1,
+          "podiums": 1,
+          "average_finish": 1,
+          "contacts": 1,
+          "clean_race_percent": 0.0
+        },
+        "Misano World Circuit Marco Simoncelli v1.0": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 1,
+          "average_finish": 2,
+          "contacts": 1,
+          "clean_race_percent": 0.0
+        }
+      },
+      "bikes": {
+        "KTM RC250GP 2026": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0
+        },
+        "Yamaha PATA Prometeon Team": {
+          "races": 2,
+          "wins": 1,
+          "podiums": 1
+        },
+        "FORWARD": {
+          "races": 2,
+          "wins": 1,
+          "podiums": 2
+        }
+      }
+    },
+    {
+      "guid": "FF01100001095CE650",
+      "name": "Danislav1746",
+      "races": 5,
+      "wins": 2,
+      "podiums": 3,
+      "win_rate": 40.0,
+      "podium_rate": 60.0,
+      "average_finish": 3.2,
+      "average_start": 3.2,
+      "average_positions_gained": 0,
+      "best_finish": 1,
+      "best_recorded_lap": 93.049835,
+      "average_gap_percent": -14.628,
+      "contacts": 13,
+      "contacts_per_race": 2.6,
+      "clean_races": 1,
+      "clean_race_percent": 20.0,
+      "worst_contact_severity": 21.462,
+      "tracks": {
+        "Le Mans Circuit Bugatti v1.1": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 8,
+          "contacts": 4,
+          "clean_race_percent": 0.0
+        },
+        "Red Bull Ring 2.0 Beta3": {
+          "races": 1,
+          "wins": 1,
+          "podiums": 1,
+          "average_finish": 1,
+          "contacts": 0,
+          "clean_race_percent": 100.0
+        },
+        "Circuit of the Americas v.1.2": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 1,
+          "average_finish": 2,
+          "contacts": 3,
+          "clean_race_percent": 0.0
+        },
+        "Sepang International Circuit v2.1": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 4,
+          "contacts": 4,
+          "clean_race_percent": 0.0
+        },
+        "Misano World Circuit Marco Simoncelli v1.0": {
+          "races": 1,
+          "wins": 1,
+          "podiums": 1,
+          "average_finish": 1,
+          "contacts": 2,
+          "clean_race_percent": 0.0
+        }
+      },
+      "bikes": {
+        "Suzuki GSXR 1000 2007": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0
+        },
+        "FORWARD": {
+          "races": 4,
+          "wins": 2,
+          "podiums": 3
         }
       }
     },
@@ -1253,108 +1984,34 @@
       }
     },
     {
-      "guid": "FF0110000144441578",
-      "name": "N1rmata",
-      "races": 5,
-      "wins": 1,
-      "podiums": 5,
-      "win_rate": 20.0,
-      "podium_rate": 100.0,
-      "average_finish": 2.2,
-      "average_start": 2,
-      "average_positions_gained": -0.25,
-      "best_finish": 1,
-      "best_recorded_lap": 83.572754,
-      "average_gap_percent": -2.804,
-      "contacts": 6,
-      "contacts_per_race": 1.2,
-      "clean_races": 2,
-      "clean_race_percent": 40.0,
-      "worst_contact_severity": 6.831,
-      "tracks": {
-        "Red Bull Ring 2.0 Beta3": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 1,
-          "average_finish": 2,
-          "contacts": 2,
-          "clean_race_percent": 0.0
-        },
-        "Sachsenring v1.0b": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 1,
-          "average_finish": 3,
-          "contacts": 1,
-          "clean_race_percent": 0.0
-        },
-        "Circuito de Jerez v2.1": {
-          "races": 1,
-          "wins": 1,
-          "podiums": 1,
-          "average_finish": 1,
-          "contacts": 3,
-          "clean_race_percent": 0.0
-        },
-        "Circuit de Catalunya - 2021 v1.0b": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 1,
-          "average_finish": 2,
-          "contacts": 0,
-          "clean_race_percent": 100.0
-        },
-        "Silverstone Circuit v1.0": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 1,
-          "average_finish": 3,
-          "contacts": 0,
-          "clean_race_percent": 100.0
-        }
-      },
-      "bikes": {
-        "Ducati Aruba.it Racing": {
-          "races": 3,
-          "wins": 1,
-          "podiums": 3
-        },
-        "Kawasaki Racing Team": {
-          "races": 2,
-          "wins": 0,
-          "podiums": 2
-        }
-      }
-    },
-    {
-      "guid": "FF011000010327D643",
-      "name": "Ricoway46",
+      "guid": "FF011000014A1D4048",
+      "name": "Marcus",
       "races": 5,
       "wins": 2,
       "podiums": 4,
       "win_rate": 40.0,
       "podium_rate": 80.0,
-      "average_finish": 2.4,
-      "average_start": 3.2,
+      "average_finish": 2.6,
+      "average_start": 3.4,
       "average_positions_gained": 0.8,
       "best_finish": 1,
-      "best_recorded_lap": 83.558472,
-      "average_gap_percent": 1.404,
+      "best_recorded_lap": 103.004227,
+      "average_gap_percent": -11.22,
       "contacts": 4,
       "contacts_per_race": 0.8,
-      "clean_races": 3,
-      "clean_race_percent": 60.0,
-      "worst_contact_severity": 10.127,
+      "clean_races": 2,
+      "clean_race_percent": 40.0,
+      "worst_contact_severity": 2.733,
       "tracks": {
-        "Sepang International Circuit v2.1": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0,
-          "average_finish": 5,
-          "contacts": 0,
-          "clean_race_percent": 100.0
+        "Circuit of the Americas v.1.2": {
+          "races": 2,
+          "wins": 1,
+          "podiums": 1,
+          "average_finish": 4,
+          "contacts": 3,
+          "clean_race_percent": 0.0
         },
-        "Red Bull Ring 2.0 Beta3": {
+        "Circuit de Catalunya - 2021 v1.0b": {
           "races": 1,
           "wins": 0,
           "podiums": 1,
@@ -1362,7 +2019,7 @@
           "contacts": 0,
           "clean_race_percent": 100.0
         },
-        "Sachsenring v1.0b": {
+        "Automotodrom Brno v1.0a": {
           "races": 1,
           "wins": 1,
           "podiums": 1,
@@ -1370,20 +2027,12 @@
           "contacts": 0,
           "clean_race_percent": 100.0
         },
-        "Circuito de Jerez v2.1": {
-          "races": 1,
-          "wins": 1,
-          "podiums": 1,
-          "average_finish": 1,
-          "contacts": 1,
-          "clean_race_percent": 0.0
-        },
-        "Circuit de Catalunya - 2021 v1.0b": {
+        "Sepang International Circuit v2.1": {
           "races": 1,
           "wins": 0,
           "podiums": 1,
-          "average_finish": 3,
-          "contacts": 3,
+          "average_finish": 2,
+          "contacts": 1,
           "clean_race_percent": 0.0
         }
       },
@@ -1393,15 +2042,15 @@
           "wins": 0,
           "podiums": 0
         },
-        "BMW ROKIT Motorrad Team": {
-          "races": 3,
-          "wins": 2,
-          "podiums": 3
+        "Honda HRC Team": {
+          "races": 2,
+          "wins": 1,
+          "podiums": 2
         },
-        "Ducati Aruba.it Racing": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 1
+        "FORWARD": {
+          "races": 2,
+          "wins": 1,
+          "podiums": 2
         }
       }
     },
@@ -1483,6 +2132,69 @@
           "podiums": 1
         },
         "KTM RC250GP 2026": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0
+        }
+      }
+    },
+    {
+      "guid": "FF01100001369E28B1",
+      "name": "Carrasco",
+      "races": 4,
+      "wins": 0,
+      "podiums": 0,
+      "win_rate": 0.0,
+      "podium_rate": 0.0,
+      "average_finish": 7.75,
+      "average_start": 4.5,
+      "average_positions_gained": -3.25,
+      "best_finish": 6,
+      "best_recorded_lap": 97.243866,
+      "average_gap_percent": -29.535,
+      "contacts": 10,
+      "contacts_per_race": 2.5,
+      "clean_races": 1,
+      "clean_race_percent": 25.0,
+      "worst_contact_severity": 6.509,
+      "tracks": {
+        "Circuito de Jerez v2.1": {
+          "races": 2,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 9.5,
+          "contacts": 9,
+          "clean_race_percent": 0.0
+        },
+        "Circuit of the Americas v.1.2": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 6,
+          "contacts": 1,
+          "clean_race_percent": 0.0
+        },
+        "Misano World Circuit Marco Simoncelli v1.0": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 6,
+          "contacts": 0,
+          "clean_race_percent": 100.0
+        }
+      },
+      "bikes": {
+        "CFMOTO RC250GP 2026": {
+          "races": 2,
+          "wins": 0,
+          "podiums": 0
+        },
+        "Yamaha YZF-R1 2008": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0
+        },
+        "BOSCOSCURO AKRA": {
           "races": 1,
           "wins": 0,
           "podiums": 0
@@ -1632,6 +2344,72 @@
         "BMW ROKIT Motorrad Team": {
           "races": 2,
           "wins": 0,
+          "podiums": 1
+        }
+      }
+    },
+    {
+      "guid": "FF011000011874EC13",
+      "name": "oover",
+      "races": 4,
+      "wins": 2,
+      "podiums": 4,
+      "win_rate": 50.0,
+      "podium_rate": 100.0,
+      "average_finish": 2,
+      "average_start": 3.75,
+      "average_positions_gained": 1.75,
+      "best_finish": 1,
+      "best_recorded_lap": 95.567154,
+      "average_gap_percent": -4.553,
+      "contacts": 8,
+      "contacts_per_race": 2.0,
+      "clean_races": 1,
+      "clean_race_percent": 25.0,
+      "worst_contact_severity": 6.647,
+      "tracks": {
+        "Sepang International Circuit v2.1": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 1,
+          "average_finish": 3,
+          "contacts": 5,
+          "clean_race_percent": 0.0
+        },
+        "Circuit of the Americas v.1.2": {
+          "races": 1,
+          "wins": 1,
+          "podiums": 1,
+          "average_finish": 1,
+          "contacts": 1,
+          "clean_race_percent": 0.0
+        },
+        "Le Mans Circuit Bugatti v1.1": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 1,
+          "average_finish": 3,
+          "contacts": 0,
+          "clean_race_percent": 100.0
+        },
+        "Misano World Circuit Marco Simoncelli v1.0": {
+          "races": 1,
+          "wins": 1,
+          "podiums": 1,
+          "average_finish": 1,
+          "contacts": 2,
+          "clean_race_percent": 0.0
+        }
+      },
+      "bikes": {
+        "Honda CBR 1000RR 2005": {
+          "races": 3,
+          "wins": 1,
+          "podiums": 3
+        },
+        "BOSCOSCURO AKRA": {
+          "races": 1,
+          "wins": 1,
           "podiums": 1
         }
       }
@@ -1830,6 +2608,64 @@
       }
     },
     {
+      "guid": "FF0110000134340279",
+      "name": "A.Arenas",
+      "races": 3,
+      "wins": 0,
+      "podiums": 0,
+      "win_rate": 0.0,
+      "podium_rate": 0.0,
+      "average_finish": 6.333,
+      "average_start": 6.333,
+      "average_positions_gained": 0,
+      "best_finish": 5,
+      "best_recorded_lap": 106.756714,
+      "average_gap_percent": -33.919,
+      "contacts": 12,
+      "contacts_per_race": 4.0,
+      "clean_races": 0,
+      "clean_race_percent": 0.0,
+      "worst_contact_severity": 25.38,
+      "tracks": {
+        "Circuito de Jerez v2.1": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 8,
+          "contacts": 6,
+          "clean_race_percent": 0.0
+        },
+        "Automotodrom Brno v1.0a": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 6,
+          "contacts": 5,
+          "clean_race_percent": 0.0
+        },
+        "Circuit of the Americas v.1.2": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 5,
+          "contacts": 1,
+          "clean_race_percent": 0.0
+        }
+      },
+      "bikes": {
+        "Honda NSF250RW 2026": {
+          "races": 2,
+          "wins": 0,
+          "podiums": 0
+        },
+        "KALEX Akrapovic 2": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0
+        }
+      }
+    },
+    {
       "guid": "FF011000014D4BB7B4",
       "name": "Billy Jones",
       "races": 3,
@@ -1893,167 +2729,6 @@
       }
     },
     {
-      "guid": "FF011000010E6C0C98",
-      "name": "BNJMN",
-      "races": 3,
-      "wins": 1,
-      "podiums": 1,
-      "win_rate": 33.3,
-      "podium_rate": 33.3,
-      "average_finish": 4,
-      "average_start": 2.667,
-      "average_positions_gained": -1.333,
-      "best_finish": 1,
-      "best_recorded_lap": 93.769287,
-      "average_gap_percent": 1.881,
-      "contacts": 6,
-      "contacts_per_race": 2.0,
-      "clean_races": 1,
-      "clean_race_percent": 33.3,
-      "worst_contact_severity": 13.42,
-      "tracks": {
-        "Mugello Circuit v2.2": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0,
-          "average_finish": 7,
-          "contacts": 0,
-          "clean_race_percent": 100.0
-        },
-        "Pertamina Mandalika International Circuit v1.2": {
-          "races": 1,
-          "wins": 1,
-          "podiums": 1,
-          "average_finish": 1,
-          "contacts": 3,
-          "clean_race_percent": 0.0
-        },
-        "Silverstone Circuit v1.0": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0,
-          "average_finish": 4,
-          "contacts": 3,
-          "clean_race_percent": 0.0
-        }
-      },
-      "bikes": {
-        "KTM RC250GP 2026": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0
-        },
-        "Yamaha PATA Prometeon Team": {
-          "races": 2,
-          "wins": 1,
-          "podiums": 1
-        }
-      }
-    },
-    {
-      "guid": "FF01100001369E28B1",
-      "name": "Carrasco",
-      "races": 3,
-      "wins": 0,
-      "podiums": 0,
-      "win_rate": 0.0,
-      "podium_rate": 0.0,
-      "average_finish": 8.333,
-      "average_start": 4.667,
-      "average_positions_gained": -3.667,
-      "best_finish": 6,
-      "best_recorded_lap": 105.495117,
-      "average_gap_percent": -16.654,
-      "contacts": 10,
-      "contacts_per_race": 3.333,
-      "clean_races": 0,
-      "clean_race_percent": 0.0,
-      "worst_contact_severity": 6.509,
-      "tracks": {
-        "Circuito de Jerez v2.1": {
-          "races": 2,
-          "wins": 0,
-          "podiums": 0,
-          "average_finish": 9.5,
-          "contacts": 9,
-          "clean_race_percent": 0.0
-        },
-        "Circuit of the Americas v.1.2": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0,
-          "average_finish": 6,
-          "contacts": 1,
-          "clean_race_percent": 0.0
-        }
-      },
-      "bikes": {
-        "CFMOTO RC250GP 2026": {
-          "races": 2,
-          "wins": 0,
-          "podiums": 0
-        },
-        "Yamaha YZF-R1 2008": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0
-        }
-      }
-    },
-    {
-      "guid": "FF011000014C9788AB",
-      "name": "chilliams",
-      "races": 3,
-      "wins": 0,
-      "podiums": 2,
-      "win_rate": 0.0,
-      "podium_rate": 66.7,
-      "average_finish": 3.667,
-      "average_start": 4,
-      "average_positions_gained": 0.333,
-      "best_finish": 2,
-      "best_recorded_lap": 95.947159,
-      "average_gap_percent": 1.936,
-      "contacts": 3,
-      "contacts_per_race": 1.0,
-      "clean_races": 0,
-      "clean_race_percent": 0.0,
-      "worst_contact_severity": 4.155,
-      "tracks": {
-        "Automotodrom Brno v1.0a": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 1,
-          "average_finish": 2,
-          "contacts": 1,
-          "clean_race_percent": 0.0
-        },
-        "Pertamina Mandalika International Circuit v1.2": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0,
-          "average_finish": 6,
-          "contacts": 1,
-          "clean_race_percent": 0.0
-        },
-        "Silverstone Circuit v1.0": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 1,
-          "average_finish": 3,
-          "contacts": 1,
-          "clean_race_percent": 0.0
-        }
-      },
-      "bikes": {
-        "BMW ROKIT Motorrad Team": {
-          "races": 3,
-          "wins": 0,
-          "podiums": 2
-        }
-      }
-    },
-    {
       "guid": "FF011000016F7AF7C5",
       "name": "collinlanger96",
       "races": 3,
@@ -2112,6 +2787,59 @@
       }
     },
     {
+      "guid": "FF011000015C8FE55B",
+      "name": "EgoMan",
+      "races": 3,
+      "wins": 0,
+      "podiums": 1,
+      "win_rate": 0.0,
+      "podium_rate": 33.3,
+      "average_finish": 4,
+      "average_start": 3.667,
+      "average_positions_gained": -0.333,
+      "best_finish": 3,
+      "best_recorded_lap": 96.86969,
+      "average_gap_percent": -40.777,
+      "contacts": 4,
+      "contacts_per_race": 1.333,
+      "clean_races": 1,
+      "clean_race_percent": 33.3,
+      "worst_contact_severity": 26.89,
+      "tracks": {
+        "Twin Ring Motegi - GP Layout": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 5,
+          "contacts": 0,
+          "clean_race_percent": 100.0
+        },
+        "Red Bull Ring 2.0 Beta3": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 1,
+          "average_finish": 3,
+          "contacts": 3,
+          "clean_race_percent": 0.0
+        },
+        "Circuit of the Americas v.1.2": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 4,
+          "contacts": 1,
+          "clean_race_percent": 0.0
+        }
+      },
+      "bikes": {
+        "KALEX Akrapovic 1": {
+          "races": 3,
+          "wins": 0,
+          "podiums": 1
+        }
+      }
+    },
+    {
       "guid": "FF011000014345B30D",
       "name": "Gonzalo Molina",
       "races": 3,
@@ -2161,6 +2889,69 @@
           "races": 3,
           "wins": 2,
           "podiums": 2
+        }
+      }
+    },
+    {
+      "guid": "FF0110000142F90766",
+      "name": "HectorLl93",
+      "races": 3,
+      "wins": 0,
+      "podiums": 0,
+      "win_rate": 0.0,
+      "podium_rate": 0.0,
+      "average_finish": 6.333,
+      "average_start": 6,
+      "average_positions_gained": -0.333,
+      "best_finish": 4,
+      "best_recorded_lap": 102.932556,
+      "average_gap_percent": 3.313,
+      "contacts": 3,
+      "contacts_per_race": 1.0,
+      "clean_races": 1,
+      "clean_race_percent": 33.3,
+      "worst_contact_severity": 5.176,
+      "tracks": {
+        "Motorland Aragon 1.0b": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 4,
+          "contacts": 1,
+          "clean_race_percent": 0.0
+        },
+        "Le Mans Circuit Bugatti v1.1": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 10,
+          "contacts": 0,
+          "clean_race_percent": 100.0
+        },
+        "Sepang International Circuit v2.1": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 5,
+          "contacts": 2,
+          "clean_race_percent": 0.0
+        }
+      },
+      "bikes": {
+        "Ducati Aruba.it Racing": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0
+        },
+        "Suzuki GSXR 1000 2007": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0
+        },
+        "FORWARD": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0
         }
       }
     },
@@ -2223,166 +3014,60 @@
       }
     },
     {
-      "guid": "FF011000010F6AEA30",
-      "name": "Lou",
+      "guid": "FF011000010C91FF05",
+      "name": "mrarcin",
       "races": 3,
       "wins": 0,
-      "podiums": 2,
+      "podiums": 0,
       "win_rate": 0.0,
-      "podium_rate": 66.7,
-      "average_finish": 4.333,
-      "average_start": 5.667,
-      "average_positions_gained": 1.333,
-      "best_finish": 2,
-      "best_recorded_lap": 126.70755,
-      "average_gap_percent": -25.22,
-      "contacts": 13,
-      "contacts_per_race": 4.333,
-      "clean_races": 0,
-      "clean_race_percent": 0.0,
-      "worst_contact_severity": 6.462,
-      "tracks": {
-        "Sepang International Circuit v2.1": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 1,
-          "average_finish": 2,
-          "contacts": 5,
-          "clean_race_percent": 0.0
-        },
-        "Circuit of the Americas v.1.2": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 1,
-          "average_finish": 2,
-          "contacts": 5,
-          "clean_race_percent": 0.0
-        },
-        "Le Mans Circuit Bugatti v1.1": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0,
-          "average_finish": 9,
-          "contacts": 3,
-          "clean_race_percent": 0.0
-        }
-      },
-      "bikes": {
-        "Suzuki GSXR 1000 2007": {
-          "races": 3,
-          "wins": 0,
-          "podiums": 2
-        }
-      }
-    },
-    {
-      "guid": "FF011000014A1D4048",
-      "name": "Marcus",
-      "races": 3,
-      "wins": 1,
-      "podiums": 2,
-      "win_rate": 33.3,
-      "podium_rate": 66.7,
-      "average_finish": 3.333,
-      "average_start": 4.667,
-      "average_positions_gained": 1.333,
-      "best_finish": 1,
-      "best_recorded_lap": 103.004227,
-      "average_gap_percent": -18.7,
+      "podium_rate": 0.0,
+      "average_finish": 8,
+      "average_start": 6.667,
+      "average_positions_gained": -1.333,
+      "best_finish": 7,
+      "best_recorded_lap": 96.772202,
+      "average_gap_percent": 5.849,
       "contacts": 2,
       "contacts_per_race": 0.667,
-      "clean_races": 2,
-      "clean_race_percent": 66.7,
-      "worst_contact_severity": 2.477,
+      "clean_races": 1,
+      "clean_race_percent": 33.3,
+      "worst_contact_severity": 0.928,
       "tracks": {
-        "Circuit of the Americas v.1.2": {
+        "Automotodrom Brno v1.0a": {
           "races": 1,
           "wins": 0,
           "podiums": 0,
           "average_finish": 7,
-          "contacts": 2,
-          "clean_race_percent": 0.0
-        },
-        "Circuit de Catalunya - 2021 v1.0b": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 1,
-          "average_finish": 2,
-          "contacts": 0,
-          "clean_race_percent": 100.0
-        },
-        "Automotodrom Brno v1.0a": {
-          "races": 1,
-          "wins": 1,
-          "podiums": 1,
-          "average_finish": 1,
-          "contacts": 0,
-          "clean_race_percent": 100.0
-        }
-      },
-      "bikes": {
-        "Yamaha YZF-R1 2008": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0
-        },
-        "Honda HRC Team": {
-          "races": 2,
-          "wins": 1,
-          "podiums": 2
-        }
-      }
-    },
-    {
-      "guid": "FF011000011874EC13",
-      "name": "oover",
-      "races": 3,
-      "wins": 1,
-      "podiums": 3,
-      "win_rate": 33.3,
-      "podium_rate": 100.0,
-      "average_finish": 2.333,
-      "average_start": 1.667,
-      "average_positions_gained": -0.667,
-      "best_finish": 1,
-      "best_recorded_lap": 97.473343,
-      "average_gap_percent": -6.071,
-      "contacts": 6,
-      "contacts_per_race": 2.0,
-      "clean_races": 1,
-      "clean_race_percent": 33.3,
-      "worst_contact_severity": 6.647,
-      "tracks": {
-        "Sepang International Circuit v2.1": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 1,
-          "average_finish": 3,
-          "contacts": 5,
-          "clean_race_percent": 0.0
-        },
-        "Circuit of the Americas v.1.2": {
-          "races": 1,
-          "wins": 1,
-          "podiums": 1,
-          "average_finish": 1,
           "contacts": 1,
           "clean_race_percent": 0.0
         },
-        "Le Mans Circuit Bugatti v1.1": {
+        "Pertamina Mandalika International Circuit v1.2": {
           "races": 1,
           "wins": 0,
-          "podiums": 1,
-          "average_finish": 3,
+          "podiums": 0,
+          "average_finish": 8,
+          "contacts": 1,
+          "clean_race_percent": 0.0
+        },
+        "Misano World Circuit Marco Simoncelli v1.0": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 9,
           "contacts": 0,
           "clean_race_percent": 100.0
         }
       },
       "bikes": {
-        "Honda CBR 1000RR 2005": {
-          "races": 3,
-          "wins": 1,
-          "podiums": 3
+        "Honda Petronas MIE Racing": {
+          "races": 2,
+          "wins": 0,
+          "podiums": 0
+        },
+        "KALEX SC": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0
         }
       }
     },
@@ -2444,51 +3129,6 @@
         },
         "BMW ROKIT Motorrad Team": {
           "races": 1,
-          "wins": 0,
-          "podiums": 0
-        }
-      }
-    },
-    {
-      "guid": "FF0110000134340279",
-      "name": "A.Arenas",
-      "races": 2,
-      "wins": 0,
-      "podiums": 0,
-      "win_rate": 0.0,
-      "podium_rate": 0.0,
-      "average_finish": 7,
-      "average_start": 7,
-      "average_positions_gained": 0,
-      "best_finish": 6,
-      "best_recorded_lap": 106.756714,
-      "average_gap_percent": -12.347,
-      "contacts": 11,
-      "contacts_per_race": 5.5,
-      "clean_races": 0,
-      "clean_race_percent": 0.0,
-      "worst_contact_severity": 25.38,
-      "tracks": {
-        "Circuito de Jerez v2.1": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0,
-          "average_finish": 8,
-          "contacts": 6,
-          "clean_race_percent": 0.0
-        },
-        "Automotodrom Brno v1.0a": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0,
-          "average_finish": 6,
-          "contacts": 5,
-          "clean_race_percent": 0.0
-        }
-      },
-      "bikes": {
-        "Honda NSF250RW 2026": {
-          "races": 2,
           "wins": 0,
           "podiums": 0
         }
@@ -2590,6 +3230,56 @@
       }
     },
     {
+      "guid": "FF011000015BE9D84F",
+      "name": "AL",
+      "races": 2,
+      "wins": 0,
+      "podiums": 1,
+      "win_rate": 0.0,
+      "podium_rate": 50.0,
+      "average_finish": 7,
+      "average_start": 6,
+      "average_positions_gained": -5,
+      "best_finish": 3,
+      "best_recorded_lap": 127.746277,
+      "average_gap_percent": 6.215,
+      "contacts": 2,
+      "contacts_per_race": 1.0,
+      "clean_races": 0,
+      "clean_race_percent": 0.0,
+      "worst_contact_severity": 9.659,
+      "tracks": {
+        "Circuit of the Americas v.1.2": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 11,
+          "contacts": 1,
+          "clean_race_percent": 0.0
+        },
+        "Sepang International Circuit v2.1": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 1,
+          "average_finish": 3,
+          "contacts": 1,
+          "clean_race_percent": 0.0
+        }
+      },
+      "bikes": {
+        "Honda CBR 1000RR 2005": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0
+        },
+        "BOSCOSCURO AKRA": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 1
+        }
+      }
+    },
+    {
       "guid": "FF011000013A03ED5F",
       "name": "alerelinque",
       "races": 2,
@@ -2676,6 +3366,51 @@
           "races": 2,
           "wins": 0,
           "podiums": 1
+        }
+      }
+    },
+    {
+      "guid": "FF011000011B3E14C8",
+      "name": "Andrea De Santis",
+      "races": 2,
+      "wins": 0,
+      "podiums": 0,
+      "win_rate": 0.0,
+      "podium_rate": 0.0,
+      "average_finish": 6,
+      "average_start": 7.5,
+      "average_positions_gained": 1.5,
+      "best_finish": 4,
+      "best_recorded_lap": 99.287796,
+      "average_gap_percent": 8.938,
+      "contacts": 2,
+      "contacts_per_race": 1.0,
+      "clean_races": 1,
+      "clean_race_percent": 50.0,
+      "worst_contact_severity": 5.857,
+      "tracks": {
+        "Sepang International Circuit v2.1": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 8,
+          "contacts": 2,
+          "clean_race_percent": 0.0
+        },
+        "Misano World Circuit Marco Simoncelli v1.0": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 4,
+          "contacts": 0,
+          "clean_race_percent": 100.0
+        }
+      },
+      "bikes": {
+        "FORWARD": {
+          "races": 2,
+          "wins": 0,
+          "podiums": 0
         }
       }
     },
@@ -2816,56 +3551,6 @@
           "races": 1,
           "wins": 0,
           "podiums": 1
-        }
-      }
-    },
-    {
-      "guid": "FF0110000142F90766",
-      "name": "HectorLl93",
-      "races": 2,
-      "wins": 0,
-      "podiums": 0,
-      "win_rate": 0.0,
-      "podium_rate": 0.0,
-      "average_finish": 7,
-      "average_start": 5.5,
-      "average_positions_gained": -1.5,
-      "best_finish": 4,
-      "best_recorded_lap": 102.932556,
-      "average_gap_percent": 3.51,
-      "contacts": 1,
-      "contacts_per_race": 0.5,
-      "clean_races": 1,
-      "clean_race_percent": 50.0,
-      "worst_contact_severity": 5.176,
-      "tracks": {
-        "Motorland Aragon 1.0b": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0,
-          "average_finish": 4,
-          "contacts": 1,
-          "clean_race_percent": 0.0
-        },
-        "Le Mans Circuit Bugatti v1.1": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0,
-          "average_finish": 10,
-          "contacts": 0,
-          "clean_race_percent": 100.0
-        }
-      },
-      "bikes": {
-        "Ducati Aruba.it Racing": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0
-        },
-        "Suzuki GSXR 1000 2007": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0
         }
       }
     },
@@ -3102,51 +3787,6 @@
       }
     },
     {
-      "guid": "FF011000010C91FF05",
-      "name": "mrarcin",
-      "races": 2,
-      "wins": 0,
-      "podiums": 0,
-      "win_rate": 0.0,
-      "podium_rate": 0.0,
-      "average_finish": 7.5,
-      "average_start": 6,
-      "average_positions_gained": -1.5,
-      "best_finish": 7,
-      "best_recorded_lap": 96.772202,
-      "average_gap_percent": 5.849,
-      "contacts": 2,
-      "contacts_per_race": 1.0,
-      "clean_races": 0,
-      "clean_race_percent": 0.0,
-      "worst_contact_severity": 0.928,
-      "tracks": {
-        "Automotodrom Brno v1.0a": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0,
-          "average_finish": 7,
-          "contacts": 1,
-          "clean_race_percent": 0.0
-        },
-        "Pertamina Mandalika International Circuit v1.2": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0,
-          "average_finish": 8,
-          "contacts": 1,
-          "clean_race_percent": 0.0
-        }
-      },
-      "bikes": {
-        "Honda Petronas MIE Racing": {
-          "races": 2,
-          "wins": 0,
-          "podiums": 0
-        }
-      }
-    },
-    {
       "guid": "FF0110000163621203",
       "name": "niggaboy#46",
       "races": 2,
@@ -3282,50 +3922,45 @@
       }
     },
     {
-      "guid": "FF0110000147B62069",
-      "name": "tacticworks",
+      "guid": "FF0110000107260507",
+      "name": "SrPomit",
       "races": 2,
-      "wins": 1,
-      "podiums": 1,
-      "win_rate": 50.0,
-      "podium_rate": 50.0,
-      "average_finish": 4,
-      "average_start": 3,
-      "average_positions_gained": -1,
-      "best_finish": 1,
-      "best_recorded_lap": 127.041473,
-      "average_gap_percent": -23.629,
+      "wins": 0,
+      "podiums": 0,
+      "win_rate": 0.0,
+      "podium_rate": 0.0,
+      "average_finish": 5.5,
+      "average_start": 4,
+      "average_positions_gained": -1.5,
+      "best_finish": 4,
+      "best_recorded_lap": 106.954948,
+      "average_gap_percent": -19.595,
       "contacts": 2,
       "contacts_per_race": 1.0,
-      "clean_races": 0,
-      "clean_race_percent": 0.0,
-      "worst_contact_severity": 3.678,
+      "clean_races": 1,
+      "clean_race_percent": 50.0,
+      "worst_contact_severity": 6.731,
       "tracks": {
         "Sepang International Circuit v2.1": {
           "races": 1,
-          "wins": 1,
-          "podiums": 1,
-          "average_finish": 1,
-          "contacts": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 4,
+          "contacts": 2,
           "clean_race_percent": 0.0
         },
-        "Silverstone Circuit v1.0": {
+        "Misano World Circuit Marco Simoncelli v1.0": {
           "races": 1,
           "wins": 0,
           "podiums": 0,
           "average_finish": 7,
-          "contacts": 1,
-          "clean_race_percent": 0.0
+          "contacts": 0,
+          "clean_race_percent": 100.0
         }
       },
       "bikes": {
-        "Yamaha YZF-R1 2008": {
-          "races": 1,
-          "wins": 1,
-          "podiums": 1
-        },
-        "Honda HRC Team": {
-          "races": 1,
+        "BOSCOSCURO SC": {
+          "races": 2,
           "wins": 0,
           "podiums": 0
         }
@@ -3373,6 +4008,51 @@
           "races": 2,
           "wins": 0,
           "podiums": 1
+        }
+      }
+    },
+    {
+      "guid": "FF0110000101CCBFBB",
+      "name": "vat1028",
+      "races": 2,
+      "wins": 0,
+      "podiums": 0,
+      "win_rate": 0.0,
+      "podium_rate": 0.0,
+      "average_finish": 8,
+      "average_start": 7,
+      "average_positions_gained": -1,
+      "best_finish": 6,
+      "best_recorded_lap": 97.02356,
+      "average_gap_percent": -12.297,
+      "contacts": 2,
+      "contacts_per_race": 1.0,
+      "clean_races": 0,
+      "clean_race_percent": 0.0,
+      "worst_contact_severity": 11.391,
+      "tracks": {
+        "Red Bull Ring 2.0 Beta3": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 6,
+          "contacts": 1,
+          "clean_race_percent": 0.0
+        },
+        "Circuit of the Americas v.1.2": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 10,
+          "contacts": 1,
+          "clean_race_percent": 0.0
+        }
+      },
+      "bikes": {
+        "BOSCOSCURO AKRA": {
+          "races": 2,
+          "wins": 0,
+          "podiums": 0
         }
       }
     },
@@ -3488,36 +4168,36 @@
       }
     },
     {
-      "guid": "FF011000015BE9D84F",
-      "name": "AL",
+      "guid": "FF011000012F419D3D",
+      "name": "AITORGP",
       "races": 1,
       "wins": 0,
       "podiums": 0,
       "win_rate": 0.0,
       "podium_rate": 0.0,
-      "average_finish": 11,
-      "average_start": 6,
-      "average_positions_gained": -5,
-      "best_finish": 11,
-      "best_recorded_lap": null,
-      "average_gap_percent": null,
-      "contacts": 1,
-      "contacts_per_race": 1.0,
+      "average_finish": 7,
+      "average_start": 7,
+      "average_positions_gained": 0,
+      "best_finish": 7,
+      "best_recorded_lap": 157.000473,
+      "average_gap_percent": 14.253,
+      "contacts": 3,
+      "contacts_per_race": 3.0,
       "clean_races": 0,
       "clean_race_percent": 0.0,
-      "worst_contact_severity": 8.599,
+      "worst_contact_severity": 22.095,
       "tracks": {
-        "Circuit of the Americas v.1.2": {
+        "Red Bull Ring 2.0 Beta3": {
           "races": 1,
           "wins": 0,
           "podiums": 0,
-          "average_finish": 11,
-          "contacts": 1,
+          "average_finish": 7,
+          "contacts": 3,
           "clean_race_percent": 0.0
         }
       },
       "bikes": {
-        "Honda CBR 1000RR 2005": {
+        "KALEX Akrapovic 1": {
           "races": 1,
           "wins": 0,
           "podiums": 0
@@ -3673,36 +4353,73 @@
       }
     },
     {
-      "guid": "FF01100001095CE650",
-      "name": "Danislav1746",
+      "guid": "FF011000013776EEF0",
+      "name": "Dani",
+      "races": 1,
+      "wins": 0,
+      "podiums": 1,
+      "win_rate": 0.0,
+      "podium_rate": 100.0,
+      "average_finish": 2,
+      "average_start": 8,
+      "average_positions_gained": 6,
+      "best_finish": 2,
+      "best_recorded_lap": 93.835205,
+      "average_gap_percent": 1.174,
+      "contacts": 2,
+      "contacts_per_race": 2.0,
+      "clean_races": 0,
+      "clean_race_percent": 0.0,
+      "worst_contact_severity": 14.624,
+      "tracks": {
+        "Red Bull Ring 2.0 Beta3": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 1,
+          "average_finish": 2,
+          "contacts": 2,
+          "clean_race_percent": 0.0
+        }
+      },
+      "bikes": {
+        "FORWARD": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 1
+        }
+      }
+    },
+    {
+      "guid": "FF0110000103FA6C5B",
+      "name": "El-Ninety-Nine",
       "races": 1,
       "wins": 0,
       "podiums": 0,
       "win_rate": 0.0,
       "podium_rate": 0.0,
-      "average_finish": 8,
-      "average_start": 9,
-      "average_positions_gained": 1,
-      "best_finish": 8,
-      "best_recorded_lap": 126.591805,
-      "average_gap_percent": -75.614,
-      "contacts": 4,
-      "contacts_per_race": 4.0,
+      "average_finish": 7,
+      "average_start": null,
+      "average_positions_gained": null,
+      "best_finish": 7,
+      "best_recorded_lap": 127.068542,
+      "average_gap_percent": 6.672,
+      "contacts": 1,
+      "contacts_per_race": 1.0,
       "clean_races": 0,
       "clean_race_percent": 0.0,
-      "worst_contact_severity": 21.462,
+      "worst_contact_severity": 5.857,
       "tracks": {
-        "Le Mans Circuit Bugatti v1.1": {
+        "Sepang International Circuit v2.1": {
           "races": 1,
           "wins": 0,
           "podiums": 0,
-          "average_finish": 8,
-          "contacts": 4,
+          "average_finish": 7,
+          "contacts": 1,
           "clean_race_percent": 0.0
         }
       },
       "bikes": {
-        "Suzuki GSXR 1000 2007": {
+        "BOSCOSCURO AKRA": {
           "races": 1,
           "wins": 0,
           "podiums": 0
@@ -3858,6 +4575,43 @@
       }
     },
     {
+      "guid": "FF011000012EB85CCC",
+      "name": "izan curia",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "win_rate": 0.0,
+      "podium_rate": 0.0,
+      "average_finish": 8,
+      "average_start": 3,
+      "average_positions_gained": -5,
+      "best_finish": 8,
+      "best_recorded_lap": null,
+      "average_gap_percent": null,
+      "contacts": 0,
+      "contacts_per_race": 0.0,
+      "clean_races": 1,
+      "clean_race_percent": 100.0,
+      "worst_contact_severity": null,
+      "tracks": {
+        "Red Bull Ring 2.0 Beta3": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 8,
+          "contacts": 0,
+          "clean_race_percent": 100.0
+        }
+      },
+      "bikes": {
+        "FORWARD": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0
+        }
+      }
+    },
+    {
       "guid": "FF01100001561E5511",
       "name": "J_44",
       "races": 1,
@@ -3925,6 +4679,80 @@
       },
       "bikes": {
         "Yamaha YZF-R1 2008": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 1
+        }
+      }
+    },
+    {
+      "guid": "FF01100001457D9462",
+      "name": "jmanuel_fs",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "win_rate": 0.0,
+      "podium_rate": 0.0,
+      "average_finish": 8,
+      "average_start": 9,
+      "average_positions_gained": 1,
+      "best_finish": 8,
+      "best_recorded_lap": 114.993477,
+      "average_gap_percent": -76.308,
+      "contacts": 0,
+      "contacts_per_race": 0.0,
+      "clean_races": 1,
+      "clean_race_percent": 100.0,
+      "worst_contact_severity": null,
+      "tracks": {
+        "Misano World Circuit Marco Simoncelli v1.0": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 8,
+          "contacts": 0,
+          "clean_race_percent": 100.0
+        }
+      },
+      "bikes": {
+        "BOSCOSCURO AKRA": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0
+        }
+      }
+    },
+    {
+      "guid": "FF011000014C003C3E",
+      "name": "Juaki",
+      "races": 1,
+      "wins": 0,
+      "podiums": 1,
+      "win_rate": 0.0,
+      "podium_rate": 100.0,
+      "average_finish": 2,
+      "average_start": 3,
+      "average_positions_gained": 1,
+      "best_finish": 2,
+      "best_recorded_lap": 110.420288,
+      "average_gap_percent": 0.183,
+      "contacts": 0,
+      "contacts_per_race": 0.0,
+      "clean_races": 1,
+      "clean_race_percent": 100.0,
+      "worst_contact_severity": null,
+      "tracks": {
+        "Twin Ring Motegi - GP Layout": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 1,
+          "average_finish": 2,
+          "contacts": 0,
+          "clean_race_percent": 100.0
+        }
+      },
+      "bikes": {
+        "KALEX Akrapovic 1": {
           "races": 1,
           "wins": 0,
           "podiums": 1
@@ -4006,6 +4834,43 @@
       }
     },
     {
+      "guid": "FF011000013C1E6681",
+      "name": "MARCO",
+      "races": 1,
+      "wins": 1,
+      "podiums": 1,
+      "win_rate": 100.0,
+      "podium_rate": 100.0,
+      "average_finish": 1,
+      "average_start": 6,
+      "average_positions_gained": 5,
+      "best_finish": 1,
+      "best_recorded_lap": 93.984528,
+      "average_gap_percent": 0.0,
+      "contacts": 2,
+      "contacts_per_race": 2.0,
+      "clean_races": 0,
+      "clean_race_percent": 0.0,
+      "worst_contact_severity": 14.624,
+      "tracks": {
+        "Red Bull Ring 2.0 Beta3": {
+          "races": 1,
+          "wins": 1,
+          "podiums": 1,
+          "average_finish": 1,
+          "contacts": 2,
+          "clean_race_percent": 0.0
+        }
+      },
+      "bikes": {
+        "FORWARD": {
+          "races": 1,
+          "wins": 1,
+          "podiums": 1
+        }
+      }
+    },
+    {
       "guid": "FF01100001081D2E23",
       "name": "Postal",
       "races": 1,
@@ -4039,6 +4904,80 @@
           "races": 1,
           "wins": 0,
           "podiums": 0
+        }
+      }
+    },
+    {
+      "guid": "FF0110000157970D63",
+      "name": "Prove412",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "win_rate": 0.0,
+      "podium_rate": 0.0,
+      "average_finish": 9,
+      "average_start": 10,
+      "average_positions_gained": 1,
+      "best_finish": 9,
+      "best_recorded_lap": 127.063416,
+      "average_gap_percent": -36.051,
+      "contacts": 0,
+      "contacts_per_race": 0.0,
+      "clean_races": 1,
+      "clean_race_percent": 100.0,
+      "worst_contact_severity": null,
+      "tracks": {
+        "Sepang International Circuit v2.1": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 9,
+          "contacts": 0,
+          "clean_race_percent": 100.0
+        }
+      },
+      "bikes": {
+        "KALEX Akrapovic 1": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0
+        }
+      }
+    },
+    {
+      "guid": "FF01100001548B2B50",
+      "name": "Quidel Gaétan",
+      "races": 1,
+      "wins": 0,
+      "podiums": 1,
+      "win_rate": 0.0,
+      "podium_rate": 100.0,
+      "average_finish": 3,
+      "average_start": 4,
+      "average_positions_gained": 1,
+      "best_finish": 3,
+      "best_recorded_lap": 129.290161,
+      "average_gap_percent": 3.093,
+      "contacts": 0,
+      "contacts_per_race": 0.0,
+      "clean_races": 1,
+      "clean_race_percent": 100.0,
+      "worst_contact_severity": null,
+      "tracks": {
+        "Circuit of the Americas v.1.2": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 1,
+          "average_finish": 3,
+          "contacts": 0,
+          "clean_race_percent": 100.0
+        }
+      },
+      "bikes": {
+        "BOSCOSCURO AKRA": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 1
         }
       }
     },
@@ -4117,6 +5056,80 @@
       }
     },
     {
+      "guid": "FF011000014C8D2266",
+      "name": "skalf",
+      "races": 1,
+      "wins": 0,
+      "podiums": 1,
+      "win_rate": 0.0,
+      "podium_rate": 100.0,
+      "average_finish": 3,
+      "average_start": 2,
+      "average_positions_gained": -1,
+      "best_finish": 3,
+      "best_recorded_lap": null,
+      "average_gap_percent": null,
+      "contacts": 0,
+      "contacts_per_race": 0.0,
+      "clean_races": 1,
+      "clean_race_percent": 100.0,
+      "worst_contact_severity": null,
+      "tracks": {
+        "Twin Ring Motegi - GP Layout": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 1,
+          "average_finish": 3,
+          "contacts": 0,
+          "clean_race_percent": 100.0
+        }
+      },
+      "bikes": {
+        "KALEX Akrapovic 1": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 1
+        }
+      }
+    },
+    {
+      "guid": "FF011000016099247C",
+      "name": "TheJr",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "win_rate": 0.0,
+      "podium_rate": 0.0,
+      "average_finish": 9,
+      "average_start": 9,
+      "average_positions_gained": 0,
+      "best_finish": 9,
+      "best_recorded_lap": null,
+      "average_gap_percent": null,
+      "contacts": 0,
+      "contacts_per_race": 0.0,
+      "clean_races": 1,
+      "clean_race_percent": 100.0,
+      "worst_contact_severity": null,
+      "tracks": {
+        "Red Bull Ring 2.0 Beta3": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 9,
+          "contacts": 0,
+          "clean_race_percent": 100.0
+        }
+      },
+      "bikes": {
+        "FORWARD": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0
+        }
+      }
+    },
+    {
       "guid": "FF01100001666C37DD",
       "name": "Titouan Lajarge",
       "races": 1,
@@ -4187,6 +5200,43 @@
           "races": 1,
           "wins": 0,
           "podiums": 1
+        }
+      }
+    },
+    {
+      "guid": "FF0110000109CB255D",
+      "name": "WormiestChicken",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "win_rate": 0.0,
+      "podium_rate": 0.0,
+      "average_finish": 7,
+      "average_start": 7,
+      "average_positions_gained": 0,
+      "best_finish": 7,
+      "best_recorded_lap": null,
+      "average_gap_percent": null,
+      "contacts": 0,
+      "contacts_per_race": 0.0,
+      "clean_races": 1,
+      "clean_race_percent": 100.0,
+      "worst_contact_severity": null,
+      "tracks": {
+        "Misano World Circuit Marco Simoncelli v1.0": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 7,
+          "contacts": 0,
+          "clean_race_percent": 100.0
+        }
+      },
+      "bikes": {
+        "BOSCOSCURO AKRA": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0
         }
       }
     },
@@ -12921,6 +13971,2452 @@
           "rider2": "Nepodar z Albrechtic",
           "relative_speed": -1.036854,
           "severity": 1.037
+        }
+      ]
+    },
+    {
+      "source_file": "20261108-153402-Sepang Circuit v2.1.xml",
+      "event_timestamp": 1794152042,
+      "date": "2026-11-08T15:34:02+00:00",
+      "event_type": "Race",
+      "track": "Sepang International Circuit v2.1",
+      "track_id": "Sepang Circuit v2.1",
+      "track_length_m": 5560.571777,
+      "scheduled_laps": 5,
+      "field_size": 4,
+      "contact_events": 3,
+      "riders": [
+        {
+          "race_num": "64",
+          "name": "BNJMN",
+          "bike": "FORWARD",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF011000010E6C0C98",
+          "qualifying_position": 3,
+          "qualifying_time": null,
+          "start_position": 4,
+          "finish_position": 1,
+          "positions_gained": 3,
+          "race_time": 630.085388,
+          "laps_completed": 5,
+          "gap_seconds": 0.0,
+          "gap_percent": 0.0,
+          "penalty": 0.0,
+          "fastest_lap": 124.334137,
+          "fastest_lap_number": 3,
+          "speed": 76.810097,
+          "valid_timed_laps": 5,
+          "average_lap": 126.015,
+          "median_lap": 124.629,
+          "lap_consistency_stdev": 2.67,
+          "contacts": 1,
+          "max_contact_severity": 1.786,
+          "average_contact_severity": 1.786
+        },
+        {
+          "race_num": "41",
+          "name": "moe",
+          "bike": "BOSCOSCURO AKRA",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF0110000100F622BC",
+          "qualifying_position": 2,
+          "qualifying_time": null,
+          "start_position": 3,
+          "finish_position": 2,
+          "positions_gained": 1,
+          "race_time": 647.029785,
+          "laps_completed": 5,
+          "gap_seconds": 16.944397,
+          "gap_percent": 2.6892,
+          "penalty": 0.0,
+          "fastest_lap": 126.317902,
+          "fastest_lap_number": 4,
+          "speed": 77.461067,
+          "valid_timed_laps": 5,
+          "average_lap": 129.404,
+          "median_lap": 126.597,
+          "lap_consistency_stdev": 3.6,
+          "contacts": 0,
+          "max_contact_severity": null,
+          "average_contact_severity": null
+        },
+        {
+          "race_num": "88",
+          "name": "AL",
+          "bike": "BOSCOSCURO AKRA",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF011000015BE9D84F",
+          "qualifying_position": 4,
+          "qualifying_time": null,
+          "start_position": null,
+          "finish_position": 3,
+          "positions_gained": null,
+          "race_time": 669.243835,
+          "laps_completed": 5,
+          "gap_seconds": 39.158447,
+          "gap_percent": 6.2148,
+          "penalty": 0.0,
+          "fastest_lap": 127.746277,
+          "fastest_lap_number": 3,
+          "speed": 77.453255,
+          "valid_timed_laps": 5,
+          "average_lap": 133.846,
+          "median_lap": 132.779,
+          "lap_consistency_stdev": 4.185,
+          "contacts": 1,
+          "max_contact_severity": 9.659,
+          "average_contact_severity": 9.659
+        },
+        {
+          "race_num": "67",
+          "name": "SrPomit",
+          "bike": "BOSCOSCURO SC",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF0110000107260507",
+          "qualifying_position": 1,
+          "qualifying_time": 163.14444,
+          "start_position": 1,
+          "finish_position": 4,
+          "positions_gained": -3,
+          "race_time": 581.426697,
+          "laps_completed": 4,
+          "gap_seconds": 75.96991,
+          "gap_percent": -7.7226,
+          "penalty": 0.0,
+          "fastest_lap": 137.431793,
+          "fastest_lap_number": 4,
+          "speed": 76.15683,
+          "valid_timed_laps": 4,
+          "average_lap": 145.354,
+          "median_lap": 145.68,
+          "lap_consistency_stdev": 5.392,
+          "contacts": 2,
+          "max_contact_severity": 6.731,
+          "average_contact_severity": 4.259
+        }
+      ],
+      "contacts": [
+        {
+          "time_ms": 2812,
+          "rider1": "SrPomit",
+          "rider2": "BNJMN",
+          "relative_speed": -1.785881,
+          "severity": 1.786
+        },
+        {
+          "time_ms": 2990,
+          "rider1": "AL",
+          "rider2": "2",
+          "relative_speed": -9.658894,
+          "severity": 9.659
+        },
+        {
+          "time_ms": 49230,
+          "rider1": "SrPomit",
+          "rider2": "2",
+          "relative_speed": -6.731472,
+          "severity": 6.731
+        }
+      ]
+    },
+    {
+      "source_file": "20261108-155604-Misano Circuit v1.0.xml",
+      "event_timestamp": 1794153364,
+      "date": "2026-11-08T15:56:04+00:00",
+      "event_type": "Race",
+      "track": "Misano World Circuit Marco Simoncelli v1.0",
+      "track_id": "Misano Circuit v1.0",
+      "track_length_m": 4220.069336,
+      "scheduled_laps": 5,
+      "field_size": 10,
+      "contact_events": 3,
+      "riders": [
+        {
+          "race_num": "31",
+          "name": "oover",
+          "bike": "BOSCOSCURO AKRA",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF011000011874EC13",
+          "qualifying_position": 10,
+          "qualifying_time": null,
+          "start_position": 10,
+          "finish_position": 1,
+          "positions_gained": 9,
+          "race_time": 485.437622,
+          "laps_completed": 5,
+          "gap_seconds": 0.0,
+          "gap_percent": 0.0,
+          "penalty": 0.0,
+          "fastest_lap": 95.567154,
+          "fastest_lap_number": 3,
+          "speed": 70.990356,
+          "valid_timed_laps": 5,
+          "average_lap": 97.084,
+          "median_lap": 95.685,
+          "lap_consistency_stdev": 2.656,
+          "contacts": 2,
+          "max_contact_severity": 1.626,
+          "average_contact_severity": 1.037
+        },
+        {
+          "race_num": "64",
+          "name": "BNJMN",
+          "bike": "FORWARD",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF011000010E6C0C98",
+          "qualifying_position": 6,
+          "qualifying_time": 103.4086,
+          "start_position": 6,
+          "finish_position": 2,
+          "positions_gained": 4,
+          "race_time": 487.492462,
+          "laps_completed": 5,
+          "gap_seconds": 2.05484,
+          "gap_percent": 0.4233,
+          "penalty": 0.0,
+          "fastest_lap": 95.889145,
+          "fastest_lap_number": 3,
+          "speed": 71.609795,
+          "valid_timed_laps": 5,
+          "average_lap": 97.495,
+          "median_lap": 96.219,
+          "lap_consistency_stdev": 2.669,
+          "contacts": 1,
+          "max_contact_severity": 1.626,
+          "average_contact_severity": 1.626
+        },
+        {
+          "race_num": "16",
+          "name": "tacticworks",
+          "bike": "BOSCOSCURO SC",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF0110000147B62069",
+          "qualifying_position": 5,
+          "qualifying_time": 102.345093,
+          "start_position": 5,
+          "finish_position": 3,
+          "positions_gained": 2,
+          "race_time": 490.48175,
+          "laps_completed": 5,
+          "gap_seconds": 5.044128,
+          "gap_percent": 1.0391,
+          "penalty": 0.0,
+          "fastest_lap": 96.11322,
+          "fastest_lap_number": 5,
+          "speed": 71.04969,
+          "valid_timed_laps": 5,
+          "average_lap": 98.093,
+          "median_lap": 96.636,
+          "lap_consistency_stdev": 2.955,
+          "contacts": 1,
+          "max_contact_severity": 0.652,
+          "average_contact_severity": 0.652
+        },
+        {
+          "race_num": "13",
+          "name": "N1rmata",
+          "bike": "FORWARD",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF0110000144441578",
+          "qualifying_position": 3,
+          "qualifying_time": 96.390579,
+          "start_position": 3,
+          "finish_position": 4,
+          "positions_gained": -1,
+          "race_time": 491.190826,
+          "laps_completed": 5,
+          "gap_seconds": 5.753204,
+          "gap_percent": 1.1852,
+          "penalty": 0.0,
+          "fastest_lap": 95.105347,
+          "fastest_lap_number": 5,
+          "speed": 73.357597,
+          "valid_timed_laps": 5,
+          "average_lap": 98.235,
+          "median_lap": 95.565,
+          "lap_consistency_stdev": 3.738,
+          "contacts": 0,
+          "max_contact_severity": null,
+          "average_contact_severity": null
+        },
+        {
+          "race_num": "94",
+          "name": "Ricoway46",
+          "bike": "FORWARD",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF011000010327D643",
+          "qualifying_position": 1,
+          "qualifying_time": 95.768372,
+          "start_position": 1,
+          "finish_position": 5,
+          "positions_gained": -4,
+          "race_time": 493.284973,
+          "laps_completed": 5,
+          "gap_seconds": 7.847351,
+          "gap_percent": 1.6166,
+          "penalty": 0.0,
+          "fastest_lap": 95.286377,
+          "fastest_lap_number": 5,
+          "speed": 70.627319,
+          "valid_timed_laps": 5,
+          "average_lap": 98.654,
+          "median_lap": 96.095,
+          "lap_consistency_stdev": 3.665,
+          "contacts": 0,
+          "max_contact_severity": null,
+          "average_contact_severity": null
+        },
+        {
+          "race_num": "41",
+          "name": "moe",
+          "bike": "BOSCOSCURO AKRA",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF0110000100F622BC",
+          "qualifying_position": 4,
+          "qualifying_time": 98.432373,
+          "start_position": 4,
+          "finish_position": 6,
+          "positions_gained": -2,
+          "race_time": 507.306549,
+          "laps_completed": 5,
+          "gap_seconds": 21.868927,
+          "gap_percent": 4.505,
+          "penalty": 0.0,
+          "fastest_lap": 96.681183,
+          "fastest_lap_number": 4,
+          "speed": 70.935272,
+          "valid_timed_laps": 5,
+          "average_lap": 101.458,
+          "median_lap": 98.365,
+          "lap_consistency_stdev": 5.096,
+          "contacts": 1,
+          "max_contact_severity": 0.448,
+          "average_contact_severity": 0.448
+        },
+        {
+          "race_num": "67",
+          "name": "SrPomit",
+          "bike": "BOSCOSCURO SC",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF0110000107260507",
+          "qualifying_position": 7,
+          "qualifying_time": 107.57782,
+          "start_position": 7,
+          "finish_position": 7,
+          "positions_gained": 0,
+          "race_time": 332.683594,
+          "laps_completed": 3,
+          "gap_seconds": null,
+          "gap_percent": -31.4673,
+          "penalty": 1.0,
+          "fastest_lap": 106.954948,
+          "fastest_lap_number": 2,
+          "speed": 69.442535,
+          "valid_timed_laps": 2,
+          "average_lap": 109.589,
+          "median_lap": 109.589,
+          "lap_consistency_stdev": 2.634,
+          "contacts": 0,
+          "max_contact_severity": null,
+          "average_contact_severity": null
+        },
+        {
+          "race_num": "18",
+          "name": "jmanuel_fs",
+          "bike": "BOSCOSCURO AKRA",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF01100001457D9462",
+          "qualifying_position": 9,
+          "qualifying_time": null,
+          "start_position": 9,
+          "finish_position": 8,
+          "positions_gained": 1,
+          "race_time": 115.009476,
+          "laps_completed": 1,
+          "gap_seconds": null,
+          "gap_percent": -76.3081,
+          "penalty": 0.0,
+          "fastest_lap": 114.993477,
+          "fastest_lap_number": 1,
+          "speed": 69.496826,
+          "valid_timed_laps": 1,
+          "average_lap": 114.993,
+          "median_lap": 114.993,
+          "lap_consistency_stdev": null,
+          "contacts": 0,
+          "max_contact_severity": null,
+          "average_contact_severity": null
+        },
+        {
+          "race_num": "2",
+          "name": "mrarcin",
+          "bike": "KALEX SC",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF011000010C91FF05",
+          "qualifying_position": 8,
+          "qualifying_time": null,
+          "start_position": 8,
+          "finish_position": 9,
+          "positions_gained": -1,
+          "race_time": null,
+          "laps_completed": 0,
+          "gap_seconds": null,
+          "gap_percent": null,
+          "penalty": 0.0,
+          "fastest_lap": null,
+          "fastest_lap_number": null,
+          "speed": null,
+          "valid_timed_laps": 0,
+          "average_lap": null,
+          "median_lap": null,
+          "lap_consistency_stdev": null,
+          "contacts": 0,
+          "max_contact_severity": null,
+          "average_contact_severity": null
+        },
+        {
+          "race_num": "3",
+          "name": "Lou",
+          "bike": "BOSCOSCURO AKRA",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF011000010F6AEA30",
+          "qualifying_position": 2,
+          "qualifying_time": 96.378784,
+          "start_position": 2,
+          "finish_position": 10,
+          "positions_gained": -8,
+          "race_time": null,
+          "laps_completed": 0,
+          "gap_seconds": null,
+          "gap_percent": null,
+          "penalty": 0.0,
+          "fastest_lap": null,
+          "fastest_lap_number": null,
+          "speed": null,
+          "valid_timed_laps": 0,
+          "average_lap": null,
+          "median_lap": null,
+          "lap_consistency_stdev": null,
+          "contacts": 0,
+          "max_contact_severity": null,
+          "average_contact_severity": null
+        }
+      ],
+      "contacts": [
+        {
+          "time_ms": 21658,
+          "rider1": "moe",
+          "rider2": "oover",
+          "relative_speed": -0.447828,
+          "severity": 0.448
+        },
+        {
+          "time_ms": 29662,
+          "rider1": "tacticworks",
+          "rider2": "55",
+          "relative_speed": -0.651762,
+          "severity": 0.652
+        },
+        {
+          "time_ms": 45692,
+          "rider1": "BNJMN",
+          "rider2": "oover",
+          "relative_speed": -1.625703,
+          "severity": 1.626
+        }
+      ]
+    },
+    {
+      "source_file": "20261108-171512-Twin Ring Motegi.xml",
+      "event_timestamp": 1794158112,
+      "date": "2026-11-08T17:15:12+00:00",
+      "event_type": "Race",
+      "track": "Twin Ring Motegi - GP Layout",
+      "track_id": "Twin Ring Motegi",
+      "track_length_m": 4796.83252,
+      "scheduled_laps": 5,
+      "field_size": 3,
+      "contact_events": 0,
+      "riders": [
+        {
+          "race_num": "21",
+          "name": "Sturdy",
+          "bike": "BOSCOSCURO AKRA",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF011000013EB470E5",
+          "qualifying_position": 1,
+          "qualifying_time": 112.319183,
+          "start_position": 1,
+          "finish_position": 1,
+          "positions_gained": 0,
+          "race_time": 569.344543,
+          "laps_completed": 5,
+          "gap_seconds": 0.0,
+          "gap_percent": 0.0,
+          "penalty": 0.0,
+          "fastest_lap": 111.208435,
+          "fastest_lap_number": 3,
+          "speed": 49.863384,
+          "valid_timed_laps": 5,
+          "average_lap": 113.868,
+          "median_lap": 112.081,
+          "lap_consistency_stdev": 2.905,
+          "contacts": 0,
+          "max_contact_severity": null,
+          "average_contact_severity": null
+        },
+        {
+          "race_num": "16",
+          "name": "tacticworks",
+          "bike": "FORWARD",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF0110000147B62069",
+          "qualifying_position": 3,
+          "qualifying_time": null,
+          "start_position": 3,
+          "finish_position": 2,
+          "positions_gained": 1,
+          "race_time": 448.226501,
+          "laps_completed": 4,
+          "gap_seconds": -9.057953,
+          "gap_percent": -21.2732,
+          "penalty": 0.0,
+          "fastest_lap": 110.327972,
+          "fastest_lap_number": 4,
+          "speed": 48.816978,
+          "valid_timed_laps": 4,
+          "average_lap": 112.055,
+          "median_lap": 110.62,
+          "lap_consistency_stdev": 2.656,
+          "contacts": 0,
+          "max_contact_severity": null,
+          "average_contact_severity": null
+        },
+        {
+          "race_num": "2",
+          "name": "skalf",
+          "bike": "KALEX Akrapovic 1",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF011000014C8D2266",
+          "qualifying_position": 2,
+          "qualifying_time": 114.605591,
+          "start_position": 2,
+          "finish_position": 3,
+          "positions_gained": -1,
+          "race_time": null,
+          "laps_completed": 0,
+          "gap_seconds": null,
+          "gap_percent": null,
+          "penalty": 0.0,
+          "fastest_lap": null,
+          "fastest_lap_number": null,
+          "speed": null,
+          "valid_timed_laps": 0,
+          "average_lap": null,
+          "median_lap": null,
+          "lap_consistency_stdev": null,
+          "contacts": 0,
+          "max_contact_severity": null,
+          "average_contact_severity": null
+        }
+      ],
+      "contacts": []
+    },
+    {
+      "source_file": "20261108-173755-Red Bull Ring 2.0_Beta3.xml",
+      "event_timestamp": 1794159475,
+      "date": "2026-11-08T17:37:55+00:00",
+      "event_type": "Race",
+      "track": "Red Bull Ring 2.0 Beta3",
+      "track_id": "Red Bull Ring 2.0_Beta3",
+      "track_length_m": 4345.852539,
+      "scheduled_laps": 5,
+      "field_size": 8,
+      "contact_events": 2,
+      "riders": [
+        {
+          "race_num": "8",
+          "name": "Danislav1746",
+          "bike": "FORWARD",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF01100001095CE650",
+          "qualifying_position": 1,
+          "qualifying_time": 93.629791,
+          "start_position": 1,
+          "finish_position": 1,
+          "positions_gained": 0,
+          "race_time": 564.915222,
+          "laps_completed": 5,
+          "gap_seconds": 0.0,
+          "gap_percent": 0.0,
+          "penalty": 0.0,
+          "fastest_lap": 93.049835,
+          "fastest_lap_number": 5,
+          "speed": 75.445007,
+          "valid_timed_laps": 5,
+          "average_lap": 112.982,
+          "median_lap": 93.632,
+          "lap_consistency_stdev": 38.454,
+          "contacts": 0,
+          "max_contact_severity": null,
+          "average_contact_severity": null
+        },
+        {
+          "race_num": "37",
+          "name": "tacticworks",
+          "bike": "FORWARD",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF0110000147B62069",
+          "qualifying_position": 8,
+          "qualifying_time": null,
+          "start_position": null,
+          "finish_position": 2,
+          "positions_gained": null,
+          "race_time": 580.731628,
+          "laps_completed": 5,
+          "gap_seconds": 15.816406,
+          "gap_percent": 2.7998,
+          "penalty": 0.0,
+          "fastest_lap": 94.392517,
+          "fastest_lap_number": 3,
+          "speed": 75.089668,
+          "valid_timed_laps": 5,
+          "average_lap": 116.145,
+          "median_lap": 94.806,
+          "lap_consistency_stdev": 42.747,
+          "contacts": 1,
+          "max_contact_severity": 4.825,
+          "average_contact_severity": 4.825
+        },
+        {
+          "race_num": "6",
+          "name": "chilliams",
+          "bike": "BOSCOSCURO AKRA",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF011000014C9788AB",
+          "qualifying_position": 5,
+          "qualifying_time": null,
+          "start_position": 5,
+          "finish_position": 3,
+          "positions_gained": 2,
+          "race_time": 581.647766,
+          "laps_completed": 5,
+          "gap_seconds": 16.732544,
+          "gap_percent": 2.962,
+          "penalty": 0.0,
+          "fastest_lap": 94.275696,
+          "fastest_lap_number": 5,
+          "speed": 73.826599,
+          "valid_timed_laps": 5,
+          "average_lap": 116.328,
+          "median_lap": 95.022,
+          "lap_consistency_stdev": 42.605,
+          "contacts": 0,
+          "max_contact_severity": null,
+          "average_contact_severity": null
+        },
+        {
+          "race_num": "22",
+          "name": "Nuno",
+          "bike": "BOSCOSCURO AKRA",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF011000013C58BECA",
+          "qualifying_position": 7,
+          "qualifying_time": null,
+          "start_position": 8,
+          "finish_position": 4,
+          "positions_gained": 4,
+          "race_time": 583.104797,
+          "laps_completed": 5,
+          "gap_seconds": 18.189575,
+          "gap_percent": 3.2199,
+          "penalty": 0.0,
+          "fastest_lap": 93.490997,
+          "fastest_lap_number": 3,
+          "speed": 75.202705,
+          "valid_timed_laps": 5,
+          "average_lap": 116.62,
+          "median_lap": 94.0,
+          "lap_consistency_stdev": 45.415,
+          "contacts": 2,
+          "max_contact_severity": 4.825,
+          "average_contact_severity": 4.283
+        },
+        {
+          "race_num": "21",
+          "name": "Sturdy",
+          "bike": "BOSCOSCURO AKRA",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF011000013EB470E5",
+          "qualifying_position": 6,
+          "qualifying_time": null,
+          "start_position": 7,
+          "finish_position": 5,
+          "positions_gained": 2,
+          "race_time": 594.632446,
+          "laps_completed": 5,
+          "gap_seconds": 29.717224,
+          "gap_percent": 5.2605,
+          "penalty": 5.0,
+          "fastest_lap": 96.222839,
+          "fastest_lap_number": 4,
+          "speed": 71.491875,
+          "valid_timed_laps": 4,
+          "average_lap": 121.864,
+          "median_lap": 96.983,
+          "lap_consistency_stdev": 43.536,
+          "contacts": 0,
+          "max_contact_severity": null,
+          "average_contact_severity": null
+        },
+        {
+          "race_num": "2",
+          "name": "vat1028",
+          "bike": "BOSCOSCURO AKRA",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF0110000101CCBFBB",
+          "qualifying_position": 4,
+          "qualifying_time": 98.03656,
+          "start_position": 4,
+          "finish_position": 6,
+          "positions_gained": -2,
+          "race_time": 615.768372,
+          "laps_completed": 5,
+          "gap_seconds": 50.853149,
+          "gap_percent": 9.0019,
+          "penalty": 0.0,
+          "fastest_lap": 97.02356,
+          "fastest_lap_number": 4,
+          "speed": 72.112831,
+          "valid_timed_laps": 5,
+          "average_lap": 123.152,
+          "median_lap": 104.817,
+          "lap_consistency_stdev": 42.806,
+          "contacts": 1,
+          "max_contact_severity": 3.741,
+          "average_contact_severity": 3.741
+        },
+        {
+          "race_num": "94",
+          "name": "Ricoway46",
+          "bike": "FORWARD",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF011000010327D643",
+          "qualifying_position": 2,
+          "qualifying_time": 93.905853,
+          "start_position": 2,
+          "finish_position": 7,
+          "positions_gained": -5,
+          "race_time": 217.354935,
+          "laps_completed": 1,
+          "gap_seconds": null,
+          "gap_percent": -61.5243,
+          "penalty": 0.0,
+          "fastest_lap": 217.347931,
+          "fastest_lap_number": 1,
+          "speed": 74.930145,
+          "valid_timed_laps": 1,
+          "average_lap": 217.348,
+          "median_lap": 217.348,
+          "lap_consistency_stdev": null,
+          "contacts": 0,
+          "max_contact_severity": null,
+          "average_contact_severity": null
+        },
+        {
+          "race_num": "65",
+          "name": "izan curia",
+          "bike": "FORWARD",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF011000012EB85CCC",
+          "qualifying_position": 3,
+          "qualifying_time": 96.466675,
+          "start_position": 3,
+          "finish_position": 8,
+          "positions_gained": -5,
+          "race_time": null,
+          "laps_completed": 0,
+          "gap_seconds": null,
+          "gap_percent": null,
+          "penalty": 0.0,
+          "fastest_lap": null,
+          "fastest_lap_number": null,
+          "speed": null,
+          "valid_timed_laps": 0,
+          "average_lap": null,
+          "median_lap": null,
+          "lap_consistency_stdev": null,
+          "contacts": 0,
+          "max_contact_severity": null,
+          "average_contact_severity": null
+        }
+      ],
+      "contacts": [
+        {
+          "time_ms": 13239,
+          "rider1": "Nuno",
+          "rider2": "tacticworks",
+          "relative_speed": -4.824919,
+          "severity": 4.825
+        },
+        {
+          "time_ms": 150311,
+          "rider1": "Nuno",
+          "rider2": "vat1028",
+          "relative_speed": -3.741393,
+          "severity": 3.741
+        }
+      ]
+    },
+    {
+      "source_file": "20261108-180150-Circuit of the Americas v1.2.xml",
+      "event_timestamp": 1794160910,
+      "date": "2026-11-08T18:01:50+00:00",
+      "event_type": "Race",
+      "track": "Circuit of the Americas v.1.2",
+      "track_id": "Circuit of the Americas v1.2",
+      "track_length_m": 5513.223633,
+      "scheduled_laps": 5,
+      "field_size": 10,
+      "contact_events": 6,
+      "riders": [
+        {
+          "race_num": "94",
+          "name": "Ricoway46",
+          "bike": "FORWARD",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF011000010327D643",
+          "qualifying_position": 2,
+          "qualifying_time": 126.072998,
+          "start_position": 2,
+          "finish_position": 1,
+          "positions_gained": 1,
+          "race_time": 639.533386,
+          "laps_completed": 5,
+          "gap_seconds": 0.0,
+          "gap_percent": 0.0,
+          "penalty": 0.0,
+          "fastest_lap": 126.20755,
+          "fastest_lap_number": 3,
+          "speed": 85.058327,
+          "valid_timed_laps": 5,
+          "average_lap": 127.902,
+          "median_lap": 127.462,
+          "lap_consistency_stdev": 1.853,
+          "contacts": 0,
+          "max_contact_severity": null,
+          "average_contact_severity": null
+        },
+        {
+          "race_num": "8",
+          "name": "Danislav1746",
+          "bike": "FORWARD",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF01100001095CE650",
+          "qualifying_position": 3,
+          "qualifying_time": 126.317139,
+          "start_position": 3,
+          "finish_position": 2,
+          "positions_gained": 1,
+          "race_time": 645.081116,
+          "laps_completed": 5,
+          "gap_seconds": 5.547729,
+          "gap_percent": 0.8675,
+          "penalty": 0.0,
+          "fastest_lap": 126.108582,
+          "fastest_lap_number": 5,
+          "speed": 79.396515,
+          "valid_timed_laps": 5,
+          "average_lap": 129.011,
+          "median_lap": 127.316,
+          "lap_consistency_stdev": 3.1,
+          "contacts": 3,
+          "max_contact_severity": 3.988,
+          "average_contact_severity": 3.252
+        },
+        {
+          "race_num": "2",
+          "name": "tacticworks",
+          "bike": "FORWARD",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF0110000147B62069",
+          "qualifying_position": 5,
+          "qualifying_time": 129.227325,
+          "start_position": 5,
+          "finish_position": 3,
+          "positions_gained": 2,
+          "race_time": 650.09259,
+          "laps_completed": 5,
+          "gap_seconds": 10.559204,
+          "gap_percent": 1.6511,
+          "penalty": 0.0,
+          "fastest_lap": 127.813049,
+          "fastest_lap_number": 5,
+          "speed": 79.561874,
+          "valid_timed_laps": 5,
+          "average_lap": 130.014,
+          "median_lap": 129.516,
+          "lap_consistency_stdev": 2.097,
+          "contacts": 0,
+          "max_contact_severity": null,
+          "average_contact_severity": null
+        },
+        {
+          "race_num": "22",
+          "name": "Nuno",
+          "bike": "KALEX Akrapovic 1",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF011000013C58BECA",
+          "qualifying_position": 8,
+          "qualifying_time": 131.232697,
+          "start_position": 8,
+          "finish_position": 4,
+          "positions_gained": 4,
+          "race_time": 659.066589,
+          "laps_completed": 5,
+          "gap_seconds": 19.533203,
+          "gap_percent": 3.0543,
+          "penalty": 0.0,
+          "fastest_lap": 127.831482,
+          "fastest_lap_number": 4,
+          "speed": 79.238022,
+          "valid_timed_laps": 5,
+          "average_lap": 131.809,
+          "median_lap": 128.191,
+          "lap_consistency_stdev": 5.054,
+          "contacts": 1,
+          "max_contact_severity": 6.896,
+          "average_contact_severity": 6.896
+        },
+        {
+          "race_num": "3",
+          "name": "Lou",
+          "bike": "BOSCOSCURO AKRA",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF011000010F6AEA30",
+          "qualifying_position": 1,
+          "qualifying_time": 125.984863,
+          "start_position": 1,
+          "finish_position": 5,
+          "positions_gained": -4,
+          "race_time": 659.340027,
+          "laps_completed": 5,
+          "gap_seconds": 19.806641,
+          "gap_percent": 3.097,
+          "penalty": 0.0,
+          "fastest_lap": 126.282654,
+          "fastest_lap_number": 2,
+          "speed": 79.375183,
+          "valid_timed_laps": 5,
+          "average_lap": 131.863,
+          "median_lap": 129.247,
+          "lap_consistency_stdev": 6.772,
+          "contacts": 3,
+          "max_contact_severity": 3.988,
+          "average_contact_severity": 3.252
+        },
+        {
+          "race_num": "6",
+          "name": "chilliams",
+          "bike": "BOSCOSCURO AKRA",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF011000014C9788AB",
+          "qualifying_position": 4,
+          "qualifying_time": 128.315826,
+          "start_position": 4,
+          "finish_position": 6,
+          "positions_gained": -2,
+          "race_time": 659.659424,
+          "laps_completed": 5,
+          "gap_seconds": 20.126038,
+          "gap_percent": 3.147,
+          "penalty": 0.0,
+          "fastest_lap": 128.3255,
+          "fastest_lap_number": 4,
+          "speed": 86.150642,
+          "valid_timed_laps": 5,
+          "average_lap": 131.927,
+          "median_lap": 128.886,
+          "lap_consistency_stdev": 5.993,
+          "contacts": 1,
+          "max_contact_severity": 1.383,
+          "average_contact_severity": 1.383
+        },
+        {
+          "race_num": "21",
+          "name": "Sturdy",
+          "bike": "BOSCOSCURO AKRA",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF011000013EB470E5",
+          "qualifying_position": 9,
+          "qualifying_time": 131.398804,
+          "start_position": 9,
+          "finish_position": 7,
+          "positions_gained": 2,
+          "race_time": 668.981384,
+          "laps_completed": 5,
+          "gap_seconds": 29.447998,
+          "gap_percent": 4.6046,
+          "penalty": 0.0,
+          "fastest_lap": 130.435425,
+          "fastest_lap_number": 5,
+          "speed": 79.494728,
+          "valid_timed_laps": 5,
+          "average_lap": 133.791,
+          "median_lap": 131.412,
+          "lap_consistency_stdev": 3.718,
+          "contacts": 1,
+          "max_contact_severity": 6.896,
+          "average_contact_severity": 6.896
+        },
+        {
+          "race_num": "41",
+          "name": "moe",
+          "bike": "BOSCOSCURO AKRA",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF0110000100F622BC",
+          "qualifying_position": 7,
+          "qualifying_time": 129.872772,
+          "start_position": 7,
+          "finish_position": 8,
+          "positions_gained": -1,
+          "race_time": 673.498718,
+          "laps_completed": 5,
+          "gap_seconds": 33.965332,
+          "gap_percent": 5.311,
+          "penalty": 0.0,
+          "fastest_lap": 129.926086,
+          "fastest_lap_number": 4,
+          "speed": 79.498558,
+          "valid_timed_laps": 5,
+          "average_lap": 134.695,
+          "median_lap": 131.477,
+          "lap_consistency_stdev": 6.939,
+          "contacts": 2,
+          "max_contact_severity": 11.391,
+          "average_contact_severity": 6.387
+        },
+        {
+          "race_num": "60",
+          "name": "Miquel_Sinke60",
+          "bike": "KALEX Akrapovic 1",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF011000013182150D",
+          "qualifying_position": 6,
+          "qualifying_time": 129.742203,
+          "start_position": 6,
+          "finish_position": 9,
+          "positions_gained": -3,
+          "race_time": 549.343506,
+          "laps_completed": 4,
+          "gap_seconds": 37.783752,
+          "gap_percent": -14.1025,
+          "penalty": 0.0,
+          "fastest_lap": 129.326233,
+          "fastest_lap_number": 2,
+          "speed": 81.001289,
+          "valid_timed_laps": 4,
+          "average_lap": 137.33,
+          "median_lap": 134.848,
+          "lap_consistency_stdev": 7.826,
+          "contacts": 0,
+          "max_contact_severity": null,
+          "average_contact_severity": null
+        },
+        {
+          "race_num": "87",
+          "name": "vat1028",
+          "bike": "BOSCOSCURO AKRA",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF0110000101CCBFBB",
+          "qualifying_position": 10,
+          "qualifying_time": 134.47113,
+          "start_position": 10,
+          "finish_position": 10,
+          "positions_gained": 0,
+          "race_time": 424.681976,
+          "laps_completed": 3,
+          "gap_seconds": null,
+          "gap_percent": -33.595,
+          "penalty": 0.0,
+          "fastest_lap": 132.180786,
+          "fastest_lap_number": 2,
+          "speed": 77.828445,
+          "valid_timed_laps": 3,
+          "average_lap": 141.553,
+          "median_lap": 137.739,
+          "lap_consistency_stdev": 9.596,
+          "contacts": 1,
+          "max_contact_severity": 11.391,
+          "average_contact_severity": 11.391
+        }
+      ],
+      "contacts": [
+        {
+          "time_ms": 17058,
+          "rider1": "Nuno",
+          "rider2": "Sturdy",
+          "relative_speed": -6.896417,
+          "severity": 6.896
+        },
+        {
+          "time_ms": 48698,
+          "rider1": "moe",
+          "rider2": "chilliams",
+          "relative_speed": -1.382552,
+          "severity": 1.383
+        },
+        {
+          "time_ms": 50968,
+          "rider1": "moe",
+          "rider2": "vat1028",
+          "relative_speed": -11.391109,
+          "severity": 11.391
+        },
+        {
+          "time_ms": 298196,
+          "rider1": "Danislav1746",
+          "rider2": "Lou",
+          "relative_speed": -2.686859,
+          "severity": 2.687
+        },
+        {
+          "time_ms": 306694,
+          "rider1": "Danislav1746",
+          "rider2": "Lou",
+          "relative_speed": -3.987966,
+          "severity": 3.988
+        },
+        {
+          "time_ms": 465658,
+          "rider1": "Danislav1746",
+          "rider2": "Lou",
+          "relative_speed": -3.082668,
+          "severity": 3.083
+        }
+      ]
+    },
+    {
+      "source_file": "20261108-182522-Sepang Circuit v2.1.xml",
+      "event_timestamp": 1794162322,
+      "date": "2026-11-08T18:25:22+00:00",
+      "event_type": "Race",
+      "track": "Sepang International Circuit v2.1",
+      "track_id": "Sepang Circuit v2.1",
+      "track_length_m": 5560.571777,
+      "scheduled_laps": 5,
+      "field_size": 11,
+      "contact_events": 7,
+      "riders": [
+        {
+          "race_num": "94",
+          "name": "Ricoway46",
+          "bike": "FORWARD",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF011000010327D643",
+          "qualifying_position": 3,
+          "qualifying_time": 123.101288,
+          "start_position": 3,
+          "finish_position": 1,
+          "positions_gained": 2,
+          "race_time": 619.52179,
+          "laps_completed": 5,
+          "gap_seconds": 0.0,
+          "gap_percent": 0.0,
+          "penalty": 0.0,
+          "fastest_lap": 122.425156,
+          "fastest_lap_number": 2,
+          "speed": 80.408821,
+          "valid_timed_laps": 5,
+          "average_lap": 123.901,
+          "median_lap": 122.663,
+          "lap_consistency_stdev": 2.587,
+          "contacts": 0,
+          "max_contact_severity": null,
+          "average_contact_severity": null
+        },
+        {
+          "race_num": "2",
+          "name": "tacticworks",
+          "bike": "FORWARD",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF0110000147B62069",
+          "qualifying_position": 5,
+          "qualifying_time": 123.701996,
+          "start_position": 5,
+          "finish_position": 2,
+          "positions_gained": 3,
+          "race_time": 622.564819,
+          "laps_completed": 5,
+          "gap_seconds": 3.04303,
+          "gap_percent": 0.4912,
+          "penalty": 0.0,
+          "fastest_lap": 122.869751,
+          "fastest_lap_number": 4,
+          "speed": 77.668282,
+          "valid_timed_laps": 5,
+          "average_lap": 124.51,
+          "median_lap": 123.22,
+          "lap_consistency_stdev": 2.634,
+          "contacts": 0,
+          "max_contact_severity": null,
+          "average_contact_severity": null
+        },
+        {
+          "race_num": "22",
+          "name": "Nuno",
+          "bike": "BOSCOSCURO AKRA",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF011000013C58BECA",
+          "qualifying_position": 4,
+          "qualifying_time": 123.423431,
+          "start_position": 4,
+          "finish_position": 3,
+          "positions_gained": 1,
+          "race_time": 626.088135,
+          "laps_completed": 5,
+          "gap_seconds": 6.566345,
+          "gap_percent": 1.0599,
+          "penalty": 0.0,
+          "fastest_lap": 123.378265,
+          "fastest_lap_number": 4,
+          "speed": 77.60878,
+          "valid_timed_laps": 5,
+          "average_lap": 125.214,
+          "median_lap": 124.151,
+          "lap_consistency_stdev": 2.479,
+          "contacts": 0,
+          "max_contact_severity": null,
+          "average_contact_severity": null
+        },
+        {
+          "race_num": "8",
+          "name": "Danislav1746",
+          "bike": "FORWARD",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF01100001095CE650",
+          "qualifying_position": 1,
+          "qualifying_time": 121.927551,
+          "start_position": 1,
+          "finish_position": 4,
+          "positions_gained": -3,
+          "race_time": 629.485962,
+          "laps_completed": 5,
+          "gap_seconds": 9.964172,
+          "gap_percent": 1.6084,
+          "penalty": 0.0,
+          "fastest_lap": 121.249573,
+          "fastest_lap_number": 5,
+          "speed": 77.549393,
+          "valid_timed_laps": 5,
+          "average_lap": 125.894,
+          "median_lap": 122.39,
+          "lap_consistency_stdev": 5.573,
+          "contacts": 4,
+          "max_contact_severity": 3.066,
+          "average_contact_severity": 1.835
+        },
+        {
+          "race_num": "18",
+          "name": "HectorLl93",
+          "bike": "FORWARD",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF0110000142F90766",
+          "qualifying_position": 7,
+          "qualifying_time": 125.228546,
+          "start_position": 7,
+          "finish_position": 5,
+          "positions_gained": 2,
+          "race_time": 638.833313,
+          "laps_completed": 5,
+          "gap_seconds": 19.311523,
+          "gap_percent": 3.1172,
+          "penalty": 0.0,
+          "fastest_lap": 123.088135,
+          "fastest_lap_number": 5,
+          "speed": 77.491295,
+          "valid_timed_laps": 5,
+          "average_lap": 127.763,
+          "median_lap": 124.999,
+          "lap_consistency_stdev": 4.907,
+          "contacts": 2,
+          "max_contact_severity": 1.746,
+          "average_contact_severity": 1.714
+        },
+        {
+          "race_num": "6",
+          "name": "chilliams",
+          "bike": "BOSCOSCURO AKRA",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF011000014C9788AB",
+          "qualifying_position": 6,
+          "qualifying_time": 124.995605,
+          "start_position": 6,
+          "finish_position": 6,
+          "positions_gained": 0,
+          "race_time": 647.225403,
+          "laps_completed": 5,
+          "gap_seconds": 27.703613,
+          "gap_percent": 4.4718,
+          "penalty": 0.0,
+          "fastest_lap": 125.363159,
+          "fastest_lap_number": 4,
+          "speed": 78.32795,
+          "valid_timed_laps": 5,
+          "average_lap": 129.442,
+          "median_lap": 125.996,
+          "lap_consistency_stdev": 5.255,
+          "contacts": 1,
+          "max_contact_severity": 1.746,
+          "average_contact_severity": 1.746
+        },
+        {
+          "race_num": "99",
+          "name": "El-Ninety-Nine",
+          "bike": "BOSCOSCURO AKRA",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF0110000103FA6C5B",
+          "qualifying_position": 11,
+          "qualifying_time": null,
+          "start_position": null,
+          "finish_position": 7,
+          "positions_gained": null,
+          "race_time": 660.856567,
+          "laps_completed": 5,
+          "gap_seconds": 41.334778,
+          "gap_percent": 6.672,
+          "penalty": 0.0,
+          "fastest_lap": 127.068542,
+          "fastest_lap_number": 3,
+          "speed": 76.653557,
+          "valid_timed_laps": 5,
+          "average_lap": 132.168,
+          "median_lap": 127.914,
+          "lap_consistency_stdev": 5.825,
+          "contacts": 1,
+          "max_contact_severity": 5.857,
+          "average_contact_severity": 5.857
+        },
+        {
+          "race_num": "88",
+          "name": "Andrea De Santis",
+          "bike": "FORWARD",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF011000011B3E14C8",
+          "qualifying_position": 9,
+          "qualifying_time": 126.862976,
+          "start_position": 9,
+          "finish_position": 8,
+          "positions_gained": 1,
+          "race_time": 683.416016,
+          "laps_completed": 5,
+          "gap_seconds": 63.894226,
+          "gap_percent": 10.3135,
+          "penalty": 0.0,
+          "fastest_lap": 126.461823,
+          "fastest_lap_number": 4,
+          "speed": 76.443291,
+          "valid_timed_laps": 5,
+          "average_lap": 136.68,
+          "median_lap": 139.881,
+          "lap_consistency_stdev": 8.574,
+          "contacts": 2,
+          "max_contact_severity": 5.857,
+          "average_contact_severity": 3.77
+        },
+        {
+          "race_num": "13",
+          "name": "Prove412",
+          "bike": "KALEX Akrapovic 1",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF0110000157970D63",
+          "qualifying_position": 10,
+          "qualifying_time": 128.093765,
+          "start_position": 10,
+          "finish_position": 9,
+          "positions_gained": 1,
+          "race_time": 396.176971,
+          "laps_completed": 3,
+          "gap_seconds": null,
+          "gap_percent": -36.0512,
+          "penalty": 0.0,
+          "fastest_lap": 127.063416,
+          "fastest_lap_number": 3,
+          "speed": 72.943573,
+          "valid_timed_laps": 3,
+          "average_lap": 132.054,
+          "median_lap": 134.248,
+          "lap_consistency_stdev": 3.537,
+          "contacts": 0,
+          "max_contact_severity": null,
+          "average_contact_severity": null
+        },
+        {
+          "race_num": "3",
+          "name": "Lou",
+          "bike": "BOSCOSCURO AKRA",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF011000010F6AEA30",
+          "qualifying_position": 2,
+          "qualifying_time": 122.235931,
+          "start_position": 2,
+          "finish_position": 10,
+          "positions_gained": -8,
+          "race_time": 251.129471,
+          "laps_completed": 2,
+          "gap_seconds": null,
+          "gap_percent": -59.464,
+          "penalty": 0.0,
+          "fastest_lap": 122.701401,
+          "fastest_lap_number": 2,
+          "speed": 78.643723,
+          "valid_timed_laps": 2,
+          "average_lap": 125.557,
+          "median_lap": 125.557,
+          "lap_consistency_stdev": 2.855,
+          "contacts": 4,
+          "max_contact_severity": 3.066,
+          "average_contact_severity": 1.835
+        },
+        {
+          "race_num": "41",
+          "name": "moe",
+          "bike": "BOSCOSCURO AKRA",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF0110000100F622BC",
+          "qualifying_position": 8,
+          "qualifying_time": 126.168442,
+          "start_position": 8,
+          "finish_position": 11,
+          "positions_gained": -3,
+          "race_time": null,
+          "laps_completed": 0,
+          "gap_seconds": null,
+          "gap_percent": null,
+          "penalty": 0.0,
+          "fastest_lap": 125.308044,
+          "fastest_lap_number": 5,
+          "speed": 77.555611,
+          "valid_timed_laps": 5,
+          "average_lap": 129.662,
+          "median_lap": 125.899,
+          "lap_consistency_stdev": 5.645,
+          "contacts": 0,
+          "max_contact_severity": null,
+          "average_contact_severity": null
+        }
+      ],
+      "contacts": [
+        {
+          "time_ms": 18564,
+          "rider1": "Danislav1746",
+          "rider2": "Lou",
+          "relative_speed": -1.016918,
+          "severity": 1.017
+        },
+        {
+          "time_ms": 24372,
+          "rider1": "Andrea De Santis",
+          "rider2": "HectorLl93",
+          "relative_speed": -1.682664,
+          "severity": 1.683
+        },
+        {
+          "time_ms": 28040,
+          "rider1": "Danislav1746",
+          "rider2": "Lou",
+          "relative_speed": -3.066134,
+          "severity": 3.066
+        },
+        {
+          "time_ms": 43130,
+          "rider1": "Andrea De Santis",
+          "rider2": "El-Ninety-Nine",
+          "relative_speed": -5.856553,
+          "severity": 5.857
+        },
+        {
+          "time_ms": 83248,
+          "rider1": "Danislav1746",
+          "rider2": "Lou",
+          "relative_speed": -1.004434,
+          "severity": 1.004
+        },
+        {
+          "time_ms": 259864,
+          "rider1": "Danislav1746",
+          "rider2": "Lou",
+          "relative_speed": -2.250922,
+          "severity": 2.251
+        },
+        {
+          "time_ms": 381066,
+          "rider1": "chilliams",
+          "rider2": "HectorLl93",
+          "relative_speed": -1.746021,
+          "severity": 1.746
+        }
+      ]
+    },
+    {
+      "source_file": "20261108-184543-Misano Circuit v1.0.xml",
+      "event_timestamp": 1794163543,
+      "date": "2026-11-08T18:45:43+00:00",
+      "event_type": "Race",
+      "track": "Misano World Circuit Marco Simoncelli v1.0",
+      "track_id": "Misano Circuit v1.0",
+      "track_length_m": 4220.069336,
+      "scheduled_laps": 5,
+      "field_size": 7,
+      "contact_events": 2,
+      "riders": [
+        {
+          "race_num": "8",
+          "name": "Danislav1746",
+          "bike": "FORWARD",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF01100001095CE650",
+          "qualifying_position": 2,
+          "qualifying_time": 95.656525,
+          "start_position": 2,
+          "finish_position": 1,
+          "positions_gained": 1,
+          "race_time": 501.59256,
+          "laps_completed": 5,
+          "gap_seconds": 0.0,
+          "gap_percent": 0.0,
+          "penalty": 0.0,
+          "fastest_lap": 95.412415,
+          "fastest_lap_number": 5,
+          "speed": 70.620728,
+          "valid_timed_laps": 5,
+          "average_lap": 100.315,
+          "median_lap": 97.011,
+          "lap_consistency_stdev": 5.41,
+          "contacts": 2,
+          "max_contact_severity": 3.243,
+          "average_contact_severity": 2.166
+        },
+        {
+          "race_num": "41",
+          "name": "moe",
+          "bike": "BOSCOSCURO AKRA",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF0110000100F622BC",
+          "qualifying_position": 5,
+          "qualifying_time": 97.199181,
+          "start_position": 5,
+          "finish_position": 2,
+          "positions_gained": 3,
+          "race_time": 508.552338,
+          "laps_completed": 5,
+          "gap_seconds": 6.959778,
+          "gap_percent": 1.3875,
+          "penalty": 0.0,
+          "fastest_lap": 96.848236,
+          "fastest_lap_number": 5,
+          "speed": 70.832176,
+          "valid_timed_laps": 5,
+          "average_lap": 101.707,
+          "median_lap": 96.987,
+          "lap_consistency_stdev": 5.913,
+          "contacts": 0,
+          "max_contact_severity": null,
+          "average_contact_severity": null
+        },
+        {
+          "race_num": "94",
+          "name": "Ricoway46",
+          "bike": "FORWARD",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF011000010327D643",
+          "qualifying_position": 1,
+          "qualifying_time": 95.245087,
+          "start_position": 1,
+          "finish_position": 3,
+          "positions_gained": -2,
+          "race_time": 510.42868,
+          "laps_completed": 5,
+          "gap_seconds": 8.836121,
+          "gap_percent": 1.7616,
+          "penalty": 0.0,
+          "fastest_lap": 95.52359,
+          "fastest_lap_number": 2,
+          "speed": 70.84655,
+          "valid_timed_laps": 5,
+          "average_lap": 102.082,
+          "median_lap": 101.867,
+          "lap_consistency_stdev": 6.429,
+          "contacts": 2,
+          "max_contact_severity": 3.243,
+          "average_contact_severity": 2.166
+        },
+        {
+          "race_num": "88",
+          "name": "Andrea De Santis",
+          "bike": "FORWARD",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF011000011B3E14C8",
+          "qualifying_position": 6,
+          "qualifying_time": 98.407288,
+          "start_position": 6,
+          "finish_position": 4,
+          "positions_gained": 2,
+          "race_time": 539.530701,
+          "laps_completed": 5,
+          "gap_seconds": 37.938141,
+          "gap_percent": 7.5635,
+          "penalty": 0.0,
+          "fastest_lap": 99.287796,
+          "fastest_lap_number": 3,
+          "speed": 69.676987,
+          "valid_timed_laps": 5,
+          "average_lap": 107.902,
+          "median_lap": 106.831,
+          "lap_consistency_stdev": 6.762,
+          "contacts": 0,
+          "max_contact_severity": null,
+          "average_contact_severity": null
+        },
+        {
+          "race_num": "22",
+          "name": "Nuno",
+          "bike": "BOSCOSCURO AKRA",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF011000013C58BECA",
+          "qualifying_position": 3,
+          "qualifying_time": 95.746307,
+          "start_position": 3,
+          "finish_position": 5,
+          "positions_gained": -2,
+          "race_time": 422.503174,
+          "laps_completed": 4,
+          "gap_seconds": 16.323029,
+          "gap_percent": -15.7677,
+          "penalty": 1.0,
+          "fastest_lap": 96.161324,
+          "fastest_lap_number": 2,
+          "speed": 71.069077,
+          "valid_timed_laps": 3,
+          "average_lap": 104.343,
+          "median_lap": 107.932,
+          "lap_consistency_stdev": 5.8,
+          "contacts": 0,
+          "max_contact_severity": null,
+          "average_contact_severity": null
+        },
+        {
+          "race_num": "11",
+          "name": "Carrasco",
+          "bike": "BOSCOSCURO AKRA",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF01100001369E28B1",
+          "qualifying_position": 4,
+          "qualifying_time": 96.398102,
+          "start_position": 4,
+          "finish_position": 6,
+          "positions_gained": -2,
+          "race_time": 224.222107,
+          "laps_completed": 2,
+          "gap_seconds": null,
+          "gap_percent": -55.298,
+          "penalty": 1.0,
+          "fastest_lap": 97.243866,
+          "fastest_lap_number": 2,
+          "speed": 69.545967,
+          "valid_timed_laps": 1,
+          "average_lap": 97.244,
+          "median_lap": 97.244,
+          "lap_consistency_stdev": null,
+          "contacts": 0,
+          "max_contact_severity": null,
+          "average_contact_severity": null
+        },
+        {
+          "race_num": "21",
+          "name": "WormiestChicken",
+          "bike": "BOSCOSCURO AKRA",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF0110000109CB255D",
+          "qualifying_position": 7,
+          "qualifying_time": 139.79483,
+          "start_position": 7,
+          "finish_position": 7,
+          "positions_gained": 0,
+          "race_time": null,
+          "laps_completed": 0,
+          "gap_seconds": null,
+          "gap_percent": null,
+          "penalty": 0.0,
+          "fastest_lap": null,
+          "fastest_lap_number": null,
+          "speed": null,
+          "valid_timed_laps": 0,
+          "average_lap": null,
+          "median_lap": null,
+          "lap_consistency_stdev": null,
+          "contacts": 0,
+          "max_contact_severity": null,
+          "average_contact_severity": null
+        }
+      ],
+      "contacts": [
+        {
+          "time_ms": 27343,
+          "rider1": "Ricoway46",
+          "rider2": "Danislav1746",
+          "relative_speed": -3.24267,
+          "severity": 3.243
+        },
+        {
+          "time_ms": 395489,
+          "rider1": "Ricoway46",
+          "rider2": "Danislav1746",
+          "relative_speed": -1.08996,
+          "severity": 1.09
+        }
+      ]
+    },
+    {
+      "source_file": "20261108-190610-Twin Ring Motegi.xml",
+      "event_timestamp": 1794164770,
+      "date": "2026-11-08T19:06:10+00:00",
+      "event_type": "Race",
+      "track": "Twin Ring Motegi - GP Layout",
+      "track_id": "Twin Ring Motegi",
+      "track_length_m": 4796.83252,
+      "scheduled_laps": 5,
+      "field_size": 5,
+      "contact_events": 3,
+      "riders": [
+        {
+          "race_num": "22",
+          "name": "Nuno",
+          "bike": "BOSCOSCURO AKRA",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF011000013C58BECA",
+          "qualifying_position": 1,
+          "qualifying_time": 109.459854,
+          "start_position": 1,
+          "finish_position": 1,
+          "positions_gained": 0,
+          "race_time": 583.696289,
+          "laps_completed": 5,
+          "gap_seconds": 0.0,
+          "gap_percent": 0.0,
+          "penalty": 0.0,
+          "fastest_lap": 111.120483,
+          "fastest_lap_number": 2,
+          "speed": 56.902008,
+          "valid_timed_laps": 5,
+          "average_lap": 116.738,
+          "median_lap": 113.699,
+          "lap_consistency_stdev": 7.612,
+          "contacts": 2,
+          "max_contact_severity": 4.997,
+          "average_contact_severity": 3.788
+        },
+        {
+          "race_num": "99",
+          "name": "Juaki",
+          "bike": "KALEX Akrapovic 1",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF011000014C003C3E",
+          "qualifying_position": 3,
+          "qualifying_time": 111.959778,
+          "start_position": 3,
+          "finish_position": 2,
+          "positions_gained": 1,
+          "race_time": 584.763367,
+          "laps_completed": 5,
+          "gap_seconds": 1.067078,
+          "gap_percent": 0.1828,
+          "penalty": 0.0,
+          "fastest_lap": 110.420288,
+          "fastest_lap_number": 5,
+          "speed": 53.274712,
+          "valid_timed_laps": 5,
+          "average_lap": 116.951,
+          "median_lap": 111.916,
+          "lap_consistency_stdev": 7.389,
+          "contacts": 0,
+          "max_contact_severity": null,
+          "average_contact_severity": null
+        },
+        {
+          "race_num": "21",
+          "name": "Sturdy",
+          "bike": "BOSCOSCURO AKRA",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF011000013EB470E5",
+          "qualifying_position": 2,
+          "qualifying_time": 110.75412,
+          "start_position": 2,
+          "finish_position": 3,
+          "positions_gained": -1,
+          "race_time": 588.502197,
+          "laps_completed": 5,
+          "gap_seconds": 4.805908,
+          "gap_percent": 0.8234,
+          "penalty": 0.0,
+          "fastest_lap": 111.287537,
+          "fastest_lap_number": 4,
+          "speed": 52.457001,
+          "valid_timed_laps": 5,
+          "average_lap": 117.699,
+          "median_lap": 118.129,
+          "lap_consistency_stdev": 6.296,
+          "contacts": 3,
+          "max_contact_severity": 5.426,
+          "average_contact_severity": 4.334
+        },
+        {
+          "race_num": "41",
+          "name": "moe",
+          "bike": "BOSCOSCURO AKRA",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF0110000100F622BC",
+          "qualifying_position": 5,
+          "qualifying_time": null,
+          "start_position": 5,
+          "finish_position": 4,
+          "positions_gained": 1,
+          "race_time": 358.560669,
+          "laps_completed": 3,
+          "gap_seconds": null,
+          "gap_percent": -38.5707,
+          "penalty": 0.0,
+          "fastest_lap": 110.451614,
+          "fastest_lap_number": 3,
+          "speed": 51.73864,
+          "valid_timed_laps": 3,
+          "average_lap": 119.518,
+          "median_lap": 122.98,
+          "lap_consistency_stdev": 6.47,
+          "contacts": 1,
+          "max_contact_severity": 5.426,
+          "average_contact_severity": 5.426
+        },
+        {
+          "race_num": "55",
+          "name": "EgoMan",
+          "bike": "KALEX Akrapovic 1",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF011000015C8FE55B",
+          "qualifying_position": 4,
+          "qualifying_time": 112.82663,
+          "start_position": 4,
+          "finish_position": 5,
+          "positions_gained": -1,
+          "race_time": 126.07003,
+          "laps_completed": 1,
+          "gap_seconds": null,
+          "gap_percent": -78.4014,
+          "penalty": 0.0,
+          "fastest_lap": 126.064034,
+          "fastest_lap_number": 1,
+          "speed": 55.212021,
+          "valid_timed_laps": 1,
+          "average_lap": 126.064,
+          "median_lap": 126.064,
+          "lap_consistency_stdev": null,
+          "contacts": 0,
+          "max_contact_severity": null,
+          "average_contact_severity": null
+        }
+      ],
+      "contacts": [
+        {
+          "time_ms": 111950,
+          "rider1": "Nuno",
+          "rider2": "Sturdy",
+          "relative_speed": -4.997123,
+          "severity": 4.997
+        },
+        {
+          "time_ms": 163102,
+          "rider1": "Sturdy",
+          "rider2": "moe",
+          "relative_speed": -5.425677,
+          "severity": 5.426
+        },
+        {
+          "time_ms": 562500,
+          "rider1": "Nuno",
+          "rider2": "Sturdy",
+          "relative_speed": -2.578634,
+          "severity": 2.579
+        }
+      ]
+    },
+    {
+      "source_file": "20261108-192837-Red Bull Ring 2.0_Beta3.xml",
+      "event_timestamp": 1794166117,
+      "date": "2026-11-08T19:28:37+00:00",
+      "event_type": "Race",
+      "track": "Red Bull Ring 2.0 Beta3",
+      "track_id": "Red Bull Ring 2.0_Beta3",
+      "track_length_m": 4345.852539,
+      "scheduled_laps": 5,
+      "field_size": 9,
+      "contact_events": 10,
+      "riders": [
+        {
+          "race_num": "5",
+          "name": "MARCO",
+          "bike": "FORWARD",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF011000013C1E6681",
+          "qualifying_position": 7,
+          "qualifying_time": null,
+          "start_position": 6,
+          "finish_position": 1,
+          "positions_gained": 5,
+          "race_time": 589.888733,
+          "laps_completed": 5,
+          "gap_seconds": 0.0,
+          "gap_percent": 0.0,
+          "penalty": 0.0,
+          "fastest_lap": 93.984528,
+          "fastest_lap_number": 5,
+          "speed": 74.903442,
+          "valid_timed_laps": 5,
+          "average_lap": 117.975,
+          "median_lap": 94.43,
+          "lap_consistency_stdev": 41.842,
+          "contacts": 2,
+          "max_contact_severity": 14.624,
+          "average_contact_severity": 14.448
+        },
+        {
+          "race_num": "93",
+          "name": "Dani",
+          "bike": "FORWARD",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF011000013776EEF0",
+          "qualifying_position": 9,
+          "qualifying_time": null,
+          "start_position": 8,
+          "finish_position": 2,
+          "positions_gained": 6,
+          "race_time": 596.812988,
+          "laps_completed": 5,
+          "gap_seconds": 6.924255,
+          "gap_percent": 1.1738,
+          "penalty": 0.0,
+          "fastest_lap": 93.835205,
+          "fastest_lap_number": 4,
+          "speed": 74.669319,
+          "valid_timed_laps": 5,
+          "average_lap": 119.359,
+          "median_lap": 99.618,
+          "lap_consistency_stdev": 43.511,
+          "contacts": 2,
+          "max_contact_severity": 14.624,
+          "average_contact_severity": 8.689
+        },
+        {
+          "race_num": "55",
+          "name": "EgoMan",
+          "bike": "KALEX Akrapovic 1",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF011000015C8FE55B",
+          "qualifying_position": 4,
+          "qualifying_time": 98.303131,
+          "start_position": 4,
+          "finish_position": 3,
+          "positions_gained": 1,
+          "race_time": 610.908936,
+          "laps_completed": 5,
+          "gap_seconds": 21.020203,
+          "gap_percent": 3.5634,
+          "penalty": 0.0,
+          "fastest_lap": 96.86969,
+          "fastest_lap_number": 5,
+          "speed": 74.837807,
+          "valid_timed_laps": 5,
+          "average_lap": 122.179,
+          "median_lap": 97.329,
+          "lap_consistency_stdev": 46.833,
+          "contacts": 3,
+          "max_contact_severity": 26.89,
+          "average_contact_severity": 11.389
+        },
+        {
+          "race_num": "27",
+          "name": "ihatestoppies",
+          "bike": "FORWARD",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF0110000136765EE2",
+          "qualifying_position": 3,
+          "qualifying_time": 96.459869,
+          "start_position": 3,
+          "finish_position": 4,
+          "positions_gained": -1,
+          "race_time": 623.944458,
+          "laps_completed": 5,
+          "gap_seconds": 34.055725,
+          "gap_percent": 5.7732,
+          "penalty": 0.0,
+          "fastest_lap": 96.318329,
+          "fastest_lap_number": 3,
+          "speed": 73.317322,
+          "valid_timed_laps": 5,
+          "average_lap": 124.786,
+          "median_lap": 101.386,
+          "lap_consistency_stdev": 45.275,
+          "contacts": 4,
+          "max_contact_severity": 22.095,
+          "average_contact_severity": 11.043
+        },
+        {
+          "race_num": "21",
+          "name": "Sturdy",
+          "bike": "BOSCOSCURO AKRA",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF011000013EB470E5",
+          "qualifying_position": 2,
+          "qualifying_time": 96.183167,
+          "start_position": 2,
+          "finish_position": 5,
+          "positions_gained": -3,
+          "race_time": 624.868103,
+          "laps_completed": 5,
+          "gap_seconds": 34.97937,
+          "gap_percent": 5.9298,
+          "penalty": 5.0,
+          "fastest_lap": 97.040314,
+          "fastest_lap_number": 3,
+          "speed": 75.213013,
+          "valid_timed_laps": 4,
+          "average_lap": 126.429,
+          "median_lap": 99.844,
+          "lap_consistency_stdev": 47.712,
+          "contacts": 4,
+          "max_contact_severity": 26.89,
+          "average_contact_severity": 10.668
+        },
+        {
+          "race_num": "22",
+          "name": "Nuno",
+          "bike": "KALEX Akrapovic 1",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF011000013C58BECA",
+          "qualifying_position": 5,
+          "qualifying_time": 102.751892,
+          "start_position": 5,
+          "finish_position": 6,
+          "positions_gained": -1,
+          "race_time": 634.276978,
+          "laps_completed": 5,
+          "gap_seconds": 44.388245,
+          "gap_percent": 7.5249,
+          "penalty": 10.0,
+          "fastest_lap": 94.462982,
+          "fastest_lap_number": 4,
+          "speed": 75.321976,
+          "valid_timed_laps": 4,
+          "average_lap": 132.558,
+          "median_lap": 113.038,
+          "lap_consistency_stdev": 45.176,
+          "contacts": 2,
+          "max_contact_severity": 10.739,
+          "average_contact_severity": 6.439
+        },
+        {
+          "race_num": "12",
+          "name": "AITORGP",
+          "bike": "KALEX Akrapovic 1",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF011000012F419D3D",
+          "qualifying_position": 8,
+          "qualifying_time": null,
+          "start_position": 7,
+          "finish_position": 7,
+          "positions_gained": 0,
+          "race_time": 673.963989,
+          "laps_completed": 5,
+          "gap_seconds": 84.075256,
+          "gap_percent": 14.2527,
+          "penalty": 25.0,
+          "fastest_lap": 157.000473,
+          "fastest_lap_number": 2,
+          "speed": 73.530045,
+          "valid_timed_laps": 2,
+          "average_lap": 182.639,
+          "median_lap": 182.639,
+          "lap_consistency_stdev": 25.638,
+          "contacts": 3,
+          "max_contact_severity": 22.095,
+          "average_contact_severity": 9.425
+        },
+        {
+          "race_num": "41",
+          "name": "moe",
+          "bike": "BOSCOSCURO AKRA",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF0110000100F622BC",
+          "qualifying_position": 1,
+          "qualifying_time": 95.819122,
+          "start_position": 1,
+          "finish_position": 8,
+          "positions_gained": -7,
+          "race_time": 297.200623,
+          "laps_completed": 2,
+          "gap_seconds": null,
+          "gap_percent": -49.6175,
+          "penalty": 0.0,
+          "fastest_lap": 103.045105,
+          "fastest_lap_number": 2,
+          "speed": 45.788605,
+          "valid_timed_laps": 2,
+          "average_lap": 148.592,
+          "median_lap": 148.592,
+          "lap_consistency_stdev": 45.547,
+          "contacts": 0,
+          "max_contact_severity": null,
+          "average_contact_severity": null
+        },
+        {
+          "race_num": "8",
+          "name": "TheJr",
+          "bike": "FORWARD",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF011000016099247C",
+          "qualifying_position": 6,
+          "qualifying_time": 107.42337,
+          "start_position": 9,
+          "finish_position": 9,
+          "positions_gained": 0,
+          "race_time": null,
+          "laps_completed": 0,
+          "gap_seconds": null,
+          "gap_percent": null,
+          "penalty": 0.0,
+          "fastest_lap": null,
+          "fastest_lap_number": null,
+          "speed": null,
+          "valid_timed_laps": 0,
+          "average_lap": null,
+          "median_lap": null,
+          "lap_consistency_stdev": null,
+          "contacts": 0,
+          "max_contact_severity": null,
+          "average_contact_severity": null
+        }
+      ],
+      "contacts": [
+        {
+          "time_ms": 2196,
+          "rider1": "ihatestoppies",
+          "rider2": "MARCO",
+          "relative_speed": -14.272678,
+          "severity": 14.273
+        },
+        {
+          "time_ms": 20264,
+          "rider1": "ihatestoppies",
+          "rider2": "AITORGP",
+          "relative_speed": -22.094687,
+          "severity": 22.095
+        },
+        {
+          "time_ms": 21706,
+          "rider1": "Nuno",
+          "rider2": "Sturdy",
+          "relative_speed": -2.138294,
+          "severity": 2.138
+        },
+        {
+          "time_ms": 66070,
+          "rider1": "EgoMan",
+          "rider2": "Dani",
+          "relative_speed": -2.753362,
+          "severity": 2.753
+        },
+        {
+          "time_ms": 190942,
+          "rider1": "ihatestoppies",
+          "rider2": "EgoMan",
+          "relative_speed": -4.525255,
+          "severity": 4.525
+        },
+        {
+          "time_ms": 229204,
+          "rider1": "Sturdy",
+          "rider2": "AITORGP",
+          "relative_speed": -2.902971,
+          "severity": 2.903
+        },
+        {
+          "time_ms": 245608,
+          "rider1": "Nuno",
+          "rider2": "Sturdy",
+          "relative_speed": -10.739286,
+          "severity": 10.739
+        },
+        {
+          "time_ms": 252012,
+          "rider1": "Sturdy",
+          "rider2": "EgoMan",
+          "relative_speed": -26.889704,
+          "severity": 26.89
+        },
+        {
+          "time_ms": 278114,
+          "rider1": "ihatestoppies",
+          "rider2": "AITORGP",
+          "relative_speed": -3.277903,
+          "severity": 3.278
+        },
+        {
+          "time_ms": 334374,
+          "rider1": "Dani",
+          "rider2": "MARCO",
+          "relative_speed": -14.623688,
+          "severity": 14.624
+        }
+      ]
+    },
+    {
+      "source_file": "20261108-195105-Circuit of the Americas v1.2.xml",
+      "event_timestamp": 1794167465,
+      "date": "2026-11-08T19:51:05+00:00",
+      "event_type": "Race",
+      "track": "Circuit of the Americas v.1.2",
+      "track_id": "Circuit of the Americas v1.2",
+      "track_length_m": 5513.223633,
+      "scheduled_laps": 5,
+      "field_size": 5,
+      "contact_events": 2,
+      "riders": [
+        {
+          "race_num": "2",
+          "name": "Marcus",
+          "bike": "FORWARD",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF011000014A1D4048",
+          "qualifying_position": 1,
+          "qualifying_time": 128.791016,
+          "start_position": 1,
+          "finish_position": 1,
+          "positions_gained": 0,
+          "race_time": 651.980408,
+          "laps_completed": 5,
+          "gap_seconds": 0.0,
+          "gap_percent": 0.0,
+          "penalty": 0.0,
+          "fastest_lap": 128.587555,
+          "fastest_lap_number": 4,
+          "speed": 78.438309,
+          "valid_timed_laps": 5,
+          "average_lap": 130.391,
+          "median_lap": 128.753,
+          "lap_consistency_stdev": 2.132,
+          "contacts": 1,
+          "max_contact_severity": 2.733,
+          "average_contact_severity": 2.733
+        },
+        {
+          "race_num": "27",
+          "name": "ihatestoppies",
+          "bike": "FORWARD",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF0110000136765EE2",
+          "qualifying_position": 2,
+          "qualifying_time": 128.86264,
+          "start_position": 2,
+          "finish_position": 2,
+          "positions_gained": 0,
+          "race_time": 659.585693,
+          "laps_completed": 5,
+          "gap_seconds": 7.605286,
+          "gap_percent": 1.1665,
+          "penalty": 0.0,
+          "fastest_lap": 128.820007,
+          "fastest_lap_number": 5,
+          "speed": 78.789787,
+          "valid_timed_laps": 5,
+          "average_lap": 131.912,
+          "median_lap": 130.239,
+          "lap_consistency_stdev": 3.623,
+          "contacts": 1,
+          "max_contact_severity": 2.733,
+          "average_contact_severity": 2.733
+        },
+        {
+          "race_num": "18",
+          "name": "Quidel Gaétan",
+          "bike": "BOSCOSCURO AKRA",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF01100001548B2B50",
+          "qualifying_position": 4,
+          "qualifying_time": null,
+          "start_position": 4,
+          "finish_position": 3,
+          "positions_gained": 1,
+          "race_time": 672.143982,
+          "laps_completed": 5,
+          "gap_seconds": 20.163574,
+          "gap_percent": 3.0927,
+          "penalty": 0.0,
+          "fastest_lap": 129.290161,
+          "fastest_lap_number": 5,
+          "speed": 79.36985,
+          "valid_timed_laps": 5,
+          "average_lap": 134.424,
+          "median_lap": 131.355,
+          "lap_consistency_stdev": 5.637,
+          "contacts": 0,
+          "max_contact_severity": null,
+          "average_contact_severity": null
+        },
+        {
+          "race_num": "55",
+          "name": "EgoMan",
+          "bike": "KALEX Akrapovic 1",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF011000015C8FE55B",
+          "qualifying_position": 3,
+          "qualifying_time": 136.226883,
+          "start_position": 3,
+          "finish_position": 4,
+          "positions_gained": -1,
+          "race_time": 342.331818,
+          "laps_completed": 2,
+          "gap_seconds": null,
+          "gap_percent": -47.4935,
+          "penalty": 0.0,
+          "fastest_lap": 133.113831,
+          "fastest_lap_number": 2,
+          "speed": 79.164902,
+          "valid_timed_laps": 2,
+          "average_lap": 171.153,
+          "median_lap": 171.153,
+          "lap_consistency_stdev": 38.04,
+          "contacts": 1,
+          "max_contact_severity": 3.055,
+          "average_contact_severity": 3.055
+        },
+        {
+          "race_num": "75",
+          "name": "A.Arenas",
+          "bike": "KALEX Akrapovic 2",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF0110000134340279",
+          "qualifying_position": 5,
+          "qualifying_time": null,
+          "start_position": 5,
+          "finish_position": 5,
+          "positions_gained": 0,
+          "race_time": 149.538147,
+          "laps_completed": 1,
+          "gap_seconds": null,
+          "gap_percent": -77.064,
+          "penalty": 0.0,
+          "fastest_lap": 149.513153,
+          "fastest_lap_number": 1,
+          "speed": 78.714661,
+          "valid_timed_laps": 1,
+          "average_lap": 149.513,
+          "median_lap": 149.513,
+          "lap_consistency_stdev": null,
+          "contacts": 1,
+          "max_contact_severity": 3.055,
+          "average_contact_severity": 3.055
+        }
+      ],
+      "contacts": [
+        {
+          "time_ms": 8611,
+          "rider1": "ihatestoppies",
+          "rider2": "Marcus",
+          "relative_speed": -2.732641,
+          "severity": 2.733
+        },
+        {
+          "time_ms": 101073,
+          "rider1": "EgoMan",
+          "rider2": "A.Arenas",
+          "relative_speed": -3.055368,
+          "severity": 3.055
+        }
+      ]
+    },
+    {
+      "source_file": "20261108-201228-Sepang Circuit v2.1.xml",
+      "event_timestamp": 1794168748,
+      "date": "2026-11-08T20:12:28+00:00",
+      "event_type": "Race",
+      "track": "Sepang International Circuit v2.1",
+      "track_id": "Sepang Circuit v2.1",
+      "track_length_m": 5560.571777,
+      "scheduled_laps": 5,
+      "field_size": 2,
+      "contact_events": 1,
+      "riders": [
+        {
+          "race_num": "27",
+          "name": "ihatestoppies",
+          "bike": "FORWARD",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF0110000136765EE2",
+          "qualifying_position": 1,
+          "qualifying_time": 124.752258,
+          "start_position": 1,
+          "finish_position": 1,
+          "positions_gained": 0,
+          "race_time": 631.004028,
+          "laps_completed": 5,
+          "gap_seconds": 0.0,
+          "gap_percent": 0.0,
+          "penalty": 0.0,
+          "fastest_lap": 124.784149,
+          "fastest_lap_number": 4,
+          "speed": 77.332695,
+          "valid_timed_laps": 5,
+          "average_lap": 126.197,
+          "median_lap": 124.873,
+          "lap_consistency_stdev": 2.167,
+          "contacts": 1,
+          "max_contact_severity": 1.696,
+          "average_contact_severity": 1.696
+        },
+        {
+          "race_num": "2",
+          "name": "Marcus",
+          "bike": "FORWARD",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF011000014A1D4048",
+          "qualifying_position": 2,
+          "qualifying_time": null,
+          "start_position": 2,
+          "finish_position": 2,
+          "positions_gained": 0,
+          "race_time": 631.021484,
+          "laps_completed": 5,
+          "gap_seconds": 0.017456,
+          "gap_percent": 0.0028,
+          "penalty": 0.0,
+          "fastest_lap": 124.43573,
+          "fastest_lap_number": 5,
+          "speed": 76.990379,
+          "valid_timed_laps": 5,
+          "average_lap": 126.201,
+          "median_lap": 125.218,
+          "lap_consistency_stdev": 2.199,
+          "contacts": 1,
+          "max_contact_severity": 1.696,
+          "average_contact_severity": 1.696
+        }
+      ],
+      "contacts": [
+        {
+          "time_ms": 381621,
+          "rider1": "ihatestoppies",
+          "rider2": "Marcus",
+          "relative_speed": -1.696437,
+          "severity": 1.696
         }
       ]
     }
