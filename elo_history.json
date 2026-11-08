@@ -877,6 +877,15 @@
             "track": "",
             "finish": 4,
             "race_id": "8da3c92764dd7d1d7a3837a923efab175a414bad951c35556fec4745e841b072"
+        },
+        {
+            "date": "2026-11-08T19:28:37",
+            "elo": 951,
+            "elo_before": 963,
+            "change": -12,
+            "track": "",
+            "finish": 8,
+            "race_id": "b5d3086875b6ef2ac1fac505f38366d075a79d94fd7f7935d3939d90f2e5c0c1"
         }
     ],
     "moleo": [
@@ -1361,6 +1370,15 @@
             "track": "",
             "finish": 3,
             "race_id": "75cb7394eee8376c61c665101f1f7fb6d3c16cb7db16109ab45c091cb5681c29"
+        },
+        {
+            "date": "2026-11-08T19:28:37",
+            "elo": 1038,
+            "elo_before": 1038,
+            "change": 0,
+            "track": "",
+            "finish": 4,
+            "race_id": "b5d3086875b6ef2ac1fac505f38366d075a79d94fd7f7935d3939d90f2e5c0c1"
         }
     ],
     "pa": [
@@ -1502,6 +1520,15 @@
             "track": "",
             "finish": 3,
             "race_id": "8da3c92764dd7d1d7a3837a923efab175a414bad951c35556fec4745e841b072"
+        },
+        {
+            "date": "2026-11-08T19:28:37",
+            "elo": 1012,
+            "elo_before": 1015,
+            "change": -3,
+            "track": "",
+            "finish": 5,
+            "race_id": "b5d3086875b6ef2ac1fac505f38366d075a79d94fd7f7935d3939d90f2e5c0c1"
         }
     ],
     "Sullivan Mounsey": [
@@ -2585,6 +2612,15 @@
             "track": "",
             "finish": 1,
             "race_id": "8da3c92764dd7d1d7a3837a923efab175a414bad951c35556fec4745e841b072"
+        },
+        {
+            "date": "2026-11-08T19:28:37",
+            "elo": 1010,
+            "elo_before": 1017,
+            "change": -7,
+            "track": "",
+            "finish": 6,
+            "race_id": "b5d3086875b6ef2ac1fac505f38366d075a79d94fd7f7935d3939d90f2e5c0c1"
         }
     ],
     "vat1028": [
@@ -2680,6 +2716,48 @@
             "track": "",
             "finish": 5,
             "race_id": "8da3c92764dd7d1d7a3837a923efab175a414bad951c35556fec4745e841b072"
+        },
+        {
+            "date": "2026-11-08T19:28:37",
+            "elo": 999,
+            "elo_before": 992,
+            "change": 7,
+            "track": "",
+            "finish": 3,
+            "race_id": "b5d3086875b6ef2ac1fac505f38366d075a79d94fd7f7935d3939d90f2e5c0c1"
+        }
+    ],
+    "MARCO": [
+        {
+            "date": "2026-11-08T19:28:37",
+            "elo": 1015,
+            "elo_before": 1000,
+            "change": 15,
+            "track": "",
+            "finish": 1,
+            "race_id": "b5d3086875b6ef2ac1fac505f38366d075a79d94fd7f7935d3939d90f2e5c0c1"
+        }
+    ],
+    "Dani": [
+        {
+            "date": "2026-11-08T19:28:37",
+            "elo": 1010,
+            "elo_before": 1000,
+            "change": 10,
+            "track": "",
+            "finish": 2,
+            "race_id": "b5d3086875b6ef2ac1fac505f38366d075a79d94fd7f7935d3939d90f2e5c0c1"
+        }
+    ],
+    "AITORGP": [
+        {
+            "date": "2026-11-08T19:28:37",
+            "elo": 990,
+            "elo_before": 1000,
+            "change": -10,
+            "track": "",
+            "finish": 7,
+            "race_id": "b5d3086875b6ef2ac1fac505f38366d075a79d94fd7f7935d3939d90f2e5c0c1"
         }
     ]
 }

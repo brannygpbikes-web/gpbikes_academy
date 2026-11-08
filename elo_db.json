@@ -96,9 +96,9 @@
         "podiums": 1
     },
     "moe": {
-        "elo": 963,
+        "elo": 951,
         "wins": 0,
-        "races": 13,
+        "races": 14,
         "podiums": 5
     },
     "moleo": {
@@ -200,7 +200,7 @@
     "ihatestoppies": {
         "elo": 1038,
         "wins": 2,
-        "races": 6,
+        "races": 7,
         "podiums": 5
     },
     "pa": {
@@ -216,9 +216,9 @@
         "podiums": 1
     },
     "Sturdy": {
-        "elo": 1015,
+        "elo": 1012,
         "wins": 2,
-        "races": 12,
+        "races": 13,
         "podiums": 6
     },
     "Sullivan Mounsey": {
@@ -468,9 +468,9 @@
         "podiums": 0
     },
     "Nuno": {
-        "elo": 1017,
+        "elo": 1010,
         "wins": 1,
-        "races": 5,
+        "races": 6,
         "podiums": 2
     },
     "vat1028": {
@@ -510,7 +510,25 @@
         "podiums": 1
     },
     "EgoMan": {
-        "elo": 992,
+        "elo": 999,
+        "wins": 0,
+        "races": 2,
+        "podiums": 1
+    },
+    "MARCO": {
+        "elo": 1015,
+        "wins": 1,
+        "races": 1,
+        "podiums": 1
+    },
+    "Dani": {
+        "elo": 1010,
+        "wins": 0,
+        "races": 1,
+        "podiums": 1
+    },
+    "AITORGP": {
+        "elo": 990,
         "wins": 0,
         "races": 1,
         "podiums": 0

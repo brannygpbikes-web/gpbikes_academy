@@ -138,10 +138,10 @@
         "grade": "C"
     },
     "moe": {
-        "safety": 110,
-        "races": 17,
+        "safety": 120,
+        "races": 18,
         "contacts": 20,
-        "clean_races": 4,
+        "clean_races": 5,
         "large_lobby_clean_streak": 0,
         "grade": "C"
     },
@@ -290,12 +290,12 @@
         "grade": "D"
     },
     "ihatestoppies": {
-        "safety": 125,
-        "races": 7,
-        "contacts": 8,
+        "safety": 117,
+        "races": 8,
+        "contacts": 12,
         "clean_races": 2,
         "large_lobby_clean_streak": 0,
-        "grade": "B"
+        "grade": "C"
     },
     "pa": {
         "safety": 115,
@@ -330,9 +330,9 @@
         "grade": "C"
     },
     "Sturdy": {
-        "safety": 137,
-        "races": 13,
-        "contacts": 12,
+        "safety": 129,
+        "races": 14,
+        "contacts": 16,
         "clean_races": 5,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -650,9 +650,9 @@
         "grade": "B"
     },
     "Nuno": {
-        "safety": 133,
-        "races": 5,
-        "contacts": 5,
+        "safety": 129,
+        "races": 6,
+        "contacts": 7,
         "clean_races": 2,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -714,11 +714,43 @@
         "grade": "B"
     },
     "EgoMan": {
-        "safety": 130,
-        "races": 1,
-        "contacts": 0,
+        "safety": 124,
+        "races": 2,
+        "contacts": 3,
         "clean_races": 1,
         "large_lobby_clean_streak": 0,
+        "grade": "C"
+    },
+    "TheJr": {
+        "safety": 125,
+        "races": 1,
+        "contacts": 0,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
         "grade": "B"
+    },
+    "AITORGP": {
+        "safety": 119,
+        "races": 1,
+        "contacts": 3,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "C"
+    },
+    "Dani": {
+        "safety": 121,
+        "races": 1,
+        "contacts": 2,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "C"
+    },
+    "MARCO": {
+        "safety": 121,
+        "races": 1,
+        "contacts": 2,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "C"
     }
 }
