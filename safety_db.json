@@ -106,12 +106,12 @@
         "grade": "B"
     },
     "Ricoway46": {
-        "safety": 168,
-        "races": 9,
-        "contacts": 4,
+        "safety": 162,
+        "races": 10,
+        "contacts": 6,
         "clean_races": 7,
-        "large_lobby_clean_streak": 1,
-        "grade": "A"
+        "large_lobby_clean_streak": 0,
+        "grade": "B"
     },
     "tacticworks": {
         "safety": 141,
@@ -138,10 +138,10 @@
         "grade": "C"
     },
     "moe": {
-        "safety": 103,
-        "races": 15,
+        "safety": 113,
+        "races": 16,
         "contacts": 19,
-        "clean_races": 3,
+        "clean_races": 4,
         "large_lobby_clean_streak": 0,
         "grade": "C"
     },
@@ -354,12 +354,12 @@
         "grade": "C"
     },
     "Carrasco": {
-        "safety": 115,
-        "races": 3,
+        "safety": 125,
+        "races": 4,
         "contacts": 10,
-        "clean_races": 0,
+        "clean_races": 1,
         "large_lobby_clean_streak": 0,
-        "grade": "C"
+        "grade": "B"
     },
     "titonagom08": {
         "safety": 135,
@@ -546,9 +546,9 @@
         "grade": "B"
     },
     "Danislav1746": {
-        "safety": 117,
-        "races": 4,
-        "contacts": 11,
+        "safety": 111,
+        "races": 5,
+        "contacts": 13,
         "clean_races": 1,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -650,10 +650,10 @@
         "grade": "B"
     },
     "Nuno": {
-        "safety": 129,
-        "races": 3,
+        "safety": 139,
+        "races": 4,
         "contacts": 3,
-        "clean_races": 1,
+        "clean_races": 2,
         "large_lobby_clean_streak": 1,
         "grade": "B"
     },
@@ -682,12 +682,12 @@
         "grade": "B"
     },
     "Andrea De Santis": {
-        "safety": 123,
-        "races": 1,
+        "safety": 133,
+        "races": 2,
         "contacts": 2,
-        "clean_races": 0,
+        "clean_races": 1,
         "large_lobby_clean_streak": 0,
-        "grade": "C"
+        "grade": "B"
     },
     "El-Ninety-Nine": {
         "safety": 124,
@@ -696,5 +696,13 @@
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
+    },
+    "WormiestChicken": {
+        "safety": 125,
+        "races": 1,
+        "contacts": 0,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "B"
     }
 }
