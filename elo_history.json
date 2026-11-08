@@ -581,6 +581,15 @@
             "track": "",
             "finish": 7,
             "race_id": "6e1045c88d31e09bf280940021aecbb88ea05af3dd1fdb1eeeead59acc645202"
+        },
+        {
+            "date": "2026-11-08T15:56:04",
+            "elo": 1003,
+            "elo_before": 997,
+            "change": 6,
+            "track": "",
+            "finish": 3,
+            "race_id": "62607d65559d140ccc89b29d197f26ee3f3cf5e8611e6044c153c29a87d0462e"
         }
     ],
     "Ricoway46": [
@@ -628,6 +637,15 @@
             "track": "",
             "finish": 3,
             "race_id": "46535ba007c77df096fc2bdc7bd627c9f25c9b6dd5e25ec2f0021f176ae0468d"
+        },
+        {
+            "date": "2026-11-08T15:56:04",
+            "elo": 1009,
+            "elo_before": 1012,
+            "change": -3,
+            "track": "",
+            "finish": 5,
+            "race_id": "62607d65559d140ccc89b29d197f26ee3f3cf5e8611e6044c153c29a87d0462e"
         }
     ],
     "Mopee": [
@@ -742,6 +760,15 @@
             "track": "",
             "finish": 2,
             "race_id": "6ef54b6ff56fbe4dcbe4353a9057bb03a88dac9d20e9ddd4f314a77dd9413272"
+        },
+        {
+            "date": "2026-11-08T15:56:04",
+            "elo": 964,
+            "elo_before": 969,
+            "change": -5,
+            "track": "",
+            "finish": 6,
+            "race_id": "62607d65559d140ccc89b29d197f26ee3f3cf5e8611e6044c153c29a87d0462e"
         }
     ],
     "moleo": [
@@ -996,6 +1023,15 @@
             "track": "",
             "finish": 3,
             "race_id": "7b67d8892c0e1664961087a8128219d8f1d8188e64f38f31b2f4ddbc9af62467"
+        },
+        {
+            "date": "2026-11-08T15:56:04",
+            "elo": 994,
+            "elo_before": 991,
+            "change": 3,
+            "track": "",
+            "finish": 4,
+            "race_id": "62607d65559d140ccc89b29d197f26ee3f3cf5e8611e6044c153c29a87d0462e"
         }
     ],
     "Luxskick": [
@@ -1759,6 +1795,15 @@
             "track": "",
             "finish": 1,
             "race_id": "6ef54b6ff56fbe4dcbe4353a9057bb03a88dac9d20e9ddd4f314a77dd9413272"
+        },
+        {
+            "date": "2026-11-08T15:56:04",
+            "elo": 1023,
+            "elo_before": 1013,
+            "change": 10,
+            "track": "",
+            "finish": 2,
+            "race_id": "62607d65559d140ccc89b29d197f26ee3f3cf5e8611e6044c153c29a87d0462e"
         }
     ],
     "A.Garcia": [
@@ -1890,6 +1935,15 @@
             "track": "",
             "finish": 3,
             "race_id": "d6a1aff6e6ba25a735fe577d4de03216a7ab858a05e45c8f5c7356d172f55155"
+        },
+        {
+            "date": "2026-11-08T15:56:04",
+            "elo": 1036,
+            "elo_before": 1023,
+            "change": 13,
+            "track": "",
+            "finish": 1,
+            "race_id": "62607d65559d140ccc89b29d197f26ee3f3cf5e8611e6044c153c29a87d0462e"
         }
     ],
     "Mikey 93": [
@@ -2221,6 +2275,26 @@
             "track": "",
             "finish": 4,
             "race_id": "6ef54b6ff56fbe4dcbe4353a9057bb03a88dac9d20e9ddd4f314a77dd9413272"
+        },
+        {
+            "date": "2026-11-08T15:56:04",
+            "elo": 982,
+            "elo_before": 992,
+            "change": -10,
+            "track": "",
+            "finish": 7,
+            "race_id": "62607d65559d140ccc89b29d197f26ee3f3cf5e8611e6044c153c29a87d0462e"
+        }
+    ],
+    "jmanuel_fs": [
+        {
+            "date": "2026-11-08T15:56:04",
+            "elo": 986,
+            "elo_before": 1000,
+            "change": -14,
+            "track": "",
+            "finish": 8,
+            "race_id": "62607d65559d140ccc89b29d197f26ee3f3cf5e8611e6044c153c29a87d0462e"
         }
     ]
 }

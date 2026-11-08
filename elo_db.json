@@ -72,15 +72,15 @@
         "podiums": 4
     },
     "tacticworks": {
-        "elo": 997,
+        "elo": 1003,
         "wins": 1,
-        "races": 2,
-        "podiums": 1
+        "races": 3,
+        "podiums": 2
     },
     "Ricoway46": {
-        "elo": 1012,
+        "elo": 1009,
         "wins": 2,
-        "races": 5,
+        "races": 6,
         "podiums": 4
     },
     "Mopee": {
@@ -96,9 +96,9 @@
         "podiums": 1
     },
     "moe": {
-        "elo": 969,
+        "elo": 964,
         "wins": 0,
-        "races": 9,
+        "races": 10,
         "podiums": 4
     },
     "moleo": {
@@ -156,9 +156,9 @@
         "podiums": 2
     },
     "N1rmata": {
-        "elo": 991,
+        "elo": 994,
         "wins": 1,
-        "races": 5,
+        "races": 6,
         "podiums": 5
     },
     "Luxskick": {
@@ -312,10 +312,10 @@
         "podiums": 0
     },
     "BNJMN": {
-        "elo": 1013,
+        "elo": 1023,
         "wins": 2,
-        "races": 4,
-        "podiums": 2
+        "races": 5,
+        "podiums": 3
     },
     "A.Garcia": {
         "elo": 1004,
@@ -354,10 +354,10 @@
         "podiums": 2
     },
     "oover": {
-        "elo": 1023,
-        "wins": 1,
-        "races": 3,
-        "podiums": 3
+        "elo": 1036,
+        "wins": 2,
+        "races": 4,
+        "podiums": 4
     },
     "Mikey 93": {
         "elo": 1020,
@@ -456,7 +456,13 @@
         "podiums": 0
     },
     "SrPomit": {
-        "elo": 992,
+        "elo": 982,
+        "wins": 0,
+        "races": 2,
+        "podiums": 0
+    },
+    "jmanuel_fs": {
+        "elo": 986,
         "wins": 0,
         "races": 1,
         "podiums": 0
