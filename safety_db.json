@@ -290,9 +290,9 @@
         "grade": "D"
     },
     "ihatestoppies": {
-        "safety": 117,
-        "races": 8,
-        "contacts": 12,
+        "safety": 114,
+        "races": 9,
+        "contacts": 13,
         "clean_races": 2,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -394,9 +394,9 @@
         "grade": "C"
     },
     "A.Arenas": {
-        "safety": 104,
-        "races": 2,
-        "contacts": 11,
+        "safety": 101,
+        "races": 3,
+        "contacts": 12,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -538,9 +538,9 @@
         "grade": "C"
     },
     "Marcus": {
-        "safety": 138,
-        "races": 3,
-        "contacts": 2,
+        "safety": 135,
+        "races": 4,
+        "contacts": 3,
         "clean_races": 2,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -714,9 +714,9 @@
         "grade": "B"
     },
     "EgoMan": {
-        "safety": 124,
-        "races": 2,
-        "contacts": 3,
+        "safety": 121,
+        "races": 3,
+        "contacts": 4,
         "clean_races": 1,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -752,5 +752,13 @@
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
+    },
+    "Quidel Gaétan": {
+        "safety": 130,
+        "races": 1,
+        "contacts": 0,
+        "clean_races": 1,
+        "large_lobby_clean_streak": 0,
+        "grade": "B"
     }
 }

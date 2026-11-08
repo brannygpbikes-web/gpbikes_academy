@@ -198,10 +198,10 @@
         "podiums": 1
     },
     "ihatestoppies": {
-        "elo": 1038,
+        "elo": 1041,
         "wins": 2,
-        "races": 7,
-        "podiums": 5
+        "races": 8,
+        "podiums": 6
     },
     "pa": {
         "elo": 985,
@@ -264,9 +264,9 @@
         "podiums": 1
     },
     "A.Arenas": {
-        "elo": 991,
+        "elo": 984,
         "wins": 0,
-        "races": 2,
+        "races": 3,
         "podiums": 0
     },
     "Carrasco": {
@@ -366,10 +366,10 @@
         "podiums": 2
     },
     "Marcus": {
-        "elo": 1007,
-        "wins": 1,
-        "races": 3,
-        "podiums": 2
+        "elo": 1015,
+        "wins": 2,
+        "races": 4,
+        "podiums": 3
     },
     "JW2Stupid": {
         "elo": 1005,
@@ -510,9 +510,9 @@
         "podiums": 1
     },
     "EgoMan": {
-        "elo": 999,
+        "elo": 995,
         "wins": 0,
-        "races": 2,
+        "races": 3,
         "podiums": 1
     },
     "MARCO": {
@@ -532,5 +532,11 @@
         "wins": 0,
         "races": 1,
         "podiums": 0
+    },
+    "Quidel Gaétan": {
+        "elo": 1000,
+        "wins": 0,
+        "races": 1,
+        "podiums": 1
     }
 }

@@ -1379,6 +1379,15 @@
             "track": "",
             "finish": 4,
             "race_id": "b5d3086875b6ef2ac1fac505f38366d075a79d94fd7f7935d3939d90f2e5c0c1"
+        },
+        {
+            "date": "2026-11-08T19:51:05",
+            "elo": 1041,
+            "elo_before": 1038,
+            "change": 3,
+            "track": "",
+            "finish": 2,
+            "race_id": "1453915cd14368712b1ed56ab25814a55142b9368d91dc152d4aad86e0c1b483"
         }
     ],
     "pa": [
@@ -1761,6 +1770,15 @@
             "track": "",
             "finish": 6,
             "race_id": "29683db5824df37ed7230badc32051d061afb70d3847b7f0a7fc1ea223c71d8d"
+        },
+        {
+            "date": "2026-11-08T19:51:05",
+            "elo": 984,
+            "elo_before": 991,
+            "change": -7,
+            "track": "",
+            "finish": 5,
+            "race_id": "1453915cd14368712b1ed56ab25814a55142b9368d91dc152d4aad86e0c1b483"
         }
     ],
     "Carrasco": [
@@ -2200,6 +2218,15 @@
             "track": "",
             "finish": 1,
             "race_id": "4dd0de31a1818a7c6863eec79201b1c3358bf18b7010eaa2ce6e2653fb266bbc"
+        },
+        {
+            "date": "2026-11-08T19:51:05",
+            "elo": 1015,
+            "elo_before": 1007,
+            "change": 8,
+            "track": "",
+            "finish": 1,
+            "race_id": "1453915cd14368712b1ed56ab25814a55142b9368d91dc152d4aad86e0c1b483"
         }
     ],
     "JW2Stupid": [
@@ -2725,6 +2752,15 @@
             "track": "",
             "finish": 3,
             "race_id": "b5d3086875b6ef2ac1fac505f38366d075a79d94fd7f7935d3939d90f2e5c0c1"
+        },
+        {
+            "date": "2026-11-08T19:51:05",
+            "elo": 995,
+            "elo_before": 999,
+            "change": -4,
+            "track": "",
+            "finish": 4,
+            "race_id": "1453915cd14368712b1ed56ab25814a55142b9368d91dc152d4aad86e0c1b483"
         }
     ],
     "MARCO": [
@@ -2758,6 +2794,17 @@
             "track": "",
             "finish": 7,
             "race_id": "b5d3086875b6ef2ac1fac505f38366d075a79d94fd7f7935d3939d90f2e5c0c1"
+        }
+    ],
+    "Quidel Gaétan": [
+        {
+            "date": "2026-11-08T19:51:05",
+            "elo": 1000,
+            "elo_before": 1000,
+            "change": 0,
+            "track": "",
+            "finish": 3,
+            "race_id": "1453915cd14368712b1ed56ab25814a55142b9368d91dc152d4aad86e0c1b483"
         }
     ]
 }
