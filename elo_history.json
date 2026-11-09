@@ -2633,6 +2633,15 @@
             "track": "",
             "finish": 2,
             "race_id": "a90ad2fa1fc085a41c8daa68dc514db5fd38e539a52302afd8d3e09d5272d248"
+        },
+        {
+            "date": "2026-11-09T22:48:14",
+            "elo": 1045,
+            "elo_before": 1046,
+            "change": -1,
+            "track": "",
+            "finish": 3,
+            "race_id": "472627fac182d90bce8101f4f3caa1a4c0d2ac3f84c15a19df3ef41294d58812"
         }
     ],
     "Lou": [
@@ -3483,6 +3492,15 @@
             "track": "",
             "finish": 1,
             "race_id": "a90ad2fa1fc085a41c8daa68dc514db5fd38e539a52302afd8d3e09d5272d248"
+        },
+        {
+            "date": "2026-11-09T22:48:14",
+            "elo": 1038,
+            "elo_before": 1035,
+            "change": 3,
+            "track": "",
+            "finish": 2,
+            "race_id": "472627fac182d90bce8101f4f3caa1a4c0d2ac3f84c15a19df3ef41294d58812"
         }
     ],
     "Dani": [
@@ -4106,6 +4124,15 @@
             "track": "",
             "finish": 3,
             "race_id": "a90ad2fa1fc085a41c8daa68dc514db5fd38e539a52302afd8d3e09d5272d248"
+        },
+        {
+            "date": "2026-11-09T22:48:14",
+            "elo": 1000,
+            "elo_before": 1004,
+            "change": -4,
+            "track": "",
+            "finish": 4,
+            "race_id": "472627fac182d90bce8101f4f3caa1a4c0d2ac3f84c15a19df3ef41294d58812"
         }
     ],
     "Raceboi95": [
@@ -4137,6 +4164,15 @@
             "track": "",
             "finish": 4,
             "race_id": "a90ad2fa1fc085a41c8daa68dc514db5fd38e539a52302afd8d3e09d5272d248"
+        },
+        {
+            "date": "2026-11-09T22:48:14",
+            "elo": 1002,
+            "elo_before": 993,
+            "change": 9,
+            "track": "",
+            "finish": 1,
+            "race_id": "472627fac182d90bce8101f4f3caa1a4c0d2ac3f84c15a19df3ef41294d58812"
         }
     ],
     "LucaSennaa": [
@@ -4148,6 +4184,17 @@
             "track": "",
             "finish": 11,
             "race_id": "33c6bd54b621f747d3d06b2ea61edda9a66727cf376bf068f9ef0c5119cea450"
+        }
+    ],
+    "Matszekk": [
+        {
+            "date": "2026-11-09T22:48:14",
+            "elo": 993,
+            "elo_before": 1000,
+            "change": -7,
+            "track": "",
+            "finish": 5,
+            "race_id": "472627fac182d90bce8101f4f3caa1a4c0d2ac3f84c15a19df3ef41294d58812"
         }
     ]
 }

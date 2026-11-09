@@ -342,10 +342,10 @@
         "podiums": 0
     },
     "Gonzalo Molina": {
-        "elo": 1046,
+        "elo": 1045,
         "wins": 3,
-        "races": 5,
-        "podiums": 4
+        "races": 6,
+        "podiums": 5
     },
     "Lou": {
         "elo": 998,
@@ -516,10 +516,10 @@
         "podiums": 1
     },
     "MARCO": {
-        "elo": 1035,
+        "elo": 1038,
         "wins": 2,
-        "races": 3,
-        "podiums": 3
+        "races": 4,
+        "podiums": 4
     },
     "Dani": {
         "elo": 1010,
@@ -684,9 +684,9 @@
         "podiums": 1
     },
     "alejandroo226": {
-        "elo": 1004,
+        "elo": 1000,
         "wins": 0,
-        "races": 3,
+        "races": 4,
         "podiums": 2
     },
     "Raceboi95": {
@@ -696,13 +696,19 @@
         "podiums": 0
     },
     "Karchin278": {
-        "elo": 993,
-        "wins": 0,
-        "races": 2,
-        "podiums": 0
+        "elo": 1002,
+        "wins": 1,
+        "races": 3,
+        "podiums": 1
     },
     "LucaSennaa": {
         "elo": 985,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
+    },
+    "Matszekk": {
+        "elo": 993,
         "wins": 0,
         "races": 1,
         "podiums": 0
