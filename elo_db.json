@@ -132,9 +132,9 @@
         "podiums": 1
     },
     "HectorLl93": {
-        "elo": 1022,
+        "elo": 1024,
         "wins": 0,
-        "races": 7,
+        "races": 8,
         "podiums": 2
     },
     "collinlanger96": {
@@ -186,9 +186,9 @@
         "podiums": 1
     },
     "sergioo14": {
-        "elo": 1011,
+        "elo": 995,
         "wins": 0,
-        "races": 9,
+        "races": 10,
         "podiums": 6
     },
     "rayzenev": {
@@ -222,9 +222,9 @@
         "podiums": 6
     },
     "Sullivan Mounsey": {
-        "elo": 990,
+        "elo": 997,
         "wins": 0,
-        "races": 10,
+        "races": 11,
         "podiums": 2
     },
     "MaonFedrick50": {
@@ -270,10 +270,10 @@
         "podiums": 1
     },
     "Carrasco": {
-        "elo": 1004,
+        "elo": 1017,
         "wins": 1,
-        "races": 4,
-        "podiums": 1
+        "races": 5,
+        "podiums": 2
     },
     "alerelinque": {
         "elo": 991,
@@ -306,9 +306,9 @@
         "podiums": 1
     },
     "jorgeguti160": {
-        "elo": 991,
+        "elo": 979,
         "wins": 0,
-        "races": 2,
+        "races": 3,
         "podiums": 0
     },
     "BNJMN": {
@@ -390,9 +390,9 @@
         "podiums": 1
     },
     "Adrianrodriguez58": {
-        "elo": 1010,
+        "elo": 1003,
         "wins": 0,
-        "races": 2,
+        "races": 3,
         "podiums": 1
     },
     "Danislav1746": {
@@ -540,9 +540,9 @@
         "podiums": 1
     },
     "Maximo Giro": {
-        "elo": 1022,
+        "elo": 1021,
         "wins": 0,
-        "races": 3,
+        "races": 4,
         "podiums": 2
     },
     "Riccardo": {
@@ -630,9 +630,9 @@
         "podiums": 0
     },
     "MaonFedrick5": {
-        "elo": 988,
+        "elo": 986,
         "wins": 0,
-        "races": 3,
+        "races": 4,
         "podiums": 0
     },
     "Po1nt": {
@@ -654,9 +654,9 @@
         "podiums": 0
     },
     "Victorug0": {
-        "elo": 1011,
+        "elo": 1001,
         "wins": 0,
-        "races": 2,
+        "races": 3,
         "podiums": 1
     },
     "vasco19": {
@@ -676,5 +676,17 @@
         "wins": 0,
         "races": 1,
         "podiums": 0
+    },
+    "Maximoquiles28": {
+        "elo": 1016,
+        "wins": 1,
+        "races": 1,
+        "podiums": 1
+    },
+    "alejandroo226": {
+        "elo": 1010,
+        "wins": 0,
+        "races": 1,
+        "podiums": 1
     }
 }
