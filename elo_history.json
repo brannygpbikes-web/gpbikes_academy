@@ -138,6 +138,15 @@
             "track": "",
             "finish": 9,
             "race_id": "852af9d98e8e39f6fc57025b51803c547237675fedc87159ac2692e5811cd755"
+        },
+        {
+            "date": "2026-11-09T16:28:11",
+            "elo": 1027,
+            "elo_before": 1022,
+            "change": 5,
+            "track": "",
+            "finish": 1,
+            "race_id": "5fd764b7211f4988269ddfe96eb6e643f8379819f480fcc38830897c6806498e"
         }
     ],
     "Rk_44": [
@@ -1236,6 +1245,15 @@
             "track": "",
             "finish": 4,
             "race_id": "cbdfb35aabe63d6f4eaa2cca5682b13f692c263ac71b44fa4e1f0565f6af6722"
+        },
+        {
+            "date": "2026-11-09T16:28:11",
+            "elo": 999,
+            "elo_before": 1004,
+            "change": -5,
+            "track": "",
+            "finish": 2,
+            "race_id": "5fd764b7211f4988269ddfe96eb6e643f8379819f480fcc38830897c6806498e"
         }
     ],
     "xXxDeadpoolxXx": [
