@@ -195,10 +195,10 @@
     },
     "HectorLl93": {
         "safety": 103,
-        "races": 9,
+        "races": 10,
         "contacts": 20,
-        "clean_races": 2,
-        "large_lobby_clean_streak": 0,
+        "clean_races": 3,
+        "large_lobby_clean_streak": 1,
         "grade": "C"
     },
     "Postal": {
@@ -267,7 +267,7 @@
     },
     "sergioo14": {
         "safety": 62,
-        "races": 12,
+        "races": 13,
         "contacts": 41,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
@@ -354,9 +354,9 @@
         "grade": "B"
     },
     "Carrasco": {
-        "safety": 118,
-        "races": 6,
-        "contacts": 17,
+        "safety": 115,
+        "races": 7,
+        "contacts": 20,
         "clean_races": 1,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -427,7 +427,7 @@
     },
     "alexiis_1622": {
         "safety": 133,
-        "races": 2,
+        "races": 3,
         "contacts": 2,
         "clean_races": 1,
         "large_lobby_clean_streak": 0,
@@ -482,9 +482,9 @@
         "grade": "C"
     },
     "Gonzalo Molina": {
-        "safety": 121,
-        "races": 3,
-        "contacts": 8,
+        "safety": 119,
+        "races": 4,
+        "contacts": 10,
         "clean_races": 1,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -554,12 +554,12 @@
         "grade": "C"
     },
     "Adrianrodriguez58": {
-        "safety": 100,
-        "races": 4,
-        "contacts": 16,
+        "safety": 98,
+        "races": 5,
+        "contacts": 18,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
-        "grade": "C"
+        "grade": "D"
     },
     "Fick dich Kohlin": {
         "safety": 130,
@@ -746,9 +746,9 @@
         "grade": "C"
     },
     "MARCO": {
-        "safety": 121,
-        "races": 1,
-        "contacts": 2,
+        "safety": 118,
+        "races": 2,
+        "contacts": 5,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -802,12 +802,12 @@
         "grade": "B"
     },
     "Dimitry": {
-        "safety": 125,
-        "races": 2,
-        "contacts": 0,
+        "safety": 123,
+        "races": 3,
+        "contacts": 2,
         "clean_races": 1,
         "large_lobby_clean_streak": 0,
-        "grade": "B"
+        "grade": "C"
     },
     "sepvdzwart#46": {
         "safety": 116,
@@ -866,9 +866,9 @@
         "grade": "B"
     },
     "IG: tom_kuil_racing": {
-        "safety": 111,
-        "races": 3,
-        "contacts": 14,
+        "safety": 108,
+        "races": 4,
+        "contacts": 17,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -946,19 +946,51 @@
         "grade": "C"
     },
     "alejandroo226": {
-        "safety": 121,
-        "races": 1,
-        "contacts": 4,
+        "safety": 118,
+        "races": 2,
+        "contacts": 7,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
     },
     "Maximoquiles28": {
-        "safety": 120,
-        "races": 1,
-        "contacts": 5,
+        "safety": 118,
+        "races": 2,
+        "contacts": 7,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
+    },
+    "CristianBoni22": {
+        "safety": 125,
+        "races": 1,
+        "contacts": 0,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "B"
+    },
+    "Raceboi95": {
+        "safety": 123,
+        "races": 1,
+        "contacts": 2,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "C"
+    },
+    "Karchin278": {
+        "safety": 123,
+        "races": 1,
+        "contacts": 2,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "C"
+    },
+    "LucaSennaa": {
+        "safety": 125,
+        "races": 1,
+        "contacts": 0,
+        "clean_races": 1,
+        "large_lobby_clean_streak": 1,
+        "grade": "B"
     }
 }

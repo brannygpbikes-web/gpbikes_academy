@@ -132,10 +132,10 @@
         "podiums": 1
     },
     "HectorLl93": {
-        "elo": 1024,
+        "elo": 1036,
         "wins": 0,
-        "races": 8,
-        "podiums": 2
+        "races": 9,
+        "podiums": 3
     },
     "collinlanger96": {
         "elo": 982,
@@ -270,9 +270,9 @@
         "podiums": 1
     },
     "Carrasco": {
-        "elo": 1017,
+        "elo": 1020,
         "wins": 1,
-        "races": 5,
+        "races": 6,
         "podiums": 2
     },
     "alerelinque": {
@@ -342,10 +342,10 @@
         "podiums": 0
     },
     "Gonzalo Molina": {
-        "elo": 1025,
-        "wins": 2,
-        "races": 3,
-        "podiums": 2
+        "elo": 1040,
+        "wins": 3,
+        "races": 4,
+        "podiums": 3
     },
     "Lou": {
         "elo": 998,
@@ -390,9 +390,9 @@
         "podiums": 1
     },
     "Adrianrodriguez58": {
-        "elo": 1003,
+        "elo": 991,
         "wins": 0,
-        "races": 3,
+        "races": 4,
         "podiums": 1
     },
     "Danislav1746": {
@@ -516,10 +516,10 @@
         "podiums": 1
     },
     "MARCO": {
-        "elo": 1015,
+        "elo": 1024,
         "wins": 1,
-        "races": 1,
-        "podiums": 1
+        "races": 2,
+        "podiums": 2
     },
     "Dani": {
         "elo": 1010,
@@ -560,7 +560,7 @@
     "Dimitry": {
         "elo": 1011,
         "wins": 0,
-        "races": 1,
+        "races": 2,
         "podiums": 1
     },
     "dwiputra": {
@@ -678,15 +678,33 @@
         "podiums": 0
     },
     "Maximoquiles28": {
-        "elo": 1016,
+        "elo": 1022,
         "wins": 1,
-        "races": 1,
+        "races": 2,
         "podiums": 1
     },
     "alejandroo226": {
-        "elo": 1010,
+        "elo": 1001,
+        "wins": 0,
+        "races": 2,
+        "podiums": 1
+    },
+    "Raceboi95": {
+        "elo": 997,
         "wins": 0,
         "races": 1,
-        "podiums": 1
+        "podiums": 0
+    },
+    "Karchin278": {
+        "elo": 994,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
+    },
+    "LucaSennaa": {
+        "elo": 985,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
     }
 }
