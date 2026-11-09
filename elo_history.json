@@ -895,6 +895,15 @@
             "track": "",
             "finish": 8,
             "race_id": "b5d3086875b6ef2ac1fac505f38366d075a79d94fd7f7935d3939d90f2e5c0c1"
+        },
+        {
+            "date": "2026-11-09T18:33:26",
+            "elo": 941,
+            "elo_before": 951,
+            "change": -10,
+            "track": "",
+            "finish": 6,
+            "race_id": "c5a1586d134d2088007b58f853652a4009f0e3947805aa0a1e335b1fc4f7fd2c"
         }
     ],
     "moleo": [
@@ -1777,6 +1786,15 @@
             "track": "",
             "finish": 2,
             "race_id": "29683db5824df37ed7230badc32051d061afb70d3847b7f0a7fc1ea223c71d8d"
+        },
+        {
+            "date": "2026-11-09T18:33:26",
+            "elo": 1024,
+            "elo_before": 1014,
+            "change": 10,
+            "track": "",
+            "finish": 1,
+            "race_id": "c5a1586d134d2088007b58f853652a4009f0e3947805aa0a1e335b1fc4f7fd2c"
         }
     ],
     "A.Arenas": [
@@ -1806,6 +1824,15 @@
             "track": "",
             "finish": 5,
             "race_id": "1453915cd14368712b1ed56ab25814a55142b9368d91dc152d4aad86e0c1b483"
+        },
+        {
+            "date": "2026-11-09T18:33:26",
+            "elo": 991,
+            "elo_before": 984,
+            "change": 7,
+            "track": "",
+            "finish": 2,
+            "race_id": "c5a1586d134d2088007b58f853652a4009f0e3947805aa0a1e335b1fc4f7fd2c"
         }
     ],
     "Carrasco": [
@@ -2841,6 +2868,39 @@
             "track": "",
             "finish": 3,
             "race_id": "1453915cd14368712b1ed56ab25814a55142b9368d91dc152d4aad86e0c1b483"
+        }
+    ],
+    "Maximo Giro": [
+        {
+            "date": "2026-11-09T18:33:26",
+            "elo": 1002,
+            "elo_before": 1000,
+            "change": 2,
+            "track": "",
+            "finish": 3,
+            "race_id": "c5a1586d134d2088007b58f853652a4009f0e3947805aa0a1e335b1fc4f7fd2c"
+        }
+    ],
+    "Riccardo": [
+        {
+            "date": "2026-11-09T18:33:26",
+            "elo": 998,
+            "elo_before": 1000,
+            "change": -2,
+            "track": "",
+            "finish": 4,
+            "race_id": "c5a1586d134d2088007b58f853652a4009f0e3947805aa0a1e335b1fc4f7fd2c"
+        }
+    ],
+    "Speedy4RL": [
+        {
+            "date": "2026-11-09T18:33:26",
+            "elo": 993,
+            "elo_before": 1000,
+            "change": -7,
+            "track": "",
+            "finish": 5,
+            "race_id": "c5a1586d134d2088007b58f853652a4009f0e3947805aa0a1e335b1fc4f7fd2c"
         }
     ]
 }

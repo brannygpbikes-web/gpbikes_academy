@@ -96,9 +96,9 @@
         "podiums": 1
     },
     "moe": {
-        "elo": 951,
+        "elo": 941,
         "wins": 0,
-        "races": 14,
+        "races": 15,
         "podiums": 5
     },
     "moleo": {
@@ -258,16 +258,16 @@
         "podiums": 0
     },
     "Gixnni.": {
-        "elo": 1014,
-        "wins": 0,
-        "races": 2,
-        "podiums": 1
+        "elo": 1024,
+        "wins": 1,
+        "races": 3,
+        "podiums": 2
     },
     "A.Arenas": {
-        "elo": 984,
+        "elo": 991,
         "wins": 0,
-        "races": 3,
-        "podiums": 0
+        "races": 4,
+        "podiums": 1
     },
     "Carrasco": {
         "elo": 987,
@@ -538,5 +538,23 @@
         "wins": 0,
         "races": 1,
         "podiums": 1
+    },
+    "Maximo Giro": {
+        "elo": 1002,
+        "wins": 0,
+        "races": 1,
+        "podiums": 1
+    },
+    "Riccardo": {
+        "elo": 998,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
+    },
+    "Speedy4RL": {
+        "elo": 993,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
     }
 }
