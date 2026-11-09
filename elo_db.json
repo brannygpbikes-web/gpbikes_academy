@@ -12,9 +12,9 @@
         "podiums": 3
     },
     "Miquel_Sinke60": {
-        "elo": 1038,
+        "elo": 1043,
         "wins": 5,
-        "races": 13,
+        "races": 14,
         "podiums": 11
     },
     "Rk_44": {
@@ -222,9 +222,9 @@
         "podiums": 6
     },
     "Sullivan Mounsey": {
-        "elo": 1000,
+        "elo": 1004,
         "wins": 0,
-        "races": 8,
+        "races": 9,
         "podiums": 2
     },
     "MaonFedrick50": {
@@ -258,15 +258,15 @@
         "podiums": 0
     },
     "Gixnni.": {
-        "elo": 988,
+        "elo": 1002,
         "wins": 1,
-        "races": 6,
-        "podiums": 2
+        "races": 7,
+        "podiums": 3
     },
     "A.Arenas": {
-        "elo": 989,
+        "elo": 982,
         "wins": 0,
-        "races": 8,
+        "races": 9,
         "podiums": 1
     },
     "Carrasco": {
@@ -324,10 +324,10 @@
         "podiums": 0
     },
     "Hervass08": {
-        "elo": 995,
-        "wins": 0,
-        "races": 2,
-        "podiums": 0
+        "elo": 1011,
+        "wins": 1,
+        "races": 3,
+        "podiums": 1
     },
     "YPandaBoy": {
         "elo": 989,
@@ -360,9 +360,9 @@
         "podiums": 9
     },
     "Mikey 93": {
-        "elo": 1020,
+        "elo": 1015,
         "wins": 0,
-        "races": 2,
+        "races": 3,
         "podiums": 2
     },
     "Marcus": {
@@ -528,9 +528,9 @@
         "podiums": 1
     },
     "AITORGP": {
-        "elo": 987,
+        "elo": 975,
         "wins": 0,
-        "races": 2,
+        "races": 3,
         "podiums": 0
     },
     "Quidel Gaétan": {
@@ -540,10 +540,10 @@
         "podiums": 1
     },
     "Maximo Giro": {
-        "elo": 1012,
+        "elo": 1022,
         "wins": 0,
-        "races": 2,
-        "podiums": 1
+        "races": 3,
+        "podiums": 2
     },
     "Riccardo": {
         "elo": 998,
@@ -630,9 +630,9 @@
         "podiums": 0
     },
     "MaonFedrick5": {
-        "elo": 1004,
+        "elo": 988,
         "wins": 0,
-        "races": 2,
+        "races": 3,
         "podiums": 0
     },
     "Po1nt": {
@@ -642,7 +642,19 @@
         "podiums": 0
     },
     "LaPirana24": {
-        "elo": 1005,
+        "elo": 995,
+        "wins": 0,
+        "races": 2,
+        "podiums": 0
+    },
+    "teolato": {
+        "elo": 1002,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
+    },
+    "Victorug0": {
+        "elo": 999,
         "wins": 0,
         "races": 1,
         "podiums": 0
