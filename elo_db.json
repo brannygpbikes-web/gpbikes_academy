@@ -12,10 +12,10 @@
         "podiums": 3
     },
     "Miquel_Sinke60": {
-        "elo": 1027,
+        "elo": 1038,
         "wins": 5,
-        "races": 12,
-        "podiums": 10
+        "races": 13,
+        "podiums": 11
     },
     "Rk_44": {
         "elo": 962,
@@ -60,9 +60,9 @@
         "podiums": 5
     },
     "filipknigge20": {
-        "elo": 1046,
+        "elo": 1035,
         "wins": 3,
-        "races": 8,
+        "races": 9,
         "podiums": 8
     },
     "ShaiGP": {
@@ -132,9 +132,9 @@
         "podiums": 1
     },
     "HectorLl93": {
-        "elo": 1035,
+        "elo": 1022,
         "wins": 0,
-        "races": 6,
+        "races": 7,
         "podiums": 2
     },
     "collinlanger96": {
@@ -186,15 +186,15 @@
         "podiums": 1
     },
     "sergioo14": {
-        "elo": 997,
+        "elo": 1011,
         "wins": 0,
-        "races": 8,
-        "podiums": 5
+        "races": 9,
+        "podiums": 6
     },
     "rayzenev": {
-        "elo": 986,
+        "elo": 974,
         "wins": 0,
-        "races": 3,
+        "races": 4,
         "podiums": 1
     },
     "ihatestoppies": {
@@ -222,9 +222,9 @@
         "podiums": 6
     },
     "Sullivan Mounsey": {
-        "elo": 997,
+        "elo": 1000,
         "wins": 0,
-        "races": 7,
+        "races": 8,
         "podiums": 2
     },
     "MaonFedrick50": {
@@ -264,9 +264,9 @@
         "podiums": 2
     },
     "A.Arenas": {
-        "elo": 981,
+        "elo": 989,
         "wins": 0,
-        "races": 7,
+        "races": 8,
         "podiums": 1
     },
     "Carrasco": {
@@ -294,9 +294,9 @@
         "podiums": 5
     },
     "will 77": {
-        "elo": 1009,
+        "elo": 1005,
         "wins": 1,
-        "races": 7,
+        "races": 8,
         "podiums": 2
     },
     "alexiis_1622": {
@@ -324,9 +324,9 @@
         "podiums": 0
     },
     "Hervass08": {
-        "elo": 996,
+        "elo": 995,
         "wins": 0,
-        "races": 1,
+        "races": 2,
         "podiums": 0
     },
     "YPandaBoy": {
@@ -354,10 +354,10 @@
         "podiums": 3
     },
     "oover": {
-        "elo": 1090,
-        "wins": 6,
-        "races": 8,
-        "podiums": 8
+        "elo": 1102,
+        "wins": 7,
+        "races": 9,
+        "podiums": 9
     },
     "Mikey 93": {
         "elo": 1020,
@@ -540,9 +540,9 @@
         "podiums": 1
     },
     "Maximo Giro": {
-        "elo": 1002,
+        "elo": 1012,
         "wins": 0,
-        "races": 1,
+        "races": 2,
         "podiums": 1
     },
     "Riccardo": {
@@ -594,9 +594,9 @@
         "podiums": 0
     },
     "Sepp": {
-        "elo": 985,
+        "elo": 970,
         "wins": 0,
-        "races": 2,
+        "races": 3,
         "podiums": 0
     },
     "Ricco": {
@@ -612,9 +612,9 @@
         "podiums": 0
     },
     "IG: tom_kuil_racing": {
-        "elo": 1024,
+        "elo": 1017,
         "wins": 0,
-        "races": 2,
+        "races": 3,
         "podiums": 2
     },
     "Thomo081": {
@@ -632,13 +632,19 @@
     "MaonFedrick5": {
         "elo": 1004,
         "wins": 0,
-        "races": 1,
+        "races": 2,
         "podiums": 0
     },
     "Po1nt": {
         "elo": 995,
         "wins": 0,
         "races": 2,
+        "podiums": 0
+    },
+    "LaPirana24": {
+        "elo": 1005,
+        "wins": 0,
+        "races": 1,
         "podiums": 0
     }
 }
