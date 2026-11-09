@@ -6,9 +6,9 @@
         "podiums": 1
     },
     "branny": {
-        "elo": 1023,
+        "elo": 1006,
         "wins": 1,
-        "races": 3,
+        "races": 4,
         "podiums": 3
     },
     "Miquel_Sinke60": {
@@ -60,10 +60,10 @@
         "podiums": 5
     },
     "filipknigge20": {
-        "elo": 1034,
+        "elo": 1046,
         "wins": 3,
-        "races": 7,
-        "podiums": 7
+        "races": 8,
+        "podiums": 8
     },
     "ShaiGP": {
         "elo": 1002,
@@ -134,7 +134,7 @@
     "HectorLl93": {
         "elo": 1035,
         "wins": 0,
-        "races": 5,
+        "races": 6,
         "podiums": 2
     },
     "collinlanger96": {
@@ -192,9 +192,9 @@
         "podiums": 5
     },
     "rayzenev": {
-        "elo": 995,
+        "elo": 986,
         "wins": 0,
-        "races": 2,
+        "races": 3,
         "podiums": 1
     },
     "ihatestoppies": {
@@ -294,9 +294,9 @@
         "podiums": 5
     },
     "will 77": {
-        "elo": 1001,
+        "elo": 1009,
         "wins": 1,
-        "races": 6,
+        "races": 7,
         "podiums": 2
     },
     "alexiis_1622": {
@@ -354,10 +354,10 @@
         "podiums": 3
     },
     "oover": {
-        "elo": 1077,
-        "wins": 5,
-        "races": 7,
-        "podiums": 7
+        "elo": 1090,
+        "wins": 6,
+        "races": 8,
+        "podiums": 8
     },
     "Mikey 93": {
         "elo": 1020,
@@ -438,9 +438,9 @@
         "podiums": 1
     },
     "titonagom08": {
-        "elo": 973,
+        "elo": 962,
         "wins": 0,
-        "races": 3,
+        "races": 4,
         "podiums": 0
     },
     "Nepodar z Albrechtic": {
@@ -528,9 +528,9 @@
         "podiums": 1
     },
     "AITORGP": {
-        "elo": 990,
+        "elo": 987,
         "wins": 0,
-        "races": 1,
+        "races": 2,
         "podiums": 0
     },
     "Quidel Gaétan": {
@@ -606,21 +606,21 @@
         "podiums": 0
     },
     "Tarmacsurfer": {
-        "elo": 986,
+        "elo": 992,
         "wins": 0,
-        "races": 1,
+        "races": 2,
         "podiums": 0
     },
     "IG: tom_kuil_racing": {
-        "elo": 1014,
+        "elo": 1024,
         "wins": 0,
-        "races": 1,
-        "podiums": 1
+        "races": 2,
+        "podiums": 2
     },
     "Thomo081": {
-        "elo": 1011,
+        "elo": 1009,
         "wins": 0,
-        "races": 1,
+        "races": 2,
         "podiums": 0
     },
     "cxtEstam": {
@@ -636,9 +636,9 @@
         "podiums": 0
     },
     "Po1nt": {
-        "elo": 1002,
+        "elo": 995,
         "wins": 0,
-        "races": 1,
+        "races": 2,
         "podiums": 0
     }
 }
