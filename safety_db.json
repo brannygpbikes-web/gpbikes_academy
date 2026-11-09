@@ -194,11 +194,11 @@
         "grade": "C"
     },
     "HectorLl93": {
-        "safety": 103,
-        "races": 10,
-        "contacts": 20,
+        "safety": 100,
+        "races": 11,
+        "contacts": 21,
         "clean_races": 3,
-        "large_lobby_clean_streak": 1,
+        "large_lobby_clean_streak": 0,
         "grade": "C"
     },
     "Postal": {
@@ -482,9 +482,9 @@
         "grade": "C"
     },
     "Gonzalo Molina": {
-        "safety": 119,
-        "races": 4,
-        "contacts": 10,
+        "safety": 101,
+        "races": 5,
+        "contacts": 16,
         "clean_races": 1,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -746,12 +746,12 @@
         "grade": "C"
     },
     "MARCO": {
-        "safety": 118,
-        "races": 2,
-        "contacts": 5,
+        "safety": 97,
+        "races": 3,
+        "contacts": 12,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
-        "grade": "C"
+        "grade": "D"
     },
     "Quidel Gaétan": {
         "safety": 130,
@@ -802,12 +802,12 @@
         "grade": "B"
     },
     "Dimitry": {
-        "safety": 123,
-        "races": 3,
+        "safety": 133,
+        "races": 4,
         "contacts": 2,
-        "clean_races": 1,
+        "clean_races": 2,
         "large_lobby_clean_streak": 0,
-        "grade": "C"
+        "grade": "B"
     },
     "sepvdzwart#46": {
         "safety": 116,
@@ -867,7 +867,7 @@
     },
     "IG: tom_kuil_racing": {
         "safety": 108,
-        "races": 4,
+        "races": 5,
         "contacts": 17,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
@@ -946,9 +946,9 @@
         "grade": "C"
     },
     "alejandroo226": {
-        "safety": 118,
-        "races": 2,
-        "contacts": 7,
+        "safety": 112,
+        "races": 3,
+        "contacts": 9,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -978,9 +978,9 @@
         "grade": "C"
     },
     "Karchin278": {
-        "safety": 123,
-        "races": 1,
-        "contacts": 2,
+        "safety": 117,
+        "races": 2,
+        "contacts": 4,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
