@@ -1,9 +1,9 @@
 {
     "Miquel_Sinke60": {
-        "safety": 114,
-        "races": 15,
+        "safety": 119,
+        "races": 16,
         "contacts": 29,
-        "clean_races": 5,
+        "clean_races": 6,
         "large_lobby_clean_streak": 0,
         "grade": "C"
     },
@@ -138,10 +138,10 @@
         "grade": "C"
     },
     "moe": {
-        "safety": 115,
-        "races": 20,
+        "safety": 120,
+        "races": 21,
         "contacts": 23,
-        "clean_races": 5,
+        "clean_races": 6,
         "large_lobby_clean_streak": 0,
         "grade": "C"
     },
@@ -314,10 +314,10 @@
         "grade": "B"
     },
     "SleppyGame23": {
-        "safety": 129,
-        "races": 4,
+        "safety": 134,
+        "races": 5,
         "contacts": 6,
-        "clean_races": 1,
+        "clean_races": 2,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     },
@@ -1000,5 +1000,21 @@
         "clean_races": 1,
         "large_lobby_clean_streak": 0,
         "grade": "B"
+    },
+    "NextGenMind": {
+        "safety": 123,
+        "races": 1,
+        "contacts": 1,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "C"
+    },
+    "Boomgamertony": {
+        "safety": 123,
+        "races": 1,
+        "contacts": 1,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "C"
     }
 }

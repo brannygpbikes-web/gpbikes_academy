@@ -192,6 +192,15 @@
             "track": "",
             "finish": 11,
             "race_id": "c99926c5358fbeeae0c4f89a927d2c1b871e355d43b0901a94c5021cfe4884e8"
+        },
+        {
+            "date": "2026-11-10T17:14:15",
+            "elo": 1043,
+            "elo_before": 1036,
+            "change": 7,
+            "track": "",
+            "finish": 1,
+            "race_id": "9045c65eab3c807436d17d5add4fb0a8a0a73f9d72fe828e9b70391a26fd1e9e"
         }
     ],
     "Rk_44": [
@@ -976,6 +985,15 @@
             "track": "",
             "finish": 16,
             "race_id": "e94c4e4757d0e00953edd27111a6fb6816f432e815e7a7f35719970c42fb6e91"
+        },
+        {
+            "date": "2026-11-10T17:14:15",
+            "elo": 934,
+            "elo_before": 932,
+            "change": 2,
+            "track": "",
+            "finish": 3,
+            "race_id": "9045c65eab3c807436d17d5add4fb0a8a0a73f9d72fe828e9b70391a26fd1e9e"
         }
     ],
     "moleo": [
@@ -1976,6 +1994,15 @@
             "track": "",
             "finish": 4,
             "race_id": "e94c4e4757d0e00953edd27111a6fb6816f432e815e7a7f35719970c42fb6e91"
+        },
+        {
+            "date": "2026-11-10T17:14:15",
+            "elo": 998,
+            "elo_before": 1003,
+            "change": -5,
+            "track": "",
+            "finish": 4,
+            "race_id": "9045c65eab3c807436d17d5add4fb0a8a0a73f9d72fe828e9b70391a26fd1e9e"
         }
     ],
     "The Gyatt": [
@@ -4195,6 +4222,28 @@
             "track": "",
             "finish": 5,
             "race_id": "472627fac182d90bce8101f4f3caa1a4c0d2ac3f84c15a19df3ef41294d58812"
+        }
+    ],
+    "Boomgamertony": [
+        {
+            "date": "2026-11-10T17:14:15",
+            "elo": 1004,
+            "elo_before": 1000,
+            "change": 4,
+            "track": "",
+            "finish": 2,
+            "race_id": "9045c65eab3c807436d17d5add4fb0a8a0a73f9d72fe828e9b70391a26fd1e9e"
+        }
+    ],
+    "NextGenMind": [
+        {
+            "date": "2026-11-10T17:14:15",
+            "elo": 992,
+            "elo_before": 1000,
+            "change": -8,
+            "track": "",
+            "finish": 5,
+            "race_id": "9045c65eab3c807436d17d5add4fb0a8a0a73f9d72fe828e9b70391a26fd1e9e"
         }
     ]
 }

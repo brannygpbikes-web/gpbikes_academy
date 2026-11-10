@@ -12,10 +12,10 @@
         "podiums": 3
     },
     "Miquel_Sinke60": {
-        "elo": 1036,
-        "wins": 5,
-        "races": 15,
-        "podiums": 11
+        "elo": 1043,
+        "wins": 6,
+        "races": 16,
+        "podiums": 12
     },
     "Rk_44": {
         "elo": 962,
@@ -96,10 +96,10 @@
         "podiums": 1
     },
     "moe": {
-        "elo": 932,
+        "elo": 934,
         "wins": 0,
-        "races": 16,
-        "podiums": 5
+        "races": 17,
+        "podiums": 6
     },
     "moleo": {
         "elo": 1040,
@@ -234,9 +234,9 @@
         "podiums": 0
     },
     "SleppyGame23": {
-        "elo": 1003,
+        "elo": 998,
         "wins": 0,
-        "races": 3,
+        "races": 4,
         "podiums": 0
     },
     "The Gyatt": {
@@ -709,6 +709,18 @@
     },
     "Matszekk": {
         "elo": 993,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
+    },
+    "Boomgamertony": {
+        "elo": 1004,
+        "wins": 0,
+        "races": 1,
+        "podiums": 1
+    },
+    "NextGenMind": {
+        "elo": 992,
         "wins": 0,
         "races": 1,
         "podiums": 0
