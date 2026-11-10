@@ -201,6 +201,15 @@
             "track": "",
             "finish": 1,
             "race_id": "9045c65eab3c807436d17d5add4fb0a8a0a73f9d72fe828e9b70391a26fd1e9e"
+        },
+        {
+            "date": "2026-11-10T17:30:19",
+            "elo": 1042,
+            "elo_before": 1043,
+            "change": -1,
+            "track": "",
+            "finish": 2,
+            "race_id": "f51fb4b8a6f43b43e56968b1ea716c0517210ee11b61927547cce9b89609edea"
         }
     ],
     "Rk_44": [
@@ -1528,6 +1537,15 @@
             "track": "",
             "finish": 11,
             "race_id": "1cf68fc81ab46f1540e2983842d3d9684659d534a692b136082fefb139aeb52d"
+        },
+        {
+            "date": "2026-11-10T17:30:19",
+            "elo": 1000,
+            "elo_before": 995,
+            "change": 5,
+            "track": "",
+            "finish": 1,
+            "race_id": "f51fb4b8a6f43b43e56968b1ea716c0517210ee11b61927547cce9b89609edea"
         }
     ],
     "rayzenev": [
@@ -4233,6 +4251,15 @@
             "track": "",
             "finish": 2,
             "race_id": "9045c65eab3c807436d17d5add4fb0a8a0a73f9d72fe828e9b70391a26fd1e9e"
+        },
+        {
+            "date": "2026-11-10T17:30:19",
+            "elo": 1000,
+            "elo_before": 1004,
+            "change": -4,
+            "track": "",
+            "finish": 3,
+            "race_id": "f51fb4b8a6f43b43e56968b1ea716c0517210ee11b61927547cce9b89609edea"
         }
     ],
     "NextGenMind": [
