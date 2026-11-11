@@ -55,6 +55,15 @@
             "track": "",
             "finish": 12,
             "race_id": "d0123c51c90e8755143bcaf30213b0a3ead037e7ff5cd6015729d09c51ee5fd1"
+        },
+        {
+            "date": "2026-11-11T20:17:48",
+            "elo": 1014,
+            "elo_before": 1006,
+            "change": 8,
+            "track": "",
+            "finish": 1,
+            "race_id": "be61ac0e4392329ea983277a3446438894119ebb8fc618b3025b736e34affd06"
         }
     ],
     "Miquel_Sinke60": [
@@ -311,6 +320,15 @@
             "track": "",
             "finish": 4,
             "race_id": "dcf38763e17d36c50fe0711a06b8703bbf61ba9d4427d11ccd7fcdb14858e555"
+        },
+        {
+            "date": "2026-11-11T20:17:48",
+            "elo": 942,
+            "elo_before": 948,
+            "change": -6,
+            "track": "",
+            "finish": 5,
+            "race_id": "be61ac0e4392329ea983277a3446438894119ebb8fc618b3025b736e34affd06"
         }
     ],
     "Billy Jones": [
@@ -2815,6 +2833,15 @@
             "track": "",
             "finish": 12,
             "race_id": "c666f0e9190d1e9c6c65180ed5d9f6833440fe27eebb2aa6b266dd129040b064"
+        },
+        {
+            "date": "2026-11-11T20:17:48",
+            "elo": 994,
+            "elo_before": 998,
+            "change": -4,
+            "track": "",
+            "finish": 4,
+            "race_id": "be61ac0e4392329ea983277a3446438894119ebb8fc618b3025b736e34affd06"
         }
     ],
     "oover": [
@@ -2898,6 +2925,15 @@
             "track": "",
             "finish": 1,
             "race_id": "22d6b11fa3815294c7a4bd4c854bb3849d3559d5ad8189c25391adfbca41035e"
+        },
+        {
+            "date": "2026-11-11T20:17:48",
+            "elo": 1104,
+            "elo_before": 1102,
+            "change": 2,
+            "track": "",
+            "finish": 2,
+            "race_id": "be61ac0e4392329ea983277a3446438894119ebb8fc618b3025b736e34affd06"
         }
     ],
     "Mikey 93": [
@@ -4437,6 +4473,17 @@
             "track": "",
             "finish": 6,
             "race_id": "dcf38763e17d36c50fe0711a06b8703bbf61ba9d4427d11ccd7fcdb14858e555"
+        }
+    ],
+    "motox410": [
+        {
+            "date": "2026-11-11T20:17:48",
+            "elo": 1000,
+            "elo_before": 1000,
+            "change": 0,
+            "track": "",
+            "finish": 3,
+            "race_id": "be61ac0e4392329ea983277a3446438894119ebb8fc618b3025b736e34affd06"
         }
     ]
 }

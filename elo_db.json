@@ -6,10 +6,10 @@
         "podiums": 1
     },
     "branny": {
-        "elo": 1006,
-        "wins": 1,
-        "races": 4,
-        "podiums": 3
+        "elo": 1014,
+        "wins": 2,
+        "races": 5,
+        "podiums": 4
     },
     "Miquel_Sinke60": {
         "elo": 1046,
@@ -18,9 +18,9 @@
         "podiums": 14
     },
     "Rk_44": {
-        "elo": 948,
+        "elo": 942,
         "wins": 1,
-        "races": 10,
+        "races": 11,
         "podiums": 3
     },
     "Billy Jones": {
@@ -348,16 +348,16 @@
         "podiums": 5
     },
     "Lou": {
-        "elo": 998,
+        "elo": 994,
         "wins": 0,
-        "races": 7,
+        "races": 8,
         "podiums": 3
     },
     "oover": {
-        "elo": 1102,
+        "elo": 1104,
         "wins": 7,
-        "races": 9,
-        "podiums": 9
+        "races": 10,
+        "podiums": 10
     },
     "Mikey 93": {
         "elo": 1007,
@@ -735,6 +735,12 @@
         "elo": 984,
         "wins": 0,
         "races": 2,
+        "podiums": 1
+    },
+    "motox410": {
+        "elo": 1000,
+        "wins": 0,
+        "races": 1,
         "podiums": 1
     }
 }
