@@ -198,10 +198,10 @@
         "podiums": 1
     },
     "ihatestoppies": {
-        "elo": 1045,
+        "elo": 1040,
         "wins": 3,
-        "races": 9,
-        "podiums": 7
+        "races": 10,
+        "podiums": 8
     },
     "pa": {
         "elo": 985,
@@ -510,10 +510,10 @@
         "podiums": 1
     },
     "EgoMan": {
-        "elo": 1001,
-        "wins": 1,
-        "races": 5,
-        "podiums": 2
+        "elo": 1006,
+        "wins": 2,
+        "races": 6,
+        "podiums": 3
     },
     "MARCO": {
         "elo": 1038,

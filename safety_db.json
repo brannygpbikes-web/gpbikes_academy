@@ -290,9 +290,9 @@
         "grade": "E"
     },
     "ihatestoppies": {
-        "safety": 110,
-        "races": 10,
-        "contacts": 14,
+        "safety": 104,
+        "races": 11,
+        "contacts": 16,
         "clean_races": 2,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -714,12 +714,12 @@
         "grade": "B"
     },
     "EgoMan": {
-        "safety": 127,
-        "races": 6,
-        "contacts": 6,
+        "safety": 121,
+        "races": 7,
+        "contacts": 8,
         "clean_races": 2,
         "large_lobby_clean_streak": 0,
-        "grade": "B"
+        "grade": "C"
     },
     "TheJr": {
         "safety": 125,

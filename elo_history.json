@@ -1721,6 +1721,15 @@
             "track": "",
             "finish": 1,
             "race_id": "500886e8ca9e689162b05c750d86f6a6d4ab68abfc297f05d9f5e5077dddf58a"
+        },
+        {
+            "date": "2026-11-11T19:22:59",
+            "elo": 1040,
+            "elo_before": 1045,
+            "change": -5,
+            "track": "",
+            "finish": 2,
+            "race_id": "83894b74820a6ec8de07f9cf5417da4e355a141b3118137043d58dc50aa324bb"
         }
     ],
     "pa": [
@@ -3598,6 +3607,15 @@
             "track": "",
             "finish": 1,
             "race_id": "dcf38763e17d36c50fe0711a06b8703bbf61ba9d4427d11ccd7fcdb14858e555"
+        },
+        {
+            "date": "2026-11-11T19:22:59",
+            "elo": 1006,
+            "elo_before": 1001,
+            "change": 5,
+            "track": "",
+            "finish": 1,
+            "race_id": "83894b74820a6ec8de07f9cf5417da4e355a141b3118137043d58dc50aa324bb"
         }
     ],
     "MARCO": [
