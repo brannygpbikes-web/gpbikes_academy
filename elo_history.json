@@ -210,6 +210,15 @@
             "track": "",
             "finish": 2,
             "race_id": "f51fb4b8a6f43b43e56968b1ea716c0517210ee11b61927547cce9b89609edea"
+        },
+        {
+            "date": "2026-11-11T16:40:13",
+            "elo": 1046,
+            "elo_before": 1042,
+            "change": 4,
+            "track": "",
+            "finish": 1,
+            "race_id": "f3a30708febc1c663454aa02bce8085be9d9c43c0c0cb58362057331de951f5b"
         }
     ],
     "Rk_44": [
@@ -4271,6 +4280,28 @@
             "track": "",
             "finish": 5,
             "race_id": "9045c65eab3c807436d17d5add4fb0a8a0a73f9d72fe828e9b70391a26fd1e9e"
+        }
+    ],
+    "DUCKSWORTH": [
+        {
+            "date": "2026-11-11T16:40:13",
+            "elo": 1000,
+            "elo_before": 1000,
+            "change": 0,
+            "track": "",
+            "finish": 2,
+            "race_id": "f3a30708febc1c663454aa02bce8085be9d9c43c0c0cb58362057331de951f5b"
+        }
+    ],
+    "reevvveer": [
+        {
+            "date": "2026-11-11T16:40:13",
+            "elo": 996,
+            "elo_before": 1000,
+            "change": -4,
+            "track": "",
+            "finish": 3,
+            "race_id": "f3a30708febc1c663454aa02bce8085be9d9c43c0c0cb58362057331de951f5b"
         }
     ]
 }

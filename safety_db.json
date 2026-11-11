@@ -1,9 +1,9 @@
 {
     "Miquel_Sinke60": {
-        "safety": 117,
-        "races": 17,
+        "safety": 122,
+        "races": 18,
         "contacts": 30,
-        "clean_races": 6,
+        "clean_races": 7,
         "large_lobby_clean_streak": 0,
         "grade": "C"
     },
@@ -715,7 +715,7 @@
     },
     "EgoMan": {
         "safety": 121,
-        "races": 3,
+        "races": 4,
         "contacts": 4,
         "clean_races": 1,
         "large_lobby_clean_streak": 0,
@@ -1013,6 +1013,22 @@
         "safety": 128,
         "races": 2,
         "contacts": 1,
+        "clean_races": 1,
+        "large_lobby_clean_streak": 0,
+        "grade": "B"
+    },
+    "DUCKSWORTH": {
+        "safety": 130,
+        "races": 1,
+        "contacts": 0,
+        "clean_races": 1,
+        "large_lobby_clean_streak": 0,
+        "grade": "B"
+    },
+    "reevvveer": {
+        "safety": 130,
+        "races": 1,
+        "contacts": 0,
         "clean_races": 1,
         "large_lobby_clean_streak": 0,
         "grade": "B"

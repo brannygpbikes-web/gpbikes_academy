@@ -12,10 +12,10 @@
         "podiums": 3
     },
     "Miquel_Sinke60": {
-        "elo": 1042,
-        "wins": 6,
-        "races": 17,
-        "podiums": 13
+        "elo": 1046,
+        "wins": 7,
+        "races": 18,
+        "podiums": 14
     },
     "Rk_44": {
         "elo": 962,
@@ -724,5 +724,17 @@
         "wins": 0,
         "races": 1,
         "podiums": 0
+    },
+    "DUCKSWORTH": {
+        "elo": 1000,
+        "wins": 0,
+        "races": 1,
+        "podiums": 1
+    },
+    "reevvveer": {
+        "elo": 996,
+        "wins": 0,
+        "races": 1,
+        "podiums": 1
     }
 }
