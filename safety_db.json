@@ -24,9 +24,9 @@
         "grade": "B"
     },
     "Rk_44": {
-        "safety": 159,
-        "races": 10,
-        "contacts": 2,
+        "safety": 157,
+        "races": 11,
+        "contacts": 3,
         "clean_races": 7,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -138,9 +138,9 @@
         "grade": "C"
     },
     "moe": {
-        "safety": 116,
-        "races": 23,
-        "contacts": 25,
+        "safety": 112,
+        "races": 24,
+        "contacts": 27,
         "clean_races": 6,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -714,9 +714,9 @@
         "grade": "B"
     },
     "EgoMan": {
-        "safety": 131,
-        "races": 5,
-        "contacts": 4,
+        "safety": 127,
+        "races": 6,
+        "contacts": 6,
         "clean_races": 2,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -954,9 +954,9 @@
         "grade": "C"
     },
     "Maximoquiles28": {
-        "safety": 118,
-        "races": 2,
-        "contacts": 7,
+        "safety": 110,
+        "races": 3,
+        "contacts": 11,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -1018,18 +1018,18 @@
         "grade": "B"
     },
     "DUCKSWORTH": {
-        "safety": 124,
-        "races": 2,
-        "contacts": 3,
+        "safety": 118,
+        "races": 3,
+        "contacts": 6,
         "clean_races": 1,
         "large_lobby_clean_streak": 0,
         "grade": "C"
     },
     "reevvveer": {
-        "safety": 130,
-        "races": 1,
+        "safety": 140,
+        "races": 2,
         "contacts": 0,
-        "clean_races": 1,
+        "clean_races": 2,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     }

@@ -18,9 +18,9 @@
         "podiums": 14
     },
     "Rk_44": {
-        "elo": 949,
+        "elo": 948,
         "wins": 1,
-        "races": 9,
+        "races": 10,
         "podiums": 3
     },
     "Billy Jones": {
@@ -96,10 +96,10 @@
         "podiums": 1
     },
     "moe": {
-        "elo": 936,
+        "elo": 945,
         "wins": 0,
-        "races": 18,
-        "podiums": 6
+        "races": 19,
+        "podiums": 7
     },
     "moleo": {
         "elo": 1040,
@@ -510,10 +510,10 @@
         "podiums": 1
     },
     "EgoMan": {
-        "elo": 990,
-        "wins": 0,
-        "races": 4,
-        "podiums": 1
+        "elo": 1001,
+        "wins": 1,
+        "races": 5,
+        "podiums": 2
     },
     "MARCO": {
         "elo": 1038,
@@ -678,9 +678,9 @@
         "podiums": 0
     },
     "Maximoquiles28": {
-        "elo": 1022,
+        "elo": 1014,
         "wins": 1,
-        "races": 2,
+        "races": 3,
         "podiums": 1
     },
     "alejandroo226": {
@@ -726,15 +726,15 @@
         "podiums": 0
     },
     "DUCKSWORTH": {
-        "elo": 1014,
+        "elo": 1015,
         "wins": 1,
-        "races": 2,
-        "podiums": 2
+        "races": 3,
+        "podiums": 3
     },
     "reevvveer": {
-        "elo": 996,
+        "elo": 984,
         "wins": 0,
-        "races": 1,
+        "races": 2,
         "podiums": 1
     }
 }
