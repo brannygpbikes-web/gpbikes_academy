@@ -6,9 +6,9 @@
         "podiums": 1
     },
     "branny": {
-        "elo": 1019,
+        "elo": 1018,
         "wins": 2,
-        "races": 7,
+        "races": 8,
         "podiums": 5
     },
     "Miquel_Sinke60": {
@@ -18,9 +18,9 @@
         "podiums": 14
     },
     "Rk_44": {
-        "elo": 938,
+        "elo": 933,
         "wins": 1,
-        "races": 13,
+        "races": 14,
         "podiums": 3
     },
     "Billy Jones": {
@@ -240,9 +240,9 @@
         "podiums": 0
     },
     "The Gyatt": {
-        "elo": 1008,
+        "elo": 1011,
         "wins": 0,
-        "races": 6,
+        "races": 7,
         "podiums": 2
     },
     "niggaboy#46": {
@@ -270,9 +270,9 @@
         "podiums": 1
     },
     "Carrasco": {
-        "elo": 1020,
+        "elo": 1014,
         "wins": 1,
-        "races": 6,
+        "races": 7,
         "podiums": 2
     },
     "alerelinque": {
@@ -348,15 +348,15 @@
         "podiums": 5
     },
     "Lou": {
-        "elo": 999,
+        "elo": 1007,
         "wins": 1,
-        "races": 10,
+        "races": 11,
         "podiums": 4
     },
     "oover": {
-        "elo": 1119,
+        "elo": 1111,
         "wins": 8,
-        "races": 12,
+        "races": 13,
         "podiums": 12
     },
     "Mikey 93": {
@@ -606,9 +606,9 @@
         "podiums": 0
     },
     "Tarmacsurfer": {
-        "elo": 992,
+        "elo": 977,
         "wins": 0,
-        "races": 2,
+        "races": 3,
         "podiums": 0
     },
     "IG: tom_kuil_racing": {
@@ -678,10 +678,10 @@
         "podiums": 0
     },
     "Maximoquiles28": {
-        "elo": 1014,
-        "wins": 1,
-        "races": 3,
-        "podiums": 1
+        "elo": 1030,
+        "wins": 2,
+        "races": 4,
+        "podiums": 2
     },
     "alejandroo226": {
         "elo": 1000,
@@ -690,10 +690,10 @@
         "podiums": 2
     },
     "Raceboi95": {
-        "elo": 997,
+        "elo": 1011,
         "wins": 0,
-        "races": 1,
-        "podiums": 0
+        "races": 2,
+        "podiums": 1
     },
     "Karchin278": {
         "elo": 1002,
@@ -726,15 +726,15 @@
         "podiums": 0
     },
     "DUCKSWORTH": {
-        "elo": 1015,
+        "elo": 1020,
         "wins": 1,
-        "races": 3,
+        "races": 4,
         "podiums": 3
     },
     "reevvveer": {
-        "elo": 984,
+        "elo": 975,
         "wins": 0,
-        "races": 2,
+        "races": 3,
         "podiums": 1
     },
     "motox410": {
@@ -750,9 +750,15 @@
         "podiums": 0
     },
     "Dede": {
-        "elo": 1005,
+        "elo": 1016,
+        "wins": 0,
+        "races": 2,
+        "podiums": 2
+    },
+    "s1r2p": {
+        "elo": 987,
         "wins": 0,
         "races": 1,
-        "podiums": 1
+        "podiums": 0
     }
 }
