@@ -6,10 +6,10 @@
         "podiums": 1
     },
     "branny": {
-        "elo": 1014,
+        "elo": 1019,
         "wins": 2,
-        "races": 5,
-        "podiums": 4
+        "races": 6,
+        "podiums": 5
     },
     "Miquel_Sinke60": {
         "elo": 1046,
@@ -18,9 +18,9 @@
         "podiums": 14
     },
     "Rk_44": {
-        "elo": 942,
+        "elo": 940,
         "wins": 1,
-        "races": 11,
+        "races": 12,
         "podiums": 3
     },
     "Billy Jones": {
@@ -242,7 +242,7 @@
     "The Gyatt": {
         "elo": 998,
         "wins": 0,
-        "races": 4,
+        "races": 5,
         "podiums": 1
     },
     "niggaboy#46": {
@@ -348,16 +348,16 @@
         "podiums": 5
     },
     "Lou": {
-        "elo": 994,
-        "wins": 0,
-        "races": 8,
-        "podiums": 3
+        "elo": 1009,
+        "wins": 1,
+        "races": 9,
+        "podiums": 4
     },
     "oover": {
-        "elo": 1104,
+        "elo": 1109,
         "wins": 7,
-        "races": 10,
-        "podiums": 10
+        "races": 11,
+        "podiums": 11
     },
     "Mikey 93": {
         "elo": 1007,
@@ -738,9 +738,15 @@
         "podiums": 1
     },
     "motox410": {
-        "elo": 1000,
+        "elo": 991,
+        "wins": 0,
+        "races": 2,
+        "podiums": 1
+    },
+    "Gambilla206": {
+        "elo": 986,
         "wins": 0,
         "races": 1,
-        "podiums": 1
+        "podiums": 0
     }
 }

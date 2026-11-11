@@ -64,6 +64,15 @@
             "track": "",
             "finish": 1,
             "race_id": "be61ac0e4392329ea983277a3446438894119ebb8fc618b3025b736e34affd06"
+        },
+        {
+            "date": "2026-11-11T20:42:09",
+            "elo": 1019,
+            "elo_before": 1014,
+            "change": 5,
+            "track": "",
+            "finish": 3,
+            "race_id": "99fb7ea5a763ae94de602903b15cc342f4b5d08e5c021995f08af5a022d919c3"
         }
     ],
     "Miquel_Sinke60": [
@@ -329,6 +338,15 @@
             "track": "",
             "finish": 5,
             "race_id": "be61ac0e4392329ea983277a3446438894119ebb8fc618b3025b736e34affd06"
+        },
+        {
+            "date": "2026-11-11T20:42:09",
+            "elo": 940,
+            "elo_before": 942,
+            "change": -2,
+            "track": "",
+            "finish": 5,
+            "race_id": "99fb7ea5a763ae94de602903b15cc342f4b5d08e5c021995f08af5a022d919c3"
         }
     ],
     "Billy Jones": [
@@ -2140,6 +2158,15 @@
             "track": "",
             "finish": 11,
             "race_id": "c666f0e9190d1e9c6c65180ed5d9f6833440fe27eebb2aa6b266dd129040b064"
+        },
+        {
+            "date": "2026-11-11T20:42:09",
+            "elo": 998,
+            "elo_before": 998,
+            "change": 0,
+            "track": "",
+            "finish": 4,
+            "race_id": "99fb7ea5a763ae94de602903b15cc342f4b5d08e5c021995f08af5a022d919c3"
         }
     ],
     "niggaboy#46": [
@@ -2842,6 +2869,15 @@
             "track": "",
             "finish": 4,
             "race_id": "be61ac0e4392329ea983277a3446438894119ebb8fc618b3025b736e34affd06"
+        },
+        {
+            "date": "2026-11-11T20:42:09",
+            "elo": 1009,
+            "elo_before": 994,
+            "change": 15,
+            "track": "",
+            "finish": 1,
+            "race_id": "99fb7ea5a763ae94de602903b15cc342f4b5d08e5c021995f08af5a022d919c3"
         }
     ],
     "oover": [
@@ -2934,6 +2970,15 @@
             "track": "",
             "finish": 2,
             "race_id": "be61ac0e4392329ea983277a3446438894119ebb8fc618b3025b736e34affd06"
+        },
+        {
+            "date": "2026-11-11T20:42:09",
+            "elo": 1109,
+            "elo_before": 1104,
+            "change": 5,
+            "track": "",
+            "finish": 2,
+            "race_id": "99fb7ea5a763ae94de602903b15cc342f4b5d08e5c021995f08af5a022d919c3"
         }
     ],
     "Mikey 93": [
@@ -4484,6 +4529,26 @@
             "track": "",
             "finish": 3,
             "race_id": "be61ac0e4392329ea983277a3446438894119ebb8fc618b3025b736e34affd06"
+        },
+        {
+            "date": "2026-11-11T20:42:09",
+            "elo": 991,
+            "elo_before": 1000,
+            "change": -9,
+            "track": "",
+            "finish": 6,
+            "race_id": "99fb7ea5a763ae94de602903b15cc342f4b5d08e5c021995f08af5a022d919c3"
+        }
+    ],
+    "Gambilla206": [
+        {
+            "date": "2026-11-11T20:42:09",
+            "elo": 986,
+            "elo_before": 1000,
+            "change": -14,
+            "track": "",
+            "finish": 7,
+            "race_id": "99fb7ea5a763ae94de602903b15cc342f4b5d08e5c021995f08af5a022d919c3"
         }
     ]
 }

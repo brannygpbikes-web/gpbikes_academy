@@ -8,12 +8,12 @@
         "grade": "C"
     },
     "branny": {
-        "safety": 105,
-        "races": 5,
-        "contacts": 13,
+        "safety": 97,
+        "races": 6,
+        "contacts": 17,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
-        "grade": "C"
+        "grade": "D"
     },
     "AhyaAL": {
         "safety": 135,
@@ -24,12 +24,12 @@
         "grade": "B"
     },
     "Rk_44": {
-        "safety": 162,
-        "races": 12,
+        "safety": 172,
+        "races": 13,
         "contacts": 3,
-        "clean_races": 8,
+        "clean_races": 9,
         "large_lobby_clean_streak": 0,
-        "grade": "B"
+        "grade": "A"
     },
     "safety_grades": {
         "S": 265,
@@ -346,9 +346,9 @@
         "grade": "C"
     },
     "The Gyatt": {
-        "safety": 142,
-        "races": 4,
-        "contacts": 8,
+        "safety": 134,
+        "races": 5,
+        "contacts": 12,
         "clean_races": 1,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -490,17 +490,17 @@
         "grade": "D"
     },
     "oover": {
-        "safety": 128,
-        "races": 10,
-        "contacts": 16,
+        "safety": 120,
+        "races": 11,
+        "contacts": 20,
         "clean_races": 5,
         "large_lobby_clean_streak": 0,
-        "grade": "B"
+        "grade": "C"
     },
     "Lou": {
-        "safety": 65,
-        "races": 9,
-        "contacts": 39,
+        "safety": 53,
+        "races": 10,
+        "contacts": 45,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "E"
@@ -1034,7 +1034,23 @@
         "grade": "B"
     },
     "motox410": {
-        "safety": 130,
+        "safety": 140,
+        "races": 2,
+        "contacts": 0,
+        "clean_races": 2,
+        "large_lobby_clean_streak": 0,
+        "grade": "B"
+    },
+    "mnenobmw": {
+        "safety": 125,
+        "races": 1,
+        "contacts": 0,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "B"
+    },
+    "Gambilla206": {
+        "safety": 135,
         "races": 1,
         "contacts": 0,
         "clean_races": 1,
