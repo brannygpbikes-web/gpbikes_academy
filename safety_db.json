@@ -24,9 +24,9 @@
         "grade": "B"
     },
     "Rk_44": {
-        "safety": 161,
-        "races": 9,
-        "contacts": 1,
+        "safety": 159,
+        "races": 10,
+        "contacts": 2,
         "clean_races": 7,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -138,9 +138,9 @@
         "grade": "C"
     },
     "moe": {
-        "safety": 120,
-        "races": 22,
-        "contacts": 23,
+        "safety": 116,
+        "races": 23,
+        "contacts": 25,
         "clean_races": 6,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -266,9 +266,9 @@
         "grade": "B"
     },
     "sergioo14": {
-        "safety": 60,
-        "races": 14,
-        "contacts": 42,
+        "safety": 58,
+        "races": 15,
+        "contacts": 43,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "E"
@@ -506,11 +506,11 @@
         "grade": "D"
     },
     "Mikey 93": {
-        "safety": 129,
-        "races": 4,
-        "contacts": 19,
+        "safety": 125,
+        "races": 5,
+        "contacts": 21,
         "clean_races": 1,
-        "large_lobby_clean_streak": 1,
+        "large_lobby_clean_streak": 0,
         "grade": "B"
     },
     "Draco15": {
@@ -522,12 +522,12 @@
         "grade": "C"
     },
     "JW2Stupid": {
-        "safety": 105,
-        "races": 3,
-        "contacts": 12,
+        "safety": 99,
+        "races": 4,
+        "contacts": 15,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
-        "grade": "C"
+        "grade": "D"
     },
     "AL": {
         "safety": 121,
@@ -714,12 +714,12 @@
         "grade": "B"
     },
     "EgoMan": {
-        "safety": 121,
-        "races": 4,
+        "safety": 131,
+        "races": 5,
         "contacts": 4,
-        "clean_races": 1,
+        "clean_races": 2,
         "large_lobby_clean_streak": 0,
-        "grade": "C"
+        "grade": "B"
     },
     "TheJr": {
         "safety": 125,
@@ -1018,12 +1018,12 @@
         "grade": "B"
     },
     "DUCKSWORTH": {
-        "safety": 130,
-        "races": 1,
-        "contacts": 0,
+        "safety": 124,
+        "races": 2,
+        "contacts": 3,
         "clean_races": 1,
         "large_lobby_clean_streak": 0,
-        "grade": "B"
+        "grade": "C"
     },
     "reevvveer": {
         "safety": 130,
