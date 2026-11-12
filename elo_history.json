@@ -3967,6 +3967,15 @@
             "track": "",
             "finish": 1,
             "race_id": "83894b74820a6ec8de07f9cf5417da4e355a141b3118137043d58dc50aa324bb"
+        },
+        {
+            "date": "2026-11-12T20:16:22",
+            "elo": 1014,
+            "elo_before": 1006,
+            "change": 8,
+            "track": "",
+            "finish": 1,
+            "race_id": "d051701800a2661c4b8338d71428580c5ff550d988e0969902f4d3e218edf41b"
         }
     ],
     "MARCO": [
@@ -5014,6 +5023,39 @@
             "track": "",
             "finish": 11,
             "race_id": "e622b54daa127f95578faceace753bdf5ccee74c54448ad20a0ab29c6ff92e5d"
+        }
+    ],
+    "TITO": [
+        {
+            "date": "2026-11-12T20:16:22",
+            "elo": 1003,
+            "elo_before": 1000,
+            "change": 3,
+            "track": "",
+            "finish": 2,
+            "race_id": "d051701800a2661c4b8338d71428580c5ff550d988e0969902f4d3e218edf41b"
+        }
+    ],
+    "jackdunabie413": [
+        {
+            "date": "2026-11-12T20:16:22",
+            "elo": 997,
+            "elo_before": 1000,
+            "change": -3,
+            "track": "",
+            "finish": 3,
+            "race_id": "d051701800a2661c4b8338d71428580c5ff550d988e0969902f4d3e218edf41b"
+        }
+    ],
+    "MARCOHOLT58": [
+        {
+            "date": "2026-11-12T20:16:22",
+            "elo": 992,
+            "elo_before": 1000,
+            "change": -8,
+            "track": "",
+            "finish": 4,
+            "race_id": "d051701800a2661c4b8338d71428580c5ff550d988e0969902f4d3e218edf41b"
         }
     ]
 }

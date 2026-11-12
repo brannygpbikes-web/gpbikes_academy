@@ -510,10 +510,10 @@
         "podiums": 1
     },
     "EgoMan": {
-        "elo": 1006,
-        "wins": 2,
-        "races": 6,
-        "podiums": 3
+        "elo": 1014,
+        "wins": 3,
+        "races": 7,
+        "podiums": 4
     },
     "MARCO": {
         "elo": 1038,
@@ -763,6 +763,24 @@
     },
     "BOMBOCLATT": {
         "elo": 987,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
+    },
+    "TITO": {
+        "elo": 1003,
+        "wins": 0,
+        "races": 1,
+        "podiums": 1
+    },
+    "jackdunabie413": {
+        "elo": 997,
+        "wins": 0,
+        "races": 1,
+        "podiums": 1
+    },
+    "MARCOHOLT58": {
+        "elo": 992,
         "wins": 0,
         "races": 1,
         "podiums": 0

@@ -714,9 +714,9 @@
         "grade": "B"
     },
     "EgoMan": {
-        "safety": 121,
-        "races": 7,
-        "contacts": 8,
+        "safety": 117,
+        "races": 8,
+        "contacts": 10,
         "clean_races": 2,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -1077,6 +1077,30 @@
         "safety": 123,
         "races": 1,
         "contacts": 2,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "C"
+    },
+    "jackdunabie413": {
+        "safety": 119,
+        "races": 1,
+        "contacts": 3,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "C"
+    },
+    "MARCOHOLT58": {
+        "safety": 130,
+        "races": 1,
+        "contacts": 0,
+        "clean_races": 1,
+        "large_lobby_clean_streak": 0,
+        "grade": "B"
+    },
+    "TITO": {
+        "safety": 123,
+        "races": 1,
+        "contacts": 1,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
