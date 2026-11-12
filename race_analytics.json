@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-11T23:00:20.058789+00:00",
+  "generated_at": "2026-11-12T23:00:23.268415+00:00",
   "summary": {
-    "unique_races": 85,
-    "unique_riders": 130,
+    "unique_races": 86,
+    "unique_riders": 132,
     "duplicates_skipped": 0,
-    "invalid_files_skipped": 18,
+    "invalid_files_skipped": 20,
     "tracks": [
       "Automotodrom Brno v1.0a",
       "Circuit de Catalunya - 2021 v1.0b",
@@ -2181,6 +2181,96 @@
       }
     },
     {
+      "guid": "FF011000015C8FE55B",
+      "name": "EgoMan",
+      "races": 8,
+      "wins": 3,
+      "podiums": 4,
+      "win_rate": 37.5,
+      "podium_rate": 50.0,
+      "average_finish": 3,
+      "average_start": 3,
+      "average_positions_gained": 0,
+      "best_finish": 1,
+      "best_recorded_lap": 96.86969,
+      "average_gap_percent": -19.554,
+      "contacts": 10,
+      "contacts_per_race": 1.25,
+      "clean_races": 3,
+      "clean_race_percent": 37.5,
+      "worst_contact_severity": 26.89,
+      "tracks": {
+        "Twin Ring Motegi - GP Layout": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 5,
+          "contacts": 0,
+          "clean_race_percent": 100.0
+        },
+        "Red Bull Ring 2.0 Beta3": {
+          "races": 2,
+          "wins": 1,
+          "podiums": 2,
+          "average_finish": 2,
+          "contacts": 5,
+          "clean_race_percent": 0.0
+        },
+        "Circuit of the Americas v.1.2": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 4,
+          "contacts": 1,
+          "clean_race_percent": 0.0
+        },
+        "Sachsenring v1.0b": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 4,
+          "contacts": 0,
+          "clean_race_percent": 100.0
+        },
+        "Lusail International Circuit - Night v1.0": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 5,
+          "contacts": 0,
+          "clean_race_percent": 100.0
+        },
+        "Silverstone Circuit v1.0": {
+          "races": 1,
+          "wins": 1,
+          "podiums": 1,
+          "average_finish": 1,
+          "contacts": 2,
+          "clean_race_percent": 0.0
+        },
+        "Pertamina Mandalika International Circuit v1.2": {
+          "races": 1,
+          "wins": 1,
+          "podiums": 1,
+          "average_finish": 1,
+          "contacts": 2,
+          "clean_race_percent": 0.0
+        }
+      },
+      "bikes": {
+        "KALEX Akrapovic 1": {
+          "races": 4,
+          "wins": 1,
+          "podiums": 2
+        },
+        "Honda Petronas MIE Racing": {
+          "races": 4,
+          "wins": 2,
+          "podiums": 2
+        }
+      }
+    },
+    {
       "guid": "FF0110000115EEA762",
       "name": "Gixnni.",
       "races": 8,
@@ -2539,88 +2629,6 @@
           "races": 1,
           "wins": 0,
           "podiums": 0
-        }
-      }
-    },
-    {
-      "guid": "FF011000015C8FE55B",
-      "name": "EgoMan",
-      "races": 7,
-      "wins": 2,
-      "podiums": 3,
-      "win_rate": 28.6,
-      "podium_rate": 42.9,
-      "average_finish": 3.286,
-      "average_start": 3.143,
-      "average_positions_gained": -0.143,
-      "best_finish": 1,
-      "best_recorded_lap": 96.86969,
-      "average_gap_percent": -22.813,
-      "contacts": 8,
-      "contacts_per_race": 1.143,
-      "clean_races": 3,
-      "clean_race_percent": 42.9,
-      "worst_contact_severity": 26.89,
-      "tracks": {
-        "Twin Ring Motegi - GP Layout": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0,
-          "average_finish": 5,
-          "contacts": 0,
-          "clean_race_percent": 100.0
-        },
-        "Red Bull Ring 2.0 Beta3": {
-          "races": 2,
-          "wins": 1,
-          "podiums": 2,
-          "average_finish": 2,
-          "contacts": 5,
-          "clean_race_percent": 0.0
-        },
-        "Circuit of the Americas v.1.2": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0,
-          "average_finish": 4,
-          "contacts": 1,
-          "clean_race_percent": 0.0
-        },
-        "Sachsenring v1.0b": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0,
-          "average_finish": 4,
-          "contacts": 0,
-          "clean_race_percent": 100.0
-        },
-        "Lusail International Circuit - Night v1.0": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0,
-          "average_finish": 5,
-          "contacts": 0,
-          "clean_race_percent": 100.0
-        },
-        "Silverstone Circuit v1.0": {
-          "races": 1,
-          "wins": 1,
-          "podiums": 1,
-          "average_finish": 1,
-          "contacts": 2,
-          "clean_race_percent": 0.0
-        }
-      },
-      "bikes": {
-        "KALEX Akrapovic 1": {
-          "races": 3,
-          "wins": 0,
-          "podiums": 1
-        },
-        "Honda Petronas MIE Racing": {
-          "races": 4,
-          "wins": 2,
-          "podiums": 2
         }
       }
     },
@@ -3521,6 +3529,82 @@
       }
     },
     {
+      "guid": "FF01100001490194E6",
+      "name": "TITO",
+      "races": 6,
+      "wins": 0,
+      "podiums": 1,
+      "win_rate": 0.0,
+      "podium_rate": 16.7,
+      "average_finish": 9.833,
+      "average_start": 7.667,
+      "average_positions_gained": -2.167,
+      "best_finish": 2,
+      "best_recorded_lap": 95.137665,
+      "average_gap_percent": -19.463,
+      "contacts": 9,
+      "contacts_per_race": 1.5,
+      "clean_races": 2,
+      "clean_race_percent": 33.3,
+      "worst_contact_severity": 29.898,
+      "tracks": {
+        "Circuito de Jerez v2.1": {
+          "races": 2,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 15.5,
+          "contacts": 3,
+          "clean_race_percent": 50.0
+        },
+        "Pertamina Mandalika International Circuit v1.2": {
+          "races": 2,
+          "wins": 0,
+          "podiums": 1,
+          "average_finish": 4.5,
+          "contacts": 2,
+          "clean_race_percent": 0.0
+        },
+        "Silverstone Circuit v1.0": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 8,
+          "contacts": 0,
+          "clean_race_percent": 100.0
+        },
+        "Motorland Aragon 1.0b": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 11,
+          "contacts": 4,
+          "clean_race_percent": 0.0
+        }
+      },
+      "bikes": {
+        "Honda NSF250RW 2026": {
+          "races": 3,
+          "wins": 0,
+          "podiums": 0
+        },
+        "Honda HRC Team": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0
+        },
+        "BMW ROKIT Motorrad Team": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0
+        },
+        "BOSCOSCURO SC": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 1
+        }
+      }
+    },
+    {
       "guid": "FF011000010E6C0C98",
       "name": "BNJMN",
       "races": 5,
@@ -4222,77 +4306,6 @@
         },
         "Ducati Motorcorsa Racing": {
           "races": 2,
-          "wins": 0,
-          "podiums": 0
-        }
-      }
-    },
-    {
-      "guid": "FF01100001490194E6",
-      "name": "titonagom08",
-      "races": 5,
-      "wins": 0,
-      "podiums": 0,
-      "win_rate": 0.0,
-      "podium_rate": 0.0,
-      "average_finish": 11.4,
-      "average_start": 9,
-      "average_positions_gained": -2.4,
-      "best_finish": 7,
-      "best_recorded_lap": 95.137665,
-      "average_gap_percent": -27.372,
-      "contacts": 8,
-      "contacts_per_race": 1.6,
-      "clean_races": 2,
-      "clean_race_percent": 40.0,
-      "worst_contact_severity": 29.898,
-      "tracks": {
-        "Circuito de Jerez v2.1": {
-          "races": 2,
-          "wins": 0,
-          "podiums": 0,
-          "average_finish": 15.5,
-          "contacts": 3,
-          "clean_race_percent": 50.0
-        },
-        "Pertamina Mandalika International Circuit v1.2": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0,
-          "average_finish": 7,
-          "contacts": 1,
-          "clean_race_percent": 0.0
-        },
-        "Silverstone Circuit v1.0": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0,
-          "average_finish": 8,
-          "contacts": 0,
-          "clean_race_percent": 100.0
-        },
-        "Motorland Aragon 1.0b": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0,
-          "average_finish": 11,
-          "contacts": 4,
-          "clean_race_percent": 0.0
-        }
-      },
-      "bikes": {
-        "Honda NSF250RW 2026": {
-          "races": 3,
-          "wins": 0,
-          "podiums": 0
-        },
-        "Honda HRC Team": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0
-        },
-        "BMW ROKIT Motorrad Team": {
-          "races": 1,
           "wins": 0,
           "podiums": 0
         }
@@ -7455,6 +7468,43 @@
       }
     },
     {
+      "guid": "FF01100001289808BC",
+      "name": "jackdunabie413",
+      "races": 1,
+      "wins": 0,
+      "podiums": 1,
+      "win_rate": 0.0,
+      "podium_rate": 100.0,
+      "average_finish": 3,
+      "average_start": 3,
+      "average_positions_gained": 0,
+      "best_finish": 3,
+      "best_recorded_lap": 126.415436,
+      "average_gap_percent": -49.307,
+      "contacts": 3,
+      "contacts_per_race": 3.0,
+      "clean_races": 0,
+      "clean_race_percent": 0.0,
+      "worst_contact_severity": 15.813,
+      "tracks": {
+        "Pertamina Mandalika International Circuit v1.2": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 1,
+          "average_finish": 3,
+          "contacts": 3,
+          "clean_race_percent": 0.0
+        }
+      },
+      "bikes": {
+        "BOSCOSCURO SC": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 1
+        }
+      }
+    },
+    {
       "guid": "FF01100001457D9462",
       "name": "jmanuel_fs",
       "races": 1,
@@ -7636,6 +7686,43 @@
           "races": 1,
           "wins": 0,
           "podiums": 1
+        }
+      }
+    },
+    {
+      "guid": "FF01100001720BDC30",
+      "name": "MARCOHOLT58",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "win_rate": 0.0,
+      "podium_rate": 0.0,
+      "average_finish": 4,
+      "average_start": 4,
+      "average_positions_gained": 0,
+      "best_finish": 4,
+      "best_recorded_lap": null,
+      "average_gap_percent": null,
+      "contacts": 0,
+      "contacts_per_race": 0.0,
+      "clean_races": 1,
+      "clean_race_percent": 100.0,
+      "worst_contact_severity": null,
+      "tracks": {
+        "Pertamina Mandalika International Circuit v1.2": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 4,
+          "contacts": 0,
+          "clean_race_percent": 100.0
+        }
+      },
+      "bikes": {
+        "BOSCOSCURO SC": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0
         }
       }
     },
@@ -29066,6 +29153,151 @@
           "rider2": "Lou",
           "relative_speed": -7.127934,
           "severity": 7.128
+        }
+      ]
+    },
+    {
+      "source_file": "20261112-201622-Pertamina Mandalika v1.2.xml",
+      "event_timestamp": 1794514582,
+      "date": "2026-11-12T20:16:22+00:00",
+      "event_type": "Race",
+      "track": "Pertamina Mandalika International Circuit v1.2",
+      "track_id": "Pertamina Mandalika v1.2",
+      "track_length_m": 4371.059082,
+      "scheduled_laps": 5,
+      "field_size": 4,
+      "contact_events": 3,
+      "riders": [
+        {
+          "race_num": "55",
+          "name": "EgoMan",
+          "bike": "KALEX Akrapovic 1",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF011000015C8FE55B",
+          "qualifying_position": 2,
+          "qualifying_time": 116.105133,
+          "start_position": 2,
+          "finish_position": 1,
+          "positions_gained": 1,
+          "race_time": 249.42337,
+          "laps_completed": 2,
+          "gap_seconds": 0.0,
+          "gap_percent": 0.0,
+          "penalty": 0.0,
+          "fastest_lap": 118.076813,
+          "fastest_lap_number": 2,
+          "speed": 72.619225,
+          "valid_timed_laps": 2,
+          "average_lap": 124.699,
+          "median_lap": 124.699,
+          "lap_consistency_stdev": 6.622,
+          "contacts": 2,
+          "max_contact_severity": 5.395,
+          "average_contact_severity": 3.056
+        },
+        {
+          "race_num": "82",
+          "name": "TITO",
+          "bike": "BOSCOSCURO SC",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF01100001490194E6",
+          "qualifying_position": 1,
+          "qualifying_time": 97.720703,
+          "start_position": 1,
+          "finish_position": 2,
+          "positions_gained": -1,
+          "race_time": 240.3349,
+          "laps_completed": 2,
+          "gap_seconds": 0.0,
+          "gap_percent": -3.6438,
+          "penalty": 0.0,
+          "fastest_lap": 115.997658,
+          "fastest_lap_number": 2,
+          "speed": 56.584591,
+          "valid_timed_laps": 2,
+          "average_lap": 120.155,
+          "median_lap": 120.155,
+          "lap_consistency_stdev": 4.157,
+          "contacts": 1,
+          "max_contact_severity": 15.813,
+          "average_contact_severity": 15.813
+        },
+        {
+          "race_num": "63",
+          "name": "jackdunabie413",
+          "bike": "BOSCOSCURO SC",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF01100001289808BC",
+          "qualifying_position": 3,
+          "qualifying_time": 120.050934,
+          "start_position": 3,
+          "finish_position": 3,
+          "positions_gained": 0,
+          "race_time": 126.440437,
+          "laps_completed": 1,
+          "gap_seconds": 0.0,
+          "gap_percent": -49.3069,
+          "penalty": 0.0,
+          "fastest_lap": 126.415436,
+          "fastest_lap_number": 1,
+          "speed": 56.61158,
+          "valid_timed_laps": 1,
+          "average_lap": 126.415,
+          "median_lap": 126.415,
+          "lap_consistency_stdev": null,
+          "contacts": 3,
+          "max_contact_severity": 15.813,
+          "average_contact_severity": 7.309
+        },
+        {
+          "race_num": "58",
+          "name": "MARCOHOLT58",
+          "bike": "BOSCOSCURO SC",
+          "category": "Moto2 26 v0.1a",
+          "guid": "FF01100001720BDC30",
+          "qualifying_position": 4,
+          "qualifying_time": null,
+          "start_position": 4,
+          "finish_position": 4,
+          "positions_gained": 0,
+          "race_time": null,
+          "laps_completed": 0,
+          "gap_seconds": null,
+          "gap_percent": null,
+          "penalty": 0.0,
+          "fastest_lap": null,
+          "fastest_lap_number": null,
+          "speed": null,
+          "valid_timed_laps": 0,
+          "average_lap": null,
+          "median_lap": null,
+          "lap_consistency_stdev": null,
+          "contacts": 0,
+          "max_contact_severity": null,
+          "average_contact_severity": null
+        }
+      ],
+      "contacts": [
+        {
+          "time_ms": 86195,
+          "rider1": "jackdunabie413",
+          "rider2": "EgoMan",
+          "relative_speed": -0.717541,
+          "severity": 0.718
+        },
+        {
+          "time_ms": 101853,
+          "rider1": "jackdunabie413",
+          "rider2": "EgoMan",
+          "relative_speed": -5.39537,
+          "severity": 5.395
+        },
+        {
+          "time_ms": 177315,
+          "rider1": "jackdunabie413",
+          "rider2": "TITO",
+          "relative_speed": -15.81282,
+          "severity": 15.813
         }
       ]
     }
