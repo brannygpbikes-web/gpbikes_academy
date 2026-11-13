@@ -53,6 +53,15 @@
             "track": "",
             "finish": 2,
             "race_id": "045654467db37373ff1b17a53505b124fc9dd71817bffd59f5cabad0f3157204"
+        },
+        {
+            "date": "2026-11-13T18:36:19",
+            "elo": 1000,
+            "elo_before": 1011,
+            "change": -11,
+            "track": "",
+            "finish": 12,
+            "race_id": "9abba39d92aae475571d5e5b8fcc2ee11fb9bb66098fac14ca7b21d348dddf30"
         }
     ],
     "branny": [
@@ -354,6 +363,15 @@
             "track": "",
             "finish": 4,
             "race_id": "045654467db37373ff1b17a53505b124fc9dd71817bffd59f5cabad0f3157204"
+        },
+        {
+            "date": "2026-11-13T18:36:19",
+            "elo": 1061,
+            "elo_before": 1055,
+            "change": 6,
+            "track": "",
+            "finish": 4,
+            "race_id": "9abba39d92aae475571d5e5b8fcc2ee11fb9bb66098fac14ca7b21d348dddf30"
         }
     ],
     "Rk_44": [
@@ -536,6 +554,15 @@
             "track": "",
             "finish": 10,
             "race_id": "045654467db37373ff1b17a53505b124fc9dd71817bffd59f5cabad0f3157204"
+        },
+        {
+            "date": "2026-11-13T18:36:19",
+            "elo": 891,
+            "elo_before": 894,
+            "change": -3,
+            "track": "",
+            "finish": 11,
+            "race_id": "9abba39d92aae475571d5e5b8fcc2ee11fb9bb66098fac14ca7b21d348dddf30"
         }
     ],
     "Billy Jones": [
@@ -1087,6 +1114,15 @@
             "track": "",
             "finish": 3,
             "race_id": "27a35487982f776a7da13e5315666709dd0f79ca12df8dba7c79154aae6cdb6c"
+        },
+        {
+            "date": "2026-11-13T18:36:19",
+            "elo": 1026,
+            "elo_before": 1031,
+            "change": -5,
+            "track": "",
+            "finish": 9,
+            "race_id": "9abba39d92aae475571d5e5b8fcc2ee11fb9bb66098fac14ca7b21d348dddf30"
         }
     ],
     "Mopee": [
@@ -1318,6 +1354,15 @@
             "track": "",
             "finish": 6,
             "race_id": "045654467db37373ff1b17a53505b124fc9dd71817bffd59f5cabad0f3157204"
+        },
+        {
+            "date": "2026-11-13T18:36:19",
+            "elo": 964,
+            "elo_before": 969,
+            "change": -5,
+            "track": "",
+            "finish": 10,
+            "race_id": "9abba39d92aae475571d5e5b8fcc2ee11fb9bb66098fac14ca7b21d348dddf30"
         }
     ],
     "moleo": [
@@ -1454,6 +1499,15 @@
             "track": "",
             "finish": 3,
             "race_id": "7e63bd604b18b5045846447cf79d1d10d6aaa3081d1d5dff1408916a6ee14b9b"
+        },
+        {
+            "date": "2026-11-13T18:36:19",
+            "elo": 1008,
+            "elo_before": 1002,
+            "change": 6,
+            "track": "",
+            "finish": 5,
+            "race_id": "9abba39d92aae475571d5e5b8fcc2ee11fb9bb66098fac14ca7b21d348dddf30"
         }
     ],
     "HectorLl93": [
@@ -2903,6 +2957,15 @@
             "track": "",
             "finish": 9,
             "race_id": "045654467db37373ff1b17a53505b124fc9dd71817bffd59f5cabad0f3157204"
+        },
+        {
+            "date": "2026-11-13T18:36:19",
+            "elo": 1038,
+            "elo_before": 1038,
+            "change": 0,
+            "track": "",
+            "finish": 7,
+            "race_id": "9abba39d92aae475571d5e5b8fcc2ee11fb9bb66098fac14ca7b21d348dddf30"
         }
     ],
     "will 77": [
@@ -3767,6 +3830,15 @@
             "track": "",
             "finish": 1,
             "race_id": "27a35487982f776a7da13e5315666709dd0f79ca12df8dba7c79154aae6cdb6c"
+        },
+        {
+            "date": "2026-11-13T18:36:19",
+            "elo": 1047,
+            "elo_before": 1032,
+            "change": 15,
+            "track": "",
+            "finish": 1,
+            "race_id": "9abba39d92aae475571d5e5b8fcc2ee11fb9bb66098fac14ca7b21d348dddf30"
         }
     ],
     "Fick dich Kohlin": [
@@ -3910,6 +3982,15 @@
             "track": "",
             "finish": 3,
             "race_id": "045654467db37373ff1b17a53505b124fc9dd71817bffd59f5cabad0f3157204"
+        },
+        {
+            "date": "2026-11-13T18:36:19",
+            "elo": 1030,
+            "elo_before": 1028,
+            "change": 2,
+            "track": "",
+            "finish": 6,
+            "race_id": "9abba39d92aae475571d5e5b8fcc2ee11fb9bb66098fac14ca7b21d348dddf30"
         }
     ],
     "mrarcin": [
@@ -4160,6 +4241,15 @@
             "track": "",
             "finish": 12,
             "race_id": "045654467db37373ff1b17a53505b124fc9dd71817bffd59f5cabad0f3157204"
+        },
+        {
+            "date": "2026-11-13T18:36:19",
+            "elo": 1030,
+            "elo_before": 1017,
+            "change": 13,
+            "track": "",
+            "finish": 2,
+            "race_id": "9abba39d92aae475571d5e5b8fcc2ee11fb9bb66098fac14ca7b21d348dddf30"
         }
     ],
     "vat1028": [
@@ -4345,6 +4435,15 @@
             "track": "",
             "finish": 8,
             "race_id": "045654467db37373ff1b17a53505b124fc9dd71817bffd59f5cabad0f3157204"
+        },
+        {
+            "date": "2026-11-13T18:36:19",
+            "elo": 1005,
+            "elo_before": 1006,
+            "change": -1,
+            "track": "",
+            "finish": 8,
+            "race_id": "9abba39d92aae475571d5e5b8fcc2ee11fb9bb66098fac14ca7b21d348dddf30"
         }
     ],
     "MARCO": [
@@ -5444,6 +5543,15 @@
             "track": "",
             "finish": 13,
             "race_id": "045654467db37373ff1b17a53505b124fc9dd71817bffd59f5cabad0f3157204"
+        },
+        {
+            "date": "2026-11-13T18:36:19",
+            "elo": 962,
+            "elo_before": 974,
+            "change": -12,
+            "track": "",
+            "finish": 13,
+            "race_id": "9abba39d92aae475571d5e5b8fcc2ee11fb9bb66098fac14ca7b21d348dddf30"
         }
     ],
     "BOMBOCLATT": [
@@ -5623,6 +5731,28 @@
             "track": "",
             "finish": 14,
             "race_id": "045654467db37373ff1b17a53505b124fc9dd71817bffd59f5cabad0f3157204"
+        }
+    ],
+    "Abraham Avila": [
+        {
+            "date": "2026-11-13T18:36:19",
+            "elo": 1011,
+            "elo_before": 1000,
+            "change": 11,
+            "track": "",
+            "finish": 3,
+            "race_id": "9abba39d92aae475571d5e5b8fcc2ee11fb9bb66098fac14ca7b21d348dddf30"
+        }
+    ],
+    "Matteo 42": [
+        {
+            "date": "2026-11-13T18:36:19",
+            "elo": 984,
+            "elo_before": 1000,
+            "change": -16,
+            "track": "",
+            "finish": 14,
+            "race_id": "9abba39d92aae475571d5e5b8fcc2ee11fb9bb66098fac14ca7b21d348dddf30"
         }
     ]
 }
