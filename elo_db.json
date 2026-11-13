@@ -68,7 +68,7 @@
     "ShaiGP": {
         "elo": 1007,
         "wins": 1,
-        "races": 5,
+        "races": 6,
         "podiums": 4
     },
     "tacticworks": {
@@ -96,9 +96,9 @@
         "podiums": 1
     },
     "moe": {
-        "elo": 964,
+        "elo": 970,
         "wins": 0,
-        "races": 23,
+        "races": 24,
         "podiums": 7
     },
     "moleo": {
@@ -174,10 +174,10 @@
         "podiums": 2
     },
     "AngeLo": {
-        "elo": 1002,
+        "elo": 1013,
         "wins": 2,
-        "races": 7,
-        "podiums": 5
+        "races": 8,
+        "podiums": 6
     },
     "xXxDeadpoolxXx": {
         "elo": 997,
@@ -186,9 +186,9 @@
         "podiums": 1
     },
     "sergioo14": {
-        "elo": 964,
+        "elo": 952,
         "wins": 1,
-        "races": 18,
+        "races": 19,
         "podiums": 8
     },
     "rayzenev": {
@@ -288,9 +288,9 @@
         "podiums": 0
     },
     "Emir Eyupoglu": {
-        "elo": 1050,
+        "elo": 1037,
         "wins": 4,
-        "races": 10,
+        "races": 11,
         "podiums": 6
     },
     "will 77": {
@@ -360,10 +360,10 @@
         "podiums": 15
     },
     "Mikey 93": {
-        "elo": 1007,
-        "wins": 0,
-        "races": 5,
-        "podiums": 3
+        "elo": 1021,
+        "wins": 1,
+        "races": 6,
+        "podiums": 4
     },
     "Marcus": {
         "elo": 1016,
@@ -420,9 +420,9 @@
         "podiums": 3
     },
     "thecrivi28": {
-        "elo": 1029,
+        "elo": 1024,
         "wins": 2,
-        "races": 8,
+        "races": 9,
         "podiums": 3
     },
     "mrarcin": {
@@ -510,9 +510,9 @@
         "podiums": 1
     },
     "EgoMan": {
-        "elo": 1012,
+        "elo": 1004,
         "wins": 3,
-        "races": 11,
+        "races": 12,
         "podiums": 4
     },
     "MARCO": {
@@ -856,5 +856,11 @@
         "wins": 0,
         "races": 1,
         "podiums": 0
+    },
+    "JKR": {
+        "elo": 1007,
+        "wins": 0,
+        "races": 1,
+        "podiums": 1
     }
 }

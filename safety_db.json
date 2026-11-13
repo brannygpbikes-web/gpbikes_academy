@@ -25,10 +25,10 @@
     },
     "Rk_44": {
         "safety": 206,
-        "races": 23,
+        "races": 24,
         "contacts": 14,
         "clean_races": 14,
-        "large_lobby_clean_streak": 1,
+        "large_lobby_clean_streak": 0,
         "grade": "A"
     },
     "safety_grades": {
@@ -90,12 +90,12 @@
         "grade": "C"
     },
     "ShaiGP": {
-        "safety": 100,
-        "races": 5,
-        "contacts": 11,
+        "safety": 97,
+        "races": 6,
+        "contacts": 14,
         "clean_races": 1,
         "large_lobby_clean_streak": 0,
-        "grade": "C"
+        "grade": "D"
     },
     "filipknigge20": {
         "safety": 161,
@@ -138,11 +138,11 @@
         "grade": "C"
     },
     "moe": {
-        "safety": 128,
-        "races": 28,
+        "safety": 138,
+        "races": 29,
         "contacts": 36,
-        "clean_races": 7,
-        "large_lobby_clean_streak": 0,
+        "clean_races": 8,
+        "large_lobby_clean_streak": 1,
         "grade": "B"
     },
     "moleo": {
@@ -250,9 +250,9 @@
         "grade": "B"
     },
     "AngeLo": {
-        "safety": 124,
-        "races": 7,
-        "contacts": 8,
+        "safety": 122,
+        "races": 8,
+        "contacts": 10,
         "clean_races": 4,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -266,9 +266,9 @@
         "grade": "B"
     },
     "sergioo14": {
-        "safety": 63,
-        "races": 21,
-        "contacts": 60,
+        "safety": 60,
+        "races": 22,
+        "contacts": 63,
         "clean_races": 1,
         "large_lobby_clean_streak": 0,
         "grade": "E"
@@ -410,11 +410,11 @@
         "grade": "C"
     },
     "Emir Eyupoglu": {
-        "safety": 109,
-        "races": 10,
+        "safety": 121,
+        "races": 11,
         "contacts": 15,
-        "clean_races": 2,
-        "large_lobby_clean_streak": 1,
+        "clean_races": 3,
+        "large_lobby_clean_streak": 2,
         "grade": "C"
     },
     "will 77": {
@@ -506,11 +506,11 @@
         "grade": "E"
     },
     "Mikey 93": {
-        "safety": 125,
-        "races": 5,
+        "safety": 135,
+        "races": 6,
         "contacts": 21,
-        "clean_races": 1,
-        "large_lobby_clean_streak": 0,
+        "clean_races": 2,
+        "large_lobby_clean_streak": 1,
         "grade": "B"
     },
     "Draco15": {
@@ -523,10 +523,10 @@
     },
     "JW2Stupid": {
         "safety": 124,
-        "races": 6,
+        "races": 7,
         "contacts": 15,
         "clean_races": 2,
-        "large_lobby_clean_streak": 2,
+        "large_lobby_clean_streak": 0,
         "grade": "C"
     },
     "AL": {
@@ -578,9 +578,9 @@
         "grade": "B"
     },
     "thecrivi28": {
-        "safety": 138,
-        "races": 8,
-        "contacts": 16,
+        "safety": 136,
+        "races": 9,
+        "contacts": 18,
         "clean_races": 2,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -714,11 +714,11 @@
         "grade": "B"
     },
     "EgoMan": {
-        "safety": 127,
-        "races": 13,
+        "safety": 139,
+        "races": 14,
         "contacts": 25,
-        "clean_races": 4,
-        "large_lobby_clean_streak": 1,
+        "clean_races": 5,
+        "large_lobby_clean_streak": 2,
         "grade": "B"
     },
     "TheJr": {
@@ -1200,5 +1200,13 @@
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
+    },
+    "JKR": {
+        "safety": 135,
+        "races": 1,
+        "contacts": 0,
+        "clean_races": 1,
+        "large_lobby_clean_streak": 1,
+        "grade": "B"
     }
 }
