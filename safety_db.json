@@ -24,9 +24,9 @@
         "grade": "A"
     },
     "Rk_44": {
-        "safety": 206,
-        "races": 24,
-        "contacts": 14,
+        "safety": 203,
+        "races": 25,
+        "contacts": 17,
         "clean_races": 14,
         "large_lobby_clean_streak": 0,
         "grade": "A"
@@ -139,10 +139,10 @@
     },
     "moe": {
         "safety": 153,
-        "races": 32,
+        "races": 33,
         "contacts": 36,
-        "clean_races": 10,
-        "large_lobby_clean_streak": 0,
+        "clean_races": 11,
+        "large_lobby_clean_streak": 1,
         "grade": "B"
     },
     "moleo": {
@@ -186,12 +186,12 @@
         "grade": "C"
     },
     "Cummin Jizzwood": {
-        "safety": 127,
-        "races": 4,
-        "contacts": 6,
+        "safety": 124,
+        "races": 5,
+        "contacts": 9,
         "clean_races": 1,
         "large_lobby_clean_streak": 0,
-        "grade": "B"
+        "grade": "C"
     },
     "HectorLl93": {
         "safety": 100,
@@ -418,11 +418,11 @@
         "grade": "C"
     },
     "will 77": {
-        "safety": 108,
-        "races": 9,
-        "contacts": 22,
+        "safety": 102,
+        "races": 10,
+        "contacts": 28,
         "clean_races": 4,
-        "large_lobby_clean_streak": 1,
+        "large_lobby_clean_streak": 0,
         "grade": "C"
     },
     "alexiis_1622": {
@@ -618,9 +618,9 @@
         "grade": "C"
     },
     "Santos47": {
-        "safety": 135,
-        "races": 1,
-        "contacts": 0,
+        "safety": 133,
+        "races": 2,
+        "contacts": 2,
         "clean_races": 1,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -714,9 +714,9 @@
         "grade": "B"
     },
     "EgoMan": {
-        "safety": 138,
-        "races": 17,
-        "contacts": 29,
+        "safety": 134,
+        "races": 18,
+        "contacts": 33,
         "clean_races": 6,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -939,7 +939,7 @@
     },
     "osss": {
         "safety": 120,
-        "races": 1,
+        "races": 2,
         "contacts": 5,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
@@ -971,10 +971,10 @@
     },
     "Raceboi95": {
         "safety": 120,
-        "races": 6,
+        "races": 7,
         "contacts": 9,
-        "clean_races": 3,
-        "large_lobby_clean_streak": 0,
+        "clean_races": 4,
+        "large_lobby_clean_streak": 1,
         "grade": "C"
     },
     "Karchin278": {
@@ -1002,9 +1002,9 @@
         "grade": "B"
     },
     "NextGenMind": {
-        "safety": 123,
-        "races": 1,
-        "contacts": 1,
+        "safety": 121,
+        "races": 2,
+        "contacts": 3,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -1019,10 +1019,10 @@
     },
     "DUCKSWORTH": {
         "safety": 170,
-        "races": 9,
+        "races": 10,
         "contacts": 14,
-        "clean_races": 4,
-        "large_lobby_clean_streak": 2,
+        "clean_races": 5,
+        "large_lobby_clean_streak": 3,
         "grade": "A"
     },
     "reevvveer": {
@@ -1208,5 +1208,29 @@
         "clean_races": 2,
         "large_lobby_clean_streak": 1,
         "grade": "B"
+    },
+    "KSBR": {
+        "safety": 122,
+        "races": 1,
+        "contacts": 3,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "C"
+    },
+    "JAR JAR BINKS": {
+        "safety": 123,
+        "races": 1,
+        "contacts": 2,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "C"
+    },
+    "foxerboxer": {
+        "safety": 121,
+        "races": 1,
+        "contacts": 4,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "C"
     }
 }

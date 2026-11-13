@@ -18,9 +18,9 @@
         "podiums": 15
     },
     "Rk_44": {
-        "elo": 894,
+        "elo": 897,
         "wins": 1,
-        "races": 22,
+        "races": 23,
         "podiums": 3
     },
     "Billy Jones": {
@@ -96,9 +96,9 @@
         "podiums": 1
     },
     "moe": {
-        "elo": 982,
+        "elo": 972,
         "wins": 1,
-        "races": 26,
+        "races": 27,
         "podiums": 9
     },
     "moleo": {
@@ -126,10 +126,10 @@
         "podiums": 0
     },
     "Cummin Jizzwood": {
-        "elo": 1027,
+        "elo": 1035,
         "wins": 0,
-        "races": 4,
-        "podiums": 2
+        "races": 5,
+        "podiums": 3
     },
     "HectorLl93": {
         "elo": 1028,
@@ -294,9 +294,9 @@
         "podiums": 6
     },
     "will 77": {
-        "elo": 990,
+        "elo": 977,
         "wins": 1,
-        "races": 9,
+        "races": 10,
         "podiums": 2
     },
     "alexiis_1622": {
@@ -450,9 +450,9 @@
         "podiums": 1
     },
     "Santos47": {
-        "elo": 994,
+        "elo": 987,
         "wins": 0,
-        "races": 1,
+        "races": 2,
         "podiums": 0
     },
     "SrPomit": {
@@ -510,9 +510,9 @@
         "podiums": 1
     },
     "EgoMan": {
-        "elo": 1010,
+        "elo": 1011,
         "wins": 3,
-        "races": 15,
+        "races": 16,
         "podiums": 6
     },
     "MARCO": {
@@ -690,10 +690,10 @@
         "podiums": 2
     },
     "Raceboi95": {
-        "elo": 1020,
-        "wins": 1,
-        "races": 6,
-        "podiums": 3
+        "elo": 1035,
+        "wins": 2,
+        "races": 7,
+        "podiums": 4
     },
     "Karchin278": {
         "elo": 1002,
@@ -720,15 +720,15 @@
         "podiums": 2
     },
     "NextGenMind": {
-        "elo": 992,
+        "elo": 988,
         "wins": 0,
-        "races": 1,
+        "races": 2,
         "podiums": 0
     },
     "DUCKSWORTH": {
-        "elo": 1008,
+        "elo": 1014,
         "wins": 1,
-        "races": 9,
+        "races": 10,
         "podiums": 3
     },
     "reevvveer": {
@@ -862,5 +862,23 @@
         "wins": 0,
         "races": 2,
         "podiums": 1
+    },
+    "foxerboxer": {
+        "elo": 1013,
+        "wins": 0,
+        "races": 1,
+        "podiums": 1
+    },
+    "JAR JAR BINKS": {
+        "elo": 1004,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
+    },
+    "KSBR": {
+        "elo": 984,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
     }
 }
