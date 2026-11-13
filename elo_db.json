@@ -18,9 +18,9 @@
         "podiums": 15
     },
     "Rk_44": {
-        "elo": 897,
+        "elo": 886,
         "wins": 1,
-        "races": 23,
+        "races": 24,
         "podiums": 3
     },
     "Billy Jones": {
@@ -66,10 +66,10 @@
         "podiums": 10
     },
     "ShaiGP": {
-        "elo": 1015,
+        "elo": 1023,
         "wins": 2,
-        "races": 7,
-        "podiums": 5
+        "races": 8,
+        "podiums": 6
     },
     "tacticworks": {
         "elo": 1030,
@@ -108,9 +108,9 @@
         "podiums": 8
     },
     "Ibai Merino": {
-        "elo": 1000,
+        "elo": 987,
         "wins": 0,
-        "races": 1,
+        "races": 2,
         "podiums": 0
     },
     "afonsodalmeida10": {
@@ -510,9 +510,9 @@
         "podiums": 1
     },
     "EgoMan": {
-        "elo": 1011,
+        "elo": 1001,
         "wins": 3,
-        "races": 16,
+        "races": 17,
         "podiums": 6
     },
     "MARCO": {
@@ -690,9 +690,9 @@
         "podiums": 2
     },
     "Raceboi95": {
-        "elo": 1035,
+        "elo": 1028,
         "wins": 2,
-        "races": 7,
+        "races": 8,
         "podiums": 4
     },
     "Karchin278": {
@@ -726,10 +726,10 @@
         "podiums": 0
     },
     "DUCKSWORTH": {
-        "elo": 1014,
-        "wins": 1,
-        "races": 10,
-        "podiums": 3
+        "elo": 1029,
+        "wins": 2,
+        "races": 11,
+        "podiums": 4
     },
     "reevvveer": {
         "elo": 964,
@@ -864,10 +864,10 @@
         "podiums": 1
     },
     "foxerboxer": {
-        "elo": 1013,
+        "elo": 1025,
         "wins": 0,
-        "races": 1,
-        "podiums": 1
+        "races": 2,
+        "podiums": 2
     },
     "JAR JAR BINKS": {
         "elo": 1004,
@@ -876,7 +876,19 @@
         "podiums": 0
     },
     "KSBR": {
-        "elo": 984,
+        "elo": 983,
+        "wins": 0,
+        "races": 2,
+        "podiums": 0
+    },
+    "ALFONIC": {
+        "elo": 1005,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
+    },
+    "EtHaN27": {
+        "elo": 1002,
         "wins": 0,
         "races": 1,
         "podiums": 0
