@@ -138,10 +138,10 @@
         "grade": "C"
     },
     "moe": {
-        "safety": 138,
-        "races": 30,
+        "safety": 143,
+        "races": 31,
         "contacts": 36,
-        "clean_races": 8,
+        "clean_races": 9,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     },
@@ -714,9 +714,9 @@
         "grade": "B"
     },
     "EgoMan": {
-        "safety": 137,
-        "races": 15,
-        "contacts": 26,
+        "safety": 128,
+        "races": 16,
+        "contacts": 29,
         "clean_races": 5,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -970,11 +970,11 @@
         "grade": "B"
     },
     "Raceboi95": {
-        "safety": 119,
-        "races": 4,
-        "contacts": 6,
+        "safety": 110,
+        "races": 5,
+        "contacts": 9,
         "clean_races": 2,
-        "large_lobby_clean_streak": 2,
+        "large_lobby_clean_streak": 0,
         "grade": "C"
     },
     "Karchin278": {

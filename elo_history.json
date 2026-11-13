@@ -1435,6 +1435,15 @@
             "track": "",
             "finish": 4,
             "race_id": "882f2cc2013af91abd37331cc5bb6d9dea2fec2729746bd2407c4dbeaba09f8a"
+        },
+        {
+            "date": "2026-11-13T20:15:28",
+            "elo": 966,
+            "elo_before": 970,
+            "change": -4,
+            "track": "",
+            "finish": 3,
+            "race_id": "b902fa1278795582cb48ff6e947946550d376553be53be4681cf9ad8bf2cdc46"
         }
     ],
     "moleo": [
@@ -4642,6 +4651,15 @@
             "track": "",
             "finish": 2,
             "race_id": "32f9778dee7a79a956dfc49d00bbe24731be388a9da79304ac8ecd066e38a210"
+        },
+        {
+            "date": "2026-11-13T20:15:28",
+            "elo": 1008,
+            "elo_before": 1008,
+            "change": 0,
+            "track": "",
+            "finish": 2,
+            "race_id": "b902fa1278795582cb48ff6e947946550d376553be53be4681cf9ad8bf2cdc46"
         }
     ],
     "MARCO": [
@@ -5449,6 +5467,15 @@
             "track": "",
             "finish": 5,
             "race_id": "e622b54daa127f95578faceace753bdf5ccee74c54448ad20a0ab29c6ff92e5d"
+        },
+        {
+            "date": "2026-11-13T20:15:28",
+            "elo": 1014,
+            "elo_before": 1010,
+            "change": 4,
+            "track": "",
+            "finish": 1,
+            "race_id": "b902fa1278795582cb48ff6e947946550d376553be53be4681cf9ad8bf2cdc46"
         }
     ],
     "Karchin278": [

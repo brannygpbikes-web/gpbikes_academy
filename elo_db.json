@@ -96,10 +96,10 @@
         "podiums": 1
     },
     "moe": {
-        "elo": 970,
+        "elo": 966,
         "wins": 0,
-        "races": 24,
-        "podiums": 7
+        "races": 25,
+        "podiums": 8
     },
     "moleo": {
         "elo": 1040,
@@ -512,8 +512,8 @@
     "EgoMan": {
         "elo": 1008,
         "wins": 3,
-        "races": 13,
-        "podiums": 5
+        "races": 14,
+        "podiums": 6
     },
     "MARCO": {
         "elo": 1038,
@@ -690,10 +690,10 @@
         "podiums": 2
     },
     "Raceboi95": {
-        "elo": 1010,
-        "wins": 0,
-        "races": 4,
-        "podiums": 1
+        "elo": 1014,
+        "wins": 1,
+        "races": 5,
+        "podiums": 2
     },
     "Karchin278": {
         "elo": 1002,
