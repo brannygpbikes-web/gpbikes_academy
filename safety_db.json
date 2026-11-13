@@ -90,12 +90,12 @@
         "grade": "C"
     },
     "ShaiGP": {
-        "safety": 97,
-        "races": 6,
+        "safety": 107,
+        "races": 7,
         "contacts": 14,
-        "clean_races": 1,
+        "clean_races": 2,
         "large_lobby_clean_streak": 0,
-        "grade": "D"
+        "grade": "C"
     },
     "filipknigge20": {
         "safety": 161,
@@ -139,10 +139,10 @@
     },
     "moe": {
         "safety": 138,
-        "races": 29,
+        "races": 30,
         "contacts": 36,
         "clean_races": 8,
-        "large_lobby_clean_streak": 1,
+        "large_lobby_clean_streak": 0,
         "grade": "B"
     },
     "moleo": {
@@ -578,9 +578,9 @@
         "grade": "B"
     },
     "thecrivi28": {
-        "safety": 136,
-        "races": 9,
-        "contacts": 18,
+        "safety": 134,
+        "races": 10,
+        "contacts": 19,
         "clean_races": 2,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -714,11 +714,11 @@
         "grade": "B"
     },
     "EgoMan": {
-        "safety": 139,
-        "races": 14,
-        "contacts": 25,
+        "safety": 137,
+        "races": 15,
+        "contacts": 26,
         "clean_races": 5,
-        "large_lobby_clean_streak": 2,
+        "large_lobby_clean_streak": 0,
         "grade": "B"
     },
     "TheJr": {
@@ -1034,10 +1034,10 @@
         "grade": "B"
     },
     "motox410": {
-        "safety": 140,
-        "races": 2,
+        "safety": 150,
+        "races": 3,
         "contacts": 0,
-        "clean_races": 2,
+        "clean_races": 3,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     },
@@ -1202,10 +1202,10 @@
         "grade": "C"
     },
     "JKR": {
-        "safety": 135,
-        "races": 1,
+        "safety": 145,
+        "races": 2,
         "contacts": 0,
-        "clean_races": 1,
+        "clean_races": 2,
         "large_lobby_clean_streak": 1,
         "grade": "B"
     }

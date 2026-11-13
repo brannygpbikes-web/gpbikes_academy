@@ -66,10 +66,10 @@
         "podiums": 10
     },
     "ShaiGP": {
-        "elo": 1007,
-        "wins": 1,
-        "races": 6,
-        "podiums": 4
+        "elo": 1015,
+        "wins": 2,
+        "races": 7,
+        "podiums": 5
     },
     "tacticworks": {
         "elo": 1030,
@@ -422,8 +422,8 @@
     "thecrivi28": {
         "elo": 1024,
         "wins": 2,
-        "races": 9,
-        "podiums": 3
+        "races": 10,
+        "podiums": 4
     },
     "mrarcin": {
         "elo": 978,
@@ -510,10 +510,10 @@
         "podiums": 1
     },
     "EgoMan": {
-        "elo": 1004,
+        "elo": 1008,
         "wins": 3,
-        "races": 12,
-        "podiums": 4
+        "races": 13,
+        "podiums": 5
     },
     "MARCO": {
         "elo": 1038,
@@ -738,9 +738,9 @@
         "podiums": 1
     },
     "motox410": {
-        "elo": 991,
+        "elo": 987,
         "wins": 0,
-        "races": 2,
+        "races": 3,
         "podiums": 1
     },
     "Gambilla206": {
@@ -858,9 +858,9 @@
         "podiums": 0
     },
     "JKR": {
-        "elo": 1007,
+        "elo": 999,
         "wins": 0,
-        "races": 1,
+        "races": 2,
         "podiums": 1
     }
 }
