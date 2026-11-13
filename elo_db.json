@@ -18,9 +18,9 @@
         "podiums": 15
     },
     "Rk_44": {
-        "elo": 878,
+        "elo": 881,
         "wins": 1,
-        "races": 25,
+        "races": 26,
         "podiums": 3
     },
     "Billy Jones": {
@@ -66,10 +66,10 @@
         "podiums": 10
     },
     "ShaiGP": {
-        "elo": 1021,
+        "elo": 1030,
         "wins": 2,
-        "races": 10,
-        "podiums": 6
+        "races": 11,
+        "podiums": 7
     },
     "tacticworks": {
         "elo": 1030,
@@ -558,9 +558,9 @@
         "podiums": 0
     },
     "Dimitry": {
-        "elo": 994,
+        "elo": 996,
         "wins": 0,
-        "races": 4,
+        "races": 5,
         "podiums": 1
     },
     "dwiputra": {
@@ -606,9 +606,9 @@
         "podiums": 0
     },
     "Tarmacsurfer": {
-        "elo": 997,
+        "elo": 982,
         "wins": 1,
-        "races": 6,
+        "races": 7,
         "podiums": 1
     },
     "IG: tom_kuil_racing": {
@@ -660,9 +660,9 @@
         "podiums": 1
     },
     "vasco19": {
-        "elo": 987,
+        "elo": 977,
         "wins": 0,
-        "races": 2,
+        "races": 3,
         "podiums": 0
     },
     "osss": {
@@ -888,15 +888,15 @@
         "podiums": 0
     },
     "EtHaN27": {
-        "elo": 1008,
+        "elo": 1013,
         "wins": 0,
-        "races": 2,
-        "podiums": 1
+        "races": 3,
+        "podiums": 2
     },
     "Jon?s": {
-        "elo": 991,
+        "elo": 984,
         "wins": 0,
-        "races": 1,
+        "races": 2,
         "podiums": 0
     },
     "Enzogun45": {
@@ -906,9 +906,9 @@
         "podiums": 0
     },
     "fisherman": {
-        "elo": 1002,
-        "wins": 0,
-        "races": 1,
-        "podiums": 1
+        "elo": 1015,
+        "wins": 1,
+        "races": 2,
+        "podiums": 2
     }
 }

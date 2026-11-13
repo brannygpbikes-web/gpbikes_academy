@@ -24,10 +24,10 @@
         "grade": "A"
     },
     "Rk_44": {
-        "safety": 223,
-        "races": 27,
+        "safety": 233,
+        "races": 28,
         "contacts": 17,
-        "clean_races": 16,
+        "clean_races": 17,
         "large_lobby_clean_streak": 0,
         "grade": "A"
     },
@@ -90,12 +90,12 @@
         "grade": "C"
     },
     "ShaiGP": {
-        "safety": 98,
-        "races": 10,
+        "safety": 108,
+        "races": 11,
         "contacts": 23,
-        "clean_races": 2,
+        "clean_races": 3,
         "large_lobby_clean_streak": 0,
-        "grade": "D"
+        "grade": "C"
     },
     "filipknigge20": {
         "safety": 161,
@@ -802,11 +802,11 @@
         "grade": "B"
     },
     "Dimitry": {
-        "safety": 158,
-        "races": 5,
-        "contacts": 2,
+        "safety": 152,
+        "races": 6,
+        "contacts": 5,
         "clean_races": 3,
-        "large_lobby_clean_streak": 1,
+        "large_lobby_clean_streak": 0,
         "grade": "B"
     },
     "sepvdzwart#46": {
@@ -850,10 +850,10 @@
         "grade": "C"
     },
     "Tarmacsurfer": {
-        "safety": 148,
-        "races": 6,
+        "safety": 158,
+        "races": 7,
         "contacts": 12,
-        "clean_races": 2,
+        "clean_races": 3,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     },
@@ -930,10 +930,10 @@
         "grade": "C"
     },
     "vasco19": {
-        "safety": 148,
-        "races": 3,
+        "safety": 158,
+        "races": 4,
         "contacts": 2,
-        "clean_races": 1,
+        "clean_races": 2,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     },
@@ -1234,12 +1234,12 @@
         "grade": "C"
     },
     "EtHaN27": {
-        "safety": 130,
-        "races": 3,
-        "contacts": 5,
+        "safety": 124,
+        "races": 4,
+        "contacts": 8,
         "clean_races": 1,
         "large_lobby_clean_streak": 0,
-        "grade": "B"
+        "grade": "C"
     },
     "ALFONIC": {
         "safety": 143,
@@ -1258,19 +1258,19 @@
         "grade": "C"
     },
     "Jon?s": {
-        "safety": 120,
-        "races": 2,
+        "safety": 130,
+        "races": 3,
         "contacts": 5,
-        "clean_races": 0,
+        "clean_races": 1,
         "large_lobby_clean_streak": 0,
-        "grade": "C"
+        "grade": "B"
     },
     "fisherman": {
-        "safety": 123,
-        "races": 1,
+        "safety": 133,
+        "races": 2,
         "contacts": 2,
-        "clean_races": 0,
+        "clean_races": 1,
         "large_lobby_clean_streak": 0,
-        "grade": "C"
+        "grade": "B"
     }
 }
