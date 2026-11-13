@@ -1,8 +1,8 @@
 {
     "AhyaAL": {
-        "elo": 1002,
+        "elo": 988,
         "wins": 1,
-        "races": 3,
+        "races": 4,
         "podiums": 1
     },
     "branny": {
@@ -12,10 +12,10 @@
         "podiums": 8
     },
     "Miquel_Sinke60": {
-        "elo": 1046,
+        "elo": 1051,
         "wins": 7,
-        "races": 18,
-        "podiums": 14
+        "races": 19,
+        "podiums": 15
     },
     "Rk_44": {
         "elo": 903,
@@ -186,9 +186,9 @@
         "podiums": 1
     },
     "sergioo14": {
-        "elo": 988,
+        "elo": 992,
         "wins": 1,
-        "races": 14,
+        "races": 15,
         "podiums": 8
     },
     "rayzenev": {
@@ -276,9 +276,9 @@
         "podiums": 2
     },
     "alerelinque": {
-        "elo": 991,
+        "elo": 984,
         "wins": 0,
-        "races": 2,
+        "races": 3,
         "podiums": 0
     },
     "J_44": {
@@ -468,9 +468,9 @@
         "podiums": 0
     },
     "Nuno": {
-        "elo": 1010,
+        "elo": 999,
         "wins": 1,
-        "races": 6,
+        "races": 7,
         "podiums": 2
     },
     "vat1028": {
@@ -642,9 +642,9 @@
         "podiums": 0
     },
     "LaPirana24": {
-        "elo": 999,
+        "elo": 996,
         "wins": 0,
-        "races": 4,
+        "races": 5,
         "podiums": 0
     },
     "teolato": {
@@ -798,9 +798,21 @@
         "podiums": 0
     },
     "Senna Herweijer": {
-        "elo": 986,
+        "elo": 987,
+        "wins": 0,
+        "races": 2,
+        "podiums": 0
+    },
+    "48FILMZ": {
+        "elo": 1014,
+        "wins": 1,
+        "races": 1,
+        "podiums": 1
+    },
+    "Danny Hinkelmann14": {
+        "elo": 1011,
         "wins": 0,
         "races": 1,
-        "podiums": 0
+        "podiums": 1
     }
 }

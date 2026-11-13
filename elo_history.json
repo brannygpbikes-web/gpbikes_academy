@@ -26,6 +26,15 @@
             "track": "",
             "finish": 4,
             "race_id": "b6bbbc57a45b257cd740aa23c3200000d6bf2b548c0a397fbd8074865123a627"
+        },
+        {
+            "date": "2026-11-13T16:54:35",
+            "elo": 988,
+            "elo_before": 1002,
+            "change": -14,
+            "track": "",
+            "finish": 9,
+            "race_id": "2ac9bed65eaea1f525aab9fb5135894dd5154d8d49b9150862ad6f648a459cb7"
         }
     ],
     "branny": [
@@ -291,6 +300,15 @@
             "track": "",
             "finish": 1,
             "race_id": "f3a30708febc1c663454aa02bce8085be9d9c43c0c0cb58362057331de951f5b"
+        },
+        {
+            "date": "2026-11-13T16:54:35",
+            "elo": 1051,
+            "elo_before": 1046,
+            "change": 5,
+            "track": "",
+            "finish": 3,
+            "race_id": "2ac9bed65eaea1f525aab9fb5135894dd5154d8d49b9150862ad6f648a459cb7"
         }
     ],
     "Rk_44": [
@@ -1762,6 +1780,15 @@
             "track": "",
             "finish": 2,
             "race_id": "b6bbbc57a45b257cd740aa23c3200000d6bf2b548c0a397fbd8074865123a627"
+        },
+        {
+            "date": "2026-11-13T16:54:35",
+            "elo": 992,
+            "elo_before": 988,
+            "change": 4,
+            "track": "",
+            "finish": 4,
+            "race_id": "2ac9bed65eaea1f525aab9fb5135894dd5154d8d49b9150862ad6f648a459cb7"
         }
     ],
     "rayzenev": [
@@ -2629,6 +2656,15 @@
             "track": "",
             "finish": 5,
             "race_id": "29683db5824df37ed7230badc32051d061afb70d3847b7f0a7fc1ea223c71d8d"
+        },
+        {
+            "date": "2026-11-13T16:54:35",
+            "elo": 984,
+            "elo_before": 991,
+            "change": -7,
+            "track": "",
+            "finish": 7,
+            "race_id": "2ac9bed65eaea1f525aab9fb5135894dd5154d8d49b9150862ad6f648a459cb7"
         }
     ],
     "J_44": [
@@ -3854,6 +3890,15 @@
             "track": "",
             "finish": 6,
             "race_id": "b5d3086875b6ef2ac1fac505f38366d075a79d94fd7f7935d3939d90f2e5c0c1"
+        },
+        {
+            "date": "2026-11-13T16:54:35",
+            "elo": 999,
+            "elo_before": 1010,
+            "change": -11,
+            "track": "",
+            "finish": 8,
+            "race_id": "2ac9bed65eaea1f525aab9fb5135894dd5154d8d49b9150862ad6f648a459cb7"
         }
     ],
     "vat1028": [
@@ -4578,6 +4623,15 @@
             "track": "",
             "finish": 5,
             "race_id": "b6bbbc57a45b257cd740aa23c3200000d6bf2b548c0a397fbd8074865123a627"
+        },
+        {
+            "date": "2026-11-13T16:54:35",
+            "elo": 996,
+            "elo_before": 999,
+            "change": -3,
+            "track": "",
+            "finish": 6,
+            "race_id": "2ac9bed65eaea1f525aab9fb5135894dd5154d8d49b9150862ad6f648a459cb7"
         }
     ],
     "teolato": [
@@ -5134,6 +5188,37 @@
             "track": "",
             "finish": 8,
             "race_id": "b6bbbc57a45b257cd740aa23c3200000d6bf2b548c0a397fbd8074865123a627"
+        },
+        {
+            "date": "2026-11-13T16:54:35",
+            "elo": 987,
+            "elo_before": 986,
+            "change": 1,
+            "track": "",
+            "finish": 5,
+            "race_id": "2ac9bed65eaea1f525aab9fb5135894dd5154d8d49b9150862ad6f648a459cb7"
+        }
+    ],
+    "48FILMZ": [
+        {
+            "date": "2026-11-13T16:54:35",
+            "elo": 1014,
+            "elo_before": 1000,
+            "change": 14,
+            "track": "",
+            "finish": 1,
+            "race_id": "2ac9bed65eaea1f525aab9fb5135894dd5154d8d49b9150862ad6f648a459cb7"
+        }
+    ],
+    "Danny Hinkelmann14": [
+        {
+            "date": "2026-11-13T16:54:35",
+            "elo": 1011,
+            "elo_before": 1000,
+            "change": 11,
+            "track": "",
+            "finish": 2,
+            "race_id": "2ac9bed65eaea1f525aab9fb5135894dd5154d8d49b9150862ad6f648a459cb7"
         }
     ]
 }

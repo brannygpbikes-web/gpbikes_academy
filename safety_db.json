@@ -1,8 +1,8 @@
 {
     "Miquel_Sinke60": {
-        "safety": 122,
-        "races": 18,
-        "contacts": 30,
+        "safety": 119,
+        "races": 19,
+        "contacts": 33,
         "clean_races": 7,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -16,11 +16,11 @@
         "grade": "D"
     },
     "AhyaAL": {
-        "safety": 145,
-        "races": 3,
+        "safety": 155,
+        "races": 4,
         "contacts": 0,
-        "clean_races": 3,
-        "large_lobby_clean_streak": 0,
+        "clean_races": 4,
+        "large_lobby_clean_streak": 1,
         "grade": "B"
     },
     "Rk_44": {
@@ -266,9 +266,9 @@
         "grade": "B"
     },
     "sergioo14": {
-        "safety": 52,
-        "races": 17,
-        "contacts": 46,
+        "safety": 49,
+        "races": 18,
+        "contacts": 49,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "E"
@@ -370,9 +370,9 @@
         "grade": "B"
     },
     "alerelinque": {
-        "safety": 112,
-        "races": 2,
-        "contacts": 9,
+        "safety": 110,
+        "races": 3,
+        "contacts": 11,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -650,9 +650,9 @@
         "grade": "B"
     },
     "Nuno": {
-        "safety": 129,
-        "races": 6,
-        "contacts": 7,
+        "safety": 127,
+        "races": 7,
+        "contacts": 9,
         "clean_races": 2,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -898,9 +898,9 @@
         "grade": "C"
     },
     "LaPirana24": {
-        "safety": 103,
-        "races": 4,
-        "contacts": 19,
+        "safety": 101,
+        "races": 5,
+        "contacts": 21,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -1107,7 +1107,7 @@
     },
     "juancarloslm02": {
         "safety": 121,
-        "races": 1,
+        "races": 2,
         "contacts": 2,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
@@ -1122,11 +1122,35 @@
         "grade": "B"
     },
     "Senna Herweijer": {
+        "safety": 133,
+        "races": 2,
+        "contacts": 2,
+        "clean_races": 1,
+        "large_lobby_clean_streak": 0,
+        "grade": "B"
+    },
+    "Danny Hinkelmann14": {
+        "safety": 122,
+        "races": 1,
+        "contacts": 3,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "C"
+    },
+    "popcoin": {
+        "safety": 125,
+        "races": 1,
+        "contacts": 0,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "B"
+    },
+    "48FILMZ": {
         "safety": 135,
         "races": 1,
         "contacts": 0,
         "clean_races": 1,
-        "large_lobby_clean_streak": 0,
+        "large_lobby_clean_streak": 1,
         "grade": "B"
     }
 }
