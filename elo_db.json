@@ -66,9 +66,9 @@
         "podiums": 10
     },
     "ShaiGP": {
-        "elo": 1023,
+        "elo": 1029,
         "wins": 2,
-        "races": 8,
+        "races": 9,
         "podiums": 6
     },
     "tacticworks": {
@@ -108,9 +108,9 @@
         "podiums": 8
     },
     "Ibai Merino": {
-        "elo": 987,
+        "elo": 985,
         "wins": 0,
-        "races": 2,
+        "races": 3,
         "podiums": 0
     },
     "afonsodalmeida10": {
@@ -156,10 +156,10 @@
         "podiums": 2
     },
     "N1rmata": {
-        "elo": 994,
+        "elo": 1004,
         "wins": 1,
-        "races": 6,
-        "podiums": 5
+        "races": 7,
+        "podiums": 6
     },
     "Luxskick": {
         "elo": 995,
@@ -660,9 +660,9 @@
         "podiums": 1
     },
     "vasco19": {
-        "elo": 1003,
+        "elo": 987,
         "wins": 0,
-        "races": 1,
+        "races": 2,
         "podiums": 0
     },
     "osss": {
@@ -690,10 +690,10 @@
         "podiums": 2
     },
     "Raceboi95": {
-        "elo": 1028,
+        "elo": 1040,
         "wins": 2,
-        "races": 8,
-        "podiums": 4
+        "races": 9,
+        "podiums": 5
     },
     "Karchin278": {
         "elo": 1002,
@@ -726,9 +726,9 @@
         "podiums": 0
     },
     "DUCKSWORTH": {
-        "elo": 1029,
+        "elo": 1031,
         "wins": 2,
-        "races": 11,
+        "races": 12,
         "podiums": 4
     },
     "reevvveer": {
@@ -864,10 +864,10 @@
         "podiums": 1
     },
     "foxerboxer": {
-        "elo": 1025,
-        "wins": 0,
-        "races": 2,
-        "podiums": 2
+        "elo": 1040,
+        "wins": 1,
+        "races": 3,
+        "podiums": 3
     },
     "JAR JAR BINKS": {
         "elo": 1004,
@@ -876,19 +876,31 @@
         "podiums": 0
     },
     "KSBR": {
-        "elo": 983,
+        "elo": 978,
         "wins": 0,
-        "races": 2,
+        "races": 3,
         "podiums": 0
     },
     "ALFONIC": {
         "elo": 1005,
         "wins": 0,
-        "races": 1,
+        "races": 2,
         "podiums": 0
     },
     "EtHaN27": {
         "elo": 1002,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
+    },
+    "Jon?s": {
+        "elo": 991,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
+    },
+    "Enzogun45": {
+        "elo": 987,
         "wins": 0,
         "races": 1,
         "podiums": 0
