@@ -608,6 +608,15 @@
             "track": "",
             "finish": 10,
             "race_id": "010402aa4acabcd9d77cec3d626c9cf17ef69c49ee1c905f3637c15cdeac3a77"
+        },
+        {
+            "date": "2026-11-13T22:16:14",
+            "elo": 878,
+            "elo_before": 886,
+            "change": -8,
+            "track": "",
+            "finish": 6,
+            "race_id": "07b9ee0fbadb386574031114cf83567bc06b76d66b219692784e4910cd2e7181"
         }
     ],
     "Billy Jones": [
@@ -1047,6 +1056,15 @@
             "track": "",
             "finish": 4,
             "race_id": "dd75439f6b659eba5c7ba733552275ace452ee0606b0fcb028417c8196f6439d"
+        },
+        {
+            "date": "2026-11-13T22:16:14",
+            "elo": 1021,
+            "elo_before": 1029,
+            "change": -8,
+            "track": "",
+            "finish": 5,
+            "race_id": "07b9ee0fbadb386574031114cf83567bc06b76d66b219692784e4910cd2e7181"
         }
     ],
     "tacticworks": [
@@ -5259,6 +5277,15 @@
             "track": "",
             "finish": 6,
             "race_id": "e622b54daa127f95578faceace753bdf5ccee74c54448ad20a0ab29c6ff92e5d"
+        },
+        {
+            "date": "2026-11-13T22:16:14",
+            "elo": 997,
+            "elo_before": 986,
+            "change": 11,
+            "track": "",
+            "finish": 1,
+            "race_id": "07b9ee0fbadb386574031114cf83567bc06b76d66b219692784e4910cd2e7181"
         }
     ],
     "IG: tom_kuil_racing": [
@@ -6395,6 +6422,15 @@
             "track": "",
             "finish": 6,
             "race_id": "dd75439f6b659eba5c7ba733552275ace452ee0606b0fcb028417c8196f6439d"
+        },
+        {
+            "date": "2026-11-13T22:16:14",
+            "elo": 1002,
+            "elo_before": 1005,
+            "change": -3,
+            "track": "",
+            "finish": 4,
+            "race_id": "07b9ee0fbadb386574031114cf83567bc06b76d66b219692784e4910cd2e7181"
         }
     ],
     "EtHaN27": [
@@ -6406,6 +6442,15 @@
             "track": "",
             "finish": 5,
             "race_id": "010402aa4acabcd9d77cec3d626c9cf17ef69c49ee1c905f3637c15cdeac3a77"
+        },
+        {
+            "date": "2026-11-13T22:16:14",
+            "elo": 1008,
+            "elo_before": 1002,
+            "change": 6,
+            "track": "",
+            "finish": 2,
+            "race_id": "07b9ee0fbadb386574031114cf83567bc06b76d66b219692784e4910cd2e7181"
         }
     ],
     "Jon?s": [
@@ -6428,6 +6473,17 @@
             "track": "",
             "finish": 10,
             "race_id": "dd75439f6b659eba5c7ba733552275ace452ee0606b0fcb028417c8196f6439d"
+        }
+    ],
+    "fisherman": [
+        {
+            "date": "2026-11-13T22:16:14",
+            "elo": 1002,
+            "elo_before": 1000,
+            "change": 2,
+            "track": "",
+            "finish": 3,
+            "race_id": "07b9ee0fbadb386574031114cf83567bc06b76d66b219692784e4910cd2e7181"
         }
     ]
 }
