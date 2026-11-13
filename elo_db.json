@@ -1,8 +1,8 @@
 {
     "AhyaAL": {
-        "elo": 988,
+        "elo": 998,
         "wins": 1,
-        "races": 4,
+        "races": 5,
         "podiums": 1
     },
     "branny": {
@@ -12,15 +12,15 @@
         "podiums": 8
     },
     "Miquel_Sinke60": {
-        "elo": 1050,
+        "elo": 1049,
         "wins": 7,
-        "races": 20,
+        "races": 21,
         "podiums": 15
     },
     "Rk_44": {
-        "elo": 904,
+        "elo": 895,
         "wins": 1,
-        "races": 18,
+        "races": 19,
         "podiums": 3
     },
     "Billy Jones": {
@@ -96,9 +96,9 @@
         "podiums": 1
     },
     "moe": {
-        "elo": 956,
+        "elo": 964,
         "wins": 0,
-        "races": 20,
+        "races": 21,
         "podiums": 7
     },
     "moleo": {
@@ -186,9 +186,9 @@
         "podiums": 1
     },
     "sergioo14": {
-        "elo": 976,
+        "elo": 961,
         "wins": 1,
-        "races": 16,
+        "races": 17,
         "podiums": 8
     },
     "rayzenev": {
@@ -216,9 +216,9 @@
         "podiums": 1
     },
     "Sturdy": {
-        "elo": 1012,
+        "elo": 1019,
         "wins": 2,
-        "races": 13,
+        "races": 14,
         "podiums": 6
     },
     "Sullivan Mounsey": {
@@ -288,9 +288,9 @@
         "podiums": 0
     },
     "Emir Eyupoglu": {
-        "elo": 1050,
+        "elo": 1044,
         "wins": 4,
-        "races": 6,
+        "races": 7,
         "podiums": 5
     },
     "will 77": {
@@ -372,10 +372,10 @@
         "podiums": 5
     },
     "JW2Stupid": {
-        "elo": 1013,
+        "elo": 1024,
         "wins": 0,
-        "races": 4,
-        "podiums": 2
+        "races": 5,
+        "podiums": 3
     },
     "Draco15": {
         "elo": 981,
@@ -420,9 +420,9 @@
         "podiums": 3
     },
     "thecrivi28": {
-        "elo": 1020,
+        "elo": 1018,
         "wins": 2,
-        "races": 4,
+        "races": 5,
         "podiums": 2
     },
     "mrarcin": {
@@ -462,16 +462,16 @@
         "podiums": 0
     },
     "jmanuel_fs": {
-        "elo": 985,
+        "elo": 989,
         "wins": 0,
-        "races": 2,
+        "races": 3,
         "podiums": 0
     },
     "Nuno": {
-        "elo": 1015,
-        "wins": 2,
-        "races": 8,
-        "podiums": 3
+        "elo": 1030,
+        "wins": 3,
+        "races": 9,
+        "podiums": 4
     },
     "vat1028": {
         "elo": 979,
@@ -480,10 +480,10 @@
         "podiums": 0
     },
     "izan curia": {
-        "elo": 998,
+        "elo": 1012,
         "wins": 0,
-        "races": 2,
-        "podiums": 1
+        "races": 3,
+        "podiums": 2
     },
     "El-Ninety-Nine": {
         "elo": 995,
@@ -510,9 +510,9 @@
         "podiums": 1
     },
     "EgoMan": {
-        "elo": 1014,
+        "elo": 1008,
         "wins": 3,
-        "races": 7,
+        "races": 8,
         "podiums": 4
     },
     "MARCO": {
@@ -726,9 +726,9 @@
         "podiums": 0
     },
     "DUCKSWORTH": {
-        "elo": 1021,
+        "elo": 1010,
         "wins": 1,
-        "races": 7,
+        "races": 8,
         "podiums": 3
     },
     "reevvveer": {
@@ -817,6 +817,18 @@
     },
     "skalf": {
         "elo": 989,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
+    },
+    "vNoHxpe_KJ45": {
+        "elo": 993,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
+    },
+    "Bacov": {
+        "elo": 988,
         "wins": 0,
         "races": 1,
         "podiums": 0
