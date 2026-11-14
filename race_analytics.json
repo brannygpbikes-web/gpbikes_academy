@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-13T23:00:24.169473+00:00",
+  "generated_at": "2026-11-14T16:13:55.807896+00:00",
   "summary": {
-    "unique_races": 102,
-    "unique_riders": 152,
+    "unique_races": 105,
+    "unique_riders": 157,
     "duplicates_skipped": 0,
     "invalid_files_skipped": 20,
     "tracks": [
@@ -349,21 +349,21 @@
     {
       "guid": "FF011000013182150D",
       "name": "Miquel_Sinke60",
-      "races": 24,
-      "wins": 7,
-      "podiums": 15,
-      "win_rate": 29.2,
-      "podium_rate": 62.5,
-      "average_finish": 3.75,
-      "average_start": 3.833,
-      "average_positions_gained": 0.083,
+      "races": 26,
+      "wins": 8,
+      "podiums": 17,
+      "win_rate": 30.8,
+      "podium_rate": 65.4,
+      "average_finish": 3.615,
+      "average_start": 3.808,
+      "average_positions_gained": 0.192,
       "best_finish": 1,
       "best_recorded_lap": 84.022827,
-      "average_gap_percent": -3.012,
-      "contacts": 48,
-      "contacts_per_race": 2.0,
-      "clean_races": 7,
-      "clean_race_percent": 29.2,
+      "average_gap_percent": -2.733,
+      "contacts": 49,
+      "contacts_per_race": 1.885,
+      "clean_races": 8,
+      "clean_race_percent": 30.8,
       "worst_contact_severity": 21.174,
       "tracks": {
         "Circuit of the Americas v.1.2": {
@@ -461,6 +461,22 @@
           "average_finish": 4,
           "contacts": 2,
           "clean_race_percent": 0.0
+        },
+        "Le Mans Circuit Bugatti v1.1": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 1,
+          "average_finish": 3,
+          "contacts": 1,
+          "clean_race_percent": 0.0
+        },
+        "Pertamina Mandalika International Circuit v1.2": {
+          "races": 1,
+          "wins": 1,
+          "podiums": 1,
+          "average_finish": 1,
+          "contacts": 0,
+          "clean_race_percent": 100.0
         }
       },
       "bikes": {
@@ -498,27 +514,32 @@
           "races": 5,
           "wins": 0,
           "podiums": 0
+        },
+        "Aprilia RS660 Trofeo": {
+          "races": 2,
+          "wins": 1,
+          "podiums": 2
         }
       }
     },
     {
       "guid": "FF011000012839A54F",
       "name": "sergioo14",
-      "races": 22,
-      "wins": 1,
-      "podiums": 8,
-      "win_rate": 4.5,
-      "podium_rate": 36.4,
-      "average_finish": 7.727,
-      "average_start": 6.143,
-      "average_positions_gained": -1.762,
+      "races": 24,
+      "wins": 2,
+      "podiums": 9,
+      "win_rate": 8.3,
+      "podium_rate": 37.5,
+      "average_finish": 7.375,
+      "average_start": 5.826,
+      "average_positions_gained": -1.696,
       "best_finish": 1,
-      "best_recorded_lap": 105.632813,
-      "average_gap_percent": -10.374,
-      "contacts": 64,
-      "contacts_per_race": 2.909,
+      "best_recorded_lap": 105.345825,
+      "average_gap_percent": -9.682,
+      "contacts": 67,
+      "contacts_per_race": 2.792,
       "clean_races": 3,
-      "clean_race_percent": 13.6,
+      "clean_race_percent": 12.5,
       "worst_contact_severity": 16.781,
       "tracks": {
         "Sepang International Circuit v2.1": {
@@ -554,12 +575,12 @@
           "clean_race_percent": 0.0
         },
         "Pertamina Mandalika International Circuit v1.2": {
-          "races": 1,
+          "races": 2,
           "wins": 0,
           "podiums": 0,
-          "average_finish": 12,
-          "contacts": 0,
-          "clean_race_percent": 100.0
+          "average_finish": 9,
+          "contacts": 2,
+          "clean_race_percent": 50.0
         },
         "Phillip Island Circuit v1.0": {
           "races": 1,
@@ -592,13 +613,21 @@
           "average_finish": 5.333,
           "contacts": 11,
           "clean_race_percent": 0.0
+        },
+        "Le Mans Circuit Bugatti v1.1": {
+          "races": 1,
+          "wins": 1,
+          "podiums": 1,
+          "average_finish": 1,
+          "contacts": 1,
+          "clean_race_percent": 0.0
         }
       },
       "bikes": {
         "Aprilia RS660 Trofeo": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 1
+          "races": 3,
+          "wins": 1,
+          "podiums": 2
         },
         "Honda NSF250RW 2026": {
           "races": 10,
@@ -2429,6 +2458,93 @@
       }
     },
     {
+      "guid": "FF0110000136A6919F",
+      "name": "AhyaAL",
+      "races": 10,
+      "wins": 2,
+      "podiums": 4,
+      "win_rate": 20.0,
+      "podium_rate": 40.0,
+      "average_finish": 5.7,
+      "average_start": 4.111,
+      "average_positions_gained": -1.222,
+      "best_finish": 1,
+      "best_recorded_lap": 101.215225,
+      "average_gap_percent": -18.794,
+      "contacts": 8,
+      "contacts_per_race": 0.8,
+      "clean_races": 6,
+      "clean_race_percent": 60.0,
+      "worst_contact_severity": 26.741,
+      "tracks": {
+        "Circuit of the Americas v.1.2": {
+          "races": 1,
+          "wins": 1,
+          "podiums": 1,
+          "average_finish": 1,
+          "contacts": 0,
+          "clean_race_percent": 100.0
+        },
+        "Sepang International Circuit v2.1": {
+          "races": 2,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 4.5,
+          "contacts": 1,
+          "clean_race_percent": 50.0
+        },
+        "Silverstone Circuit v1.0": {
+          "races": 2,
+          "wins": 0,
+          "podiums": 1,
+          "average_finish": 3,
+          "contacts": 0,
+          "clean_race_percent": 100.0
+        },
+        "Lusail International Circuit - Night v1.0": {
+          "races": 2,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 10.5,
+          "contacts": 3,
+          "clean_race_percent": 50.0
+        },
+        "Automotodrom Brno v1.0a": {
+          "races": 2,
+          "wins": 1,
+          "podiums": 1,
+          "average_finish": 8.5,
+          "contacts": 2,
+          "clean_race_percent": 50.0
+        },
+        "Pertamina Mandalika International Circuit v1.2": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 1,
+          "average_finish": 3,
+          "contacts": 2,
+          "clean_race_percent": 0.0
+        }
+      },
+      "bikes": {
+        "Honda CBR 1000RR 2005": {
+          "races": 2,
+          "wins": 1,
+          "podiums": 1
+        },
+        "Yamaha R6": {
+          "races": 7,
+          "wins": 1,
+          "podiums": 2
+        },
+        "Aprilia RS660 Trofeo": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 1
+        }
+      }
+    },
+    {
       "guid": "FF01100001369E28B1",
       "name": "Carrasco",
       "races": 10,
@@ -2913,80 +3029,6 @@
           "races": 2,
           "wins": 0,
           "podiums": 0
-        }
-      }
-    },
-    {
-      "guid": "FF0110000136A6919F",
-      "name": "AhyaAL",
-      "races": 9,
-      "wins": 2,
-      "podiums": 3,
-      "win_rate": 22.2,
-      "podium_rate": 33.3,
-      "average_finish": 6,
-      "average_start": 3.875,
-      "average_positions_gained": -1.75,
-      "best_finish": 1,
-      "best_recorded_lap": 120.710754,
-      "average_gap_percent": -21.967,
-      "contacts": 6,
-      "contacts_per_race": 0.667,
-      "clean_races": 6,
-      "clean_race_percent": 66.7,
-      "worst_contact_severity": 26.741,
-      "tracks": {
-        "Circuit of the Americas v.1.2": {
-          "races": 1,
-          "wins": 1,
-          "podiums": 1,
-          "average_finish": 1,
-          "contacts": 0,
-          "clean_race_percent": 100.0
-        },
-        "Sepang International Circuit v2.1": {
-          "races": 2,
-          "wins": 0,
-          "podiums": 0,
-          "average_finish": 4.5,
-          "contacts": 1,
-          "clean_race_percent": 50.0
-        },
-        "Silverstone Circuit v1.0": {
-          "races": 2,
-          "wins": 0,
-          "podiums": 1,
-          "average_finish": 3,
-          "contacts": 0,
-          "clean_race_percent": 100.0
-        },
-        "Lusail International Circuit - Night v1.0": {
-          "races": 2,
-          "wins": 0,
-          "podiums": 0,
-          "average_finish": 10.5,
-          "contacts": 3,
-          "clean_race_percent": 50.0
-        },
-        "Automotodrom Brno v1.0a": {
-          "races": 2,
-          "wins": 1,
-          "podiums": 1,
-          "average_finish": 8.5,
-          "contacts": 2,
-          "clean_race_percent": 50.0
-        }
-      },
-      "bikes": {
-        "Honda CBR 1000RR 2005": {
-          "races": 2,
-          "wins": 1,
-          "podiums": 1
-        },
-        "Yamaha R6": {
-          "races": 7,
-          "wins": 1,
-          "podiums": 2
         }
       }
     },
@@ -4453,6 +4495,93 @@
           "races": 2,
           "wins": 0,
           "podiums": 2
+        }
+      }
+    },
+    {
+      "guid": "FF011000014283019E",
+      "name": "Ibai Merino",
+      "races": 6,
+      "wins": 0,
+      "podiums": 1,
+      "win_rate": 0.0,
+      "podium_rate": 16.7,
+      "average_finish": 5.833,
+      "average_start": 3.6,
+      "average_positions_gained": -1.8,
+      "best_finish": 2,
+      "best_recorded_lap": 103.810028,
+      "average_gap_percent": -6.759,
+      "contacts": 6,
+      "contacts_per_race": 1.0,
+      "clean_races": 2,
+      "clean_race_percent": 33.3,
+      "worst_contact_severity": 13.211,
+      "tracks": {
+        "Circuit de Catalunya - 2021 v1.0b": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 4,
+          "contacts": 1,
+          "clean_race_percent": 0.0
+        },
+        "Silverstone Circuit v1.0": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 9,
+          "contacts": 1,
+          "clean_race_percent": 0.0
+        },
+        "Lusail International Circuit - Night v1.0": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 7,
+          "contacts": 3,
+          "clean_race_percent": 0.0
+        },
+        "Automotodrom Brno v1.0a": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 8,
+          "contacts": 0,
+          "clean_race_percent": 100.0
+        },
+        "Le Mans Circuit Bugatti v1.1": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 1,
+          "average_finish": 2,
+          "contacts": 1,
+          "clean_race_percent": 0.0
+        },
+        "Pertamina Mandalika International Circuit v1.2": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 5,
+          "contacts": 0,
+          "clean_race_percent": 100.0
+        }
+      },
+      "bikes": {
+        "BMW ROKIT Motorrad Team": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0
+        },
+        "Yamaha R6": {
+          "races": 3,
+          "wins": 0,
+          "podiums": 0
+        },
+        "Aprilia RS660 Trofeo": {
+          "races": 2,
+          "wins": 0,
+          "podiums": 1
         }
       }
     },
@@ -5936,72 +6065,6 @@
       }
     },
     {
-      "guid": "FF011000014283019E",
-      "name": "Ibai Merino",
-      "races": 4,
-      "wins": 0,
-      "podiums": 0,
-      "win_rate": 0.0,
-      "podium_rate": 0.0,
-      "average_finish": 7,
-      "average_start": 5,
-      "average_positions_gained": -1.667,
-      "best_finish": 4,
-      "best_recorded_lap": 103.810028,
-      "average_gap_percent": -9.187,
-      "contacts": 5,
-      "contacts_per_race": 1.25,
-      "clean_races": 1,
-      "clean_race_percent": 25.0,
-      "worst_contact_severity": 13.211,
-      "tracks": {
-        "Circuit de Catalunya - 2021 v1.0b": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0,
-          "average_finish": 4,
-          "contacts": 1,
-          "clean_race_percent": 0.0
-        },
-        "Silverstone Circuit v1.0": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0,
-          "average_finish": 9,
-          "contacts": 1,
-          "clean_race_percent": 0.0
-        },
-        "Lusail International Circuit - Night v1.0": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0,
-          "average_finish": 7,
-          "contacts": 3,
-          "clean_race_percent": 0.0
-        },
-        "Automotodrom Brno v1.0a": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0,
-          "average_finish": 8,
-          "contacts": 0,
-          "clean_race_percent": 100.0
-        }
-      },
-      "bikes": {
-        "BMW ROKIT Motorrad Team": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0
-        },
-        "Yamaha R6": {
-          "races": 3,
-          "wins": 0,
-          "podiums": 0
-        }
-      }
-    },
-    {
       "guid": "FF011000013C1E6681",
       "name": "MARCO",
       "races": 4,
@@ -6262,6 +6325,132 @@
           "races": 4,
           "wins": 0,
           "podiums": 0
+        }
+      }
+    },
+    {
+      "guid": "FF011000014A79FB34",
+      "name": "Speedy4RL",
+      "races": 4,
+      "wins": 1,
+      "podiums": 1,
+      "win_rate": 25.0,
+      "podium_rate": 25.0,
+      "average_finish": 4.5,
+      "average_start": 4.5,
+      "average_positions_gained": 0,
+      "best_finish": 1,
+      "best_recorded_lap": 96.92157,
+      "average_gap_percent": -9.178,
+      "contacts": 14,
+      "contacts_per_race": 3.5,
+      "clean_races": 0,
+      "clean_race_percent": 0.0,
+      "worst_contact_severity": 40.31,
+      "tracks": {
+        "Lusail International Circuit - Night v1.0": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 5,
+          "contacts": 2,
+          "clean_race_percent": 0.0
+        },
+        "Phillip Island Circuit v1.0": {
+          "races": 2,
+          "wins": 1,
+          "podiums": 1,
+          "average_finish": 3.5,
+          "contacts": 8,
+          "clean_race_percent": 0.0
+        },
+        "Mugello Circuit v2.2": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 6,
+          "contacts": 4,
+          "clean_race_percent": 0.0
+        }
+      },
+      "bikes": {
+        "Honda NSF250RW 2026": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0
+        },
+        "KTM RC250GP 2026": {
+          "races": 2,
+          "wins": 0,
+          "podiums": 0
+        },
+        "Aprilia RS660 Trofeo": {
+          "races": 1,
+          "wins": 1,
+          "podiums": 1
+        }
+      }
+    },
+    {
+      "guid": "FF011000015BE9D84F",
+      "name": "AL",
+      "races": 3,
+      "wins": 0,
+      "podiums": 2,
+      "win_rate": 0.0,
+      "podium_rate": 66.7,
+      "average_finish": 5.333,
+      "average_start": 5,
+      "average_positions_gained": -1.5,
+      "best_finish": 2,
+      "best_recorded_lap": 102.515656,
+      "average_gap_percent": 6.277,
+      "contacts": 5,
+      "contacts_per_race": 1.667,
+      "clean_races": 0,
+      "clean_race_percent": 0.0,
+      "worst_contact_severity": 9.706,
+      "tracks": {
+        "Circuit of the Americas v.1.2": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 11,
+          "contacts": 1,
+          "clean_race_percent": 0.0
+        },
+        "Sepang International Circuit v2.1": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 1,
+          "average_finish": 3,
+          "contacts": 1,
+          "clean_race_percent": 0.0
+        },
+        "Pertamina Mandalika International Circuit v1.2": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 1,
+          "average_finish": 2,
+          "contacts": 3,
+          "clean_race_percent": 0.0
+        }
+      },
+      "bikes": {
+        "Honda CBR 1000RR 2005": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0
+        },
+        "BOSCOSCURO AKRA": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 1
+        },
+        "Aprilia RS660 Trofeo": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 1
         }
       }
     },
@@ -7239,64 +7428,6 @@
       }
     },
     {
-      "guid": "FF011000014A79FB34",
-      "name": "Speedy4RL",
-      "races": 3,
-      "wins": 0,
-      "podiums": 0,
-      "win_rate": 0.0,
-      "podium_rate": 0.0,
-      "average_finish": 5.667,
-      "average_start": 5.667,
-      "average_positions_gained": 0,
-      "best_finish": 5,
-      "best_recorded_lap": 96.92157,
-      "average_gap_percent": -12.237,
-      "contacts": 8,
-      "contacts_per_race": 2.667,
-      "clean_races": 0,
-      "clean_race_percent": 0.0,
-      "worst_contact_severity": 28.376,
-      "tracks": {
-        "Lusail International Circuit - Night v1.0": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0,
-          "average_finish": 5,
-          "contacts": 2,
-          "clean_race_percent": 0.0
-        },
-        "Phillip Island Circuit v1.0": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0,
-          "average_finish": 6,
-          "contacts": 2,
-          "clean_race_percent": 0.0
-        },
-        "Mugello Circuit v2.2": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0,
-          "average_finish": 6,
-          "contacts": 4,
-          "clean_race_percent": 0.0
-        }
-      },
-      "bikes": {
-        "Honda NSF250RW 2026": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0
-        },
-        "KTM RC250GP 2026": {
-          "races": 2,
-          "wins": 0,
-          "podiums": 0
-        }
-      }
-    },
-    {
       "guid": "FF0110000135F3846D",
       "name": "Victorug0",
       "races": 3,
@@ -7348,56 +7479,6 @@
           "podiums": 0
         },
         "KTM RC250GP 2026": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 1
-        }
-      }
-    },
-    {
-      "guid": "FF011000015BE9D84F",
-      "name": "AL",
-      "races": 2,
-      "wins": 0,
-      "podiums": 1,
-      "win_rate": 0.0,
-      "podium_rate": 50.0,
-      "average_finish": 7,
-      "average_start": 6,
-      "average_positions_gained": -5,
-      "best_finish": 3,
-      "best_recorded_lap": 127.746277,
-      "average_gap_percent": 6.215,
-      "contacts": 2,
-      "contacts_per_race": 1.0,
-      "clean_races": 0,
-      "clean_race_percent": 0.0,
-      "worst_contact_severity": 9.659,
-      "tracks": {
-        "Circuit of the Americas v.1.2": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0,
-          "average_finish": 11,
-          "contacts": 1,
-          "clean_race_percent": 0.0
-        },
-        "Sepang International Circuit v2.1": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 1,
-          "average_finish": 3,
-          "contacts": 1,
-          "clean_race_percent": 0.0
-        }
-      },
-      "bikes": {
-        "Honda CBR 1000RR 2005": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0
-        },
-        "BOSCOSCURO AKRA": {
           "races": 1,
           "wins": 0,
           "podiums": 1
@@ -7536,6 +7617,56 @@
           "races": 2,
           "wins": 1,
           "podiums": 2
+        }
+      }
+    },
+    {
+      "guid": "FF0110000154EED31E",
+      "name": "Gambilla206",
+      "races": 2,
+      "wins": 0,
+      "podiums": 1,
+      "win_rate": 0.0,
+      "podium_rate": 50.0,
+      "average_finish": 5,
+      "average_start": 4,
+      "average_positions_gained": -1,
+      "best_finish": 3,
+      "best_recorded_lap": 102.612976,
+      "average_gap_percent": 6.061,
+      "contacts": 4,
+      "contacts_per_race": 2.0,
+      "clean_races": 1,
+      "clean_race_percent": 50.0,
+      "worst_contact_severity": 2.427,
+      "tracks": {
+        "Lusail International Circuit - Night v1.0": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 7,
+          "contacts": 0,
+          "clean_race_percent": 100.0
+        },
+        "Phillip Island Circuit v1.0": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 1,
+          "average_finish": 3,
+          "contacts": 4,
+          "clean_race_percent": 0.0
+        }
+      },
+      "bikes": {
+        "Ducati Aruba.it Racing": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0
+        },
+        "Aprilia RS660 Trofeo": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 1
         }
       }
     },
@@ -7765,6 +7896,56 @@
           "podiums": 0
         },
         "Yamaha R6 Evanbros": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0
+        }
+      }
+    },
+    {
+      "guid": "FF0110000143B5D2A2",
+      "name": "mnenobmw",
+      "races": 2,
+      "wins": 0,
+      "podiums": 0,
+      "win_rate": 0.0,
+      "podium_rate": 0.0,
+      "average_finish": 6,
+      "average_start": 6,
+      "average_positions_gained": 0,
+      "best_finish": 4,
+      "best_recorded_lap": 104.256821,
+      "average_gap_percent": 21.075,
+      "contacts": 0,
+      "contacts_per_race": 0.0,
+      "clean_races": 2,
+      "clean_race_percent": 100.0,
+      "worst_contact_severity": null,
+      "tracks": {
+        "Lusail International Circuit - Night v1.0": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 8,
+          "contacts": 0,
+          "clean_race_percent": 100.0
+        },
+        "Phillip Island Circuit v1.0": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 4,
+          "contacts": 0,
+          "clean_race_percent": 100.0
+        }
+      },
+      "bikes": {
+        "BMW Bonovo Action Team": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0
+        },
+        "Aprilia RS660 Trofeo": {
           "races": 1,
           "wins": 0,
           "podiums": 0
@@ -8253,6 +8434,51 @@
           "races": 1,
           "wins": 0,
           "podiums": 0
+        }
+      }
+    },
+    {
+      "guid": "FF011000014B709F27",
+      "name": "Smurruf",
+      "races": 2,
+      "wins": 0,
+      "podiums": 1,
+      "win_rate": 0.0,
+      "podium_rate": 50.0,
+      "average_finish": 3,
+      "average_start": 2.5,
+      "average_positions_gained": -0.5,
+      "best_finish": 2,
+      "best_recorded_lap": 100.060478,
+      "average_gap_percent": 4.981,
+      "contacts": 9,
+      "contacts_per_race": 4.5,
+      "clean_races": 0,
+      "clean_race_percent": 0.0,
+      "worst_contact_severity": 40.31,
+      "tracks": {
+        "Phillip Island Circuit v1.0": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 1,
+          "average_finish": 2,
+          "contacts": 5,
+          "clean_race_percent": 0.0
+        },
+        "Le Mans Circuit Bugatti v1.1": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 4,
+          "contacts": 4,
+          "clean_race_percent": 0.0
+        }
+      },
+      "bikes": {
+        "Aprilia RS660 Trofeo": {
+          "races": 2,
+          "wins": 0,
+          "podiums": 1
         }
       }
     },
@@ -8915,6 +9141,43 @@
       }
     },
     {
+      "guid": "FF0110000109DA8F3C",
+      "name": "Champtits",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "win_rate": 0.0,
+      "podium_rate": 0.0,
+      "average_finish": 4,
+      "average_start": 5,
+      "average_positions_gained": 1,
+      "best_finish": 4,
+      "best_recorded_lap": 112.673706,
+      "average_gap_percent": -57.393,
+      "contacts": 1,
+      "contacts_per_race": 1.0,
+      "clean_races": 0,
+      "clean_race_percent": 0.0,
+      "worst_contact_severity": 2.38,
+      "tracks": {
+        "Pertamina Mandalika International Circuit v1.2": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 4,
+          "contacts": 1,
+          "clean_race_percent": 0.0
+        }
+      },
+      "bikes": {
+        "Aprilia RS660 Trofeo": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0
+        }
+      }
+    },
+    {
       "guid": "FF011000014CECF77B",
       "name": "CHORIPANZETUDO",
       "races": 1,
@@ -9100,6 +9363,43 @@
       }
     },
     {
+      "guid": "FF011000012CB1AD58",
+      "name": "david Ahmanqabil",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "win_rate": 0.0,
+      "podium_rate": 0.0,
+      "average_finish": 6,
+      "average_start": 5,
+      "average_positions_gained": -1,
+      "best_finish": 6,
+      "best_recorded_lap": 106.875778,
+      "average_gap_percent": -38.819,
+      "contacts": 1,
+      "contacts_per_race": 1.0,
+      "clean_races": 0,
+      "clean_race_percent": 0.0,
+      "worst_contact_severity": 2.67,
+      "tracks": {
+        "Le Mans Circuit Bugatti v1.1": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 6,
+          "contacts": 1,
+          "clean_race_percent": 0.0
+        }
+      },
+      "bikes": {
+        "Aprilia RS660 Trofeo": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0
+        }
+      }
+    },
+    {
       "guid": "FF0110000103FA6C5B",
       "name": "El-Ninety-Nine",
       "races": 1,
@@ -9207,43 +9507,6 @@
           "races": 1,
           "wins": 1,
           "podiums": 1
-        }
-      }
-    },
-    {
-      "guid": "FF0110000154EED31E",
-      "name": "Gambilla206",
-      "races": 1,
-      "wins": 0,
-      "podiums": 0,
-      "win_rate": 0.0,
-      "podium_rate": 0.0,
-      "average_finish": 7,
-      "average_start": 5,
-      "average_positions_gained": -2,
-      "best_finish": 7,
-      "best_recorded_lap": null,
-      "average_gap_percent": null,
-      "contacts": 0,
-      "contacts_per_race": 0.0,
-      "clean_races": 1,
-      "clean_race_percent": 100.0,
-      "worst_contact_severity": null,
-      "tracks": {
-        "Lusail International Circuit - Night v1.0": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0,
-          "average_finish": 7,
-          "contacts": 0,
-          "clean_race_percent": 100.0
-        }
-      },
-      "bikes": {
-        "Ducati Aruba.it Racing": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0
         }
       }
     },
@@ -9426,6 +9689,43 @@
       },
       "bikes": {
         "Yamaha R6": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0
+        }
+      }
+    },
+    {
+      "guid": "FF0110000149B79BDD",
+      "name": "Jens Scriba",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "win_rate": 0.0,
+      "podium_rate": 0.0,
+      "average_finish": 5,
+      "average_start": 4,
+      "average_positions_gained": -1,
+      "best_finish": 5,
+      "best_recorded_lap": 110.561424,
+      "average_gap_percent": -10.931,
+      "contacts": 2,
+      "contacts_per_race": 2.0,
+      "clean_races": 0,
+      "clean_race_percent": 0.0,
+      "worst_contact_severity": 4.645,
+      "tracks": {
+        "Le Mans Circuit Bugatti v1.1": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 5,
+          "contacts": 2,
+          "clean_race_percent": 0.0
+        }
+      },
+      "bikes": {
+        "Aprilia RS660 Trofeo": {
           "races": 1,
           "wins": 0,
           "podiums": 0
@@ -9655,43 +9955,6 @@
       }
     },
     {
-      "guid": "FF0110000143B5D2A2",
-      "name": "mnenobmw",
-      "races": 1,
-      "wins": 0,
-      "podiums": 0,
-      "win_rate": 0.0,
-      "podium_rate": 0.0,
-      "average_finish": 8,
-      "average_start": 8,
-      "average_positions_gained": 0,
-      "best_finish": 8,
-      "best_recorded_lap": null,
-      "average_gap_percent": null,
-      "contacts": 0,
-      "contacts_per_race": 0.0,
-      "clean_races": 1,
-      "clean_race_percent": 100.0,
-      "worst_contact_severity": null,
-      "tracks": {
-        "Lusail International Circuit - Night v1.0": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0,
-          "average_finish": 8,
-          "contacts": 0,
-          "clean_race_percent": 100.0
-        }
-      },
-      "bikes": {
-        "BMW Bonovo Action Team": {
-          "races": 1,
-          "wins": 0,
-          "podiums": 0
-        }
-      }
-    },
-    {
       "guid": "FF011000010D89EB02",
       "name": "popcoin",
       "races": 1,
@@ -9836,6 +10099,43 @@
           "races": 1,
           "wins": 0,
           "podiums": 1
+        }
+      }
+    },
+    {
+      "guid": "FF011000014BA92869",
+      "name": "The Doctor",
+      "races": 1,
+      "wins": 0,
+      "podiums": 0,
+      "win_rate": 0.0,
+      "podium_rate": 0.0,
+      "average_finish": 5,
+      "average_start": 5,
+      "average_positions_gained": 0,
+      "best_finish": 5,
+      "best_recorded_lap": 115.709106,
+      "average_gap_percent": 8.85,
+      "contacts": 3,
+      "contacts_per_race": 3.0,
+      "clean_races": 0,
+      "clean_race_percent": 0.0,
+      "worst_contact_severity": 7.821,
+      "tracks": {
+        "Phillip Island Circuit v1.0": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0,
+          "average_finish": 5,
+          "contacts": 3,
+          "clean_race_percent": 0.0
+        }
+      },
+      "bikes": {
+        "Aprilia RS660 Trofeo": {
+          "races": 1,
+          "wins": 0,
+          "podiums": 0
         }
       }
     },
@@ -37216,6 +37516,639 @@
           "rider2": "Dimitry",
           "relative_speed": -3.489172,
           "severity": 3.489
+        }
+      ]
+    },
+    {
+      "source_file": "20261114-152537-Phillip Island Circuit v1.0.xml",
+      "event_timestamp": 1794669937,
+      "date": "2026-11-14T15:25:37+00:00",
+      "event_type": "Race",
+      "track": "Phillip Island Circuit v1.0",
+      "track_id": "Phillip Island Circuit v1.0",
+      "track_length_m": 4444.890137,
+      "scheduled_laps": 5,
+      "field_size": 5,
+      "contact_events": 9,
+      "riders": [
+        {
+          "race_num": "99",
+          "name": "Speedy4RL",
+          "bike": "Aprilia RS660 Trofeo",
+          "category": "RS660 CUP",
+          "guid": "FF011000014A79FB34",
+          "qualifying_position": 1,
+          "qualifying_time": 100.85199,
+          "start_position": 1,
+          "finish_position": 1,
+          "positions_gained": 0,
+          "race_time": 502.984192,
+          "laps_completed": 5,
+          "gap_seconds": 0.0,
+          "gap_percent": 0.0,
+          "penalty": 0.0,
+          "fastest_lap": 98.896118,
+          "fastest_lap_number": 3,
+          "speed": 66.488617,
+          "valid_timed_laps": 5,
+          "average_lap": 100.593,
+          "median_lap": 99.901,
+          "lap_consistency_stdev": 2.193,
+          "contacts": 6,
+          "max_contact_severity": 40.31,
+          "average_contact_severity": 8.873
+        },
+        {
+          "race_num": "47",
+          "name": "Smurruf",
+          "bike": "Aprilia RS660 Trofeo",
+          "category": "RS660 CUP",
+          "guid": "FF011000014B709F27",
+          "qualifying_position": 2,
+          "qualifying_time": 101.441467,
+          "start_position": 2,
+          "finish_position": 2,
+          "positions_gained": 0,
+          "race_time": 524.43927,
+          "laps_completed": 5,
+          "gap_seconds": 21.455078,
+          "gap_percent": 4.2656,
+          "penalty": 0.0,
+          "fastest_lap": 100.060478,
+          "fastest_lap_number": 2,
+          "speed": 69.399818,
+          "valid_timed_laps": 5,
+          "average_lap": 104.884,
+          "median_lap": 105.166,
+          "lap_consistency_stdev": 3.113,
+          "contacts": 5,
+          "max_contact_severity": 40.31,
+          "average_contact_severity": 11.017
+        },
+        {
+          "race_num": "97",
+          "name": "Gambilla206",
+          "bike": "Aprilia RS660 Trofeo",
+          "category": "RS660 CUP",
+          "guid": "FF0110000154EED31E",
+          "qualifying_position": 3,
+          "qualifying_time": 107.213043,
+          "start_position": 3,
+          "finish_position": 3,
+          "positions_gained": 0,
+          "race_time": 533.467407,
+          "laps_completed": 5,
+          "gap_seconds": 30.483215,
+          "gap_percent": 6.0605,
+          "penalty": 0.0,
+          "fastest_lap": 102.612976,
+          "fastest_lap_number": 4,
+          "speed": 67.039589,
+          "valid_timed_laps": 5,
+          "average_lap": 106.689,
+          "median_lap": 104.27,
+          "lap_consistency_stdev": 5.274,
+          "contacts": 4,
+          "max_contact_severity": 2.427,
+          "average_contact_severity": 1.324
+        },
+        {
+          "race_num": "2",
+          "name": "mnenobmw",
+          "bike": "Aprilia RS660 Trofeo",
+          "category": "RS660 CUP",
+          "guid": "FF0110000143B5D2A2",
+          "qualifying_position": 4,
+          "qualifying_time": 137.844086,
+          "start_position": 4,
+          "finish_position": 4,
+          "positions_gained": 0,
+          "race_time": 608.990112,
+          "laps_completed": 5,
+          "gap_seconds": 106.00592,
+          "gap_percent": 21.0754,
+          "penalty": 0.0,
+          "fastest_lap": 104.256821,
+          "fastest_lap_number": 3,
+          "speed": 66.532013,
+          "valid_timed_laps": 5,
+          "average_lap": 121.794,
+          "median_lap": 122.447,
+          "lap_consistency_stdev": 10.42,
+          "contacts": 0,
+          "max_contact_severity": null,
+          "average_contact_severity": null
+        },
+        {
+          "race_num": "49",
+          "name": "The Doctor",
+          "bike": "Aprilia RS660 Trofeo",
+          "category": "RS660 CUP",
+          "guid": "FF011000014BA92869",
+          "qualifying_position": 5,
+          "qualifying_time": null,
+          "start_position": 5,
+          "finish_position": 5,
+          "positions_gained": 0,
+          "race_time": 547.498413,
+          "laps_completed": 4,
+          "gap_seconds": null,
+          "gap_percent": 8.85,
+          "penalty": 0.0,
+          "fastest_lap": 115.709106,
+          "fastest_lap_number": 3,
+          "speed": 66.245613,
+          "valid_timed_laps": 4,
+          "average_lap": 136.87,
+          "median_lap": 132.125,
+          "lap_consistency_stdev": 18.938,
+          "contacts": 3,
+          "max_contact_severity": 7.821,
+          "average_contact_severity": 4.968
+        }
+      ],
+      "contacts": [
+        {
+          "time_ms": 13000,
+          "rider1": "Smurruf",
+          "rider2": "Gambilla206",
+          "relative_speed": -0.776421,
+          "severity": 0.776
+        },
+        {
+          "time_ms": 155038,
+          "rider1": "Smurruf",
+          "rider2": "Speedy4RL",
+          "relative_speed": -1.403996,
+          "severity": 1.404
+        },
+        {
+          "time_ms": 488122,
+          "rider1": "Smurruf",
+          "rider2": "The Doctor",
+          "relative_speed": -7.820731,
+          "severity": 7.821
+        },
+        {
+          "time_ms": 533400,
+          "rider1": "Smurruf",
+          "rider2": "Speedy4RL",
+          "relative_speed": -40.309982,
+          "severity": 40.31
+        },
+        {
+          "time_ms": 559360,
+          "rider1": "Speedy4RL",
+          "rider2": "Gambilla206",
+          "relative_speed": -0.733375,
+          "severity": 0.733
+        },
+        {
+          "time_ms": 561024,
+          "rider1": "Speedy4RL",
+          "rider2": "Gambilla206",
+          "relative_speed": -1.358331,
+          "severity": 1.358
+        },
+        {
+          "time_ms": 588114,
+          "rider1": "Smurruf",
+          "rider2": "Speedy4RL",
+          "relative_speed": -4.771718,
+          "severity": 4.772
+        },
+        {
+          "time_ms": 596480,
+          "rider1": "Speedy4RL",
+          "rider2": "The Doctor",
+          "relative_speed": -4.657614,
+          "severity": 4.658
+        },
+        {
+          "time_ms": 597152,
+          "rider1": "Gambilla206",
+          "rider2": "The Doctor",
+          "relative_speed": -2.426533,
+          "severity": 2.427
+        }
+      ]
+    },
+    {
+      "source_file": "20261114-154724-Bugatti v1.1.xml",
+      "event_timestamp": 1794671244,
+      "date": "2026-11-14T15:47:24+00:00",
+      "event_type": "Race",
+      "track": "Le Mans Circuit Bugatti v1.1",
+      "track_id": "Bugatti v1.1",
+      "track_length_m": 4163.670898,
+      "scheduled_laps": 5,
+      "field_size": 6,
+      "contact_events": 5,
+      "riders": [
+        {
+          "race_num": "14",
+          "name": "sergioo14",
+          "bike": "Aprilia RS660 Trofeo",
+          "category": "RS660 CUP",
+          "guid": "FF011000012839A54F",
+          "qualifying_position": 2,
+          "qualifying_time": 107.15799,
+          "start_position": 2,
+          "finish_position": 1,
+          "positions_gained": 1,
+          "race_time": 548.267761,
+          "laps_completed": 5,
+          "gap_seconds": 0.0,
+          "gap_percent": 0.0,
+          "penalty": 2.0,
+          "fastest_lap": 105.345825,
+          "fastest_lap_number": 5,
+          "speed": 56.818111,
+          "valid_timed_laps": 4,
+          "average_lap": 110.347,
+          "median_lap": 108.507,
+          "lap_consistency_stdev": 5.478,
+          "contacts": 1,
+          "max_contact_severity": 0.909,
+          "average_contact_severity": 0.909
+        },
+        {
+          "race_num": "15",
+          "name": "Ibai Merino",
+          "bike": "Aprilia RS660 Trofeo",
+          "category": "RS660 CUP",
+          "guid": "FF011000014283019E",
+          "qualifying_position": 1,
+          "qualifying_time": 107.055908,
+          "start_position": 1,
+          "finish_position": 2,
+          "positions_gained": -1,
+          "race_time": 551.132446,
+          "laps_completed": 5,
+          "gap_seconds": 2.864685,
+          "gap_percent": 0.5225,
+          "penalty": 4.0,
+          "fastest_lap": 106.980873,
+          "fastest_lap_number": 2,
+          "speed": 58.584511,
+          "valid_timed_laps": 3,
+          "average_lap": 107.378,
+          "median_lap": 107.303,
+          "lap_consistency_stdev": 0.358,
+          "contacts": 1,
+          "max_contact_severity": 0.909,
+          "average_contact_severity": 0.909
+        },
+        {
+          "race_num": "60",
+          "name": "Miquel_Sinke60",
+          "bike": "Aprilia RS660 Trofeo",
+          "category": "RS660 CUP",
+          "guid": "FF011000013182150D",
+          "qualifying_position": 6,
+          "qualifying_time": null,
+          "start_position": 6,
+          "finish_position": 3,
+          "positions_gained": 3,
+          "race_time": 553.575195,
+          "laps_completed": 5,
+          "gap_seconds": 5.307434,
+          "gap_percent": 0.968,
+          "penalty": 0.0,
+          "fastest_lap": 103.814148,
+          "fastest_lap_number": 5,
+          "speed": 63.60865,
+          "valid_timed_laps": 5,
+          "average_lap": 110.715,
+          "median_lap": 110.244,
+          "lap_consistency_stdev": 6.802,
+          "contacts": 1,
+          "max_contact_severity": 0.492,
+          "average_contact_severity": 0.492
+        },
+        {
+          "race_num": "47",
+          "name": "Smurruf",
+          "bike": "Aprilia RS660 Trofeo",
+          "category": "RS660 CUP",
+          "guid": "FF011000014B709F27",
+          "qualifying_position": 3,
+          "qualifying_time": 107.689514,
+          "start_position": 3,
+          "finish_position": 4,
+          "positions_gained": -1,
+          "race_time": 579.493774,
+          "laps_completed": 5,
+          "gap_seconds": 31.226013,
+          "gap_percent": 5.6954,
+          "penalty": 0.0,
+          "fastest_lap": 107.711823,
+          "fastest_lap_number": 2,
+          "speed": 63.830643,
+          "valid_timed_laps": 5,
+          "average_lap": 115.899,
+          "median_lap": 115.666,
+          "lap_consistency_stdev": 5.992,
+          "contacts": 4,
+          "max_contact_severity": 4.645,
+          "average_contact_severity": 2.47
+        },
+        {
+          "race_num": "85",
+          "name": "Jens Scriba",
+          "bike": "Aprilia RS660 Trofeo",
+          "category": "RS660 CUP",
+          "guid": "FF0110000149B79BDD",
+          "qualifying_position": 4,
+          "qualifying_time": 113.18718,
+          "start_position": 4,
+          "finish_position": 5,
+          "positions_gained": -1,
+          "race_time": 488.334137,
+          "laps_completed": 4,
+          "gap_seconds": 47.21991,
+          "gap_percent": -10.9315,
+          "penalty": 4.0,
+          "fastest_lap": 110.561424,
+          "fastest_lap_number": 2,
+          "speed": 57.817795,
+          "valid_timed_laps": 3,
+          "average_lap": 120.438,
+          "median_lap": 120.901,
+          "lap_consistency_stdev": 7.882,
+          "contacts": 2,
+          "max_contact_severity": 4.645,
+          "average_contact_severity": 3.36
+        },
+        {
+          "race_num": "2",
+          "name": "david Ahmanqabil",
+          "bike": "Aprilia RS660 Trofeo",
+          "category": "RS660 CUP",
+          "guid": "FF011000012CB1AD58",
+          "qualifying_position": 5,
+          "qualifying_time": null,
+          "start_position": 5,
+          "finish_position": 6,
+          "positions_gained": -1,
+          "race_time": 335.435883,
+          "laps_completed": 3,
+          "gap_seconds": null,
+          "gap_percent": -38.819,
+          "penalty": 4.0,
+          "fastest_lap": 106.875778,
+          "fastest_lap_number": 3,
+          "speed": 63.644836,
+          "valid_timed_laps": 1,
+          "average_lap": 106.876,
+          "median_lap": 106.876,
+          "lap_consistency_stdev": null,
+          "contacts": 1,
+          "max_contact_severity": 2.67,
+          "average_contact_severity": 2.67
+        }
+      ],
+      "contacts": [
+        {
+          "time_ms": 46541,
+          "rider1": "Smurruf",
+          "rider2": "Miquel_Sinke60",
+          "relative_speed": -0.491529,
+          "severity": 0.492
+        },
+        {
+          "time_ms": 60165,
+          "rider1": "Smurruf",
+          "rider2": "david Ahmanqabil",
+          "relative_speed": -2.670207,
+          "severity": 2.67
+        },
+        {
+          "time_ms": 314151,
+          "rider1": "Jens Scriba",
+          "rider2": "Smurruf",
+          "relative_speed": -2.073974,
+          "severity": 2.074
+        },
+        {
+          "time_ms": 322171,
+          "rider1": "Jens Scriba",
+          "rider2": "Smurruf",
+          "relative_speed": -4.645409,
+          "severity": 4.645
+        },
+        {
+          "time_ms": 514985,
+          "rider1": "sergioo14",
+          "rider2": "Ibai Merino",
+          "relative_speed": -0.909325,
+          "severity": 0.909
+        }
+      ]
+    },
+    {
+      "source_file": "20261114-160723-Pertamina Mandalika v1.2.xml",
+      "event_timestamp": 1794672443,
+      "date": "2026-11-14T16:07:23+00:00",
+      "event_type": "Race",
+      "track": "Pertamina Mandalika International Circuit v1.2",
+      "track_id": "Pertamina Mandalika v1.2",
+      "track_length_m": 4371.059082,
+      "scheduled_laps": 5,
+      "field_size": 6,
+      "contact_events": 4,
+      "riders": [
+        {
+          "race_num": "60",
+          "name": "Miquel_Sinke60",
+          "bike": "Aprilia RS660 Trofeo",
+          "category": "RS660 CUP",
+          "guid": "FF011000013182150D",
+          "qualifying_position": 1,
+          "qualifying_time": 100.585976,
+          "start_position": 1,
+          "finish_position": 1,
+          "positions_gained": 0,
+          "race_time": 509.529327,
+          "laps_completed": 5,
+          "gap_seconds": 0.0,
+          "gap_percent": 0.0,
+          "penalty": 0.0,
+          "fastest_lap": 100.66629,
+          "fastest_lap_number": 5,
+          "speed": 61.181629,
+          "valid_timed_laps": 5,
+          "average_lap": 101.904,
+          "median_lap": 101.212,
+          "lap_consistency_stdev": 1.631,
+          "contacts": 0,
+          "max_contact_severity": null,
+          "average_contact_severity": null
+        },
+        {
+          "race_num": "88",
+          "name": "AL",
+          "bike": "Aprilia RS660 Trofeo",
+          "category": "RS660 CUP",
+          "guid": "FF011000015BE9D84F",
+          "qualifying_position": 4,
+          "qualifying_time": 104.96463,
+          "start_position": 4,
+          "finish_position": 2,
+          "positions_gained": 2,
+          "race_time": 541.83197,
+          "laps_completed": 5,
+          "gap_seconds": 32.302643,
+          "gap_percent": 6.3397,
+          "penalty": 3.0,
+          "fastest_lap": 102.515656,
+          "fastest_lap_number": 4,
+          "speed": 60.787014,
+          "valid_timed_laps": 2,
+          "average_lap": 106.256,
+          "median_lap": 106.256,
+          "lap_consistency_stdev": 3.74,
+          "contacts": 3,
+          "max_contact_severity": 9.706,
+          "average_contact_severity": 4.12
+        },
+        {
+          "race_num": "24",
+          "name": "AhyaAL",
+          "bike": "Aprilia RS660 Trofeo",
+          "category": "RS660 CUP",
+          "guid": "FF0110000136A6919F",
+          "qualifying_position": 6,
+          "qualifying_time": null,
+          "start_position": 6,
+          "finish_position": 3,
+          "positions_gained": 3,
+          "race_time": 543.126709,
+          "laps_completed": 5,
+          "gap_seconds": 33.597382,
+          "gap_percent": 6.5938,
+          "penalty": 3.0,
+          "fastest_lap": 101.215225,
+          "fastest_lap_number": 3,
+          "speed": 61.680046,
+          "valid_timed_laps": 2,
+          "average_lap": 108.016,
+          "median_lap": 108.016,
+          "lap_consistency_stdev": 6.801,
+          "contacts": 2,
+          "max_contact_severity": 9.706,
+          "average_contact_severity": 5.434
+        },
+        {
+          "race_num": "16",
+          "name": "Champtits",
+          "bike": "Aprilia RS660 Trofeo",
+          "category": "RS660 CUP",
+          "guid": "FF0110000109DA8F3C",
+          "qualifying_position": 5,
+          "qualifying_time": 112.424042,
+          "start_position": 5,
+          "finish_position": 4,
+          "positions_gained": 1,
+          "race_time": 217.097351,
+          "laps_completed": 2,
+          "gap_seconds": null,
+          "gap_percent": -57.3926,
+          "penalty": 1.0,
+          "fastest_lap": 112.673706,
+          "fastest_lap_number": 1,
+          "speed": 51.497231,
+          "valid_timed_laps": 1,
+          "average_lap": 112.674,
+          "median_lap": 112.674,
+          "lap_consistency_stdev": null,
+          "contacts": 1,
+          "max_contact_severity": 2.38,
+          "average_contact_severity": 2.38
+        },
+        {
+          "race_num": "15",
+          "name": "Ibai Merino",
+          "bike": "Aprilia RS660 Trofeo",
+          "category": "RS660 CUP",
+          "guid": "FF011000014283019E",
+          "qualifying_position": 2,
+          "qualifying_time": 103.505524,
+          "start_position": 2,
+          "finish_position": 5,
+          "positions_gained": -3,
+          "race_time": null,
+          "laps_completed": 0,
+          "gap_seconds": null,
+          "gap_percent": null,
+          "penalty": 0.0,
+          "fastest_lap": null,
+          "fastest_lap_number": null,
+          "speed": null,
+          "valid_timed_laps": 0,
+          "average_lap": null,
+          "median_lap": null,
+          "lap_consistency_stdev": null,
+          "contacts": 0,
+          "max_contact_severity": null,
+          "average_contact_severity": null
+        },
+        {
+          "race_num": "14",
+          "name": "sergioo14",
+          "bike": "Aprilia RS660 Trofeo",
+          "category": "RS660 CUP",
+          "guid": "FF011000012839A54F",
+          "qualifying_position": 3,
+          "qualifying_time": 104.695374,
+          "start_position": 3,
+          "finish_position": 6,
+          "positions_gained": -3,
+          "race_time": null,
+          "laps_completed": 0,
+          "gap_seconds": null,
+          "gap_percent": null,
+          "penalty": 0.0,
+          "fastest_lap": null,
+          "fastest_lap_number": null,
+          "speed": null,
+          "valid_timed_laps": 0,
+          "average_lap": null,
+          "median_lap": null,
+          "lap_consistency_stdev": null,
+          "contacts": 2,
+          "max_contact_severity": 2.38,
+          "average_contact_severity": 1.935
+        }
+      ],
+      "contacts": [
+        {
+          "time_ms": 23563,
+          "rider1": "sergioo14",
+          "rider2": "Champtits",
+          "relative_speed": -2.380203,
+          "severity": 2.38
+        },
+        {
+          "time_ms": 23511,
+          "rider1": "sergioo14",
+          "rider2": "AL",
+          "relative_speed": -1.490437,
+          "severity": 1.49
+        },
+        {
+          "time_ms": 419835,
+          "rider1": "AL",
+          "rider2": "AhyaAL",
+          "relative_speed": -1.161816,
+          "severity": 1.162
+        },
+        {
+          "time_ms": 498861,
+          "rider1": "AL",
+          "rider2": "AhyaAL",
+          "relative_speed": -9.706481,
+          "severity": 9.706
         }
       ]
     }
