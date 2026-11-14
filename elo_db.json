@@ -14,8 +14,8 @@
     "Miquel_Sinke60": {
         "elo": 1051,
         "wins": 7,
-        "races": 24,
-        "podiums": 15
+        "races": 25,
+        "podiums": 16
     },
     "Rk_44": {
         "elo": 881,
@@ -108,10 +108,10 @@
         "podiums": 8
     },
     "Ibai Merino": {
-        "elo": 985,
+        "elo": 992,
         "wins": 0,
-        "races": 3,
-        "podiums": 0
+        "races": 4,
+        "podiums": 1
     },
     "afonsodalmeida10": {
         "elo": 990,
@@ -186,10 +186,10 @@
         "podiums": 1
     },
     "sergioo14": {
-        "elo": 952,
-        "wins": 1,
-        "races": 19,
-        "podiums": 8
+        "elo": 965,
+        "wins": 2,
+        "races": 20,
+        "podiums": 9
     },
     "rayzenev": {
         "elo": 981,
@@ -912,9 +912,9 @@
         "podiums": 2
     },
     "Smurruf": {
-        "elo": 1004,
+        "elo": 1002,
         "wins": 0,
-        "races": 1,
+        "races": 2,
         "podiums": 1
     },
     "mnenobmw": {
@@ -925,6 +925,18 @@
     },
     "The Doctor": {
         "elo": 992,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
+    },
+    "Jens Scriba": {
+        "elo": 993,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
+    },
+    "david Ahmanqabil": {
+        "elo": 989,
         "wins": 0,
         "races": 1,
         "podiums": 0

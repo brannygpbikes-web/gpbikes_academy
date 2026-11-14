@@ -1,8 +1,8 @@
 {
     "Miquel_Sinke60": {
-        "safety": 104,
-        "races": 24,
-        "contacts": 48,
+        "safety": 102,
+        "races": 25,
+        "contacts": 49,
         "clean_races": 7,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -162,9 +162,9 @@
         "grade": "C"
     },
     "Ibai Merino": {
-        "safety": 129,
-        "races": 4,
-        "contacts": 4,
+        "safety": 127,
+        "races": 5,
+        "contacts": 5,
         "clean_races": 1,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -266,9 +266,9 @@
         "grade": "B"
     },
     "sergioo14": {
-        "safety": 60,
-        "races": 22,
-        "contacts": 63,
+        "safety": 58,
+        "races": 23,
+        "contacts": 64,
         "clean_races": 1,
         "large_lobby_clean_streak": 0,
         "grade": "E"
@@ -1274,9 +1274,9 @@
         "grade": "B"
     },
     "Smurruf": {
-        "safety": 115,
-        "races": 1,
-        "contacts": 5,
+        "safety": 107,
+        "races": 2,
+        "contacts": 9,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -1285,6 +1285,22 @@
         "safety": 119,
         "races": 1,
         "contacts": 3,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "C"
+    },
+    "Jens Scriba": {
+        "safety": 121,
+        "races": 1,
+        "contacts": 2,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "C"
+    },
+    "david Ahmanqabil": {
+        "safety": 123,
+        "races": 1,
+        "contacts": 1,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"

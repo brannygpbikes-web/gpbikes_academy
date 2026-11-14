@@ -390,6 +390,15 @@
             "track": "",
             "finish": 11,
             "race_id": "cf386e42423b5a242e0712a9ae2d1f1b41d8c9ca09f21d99d165f7f11e971103"
+        },
+        {
+            "date": "2026-11-14T15:47:24",
+            "elo": 1051,
+            "elo_before": 1051,
+            "change": 0,
+            "track": "",
+            "finish": 3,
+            "race_id": "9092e8096288b8fdc6866aaf48c244278324ef87e1c2e06918af1afb20871c29"
         }
     ],
     "Rk_44": [
@@ -1655,6 +1664,15 @@
             "track": "",
             "finish": 7,
             "race_id": "dd75439f6b659eba5c7ba733552275ace452ee0606b0fcb028417c8196f6439d"
+        },
+        {
+            "date": "2026-11-14T15:47:24",
+            "elo": 992,
+            "elo_before": 985,
+            "change": 7,
+            "track": "",
+            "finish": 2,
+            "race_id": "9092e8096288b8fdc6866aaf48c244278324ef87e1c2e06918af1afb20871c29"
         }
     ],
     "afonsodalmeida10": [
@@ -2230,6 +2248,15 @@
             "track": "",
             "finish": 9,
             "race_id": "882f2cc2013af91abd37331cc5bb6d9dea2fec2729746bd2407c4dbeaba09f8a"
+        },
+        {
+            "date": "2026-11-14T15:47:24",
+            "elo": 965,
+            "elo_before": 952,
+            "change": 13,
+            "track": "",
+            "finish": 1,
+            "race_id": "9092e8096288b8fdc6866aaf48c244278324ef87e1c2e06918af1afb20871c29"
         }
     ],
     "rayzenev": [
@@ -6585,6 +6612,15 @@
             "track": "",
             "finish": 2,
             "race_id": "d6e39f7c7990e8d5fed3be06e81635a76a0546d9a552e41e2eea86694b9b99e0"
+        },
+        {
+            "date": "2026-11-14T15:47:24",
+            "elo": 1002,
+            "elo_before": 1004,
+            "change": -2,
+            "track": "",
+            "finish": 4,
+            "race_id": "9092e8096288b8fdc6866aaf48c244278324ef87e1c2e06918af1afb20871c29"
         }
     ],
     "mnenobmw": [
@@ -6607,6 +6643,28 @@
             "track": "",
             "finish": 5,
             "race_id": "d6e39f7c7990e8d5fed3be06e81635a76a0546d9a552e41e2eea86694b9b99e0"
+        }
+    ],
+    "Jens Scriba": [
+        {
+            "date": "2026-11-14T15:47:24",
+            "elo": 993,
+            "elo_before": 1000,
+            "change": -7,
+            "track": "",
+            "finish": 5,
+            "race_id": "9092e8096288b8fdc6866aaf48c244278324ef87e1c2e06918af1afb20871c29"
+        }
+    ],
+    "david Ahmanqabil": [
+        {
+            "date": "2026-11-14T15:47:24",
+            "elo": 989,
+            "elo_before": 1000,
+            "change": -11,
+            "track": "",
+            "finish": 6,
+            "race_id": "9092e8096288b8fdc6866aaf48c244278324ef87e1c2e06918af1afb20871c29"
         }
     ]
 }
