@@ -1,9 +1,9 @@
 {
     "Miquel_Sinke60": {
-        "safety": 102,
-        "races": 25,
+        "safety": 112,
+        "races": 26,
         "contacts": 49,
-        "clean_races": 7,
+        "clean_races": 8,
         "large_lobby_clean_streak": 0,
         "grade": "C"
     },
@@ -16,9 +16,9 @@
         "grade": "D"
     },
     "AhyaAL": {
-        "safety": 175,
-        "races": 9,
-        "contacts": 5,
+        "safety": 171,
+        "races": 10,
+        "contacts": 7,
         "clean_races": 6,
         "large_lobby_clean_streak": 0,
         "grade": "A"
@@ -162,10 +162,10 @@
         "grade": "C"
     },
     "Ibai Merino": {
-        "safety": 127,
-        "races": 5,
+        "safety": 137,
+        "races": 6,
         "contacts": 5,
-        "clean_races": 1,
+        "clean_races": 2,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     },
@@ -266,9 +266,9 @@
         "grade": "B"
     },
     "sergioo14": {
-        "safety": 58,
-        "races": 23,
-        "contacts": 64,
+        "safety": 54,
+        "races": 24,
+        "contacts": 66,
         "clean_races": 1,
         "large_lobby_clean_streak": 0,
         "grade": "E"
@@ -530,9 +530,9 @@
         "grade": "C"
     },
     "AL": {
-        "safety": 121,
-        "races": 2,
-        "contacts": 2,
+        "safety": 115,
+        "races": 3,
+        "contacts": 5,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -1298,6 +1298,14 @@
         "grade": "C"
     },
     "david Ahmanqabil": {
+        "safety": 123,
+        "races": 1,
+        "contacts": 1,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "C"
+    },
+    "Champtits": {
         "safety": 123,
         "races": 1,
         "contacts": 1,
