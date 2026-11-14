@@ -552,10 +552,10 @@
         "podiums": 0
     },
     "Speedy4RL": {
-        "elo": 1003,
-        "wins": 0,
-        "races": 3,
-        "podiums": 0
+        "elo": 1011,
+        "wins": 1,
+        "races": 4,
+        "podiums": 1
     },
     "Dimitry": {
         "elo": 996,
@@ -746,8 +746,8 @@
     "Gambilla206": {
         "elo": 986,
         "wins": 0,
-        "races": 1,
-        "podiums": 0
+        "races": 2,
+        "podiums": 1
     },
     "Dede": {
         "elo": 1011,
@@ -910,5 +910,23 @@
         "wins": 1,
         "races": 2,
         "podiums": 2
+    },
+    "Smurruf": {
+        "elo": 1004,
+        "wins": 0,
+        "races": 1,
+        "podiums": 1
+    },
+    "mnenobmw": {
+        "elo": 996,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
+    },
+    "The Doctor": {
+        "elo": 992,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
     }
 }

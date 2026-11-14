@@ -5043,6 +5043,15 @@
             "track": "",
             "finish": 6,
             "race_id": "e94c4e4757d0e00953edd27111a6fb6816f432e815e7a7f35719970c42fb6e91"
+        },
+        {
+            "date": "2026-11-14T15:25:37",
+            "elo": 1011,
+            "elo_before": 1003,
+            "change": 8,
+            "track": "",
+            "finish": 1,
+            "race_id": "d6e39f7c7990e8d5fed3be06e81635a76a0546d9a552e41e2eea86694b9b99e0"
         }
     ],
     "Dimitry": [
@@ -6061,6 +6070,15 @@
             "track": "",
             "finish": 7,
             "race_id": "99fb7ea5a763ae94de602903b15cc342f4b5d08e5c021995f08af5a022d919c3"
+        },
+        {
+            "date": "2026-11-14T15:25:37",
+            "elo": 986,
+            "elo_before": 986,
+            "change": 0,
+            "track": "",
+            "finish": 3,
+            "race_id": "d6e39f7c7990e8d5fed3be06e81635a76a0546d9a552e41e2eea86694b9b99e0"
         }
     ],
     "Dede": [
@@ -6556,6 +6574,39 @@
             "track": "",
             "finish": 1,
             "race_id": "c742f1464dbe14ac80193243f5a69ba729eceb7fbadc56c963615960f3c44813"
+        }
+    ],
+    "Smurruf": [
+        {
+            "date": "2026-11-14T15:25:37",
+            "elo": 1004,
+            "elo_before": 1000,
+            "change": 4,
+            "track": "",
+            "finish": 2,
+            "race_id": "d6e39f7c7990e8d5fed3be06e81635a76a0546d9a552e41e2eea86694b9b99e0"
+        }
+    ],
+    "mnenobmw": [
+        {
+            "date": "2026-11-14T15:25:37",
+            "elo": 996,
+            "elo_before": 1000,
+            "change": -4,
+            "track": "",
+            "finish": 4,
+            "race_id": "d6e39f7c7990e8d5fed3be06e81635a76a0546d9a552e41e2eea86694b9b99e0"
+        }
+    ],
+    "The Doctor": [
+        {
+            "date": "2026-11-14T15:25:37",
+            "elo": 992,
+            "elo_before": 1000,
+            "change": -8,
+            "track": "",
+            "finish": 5,
+            "race_id": "d6e39f7c7990e8d5fed3be06e81635a76a0546d9a552e41e2eea86694b9b99e0"
         }
     ]
 }
