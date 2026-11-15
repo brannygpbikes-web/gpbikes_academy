@@ -3598,6 +3598,15 @@
             "track": "",
             "finish": 11,
             "race_id": "7ffea7fa0399a5bdf374427ea34b3a0481b69aee068ef5269c67c1f3fe010a9c"
+        },
+        {
+            "date": "2026-11-15T19:33:09",
+            "elo": 972,
+            "elo_before": 977,
+            "change": -5,
+            "track": "",
+            "finish": 3,
+            "race_id": "669af468baeab0ed75082b9386f8664aac50239ce9ef0e9b6e89e39e2c11ab36"
         }
     ],
     "alexiis_1622": [
@@ -5245,6 +5254,15 @@
             "track": "",
             "finish": 3,
             "race_id": "5f6752053399a3987452fe93a83727ef20b6986bb53df1b8ebd3a1c0dba2f192"
+        },
+        {
+            "date": "2026-11-15T19:33:09",
+            "elo": 995,
+            "elo_before": 979,
+            "change": 16,
+            "track": "",
+            "finish": 1,
+            "race_id": "669af468baeab0ed75082b9386f8664aac50239ce9ef0e9b6e89e39e2c11ab36"
         }
     ],
     "MARCO": [
@@ -7354,6 +7372,15 @@
             "track": "",
             "finish": 4,
             "race_id": "5f6752053399a3987452fe93a83727ef20b6986bb53df1b8ebd3a1c0dba2f192"
+        },
+        {
+            "date": "2026-11-15T19:33:09",
+            "elo": 956,
+            "elo_before": 971,
+            "change": -15,
+            "track": "",
+            "finish": 4,
+            "race_id": "669af468baeab0ed75082b9386f8664aac50239ce9ef0e9b6e89e39e2c11ab36"
         }
     ],
     "Nico Rosbot": [
@@ -7376,6 +7403,17 @@
             "track": "",
             "finish": 3,
             "race_id": "09d00e5ba21f5670774f5aadded8ee1dfd9ba5c73ba19c28662abce90b4a7b1f"
+        }
+    ],
+    "Honza Ehl": [
+        {
+            "date": "2026-11-15T19:33:09",
+            "elo": 1004,
+            "elo_before": 1000,
+            "change": 4,
+            "track": "",
+            "finish": 2,
+            "race_id": "669af468baeab0ed75082b9386f8664aac50239ce9ef0e9b6e89e39e2c11ab36"
         }
     ]
 }

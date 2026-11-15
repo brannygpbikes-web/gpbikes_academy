@@ -294,10 +294,10 @@
         "podiums": 6
     },
     "will 77": {
-        "elo": 977,
+        "elo": 972,
         "wins": 1,
-        "races": 10,
-        "podiums": 2
+        "races": 11,
+        "podiums": 3
     },
     "alexiis_1622": {
         "elo": 998,
@@ -510,10 +510,10 @@
         "podiums": 1
     },
     "EgoMan": {
-        "elo": 979,
-        "wins": 3,
-        "races": 20,
-        "podiums": 7
+        "elo": 995,
+        "wins": 4,
+        "races": 21,
+        "podiums": 8
     },
     "MARCO": {
         "elo": 1038,
@@ -978,9 +978,9 @@
         "podiums": 0
     },
     "Zachy12345": {
-        "elo": 971,
+        "elo": 956,
         "wins": 0,
-        "races": 3,
+        "races": 4,
         "podiums": 1
     },
     "Nico Rosbot": {
@@ -991,6 +991,12 @@
     },
     "Diego Pugnale": {
         "elo": 1000,
+        "wins": 0,
+        "races": 1,
+        "podiums": 1
+    },
+    "Honza Ehl": {
+        "elo": 1004,
         "wins": 0,
         "races": 1,
         "podiums": 1

@@ -418,9 +418,9 @@
         "grade": "C"
     },
     "will 77": {
-        "safety": 102,
-        "races": 10,
-        "contacts": 28,
+        "safety": 100,
+        "races": 11,
+        "contacts": 29,
         "clean_races": 4,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -714,10 +714,10 @@
         "grade": "B"
     },
     "EgoMan": {
-        "safety": 129,
-        "races": 22,
+        "safety": 134,
+        "races": 23,
         "contacts": 42,
-        "clean_races": 7,
+        "clean_races": 8,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     },
@@ -1362,12 +1362,12 @@
         "grade": "C"
     },
     "Zachy12345": {
-        "safety": 122,
-        "races": 3,
+        "safety": 127,
+        "races": 4,
         "contacts": 4,
-        "clean_races": 1,
+        "clean_races": 2,
         "large_lobby_clean_streak": 0,
-        "grade": "C"
+        "grade": "B"
     },
     "Nico Rosbot": {
         "safety": 130,
@@ -1389,6 +1389,14 @@
         "safety": 121,
         "races": 1,
         "contacts": 2,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "C"
+    },
+    "Honza Ehl": {
+        "safety": 123,
+        "races": 1,
+        "contacts": 1,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
