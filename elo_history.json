@@ -2091,6 +2091,15 @@
             "track": "",
             "finish": 2,
             "race_id": "882f2cc2013af91abd37331cc5bb6d9dea2fec2729746bd2407c4dbeaba09f8a"
+        },
+        {
+            "date": "2026-11-15T15:30:16",
+            "elo": 1003,
+            "elo_before": 1013,
+            "change": -10,
+            "track": "",
+            "finish": 2,
+            "race_id": "4616ae34b5988dd8ff53cb97474b9deb88c2651e4c8dc88ce67a757e26669098"
         }
     ],
     "xXxDeadpoolxXx": [
@@ -6721,6 +6730,17 @@
             "track": "",
             "finish": 4,
             "race_id": "0d77a6b281071d38f1f4727a45807aebd95db3b0e5e2aac4152e4528de5dc417"
+        }
+    ],
+    "tobimayer29 on ig": [
+        {
+            "date": "2026-11-15T15:30:16",
+            "elo": 1010,
+            "elo_before": 1000,
+            "change": 10,
+            "track": "",
+            "finish": 1,
+            "race_id": "4616ae34b5988dd8ff53cb97474b9deb88c2651e4c8dc88ce67a757e26669098"
         }
     ]
 }

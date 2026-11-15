@@ -174,10 +174,10 @@
         "podiums": 2
     },
     "AngeLo": {
-        "elo": 1013,
+        "elo": 1003,
         "wins": 2,
-        "races": 8,
-        "podiums": 6
+        "races": 9,
+        "podiums": 7
     },
     "xXxDeadpoolxXx": {
         "elo": 997,
@@ -946,5 +946,11 @@
         "wins": 0,
         "races": 1,
         "podiums": 0
+    },
+    "tobimayer29 on ig": {
+        "elo": 1010,
+        "wins": 1,
+        "races": 1,
+        "podiums": 1
     }
 }
