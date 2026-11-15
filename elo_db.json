@@ -186,10 +186,10 @@
         "podiums": 1
     },
     "sergioo14": {
-        "elo": 955,
+        "elo": 952,
         "wins": 2,
-        "races": 21,
-        "podiums": 9
+        "races": 22,
+        "podiums": 10
     },
     "rayzenev": {
         "elo": 981,
@@ -786,10 +786,10 @@
         "podiums": 0
     },
     "juancarloslm02": {
-        "elo": 992,
-        "wins": 0,
-        "races": 2,
-        "podiums": 1
+        "elo": 1008,
+        "wins": 1,
+        "races": 3,
+        "podiums": 2
     },
     "arifinekohartono": {
         "elo": 994,
@@ -948,8 +948,14 @@
         "podiums": 0
     },
     "tobimayer29 on ig": {
-        "elo": 1010,
+        "elo": 993,
         "wins": 1,
+        "races": 2,
+        "podiums": 1
+    },
+    "Sergi04ab": {
+        "elo": 1004,
+        "wins": 0,
         "races": 1,
         "podiums": 1
     }

@@ -251,7 +251,7 @@
     },
     "AngeLo": {
         "safety": 119,
-        "races": 9,
+        "races": 10,
         "contacts": 11,
         "clean_races": 4,
         "large_lobby_clean_streak": 0,
@@ -266,9 +266,9 @@
         "grade": "B"
     },
     "sergioo14": {
-        "safety": 54,
-        "races": 24,
-        "contacts": 66,
+        "safety": 50,
+        "races": 25,
+        "contacts": 68,
         "clean_races": 1,
         "large_lobby_clean_streak": 0,
         "grade": "E"
@@ -1106,11 +1106,11 @@
         "grade": "C"
     },
     "juancarloslm02": {
-        "safety": 146,
-        "races": 3,
-        "contacts": 2,
+        "safety": 144,
+        "races": 4,
+        "contacts": 3,
         "clean_races": 1,
-        "large_lobby_clean_streak": 1,
+        "large_lobby_clean_streak": 0,
         "grade": "B"
     },
     "arifinekohartono": {
@@ -1322,11 +1322,19 @@
         "grade": "B"
     },
     "tobimayer29 on ig": {
-        "safety": 122,
-        "races": 1,
-        "contacts": 1,
+        "safety": 120,
+        "races": 2,
+        "contacts": 2,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
+    },
+    "Sergi04ab": {
+        "safety": 130,
+        "races": 1,
+        "contacts": 0,
+        "clean_races": 1,
+        "large_lobby_clean_streak": 0,
+        "grade": "B"
     }
 }
