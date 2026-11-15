@@ -72,10 +72,10 @@
         "podiums": 7
     },
     "tacticworks": {
-        "elo": 1030,
-        "wins": 1,
-        "races": 7,
-        "podiums": 6
+        "elo": 1044,
+        "wins": 2,
+        "races": 8,
+        "podiums": 7
     },
     "Ricoway46": {
         "elo": 1014,
@@ -816,10 +816,10 @@
         "podiums": 3
     },
     "skalf": {
-        "elo": 987,
+        "elo": 993,
         "wins": 0,
-        "races": 2,
-        "podiums": 0
+        "races": 3,
+        "podiums": 1
     },
     "vNoHxpe_KJ45": {
         "elo": 979,
@@ -960,9 +960,9 @@
         "podiums": 1
     },
     "Yuri Semenov": {
-        "elo": 980,
+        "elo": 965,
         "wins": 0,
-        "races": 1,
+        "races": 2,
         "podiums": 0
     },
     "victorcubeles": {
@@ -976,5 +976,11 @@
         "wins": 0,
         "races": 1,
         "podiums": 0
+    },
+    "Zachy12345": {
+        "elo": 995,
+        "wins": 0,
+        "races": 1,
+        "podiums": 1
     }
 }

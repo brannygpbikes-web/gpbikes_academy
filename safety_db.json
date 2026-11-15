@@ -114,10 +114,10 @@
         "grade": "B"
     },
     "tacticworks": {
-        "safety": 141,
-        "races": 7,
+        "safety": 146,
+        "races": 8,
         "contacts": 4,
-        "clean_races": 3,
+        "clean_races": 4,
         "large_lobby_clean_streak": 1,
         "grade": "B"
     },
@@ -642,9 +642,9 @@
         "grade": "B"
     },
     "skalf": {
-        "safety": 146,
-        "races": 3,
-        "contacts": 2,
+        "safety": 144,
+        "races": 4,
+        "contacts": 3,
         "clean_races": 1,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -1338,12 +1338,12 @@
         "grade": "B"
     },
     "Yuri Semenov": {
-        "safety": 125,
-        "races": 1,
-        "contacts": 0,
+        "safety": 123,
+        "races": 2,
+        "contacts": 1,
         "clean_races": 1,
-        "large_lobby_clean_streak": 1,
-        "grade": "B"
+        "large_lobby_clean_streak": 0,
+        "grade": "C"
     },
     "Mario_29": {
         "safety": 125,
@@ -1357,6 +1357,14 @@
         "safety": 121,
         "races": 1,
         "contacts": 4,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "C"
+    },
+    "Zachy12345": {
+        "safety": 123,
+        "races": 1,
+        "contacts": 1,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"

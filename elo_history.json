@@ -1211,6 +1211,15 @@
             "track": "",
             "finish": 2,
             "race_id": "6d2192a6e0ac42f0cdf243a6ebfb2adda721901bccda545c7b341703d15a924f"
+        },
+        {
+            "date": "2026-11-15T17:46:56",
+            "elo": 1044,
+            "elo_before": 1030,
+            "change": 14,
+            "track": "",
+            "finish": 1,
+            "race_id": "379c10705a1d10cc8b3bcf146b4aa06f6361e989dcaf5199f5990271305ca9cf"
         }
     ],
     "Ricoway46": [
@@ -6679,6 +6688,15 @@
             "track": "",
             "finish": 4,
             "race_id": "81200a614f0ef4e4dba6fd9056acbd99954ef5cbb7be4db16f7752b267d7178c"
+        },
+        {
+            "date": "2026-11-15T17:46:56",
+            "elo": 993,
+            "elo_before": 987,
+            "change": 6,
+            "track": "",
+            "finish": 2,
+            "race_id": "379c10705a1d10cc8b3bcf146b4aa06f6361e989dcaf5199f5990271305ca9cf"
         }
     ],
     "vNoHxpe_KJ45": [
@@ -7150,6 +7168,15 @@
             "track": "",
             "finish": 11,
             "race_id": "e25bb0782f2ec5930ff9185293a5499a13eabebbda982fd42815ca2ab6899e12"
+        },
+        {
+            "date": "2026-11-15T17:46:56",
+            "elo": 965,
+            "elo_before": 980,
+            "change": -15,
+            "track": "",
+            "finish": 4,
+            "race_id": "379c10705a1d10cc8b3bcf146b4aa06f6361e989dcaf5199f5990271305ca9cf"
         }
     ],
     "victorcubeles": [
@@ -7172,6 +7199,17 @@
             "track": "",
             "finish": 12,
             "race_id": "691fc25c90612b2176586763d10f34d0dbb4d746343860ef5575ba020cf2e4f7"
+        }
+    ],
+    "Zachy12345": [
+        {
+            "date": "2026-11-15T17:46:56",
+            "elo": 995,
+            "elo_before": 1000,
+            "change": -5,
+            "track": "",
+            "finish": 3,
+            "race_id": "379c10705a1d10cc8b3bcf146b4aa06f6361e989dcaf5199f5990271305ca9cf"
         }
     ]
 }
