@@ -12,9 +12,9 @@
         "podiums": 8
     },
     "Miquel_Sinke60": {
-        "elo": 1061,
+        "elo": 1056,
         "wins": 8,
-        "races": 27,
+        "races": 28,
         "podiums": 17
     },
     "Rk_44": {
@@ -138,9 +138,9 @@
         "podiums": 3
     },
     "collinlanger96": {
-        "elo": 953,
+        "elo": 927,
         "wins": 0,
-        "races": 4,
+        "races": 5,
         "podiums": 0
     },
     "Postal": {
@@ -174,9 +174,9 @@
         "podiums": 2
     },
     "AngeLo": {
-        "elo": 1035,
+        "elo": 1027,
         "wins": 3,
-        "races": 10,
+        "races": 11,
         "podiums": 8
     },
     "xXxDeadpoolxXx": {
@@ -186,9 +186,9 @@
         "podiums": 1
     },
     "sergioo14": {
-        "elo": 983,
+        "elo": 975,
         "wins": 2,
-        "races": 23,
+        "races": 24,
         "podiums": 11
     },
     "rayzenev": {
@@ -396,9 +396,9 @@
         "podiums": 1
     },
     "Danislav1746": {
-        "elo": 1064,
+        "elo": 1069,
         "wins": 3,
-        "races": 8,
+        "races": 9,
         "podiums": 5
     },
     "Fick dich Kohlin": {
@@ -696,9 +696,9 @@
         "podiums": 5
     },
     "Karchin278": {
-        "elo": 990,
+        "elo": 965,
         "wins": 1,
-        "races": 4,
+        "races": 5,
         "podiums": 1
     },
     "LucaSennaa": {
@@ -786,10 +786,10 @@
         "podiums": 0
     },
     "juancarloslm02": {
-        "elo": 1027,
+        "elo": 1047,
         "wins": 1,
-        "races": 4,
-        "podiums": 3
+        "races": 5,
+        "podiums": 4
     },
     "arifinekohartono": {
         "elo": 994,
@@ -810,10 +810,10 @@
         "podiums": 1
     },
     "Danny Hinkelmann14": {
-        "elo": 985,
+        "elo": 1014,
         "wins": 0,
-        "races": 2,
-        "podiums": 1
+        "races": 3,
+        "podiums": 2
     },
     "skalf": {
         "elo": 989,
@@ -822,9 +822,9 @@
         "podiums": 0
     },
     "vNoHxpe_KJ45": {
-        "elo": 985,
+        "elo": 971,
         "wins": 0,
-        "races": 2,
+        "races": 3,
         "podiums": 0
     },
     "Bacov": {
@@ -864,9 +864,9 @@
         "podiums": 1
     },
     "foxerboxer": {
-        "elo": 1040,
+        "elo": 1053,
         "wins": 1,
-        "races": 3,
+        "races": 4,
         "podiums": 3
     },
     "JAR JAR BINKS": {
@@ -906,9 +906,9 @@
         "podiums": 0
     },
     "fisherman": {
-        "elo": 1015,
+        "elo": 1020,
         "wins": 1,
-        "races": 2,
+        "races": 3,
         "podiums": 2
     },
     "Smurruf": {
@@ -948,15 +948,21 @@
         "podiums": 0
     },
     "tobimayer29 on ig": {
-        "elo": 993,
-        "wins": 1,
-        "races": 2,
-        "podiums": 1
+        "elo": 1027,
+        "wins": 2,
+        "races": 3,
+        "podiums": 2
     },
     "Sergi04ab": {
         "elo": 1004,
         "wins": 0,
         "races": 2,
         "podiums": 1
+    },
+    "Yuri Semenov": {
+        "elo": 980,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
     }
 }

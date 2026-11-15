@@ -426,6 +426,15 @@
             "track": "",
             "finish": 5,
             "race_id": "e3011d7afbb655e38bc88cdbd96cf2228a06c25d18e457a21a8ae9400f3f28c4"
+        },
+        {
+            "date": "2026-11-15T16:38:44",
+            "elo": 1056,
+            "elo_before": 1061,
+            "change": -5,
+            "track": "",
+            "finish": 7,
+            "race_id": "e25bb0782f2ec5930ff9185293a5499a13eabebbda982fd42815ca2ab6899e12"
         }
     ],
     "Rk_44": [
@@ -1908,6 +1917,15 @@
             "track": "",
             "finish": 11,
             "race_id": "e3011d7afbb655e38bc88cdbd96cf2228a06c25d18e457a21a8ae9400f3f28c4"
+        },
+        {
+            "date": "2026-11-15T16:38:44",
+            "elo": 927,
+            "elo_before": 953,
+            "change": -26,
+            "track": "",
+            "finish": 13,
+            "race_id": "e25bb0782f2ec5930ff9185293a5499a13eabebbda982fd42815ca2ab6899e12"
         }
     ],
     "Postal": [
@@ -2127,6 +2145,15 @@
             "track": "",
             "finish": 1,
             "race_id": "e3011d7afbb655e38bc88cdbd96cf2228a06c25d18e457a21a8ae9400f3f28c4"
+        },
+        {
+            "date": "2026-11-15T16:38:44",
+            "elo": 1027,
+            "elo_before": 1035,
+            "change": -8,
+            "track": "",
+            "finish": 8,
+            "race_id": "e25bb0782f2ec5930ff9185293a5499a13eabebbda982fd42815ca2ab6899e12"
         }
     ],
     "xXxDeadpoolxXx": [
@@ -2347,6 +2374,15 @@
             "track": "",
             "finish": 2,
             "race_id": "e3011d7afbb655e38bc88cdbd96cf2228a06c25d18e457a21a8ae9400f3f28c4"
+        },
+        {
+            "date": "2026-11-15T16:38:44",
+            "elo": 975,
+            "elo_before": 983,
+            "change": -8,
+            "track": "",
+            "finish": 9,
+            "race_id": "e25bb0782f2ec5930ff9185293a5499a13eabebbda982fd42815ca2ab6899e12"
         }
     ],
     "rayzenev": [
@@ -4289,6 +4325,15 @@
             "track": "",
             "finish": 4,
             "race_id": "e3011d7afbb655e38bc88cdbd96cf2228a06c25d18e457a21a8ae9400f3f28c4"
+        },
+        {
+            "date": "2026-11-15T16:38:44",
+            "elo": 1069,
+            "elo_before": 1064,
+            "change": 5,
+            "track": "",
+            "finish": 5,
+            "race_id": "e25bb0782f2ec5930ff9185293a5499a13eabebbda982fd42815ca2ab6899e12"
         }
     ],
     "Fick dich Kohlin": [
@@ -5964,6 +6009,15 @@
             "track": "",
             "finish": 8,
             "race_id": "e3011d7afbb655e38bc88cdbd96cf2228a06c25d18e457a21a8ae9400f3f28c4"
+        },
+        {
+            "date": "2026-11-15T16:38:44",
+            "elo": 965,
+            "elo_before": 990,
+            "change": -25,
+            "track": "",
+            "finish": 12,
+            "race_id": "e25bb0782f2ec5930ff9185293a5499a13eabebbda982fd42815ca2ab6899e12"
         }
     ],
     "LucaSennaa": [
@@ -6399,6 +6453,15 @@
             "track": "",
             "finish": 3,
             "race_id": "e3011d7afbb655e38bc88cdbd96cf2228a06c25d18e457a21a8ae9400f3f28c4"
+        },
+        {
+            "date": "2026-11-15T16:38:44",
+            "elo": 1047,
+            "elo_before": 1027,
+            "change": 20,
+            "track": "",
+            "finish": 3,
+            "race_id": "e25bb0782f2ec5930ff9185293a5499a13eabebbda982fd42815ca2ab6899e12"
         }
     ],
     "arifinekohartono": [
@@ -6470,6 +6533,15 @@
             "track": "",
             "finish": 10,
             "race_id": "e3011d7afbb655e38bc88cdbd96cf2228a06c25d18e457a21a8ae9400f3f28c4"
+        },
+        {
+            "date": "2026-11-15T16:38:44",
+            "elo": 1014,
+            "elo_before": 985,
+            "change": 29,
+            "track": "",
+            "finish": 2,
+            "race_id": "e25bb0782f2ec5930ff9185293a5499a13eabebbda982fd42815ca2ab6899e12"
         }
     ],
     "skalf": [
@@ -6501,6 +6573,15 @@
             "track": "",
             "finish": 11,
             "race_id": "045654467db37373ff1b17a53505b124fc9dd71817bffd59f5cabad0f3157204"
+        },
+        {
+            "date": "2026-11-15T16:38:44",
+            "elo": 971,
+            "elo_before": 985,
+            "change": -14,
+            "track": "",
+            "finish": 10,
+            "race_id": "e25bb0782f2ec5930ff9185293a5499a13eabebbda982fd42815ca2ab6899e12"
         }
     ],
     "Bacov": [
@@ -6614,6 +6695,15 @@
             "track": "",
             "finish": 1,
             "race_id": "dd75439f6b659eba5c7ba733552275ace452ee0606b0fcb028417c8196f6439d"
+        },
+        {
+            "date": "2026-11-15T16:38:44",
+            "elo": 1053,
+            "elo_before": 1040,
+            "change": 13,
+            "track": "",
+            "finish": 4,
+            "race_id": "e25bb0782f2ec5930ff9185293a5499a13eabebbda982fd42815ca2ab6899e12"
         }
     ],
     "JAR JAR BINKS": [
@@ -6763,6 +6853,15 @@
             "track": "",
             "finish": 1,
             "race_id": "c742f1464dbe14ac80193243f5a69ba729eceb7fbadc56c963615960f3c44813"
+        },
+        {
+            "date": "2026-11-15T16:38:44",
+            "elo": 1020,
+            "elo_before": 1015,
+            "change": 5,
+            "track": "",
+            "finish": 6,
+            "race_id": "e25bb0782f2ec5930ff9185293a5499a13eabebbda982fd42815ca2ab6899e12"
         }
     ],
     "Smurruf": [
@@ -6858,6 +6957,15 @@
             "track": "",
             "finish": 4,
             "race_id": "9e48a686f452690aa51b8085731cd1fc5a683e6a16c029ec1806062d08054e45"
+        },
+        {
+            "date": "2026-11-15T16:38:44",
+            "elo": 1027,
+            "elo_before": 993,
+            "change": 34,
+            "track": "",
+            "finish": 1,
+            "race_id": "e25bb0782f2ec5930ff9185293a5499a13eabebbda982fd42815ca2ab6899e12"
         }
     ],
     "Sergi04ab": [
@@ -6878,6 +6986,17 @@
             "track": "",
             "finish": 6,
             "race_id": "e3011d7afbb655e38bc88cdbd96cf2228a06c25d18e457a21a8ae9400f3f28c4"
+        }
+    ],
+    "Yuri Semenov": [
+        {
+            "date": "2026-11-15T16:38:44",
+            "elo": 980,
+            "elo_before": 1000,
+            "change": -20,
+            "track": "",
+            "finish": 11,
+            "race_id": "e25bb0782f2ec5930ff9185293a5499a13eabebbda982fd42815ca2ab6899e12"
         }
     ]
 }
