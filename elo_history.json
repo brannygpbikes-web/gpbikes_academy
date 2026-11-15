@@ -2473,6 +2473,15 @@
             "track": "",
             "finish": 3,
             "race_id": "8f8365adf65cb33fd2bf39ca87d0bbdbceee7131b24f3640d0847d4f4f6ea6e5"
+        },
+        {
+            "date": "2026-11-15T18:51:45",
+            "elo": 989,
+            "elo_before": 972,
+            "change": 17,
+            "track": "",
+            "finish": 1,
+            "race_id": "09d00e5ba21f5670774f5aadded8ee1dfd9ba5c73ba19c28662abce90b4a7b1f"
         }
     ],
     "rayzenev": [
@@ -4974,6 +4983,15 @@
             "track": "",
             "finish": 2,
             "race_id": "8eafee9cf59472ba474447e5d528798662ba953261874ddf841a232fb4636430"
+        },
+        {
+            "date": "2026-11-15T18:51:45",
+            "elo": 1019,
+            "elo_before": 1012,
+            "change": 7,
+            "track": "",
+            "finish": 2,
+            "race_id": "09d00e5ba21f5670774f5aadded8ee1dfd9ba5c73ba19c28662abce90b4a7b1f"
         }
     ],
     "El-Ninety-Nine": [
@@ -5191,6 +5209,15 @@
             "track": "",
             "finish": 4,
             "race_id": "8f8365adf65cb33fd2bf39ca87d0bbdbceee7131b24f3640d0847d4f4f6ea6e5"
+        },
+        {
+            "date": "2026-11-15T18:51:45",
+            "elo": 978,
+            "elo_before": 986,
+            "change": -8,
+            "track": "",
+            "finish": 4,
+            "race_id": "09d00e5ba21f5670774f5aadded8ee1dfd9ba5c73ba19c28662abce90b4a7b1f"
         }
     ],
     "MARCO": [
@@ -6751,6 +6778,15 @@
             "track": "",
             "finish": 2,
             "race_id": "379c10705a1d10cc8b3bcf146b4aa06f6361e989dcaf5199f5990271305ca9cf"
+        },
+        {
+            "date": "2026-11-15T18:51:45",
+            "elo": 977,
+            "elo_before": 993,
+            "change": -16,
+            "track": "",
+            "finish": 5,
+            "race_id": "09d00e5ba21f5670774f5aadded8ee1dfd9ba5c73ba19c28662abce90b4a7b1f"
         }
     ],
     "vNoHxpe_KJ45": [
@@ -7284,6 +7320,17 @@
             "track": "",
             "finish": 2,
             "race_id": "6b98d597ca739754bae2045049226f346a00453fbe761b44e176149c8222a56b"
+        }
+    ],
+    "Diego Pugnale": [
+        {
+            "date": "2026-11-15T18:51:45",
+            "elo": 1000,
+            "elo_before": 1000,
+            "change": 0,
+            "track": "",
+            "finish": 3,
+            "race_id": "09d00e5ba21f5670774f5aadded8ee1dfd9ba5c73ba19c28662abce90b4a7b1f"
         }
     ]
 }

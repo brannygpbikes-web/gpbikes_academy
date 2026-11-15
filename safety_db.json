@@ -266,9 +266,9 @@
         "grade": "B"
     },
     "sergioo14": {
-        "safety": 67,
-        "races": 28,
-        "contacts": 71,
+        "safety": 65,
+        "races": 29,
+        "contacts": 72,
         "clean_races": 3,
         "large_lobby_clean_streak": 0,
         "grade": "E"
@@ -483,7 +483,7 @@
     },
     "Gonzalo Molina": {
         "safety": 97,
-        "races": 7,
+        "races": 8,
         "contacts": 18,
         "clean_races": 1,
         "large_lobby_clean_streak": 0,
@@ -642,9 +642,9 @@
         "grade": "B"
     },
     "skalf": {
-        "safety": 144,
-        "races": 4,
-        "contacts": 3,
+        "safety": 142,
+        "races": 5,
+        "contacts": 4,
         "clean_races": 1,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -658,12 +658,12 @@
         "grade": "A"
     },
     "izan curia": {
-        "safety": 126,
-        "races": 3,
-        "contacts": 9,
+        "safety": 124,
+        "races": 4,
+        "contacts": 10,
         "clean_races": 1,
         "large_lobby_clean_streak": 0,
-        "grade": "B"
+        "grade": "C"
     },
     "vat1028": {
         "safety": 121,
@@ -714,9 +714,9 @@
         "grade": "B"
     },
     "EgoMan": {
-        "safety": 141,
-        "races": 20,
-        "contacts": 36,
+        "safety": 139,
+        "races": 21,
+        "contacts": 37,
         "clean_races": 7,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -1384,5 +1384,13 @@
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "B"
+    },
+    "Diego Pugnale": {
+        "safety": 121,
+        "races": 1,
+        "contacts": 2,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "C"
     }
 }
