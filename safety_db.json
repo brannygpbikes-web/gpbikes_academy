@@ -1,11 +1,11 @@
 {
     "Miquel_Sinke60": {
-        "safety": 107,
-        "races": 29,
-        "contacts": 54,
+        "safety": 95,
+        "races": 30,
+        "contacts": 60,
         "clean_races": 9,
-        "large_lobby_clean_streak": 1,
-        "grade": "C"
+        "large_lobby_clean_streak": 0,
+        "grade": "D"
     },
     "branny": {
         "safety": 88,
@@ -250,9 +250,9 @@
         "grade": "B"
     },
     "AngeLo": {
-        "safety": 114,
-        "races": 13,
-        "contacts": 16,
+        "safety": 110,
+        "races": 14,
+        "contacts": 18,
         "clean_races": 5,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -642,11 +642,11 @@
         "grade": "B"
     },
     "skalf": {
-        "safety": 150,
-        "races": 2,
-        "contacts": 0,
+        "safety": 146,
+        "races": 3,
+        "contacts": 2,
         "clean_races": 1,
-        "large_lobby_clean_streak": 1,
+        "large_lobby_clean_streak": 0,
         "grade": "B"
     },
     "Nuno": {
@@ -786,9 +786,9 @@
         "grade": "C"
     },
     "Spr0cket": {
-        "safety": 114,
-        "races": 6,
-        "contacts": 11,
+        "safety": 110,
+        "races": 7,
+        "contacts": 13,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -1130,9 +1130,9 @@
         "grade": "B"
     },
     "Danny Hinkelmann14": {
-        "safety": 112,
-        "races": 4,
-        "contacts": 13,
+        "safety": 106,
+        "races": 5,
+        "contacts": 16,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -1154,9 +1154,9 @@
         "grade": "B"
     },
     "vNoHxpe_KJ45": {
-        "safety": 116,
-        "races": 3,
-        "contacts": 9,
+        "safety": 106,
+        "races": 4,
+        "contacts": 14,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
