@@ -714,12 +714,12 @@
         "grade": "B"
     },
     "EgoMan": {
-        "safety": 134,
-        "races": 23,
-        "contacts": 42,
+        "safety": 107,
+        "races": 24,
+        "contacts": 51,
         "clean_races": 8,
         "large_lobby_clean_streak": 0,
-        "grade": "B"
+        "grade": "C"
     },
     "TheJr": {
         "safety": 125,
@@ -1400,5 +1400,13 @@
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
+    },
+    "Tonton_flingueur": {
+        "safety": 98,
+        "races": 1,
+        "contacts": 9,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "D"
     }
 }

@@ -5263,6 +5263,15 @@
             "track": "",
             "finish": 1,
             "race_id": "669af468baeab0ed75082b9386f8664aac50239ce9ef0e9b6e89e39e2c11ab36"
+        },
+        {
+            "date": "2026-11-16T18:30:20",
+            "elo": 986,
+            "elo_before": 995,
+            "change": -9,
+            "track": "",
+            "finish": 2,
+            "race_id": "4f1f1452dfeb4a25a5e2dab120ca8038c0f852fdc0fa09d1a8d0136f0d7254d7"
         }
     ],
     "MARCO": [
@@ -7414,6 +7423,17 @@
             "track": "",
             "finish": 2,
             "race_id": "669af468baeab0ed75082b9386f8664aac50239ce9ef0e9b6e89e39e2c11ab36"
+        }
+    ],
+    "Tonton_flingueur": [
+        {
+            "date": "2026-11-16T18:30:20",
+            "elo": 1009,
+            "elo_before": 1000,
+            "change": 9,
+            "track": "",
+            "finish": 1,
+            "race_id": "4f1f1452dfeb4a25a5e2dab120ca8038c0f852fdc0fa09d1a8d0136f0d7254d7"
         }
     ]
 }

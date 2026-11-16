@@ -510,10 +510,10 @@
         "podiums": 1
     },
     "EgoMan": {
-        "elo": 995,
+        "elo": 986,
         "wins": 4,
-        "races": 21,
-        "podiums": 8
+        "races": 22,
+        "podiums": 9
     },
     "MARCO": {
         "elo": 1038,
@@ -998,6 +998,12 @@
     "Honza Ehl": {
         "elo": 1004,
         "wins": 0,
+        "races": 1,
+        "podiums": 1
+    },
+    "Tonton_flingueur": {
+        "elo": 1009,
+        "wins": 1,
         "races": 1,
         "podiums": 1
     }
