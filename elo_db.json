@@ -12,10 +12,10 @@
         "podiums": 8
     },
     "Miquel_Sinke60": {
-        "elo": 1083,
-        "wins": 8,
-        "races": 30,
-        "podiums": 19
+        "elo": 1090,
+        "wins": 9,
+        "races": 31,
+        "podiums": 20
     },
     "Rk_44": {
         "elo": 881,
@@ -1004,6 +1004,12 @@
     "Tonton_flingueur": {
         "elo": 1009,
         "wins": 1,
+        "races": 1,
+        "podiums": 1
+    },
+    "alvaroharo.093": {
+        "elo": 993,
+        "wins": 0,
         "races": 1,
         "podiums": 1
     }

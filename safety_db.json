@@ -1,11 +1,11 @@
 {
     "Miquel_Sinke60": {
-        "safety": 95,
-        "races": 30,
+        "safety": 100,
+        "races": 31,
         "contacts": 60,
-        "clean_races": 9,
+        "clean_races": 10,
         "large_lobby_clean_streak": 0,
-        "grade": "D"
+        "grade": "C"
     },
     "branny": {
         "safety": 88,
@@ -714,12 +714,12 @@
         "grade": "B"
     },
     "EgoMan": {
-        "safety": 107,
-        "races": 24,
-        "contacts": 51,
+        "safety": 99,
+        "races": 25,
+        "contacts": 55,
         "clean_races": 8,
         "large_lobby_clean_streak": 0,
-        "grade": "C"
+        "grade": "D"
     },
     "TheJr": {
         "safety": 125,
@@ -803,7 +803,7 @@
     },
     "Dimitry": {
         "safety": 152,
-        "races": 6,
+        "races": 7,
         "contacts": 5,
         "clean_races": 3,
         "large_lobby_clean_streak": 0,
@@ -1403,10 +1403,18 @@
     },
     "Tonton_flingueur": {
         "safety": 98,
-        "races": 1,
+        "races": 2,
         "contacts": 9,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "D"
+    },
+    "alvaroharo.093": {
+        "safety": 117,
+        "races": 1,
+        "contacts": 4,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "C"
     }
 }

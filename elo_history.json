@@ -453,6 +453,15 @@
             "track": "",
             "finish": 2,
             "race_id": "81200a614f0ef4e4dba6fd9056acbd99954ef5cbb7be4db16f7752b267d7178c"
+        },
+        {
+            "date": "2026-11-16T18:53:24",
+            "elo": 1090,
+            "elo_before": 1083,
+            "change": 7,
+            "track": "",
+            "finish": 1,
+            "race_id": "c4b8686ed684f7935904348d1b5f1e54cebe0677cfd93a2270091dfada3fd055"
         }
     ],
     "Rk_44": [
@@ -7434,6 +7443,17 @@
             "track": "",
             "finish": 1,
             "race_id": "4f1f1452dfeb4a25a5e2dab120ca8038c0f852fdc0fa09d1a8d0136f0d7254d7"
+        }
+    ],
+    "alvaroharo.093": [
+        {
+            "date": "2026-11-16T18:53:24",
+            "elo": 993,
+            "elo_before": 1000,
+            "change": -7,
+            "track": "",
+            "finish": 2,
+            "race_id": "c4b8686ed684f7935904348d1b5f1e54cebe0677cfd93a2270091dfada3fd055"
         }
     ]
 }
