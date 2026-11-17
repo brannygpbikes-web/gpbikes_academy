@@ -60,10 +60,10 @@
         "podiums": 5
     },
     "filipknigge20": {
-        "elo": 1106,
-        "wins": 7,
-        "races": 14,
-        "podiums": 13
+        "elo": 1129,
+        "wins": 8,
+        "races": 15,
+        "podiums": 14
     },
     "ShaiGP": {
         "elo": 1030,
@@ -138,9 +138,9 @@
         "podiums": 3
     },
     "collinlanger96": {
-        "elo": 919,
+        "elo": 895,
         "wins": 0,
-        "races": 10,
+        "races": 11,
         "podiums": 2
     },
     "Postal": {
@@ -258,9 +258,9 @@
         "podiums": 0
     },
     "Gixnni.": {
-        "elo": 1008,
+        "elo": 997,
         "wins": 1,
-        "races": 10,
+        "races": 11,
         "podiums": 3
     },
     "A.Arenas": {
@@ -288,10 +288,10 @@
         "podiums": 0
     },
     "Emir Eyupoglu": {
-        "elo": 1019,
+        "elo": 1039,
         "wins": 4,
-        "races": 14,
-        "podiums": 7
+        "races": 15,
+        "podiums": 8
     },
     "will 77": {
         "elo": 972,
@@ -342,10 +342,10 @@
         "podiums": 0
     },
     "Gonzalo Molina": {
-        "elo": 1060,
+        "elo": 1082,
         "wins": 4,
-        "races": 7,
-        "podiums": 6
+        "races": 8,
+        "podiums": 7
     },
     "Lou": {
         "elo": 1007,
@@ -522,9 +522,9 @@
         "podiums": 4
     },
     "Dani": {
-        "elo": 990,
+        "elo": 1002,
         "wins": 0,
-        "races": 2,
+        "races": 3,
         "podiums": 1
     },
     "AITORGP": {
@@ -540,9 +540,9 @@
         "podiums": 1
     },
     "Maximo Giro": {
-        "elo": 1029,
+        "elo": 1027,
         "wins": 0,
-        "races": 6,
+        "races": 7,
         "podiums": 2
     },
     "Riccardo": {
@@ -684,9 +684,9 @@
         "podiums": 2
     },
     "alejandroo226": {
-        "elo": 1000,
+        "elo": 1006,
         "wins": 0,
-        "races": 4,
+        "races": 5,
         "podiums": 2
     },
     "Raceboi95": {
@@ -762,9 +762,9 @@
         "podiums": 0
     },
     "BOMBOCLATT": {
-        "elo": 980,
+        "elo": 977,
         "wins": 0,
-        "races": 4,
+        "races": 5,
         "podiums": 0
     },
     "TITO": {
@@ -810,9 +810,9 @@
         "podiums": 1
     },
     "Danny Hinkelmann14": {
-        "elo": 1069,
+        "elo": 1079,
         "wins": 1,
-        "races": 8,
+        "races": 9,
         "podiums": 6
     },
     "skalf": {
@@ -978,9 +978,9 @@
         "podiums": 0
     },
     "Zachy12345": {
-        "elo": 928,
+        "elo": 909,
         "wins": 0,
-        "races": 6,
+        "races": 7,
         "podiums": 1
     },
     "Nico Rosbot": {
@@ -1050,9 +1050,9 @@
         "podiums": 0
     },
     "PigroPotatoes": {
-        "elo": 985,
+        "elo": 966,
         "wins": 0,
-        "races": 2,
+        "races": 3,
         "podiums": 0
     },
     "Carlos_mr": {
@@ -1060,5 +1060,11 @@
         "wins": 0,
         "races": 1,
         "podiums": 1
+    },
+    "Fury of Energy": {
+        "elo": 985,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
     }
 }

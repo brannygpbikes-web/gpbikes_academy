@@ -98,9 +98,9 @@
         "grade": "C"
     },
     "filipknigge20": {
-        "safety": 177,
-        "races": 14,
-        "contacts": 13,
+        "safety": 171,
+        "races": 15,
+        "contacts": 19,
         "clean_races": 7,
         "large_lobby_clean_streak": 0,
         "grade": "A"
@@ -178,9 +178,9 @@
         "grade": "C"
     },
     "collinlanger96": {
-        "safety": 90,
-        "races": 10,
-        "contacts": 27,
+        "safety": 88,
+        "races": 11,
+        "contacts": 29,
         "clean_races": 3,
         "large_lobby_clean_streak": 0,
         "grade": "D"
@@ -386,9 +386,9 @@
         "grade": "B"
     },
     "Gixnni.": {
-        "safety": 75,
-        "races": 10,
-        "contacts": 40,
+        "safety": 72,
+        "races": 11,
+        "contacts": 43,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "D"
@@ -410,9 +410,9 @@
         "grade": "C"
     },
     "Emir Eyupoglu": {
-        "safety": 91,
-        "races": 14,
-        "contacts": 30,
+        "safety": 87,
+        "races": 15,
+        "contacts": 34,
         "clean_races": 3,
         "large_lobby_clean_streak": 0,
         "grade": "D"
@@ -482,9 +482,9 @@
         "grade": "C"
     },
     "Gonzalo Molina": {
-        "safety": 97,
-        "races": 9,
-        "contacts": 18,
+        "safety": 92,
+        "races": 10,
+        "contacts": 23,
         "clean_races": 1,
         "large_lobby_clean_streak": 0,
         "grade": "D"
@@ -738,9 +738,9 @@
         "grade": "C"
     },
     "Dani": {
-        "safety": 119,
-        "races": 2,
-        "contacts": 4,
+        "safety": 110,
+        "races": 3,
+        "contacts": 13,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -770,11 +770,11 @@
         "grade": "C"
     },
     "Maximo Giro": {
-        "safety": 112,
-        "races": 7,
-        "contacts": 11,
+        "safety": 110,
+        "races": 8,
+        "contacts": 13,
         "clean_races": 1,
-        "large_lobby_clean_streak": 1,
+        "large_lobby_clean_streak": 0,
         "grade": "C"
     },
     "Speedy4RL": {
@@ -947,10 +947,10 @@
     },
     "alejandroo226": {
         "safety": 110,
-        "races": 4,
+        "races": 5,
         "contacts": 10,
-        "clean_races": 0,
-        "large_lobby_clean_streak": 0,
+        "clean_races": 1,
+        "large_lobby_clean_streak": 1,
         "grade": "C"
     },
     "Maximoquiles28": {
@@ -1074,9 +1074,9 @@
         "grade": "B"
     },
     "BOMBOCLATT": {
-        "safety": 124,
-        "races": 4,
-        "contacts": 11,
+        "safety": 122,
+        "races": 5,
+        "contacts": 13,
         "clean_races": 1,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -1130,9 +1130,9 @@
         "grade": "B"
     },
     "Danny Hinkelmann14": {
-        "safety": 106,
-        "races": 9,
-        "contacts": 21,
+        "safety": 103,
+        "races": 10,
+        "contacts": 24,
         "clean_races": 2,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -1362,9 +1362,9 @@
         "grade": "C"
     },
     "Zachy12345": {
-        "safety": 135,
-        "races": 7,
-        "contacts": 5,
+        "safety": 132,
+        "races": 8,
+        "contacts": 8,
         "clean_races": 3,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -1434,11 +1434,11 @@
         "grade": "B"
     },
     "HAVEL": {
-        "safety": 117,
-        "races": 3,
-        "contacts": 5,
+        "safety": 112,
+        "races": 4,
+        "contacts": 10,
         "clean_races": 1,
-        "large_lobby_clean_streak": 1,
+        "large_lobby_clean_streak": 0,
         "grade": "C"
     },
     "revil6745": {
@@ -1466,9 +1466,9 @@
         "grade": "B"
     },
     "PigroPotatoes": {
-        "safety": 115,
-        "races": 2,
-        "contacts": 5,
+        "safety": 111,
+        "races": 3,
+        "contacts": 9,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -1477,6 +1477,14 @@
         "safety": 115,
         "races": 1,
         "contacts": 5,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "C"
+    },
+    "Fury of Energy": {
+        "safety": 122,
+        "races": 1,
+        "contacts": 3,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"

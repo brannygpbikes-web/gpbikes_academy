@@ -1162,6 +1162,15 @@
             "track": "",
             "finish": 1,
             "race_id": "32c0354df054c9e284409f4ec4d72f1051b82a0c3a7399d87f1ffdf13147ca67"
+        },
+        {
+            "date": "2026-11-17T21:44:49",
+            "elo": 1129,
+            "elo_before": 1106,
+            "change": 23,
+            "track": "",
+            "finish": 1,
+            "race_id": "536353f6a2b672071d6f9d9be3351710b57f2d9350ab0be37b4954668f91e702"
         }
     ],
     "ShaiGP": [
@@ -2205,6 +2214,15 @@
             "track": "",
             "finish": 6,
             "race_id": "32c0354df054c9e284409f4ec4d72f1051b82a0c3a7399d87f1ffdf13147ca67"
+        },
+        {
+            "date": "2026-11-17T21:44:49",
+            "elo": 895,
+            "elo_before": 919,
+            "change": -24,
+            "track": "",
+            "finish": 13,
+            "race_id": "536353f6a2b672071d6f9d9be3351710b57f2d9350ab0be37b4954668f91e702"
         }
     ],
     "Postal": [
@@ -3505,6 +3523,15 @@
             "track": "",
             "finish": 8,
             "race_id": "bdc32ef87ac5d30e5b2332b83343978f2b2130fb775e7a2056b8d90b57f2a3ce"
+        },
+        {
+            "date": "2026-11-17T21:44:49",
+            "elo": 997,
+            "elo_before": 1008,
+            "change": -11,
+            "track": "",
+            "finish": 9,
+            "race_id": "536353f6a2b672071d6f9d9be3351710b57f2d9350ab0be37b4954668f91e702"
         }
     ],
     "A.Arenas": [
@@ -3857,6 +3884,15 @@
             "track": "",
             "finish": 2,
             "race_id": "32c0354df054c9e284409f4ec4d72f1051b82a0c3a7399d87f1ffdf13147ca67"
+        },
+        {
+            "date": "2026-11-17T21:44:49",
+            "elo": 1039,
+            "elo_before": 1019,
+            "change": 20,
+            "track": "",
+            "finish": 3,
+            "race_id": "536353f6a2b672071d6f9d9be3351710b57f2d9350ab0be37b4954668f91e702"
         }
     ],
     "will 77": [
@@ -4190,6 +4226,15 @@
             "track": "",
             "finish": 1,
             "race_id": "8f8365adf65cb33fd2bf39ca87d0bbdbceee7131b24f3640d0847d4f4f6ea6e5"
+        },
+        {
+            "date": "2026-11-17T21:44:49",
+            "elo": 1082,
+            "elo_before": 1060,
+            "change": 22,
+            "track": "",
+            "finish": 2,
+            "race_id": "536353f6a2b672071d6f9d9be3351710b57f2d9350ab0be37b4954668f91e702"
         }
     ],
     "Lou": [
@@ -5825,6 +5870,15 @@
             "track": "",
             "finish": 9,
             "race_id": "a8c4ba29a88eb61677c6a8ecd204b89df3b846b659bda599feb2d5cf37ad4950"
+        },
+        {
+            "date": "2026-11-17T21:44:49",
+            "elo": 1002,
+            "elo_before": 990,
+            "change": 12,
+            "track": "",
+            "finish": 5,
+            "race_id": "536353f6a2b672071d6f9d9be3351710b57f2d9350ab0be37b4954668f91e702"
         }
     ],
     "AITORGP": [
@@ -5930,6 +5984,15 @@
             "track": "",
             "finish": 4,
             "race_id": "691fc25c90612b2176586763d10f34d0dbb4d746343860ef5575ba020cf2e4f7"
+        },
+        {
+            "date": "2026-11-17T21:44:49",
+            "elo": 1027,
+            "elo_before": 1029,
+            "change": -2,
+            "track": "",
+            "finish": 7,
+            "race_id": "536353f6a2b672071d6f9d9be3351710b57f2d9350ab0be37b4954668f91e702"
         }
     ],
     "Riccardo": [
@@ -6626,6 +6689,15 @@
             "track": "",
             "finish": 4,
             "race_id": "472627fac182d90bce8101f4f3caa1a4c0d2ac3f84c15a19df3ef41294d58812"
+        },
+        {
+            "date": "2026-11-17T21:44:49",
+            "elo": 1006,
+            "elo_before": 1000,
+            "change": 6,
+            "track": "",
+            "finish": 6,
+            "race_id": "536353f6a2b672071d6f9d9be3351710b57f2d9350ab0be37b4954668f91e702"
         }
     ],
     "Raceboi95": [
@@ -7165,6 +7237,15 @@
             "track": "",
             "finish": 7,
             "race_id": "bdc32ef87ac5d30e5b2332b83343978f2b2130fb775e7a2056b8d90b57f2a3ce"
+        },
+        {
+            "date": "2026-11-17T21:44:49",
+            "elo": 977,
+            "elo_before": 980,
+            "change": -3,
+            "track": "",
+            "finish": 8,
+            "race_id": "536353f6a2b672071d6f9d9be3351710b57f2d9350ab0be37b4954668f91e702"
         }
     ],
     "TITO": [
@@ -7388,6 +7469,15 @@
             "track": "",
             "finish": 3,
             "race_id": "576f7d4484205c430200aa27f56c9e2b657a58de9d2e085663ff595ffea4f28e"
+        },
+        {
+            "date": "2026-11-17T21:44:49",
+            "elo": 1079,
+            "elo_before": 1069,
+            "change": 10,
+            "track": "",
+            "finish": 4,
+            "race_id": "536353f6a2b672071d6f9d9be3351710b57f2d9350ab0be37b4954668f91e702"
         }
     ],
     "skalf": [
@@ -8038,6 +8128,15 @@
             "track": "",
             "finish": 5,
             "race_id": "32c0354df054c9e284409f4ec4d72f1051b82a0c3a7399d87f1ffdf13147ca67"
+        },
+        {
+            "date": "2026-11-17T21:44:49",
+            "elo": 909,
+            "elo_before": 928,
+            "change": -19,
+            "track": "",
+            "finish": 12,
+            "race_id": "536353f6a2b672071d6f9d9be3351710b57f2d9350ab0be37b4954668f91e702"
         }
     ],
     "Nico Rosbot": [
@@ -8197,6 +8296,15 @@
             "track": "",
             "finish": 4,
             "race_id": "32c0354df054c9e284409f4ec4d72f1051b82a0c3a7399d87f1ffdf13147ca67"
+        },
+        {
+            "date": "2026-11-17T21:44:49",
+            "elo": 966,
+            "elo_before": 985,
+            "change": -19,
+            "track": "",
+            "finish": 11,
+            "race_id": "536353f6a2b672071d6f9d9be3351710b57f2d9350ab0be37b4954668f91e702"
         }
     ],
     "Carlos_mr": [
@@ -8208,6 +8316,17 @@
             "track": "",
             "finish": 3,
             "race_id": "32c0354df054c9e284409f4ec4d72f1051b82a0c3a7399d87f1ffdf13147ca67"
+        }
+    ],
+    "Fury of Energy": [
+        {
+            "date": "2026-11-17T21:44:49",
+            "elo": 985,
+            "elo_before": 1000,
+            "change": -15,
+            "track": "",
+            "finish": 10,
+            "race_id": "536353f6a2b672071d6f9d9be3351710b57f2d9350ab0be37b4954668f91e702"
         }
     ]
 }
