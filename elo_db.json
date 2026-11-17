@@ -72,10 +72,10 @@
         "podiums": 7
     },
     "tacticworks": {
-        "elo": 1061,
+        "elo": 1079,
         "wins": 3,
-        "races": 10,
-        "podiums": 9
+        "races": 11,
+        "podiums": 10
     },
     "Ricoway46": {
         "elo": 1014,
@@ -96,9 +96,9 @@
         "podiums": 1
     },
     "moe": {
-        "elo": 964,
+        "elo": 957,
         "wins": 1,
-        "races": 30,
+        "races": 31,
         "podiums": 9
     },
     "moleo": {
@@ -144,9 +144,9 @@
         "podiums": 1
     },
     "Postal": {
-        "elo": 992,
+        "elo": 975,
         "wins": 0,
-        "races": 1,
+        "races": 2,
         "podiums": 0
     },
     "Kancooi77skins.army": {
@@ -270,9 +270,9 @@
         "podiums": 1
     },
     "Carrasco": {
-        "elo": 1010,
+        "elo": 1005,
         "wins": 1,
-        "races": 9,
+        "races": 10,
         "podiums": 3
     },
     "alerelinque": {
@@ -468,10 +468,10 @@
         "podiums": 0
     },
     "Nuno": {
-        "elo": 1020,
-        "wins": 4,
-        "races": 14,
-        "podiums": 6
+        "elo": 1050,
+        "wins": 5,
+        "races": 15,
+        "podiums": 7
     },
     "vat1028": {
         "elo": 979,
@@ -510,9 +510,9 @@
         "podiums": 1
     },
     "EgoMan": {
-        "elo": 1008,
+        "elo": 1017,
         "wins": 4,
-        "races": 23,
+        "races": 24,
         "podiums": 10
     },
     "MARCO": {
@@ -756,15 +756,15 @@
         "podiums": 2
     },
     "s1r2p": {
-        "elo": 962,
+        "elo": 933,
         "wins": 0,
-        "races": 3,
+        "races": 4,
         "podiums": 0
     },
     "BOMBOCLATT": {
-        "elo": 987,
+        "elo": 992,
         "wins": 0,
-        "races": 1,
+        "races": 2,
         "podiums": 0
     },
     "TITO": {
@@ -906,10 +906,10 @@
         "podiums": 0
     },
     "fisherman": {
-        "elo": 985,
+        "elo": 1004,
         "wins": 1,
-        "races": 6,
-        "podiums": 3
+        "races": 7,
+        "podiums": 4
     },
     "Smurruf": {
         "elo": 1002,
@@ -1014,9 +1014,9 @@
         "podiums": 1
     },
     "elchivador": {
-        "elo": 979,
+        "elo": 956,
         "wins": 0,
-        "races": 1,
+        "races": 2,
         "podiums": 0
     }
 }
