@@ -1,17 +1,17 @@
 {
     "Miquel_Sinke60": {
-        "safety": 102,
-        "races": 33,
+        "safety": 112,
+        "races": 34,
         "contacts": 64,
-        "clean_races": 11,
+        "clean_races": 12,
         "large_lobby_clean_streak": 1,
         "grade": "C"
     },
     "branny": {
-        "safety": 84,
-        "races": 12,
+        "safety": 94,
+        "races": 13,
         "contacts": 35,
-        "clean_races": 1,
+        "clean_races": 2,
         "large_lobby_clean_streak": 0,
         "grade": "D"
     },
@@ -24,10 +24,10 @@
         "grade": "A"
     },
     "Rk_44": {
-        "safety": 253,
-        "races": 30,
+        "safety": 263,
+        "races": 31,
         "contacts": 17,
-        "clean_races": 19,
+        "clean_races": 20,
         "large_lobby_clean_streak": 1,
         "grade": "A"
     },
@@ -114,10 +114,10 @@
         "grade": "B"
     },
     "tacticworks": {
-        "safety": 153,
-        "races": 13,
+        "safety": 163,
+        "races": 14,
         "contacts": 11,
-        "clean_races": 6,
+        "clean_races": 7,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     },
@@ -202,11 +202,11 @@
         "grade": "C"
     },
     "Postal": {
-        "safety": 117,
-        "races": 4,
-        "contacts": 9,
+        "safety": 111,
+        "races": 5,
+        "contacts": 12,
         "clean_races": 1,
-        "large_lobby_clean_streak": 1,
+        "large_lobby_clean_streak": 0,
         "grade": "C"
     },
     "Kancooi77skins.army": {
@@ -538,10 +538,10 @@
         "grade": "C"
     },
     "Marcus": {
-        "safety": 141,
-        "races": 6,
+        "safety": 151,
+        "races": 7,
         "contacts": 4,
-        "clean_races": 3,
+        "clean_races": 4,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     },
@@ -1066,10 +1066,10 @@
         "grade": "B"
     },
     "s1r2p": {
-        "safety": 140,
-        "races": 5,
+        "safety": 150,
+        "races": 6,
         "contacts": 5,
-        "clean_races": 3,
+        "clean_races": 4,
         "large_lobby_clean_streak": 1,
         "grade": "B"
     },
@@ -1434,9 +1434,9 @@
         "grade": "B"
     },
     "HAVEL": {
-        "safety": 123,
-        "races": 1,
-        "contacts": 2,
+        "safety": 117,
+        "races": 2,
+        "contacts": 5,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
