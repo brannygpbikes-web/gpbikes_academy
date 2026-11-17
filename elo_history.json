@@ -1054,6 +1054,15 @@
             "track": "",
             "finish": 2,
             "race_id": "b29b454a4aa3f843701ddb173f338d63d7d912cf9cb92d147362406d595b265a"
+        },
+        {
+            "date": "2026-11-17T17:32:49",
+            "elo": 1072,
+            "elo_before": 1059,
+            "change": 13,
+            "track": "",
+            "finish": 1,
+            "race_id": "03e8992bc198d28a67beab8cb7e8796911ed5a4837cacf85e3e4b14d0febad75"
         }
     ],
     "ShaiGP": [
@@ -1998,6 +2007,15 @@
             "track": "",
             "finish": 13,
             "race_id": "691fc25c90612b2176586763d10f34d0dbb4d746343860ef5575ba020cf2e4f7"
+        },
+        {
+            "date": "2026-11-17T17:32:49",
+            "elo": 915,
+            "elo_before": 904,
+            "change": 11,
+            "track": "",
+            "finish": 2,
+            "race_id": "03e8992bc198d28a67beab8cb7e8796911ed5a4837cacf85e3e4b14d0febad75"
         }
     ],
     "Postal": [
@@ -2244,6 +2262,15 @@
             "track": "",
             "finish": 6,
             "race_id": "81200a614f0ef4e4dba6fd9056acbd99954ef5cbb7be4db16f7752b267d7178c"
+        },
+        {
+            "date": "2026-11-17T17:32:49",
+            "elo": 1007,
+            "elo_before": 1013,
+            "change": -6,
+            "track": "",
+            "finish": 3,
+            "race_id": "03e8992bc198d28a67beab8cb7e8796911ed5a4837cacf85e3e4b14d0febad75"
         }
     ],
     "xXxDeadpoolxXx": [
@@ -4961,6 +4988,15 @@
             "track": "",
             "finish": 2,
             "race_id": "9abba39d92aae475571d5e5b8fcc2ee11fb9bb66098fac14ca7b21d348dddf30"
+        },
+        {
+            "date": "2026-11-17T17:32:49",
+            "elo": 1012,
+            "elo_before": 1030,
+            "change": -18,
+            "track": "",
+            "finish": 4,
+            "race_id": "03e8992bc198d28a67beab8cb7e8796911ed5a4837cacf85e3e4b14d0febad75"
         }
     ],
     "vat1028": [
