@@ -6,21 +6,21 @@
         "podiums": 4
     },
     "branny": {
-        "elo": 1049,
+        "elo": 1064,
         "wins": 2,
-        "races": 11,
-        "podiums": 8
+        "races": 12,
+        "podiums": 9
     },
     "Miquel_Sinke60": {
-        "elo": 1103,
-        "wins": 9,
-        "races": 32,
-        "podiums": 21
+        "elo": 1126,
+        "wins": 10,
+        "races": 33,
+        "podiums": 22
     },
     "Rk_44": {
-        "elo": 888,
+        "elo": 874,
         "wins": 1,
-        "races": 27,
+        "races": 28,
         "podiums": 3
     },
     "Billy Jones": {
@@ -72,9 +72,9 @@
         "podiums": 7
     },
     "tacticworks": {
-        "elo": 1101,
+        "elo": 1085,
         "wins": 4,
-        "races": 12,
+        "races": 13,
         "podiums": 11
     },
     "Ricoway46": {
@@ -144,10 +144,10 @@
         "podiums": 1
     },
     "Postal": {
-        "elo": 990,
+        "elo": 1017,
         "wins": 0,
-        "races": 3,
-        "podiums": 1
+        "races": 4,
+        "podiums": 2
     },
     "Kancooi77skins.army": {
         "elo": 1003,
@@ -186,9 +186,9 @@
         "podiums": 1
     },
     "sergioo14": {
-        "elo": 975,
+        "elo": 946,
         "wins": 4,
-        "races": 28,
+        "races": 29,
         "podiums": 14
     },
     "rayzenev": {
@@ -258,9 +258,9 @@
         "podiums": 0
     },
     "Gixnni.": {
-        "elo": 1012,
+        "elo": 1018,
         "wins": 1,
-        "races": 8,
+        "races": 9,
         "podiums": 3
     },
     "A.Arenas": {
@@ -522,9 +522,9 @@
         "podiums": 4
     },
     "Dani": {
-        "elo": 1010,
+        "elo": 990,
         "wins": 0,
-        "races": 1,
+        "races": 2,
         "podiums": 1
     },
     "AITORGP": {
@@ -756,15 +756,15 @@
         "podiums": 2
     },
     "s1r2p": {
-        "elo": 933,
+        "elo": 940,
         "wins": 0,
-        "races": 4,
+        "races": 5,
         "podiums": 0
     },
     "BOMBOCLATT": {
-        "elo": 992,
+        "elo": 980,
         "wins": 0,
-        "races": 2,
+        "races": 3,
         "podiums": 0
     },
     "TITO": {
@@ -1021,6 +1021,12 @@
     },
     "AlphaClaw": {
         "elo": 971,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
+    },
+    "HAVEL": {
+        "elo": 1013,
         "wins": 0,
         "races": 1,
         "podiums": 0
