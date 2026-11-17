@@ -96,9 +96,9 @@
         "podiums": 1
     },
     "moe": {
-        "elo": 971,
+        "elo": 956,
         "wins": 1,
-        "races": 28,
+        "races": 29,
         "podiums": 9
     },
     "moleo": {
@@ -414,10 +414,10 @@
         "podiums": 1
     },
     "chilliams": {
-        "elo": 992,
+        "elo": 998,
         "wins": 0,
-        "races": 8,
-        "podiums": 3
+        "races": 9,
+        "podiums": 4
     },
     "thecrivi28": {
         "elo": 1024,
@@ -468,10 +468,10 @@
         "podiums": 0
     },
     "Nuno": {
-        "elo": 1012,
-        "wins": 3,
-        "races": 12,
-        "podiums": 5
+        "elo": 1027,
+        "wins": 4,
+        "races": 13,
+        "podiums": 6
     },
     "vat1028": {
         "elo": 979,
@@ -906,10 +906,10 @@
         "podiums": 0
     },
     "fisherman": {
-        "elo": 1004,
+        "elo": 998,
         "wins": 1,
-        "races": 4,
-        "podiums": 2
+        "races": 5,
+        "podiums": 3
     },
     "Smurruf": {
         "elo": 1002,

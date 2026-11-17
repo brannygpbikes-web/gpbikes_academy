@@ -1651,6 +1651,15 @@
             "track": "",
             "finish": 8,
             "race_id": "691fc25c90612b2176586763d10f34d0dbb4d746343860ef5575ba020cf2e4f7"
+        },
+        {
+            "date": "2026-11-17T17:51:45",
+            "elo": 956,
+            "elo_before": 971,
+            "change": -15,
+            "track": "",
+            "finish": 4,
+            "race_id": "1bb2fb62c6002388984f927136d94a0f45fda7d50d702cfe8195cb68db559b79"
         }
     ],
     "moleo": [
@@ -4619,6 +4628,15 @@
             "track": "",
             "finish": 6,
             "race_id": "fd028503acdb1e9b73e3d77e1612d7b543429500f4bd9243136a46b0adea62dc"
+        },
+        {
+            "date": "2026-11-17T17:51:45",
+            "elo": 998,
+            "elo_before": 992,
+            "change": 6,
+            "track": "",
+            "finish": 2,
+            "race_id": "1bb2fb62c6002388984f927136d94a0f45fda7d50d702cfe8195cb68db559b79"
         }
     ],
     "thecrivi28": [
@@ -4997,6 +5015,15 @@
             "track": "",
             "finish": 4,
             "race_id": "03e8992bc198d28a67beab8cb7e8796911ed5a4837cacf85e3e4b14d0febad75"
+        },
+        {
+            "date": "2026-11-17T17:51:45",
+            "elo": 1027,
+            "elo_before": 1012,
+            "change": 15,
+            "track": "",
+            "finish": 1,
+            "race_id": "1bb2fb62c6002388984f927136d94a0f45fda7d50d702cfe8195cb68db559b79"
         }
     ],
     "vat1028": [
@@ -7222,6 +7249,15 @@
             "track": "",
             "finish": 10,
             "race_id": "691fc25c90612b2176586763d10f34d0dbb4d746343860ef5575ba020cf2e4f7"
+        },
+        {
+            "date": "2026-11-17T17:51:45",
+            "elo": 998,
+            "elo_before": 1004,
+            "change": -6,
+            "track": "",
+            "finish": 3,
+            "race_id": "1bb2fb62c6002388984f927136d94a0f45fda7d50d702cfe8195cb68db559b79"
         }
     ],
     "Smurruf": [
