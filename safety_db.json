@@ -9,10 +9,10 @@
     },
     "branny": {
         "safety": 94,
-        "races": 13,
+        "races": 14,
         "contacts": 35,
-        "clean_races": 2,
-        "large_lobby_clean_streak": 0,
+        "clean_races": 3,
+        "large_lobby_clean_streak": 1,
         "grade": "D"
     },
     "AhyaAL": {
@@ -203,10 +203,10 @@
     },
     "Postal": {
         "safety": 111,
-        "races": 5,
+        "races": 6,
         "contacts": 12,
-        "clean_races": 1,
-        "large_lobby_clean_streak": 0,
+        "clean_races": 2,
+        "large_lobby_clean_streak": 1,
         "grade": "C"
     },
     "Kancooi77skins.army": {
@@ -386,9 +386,9 @@
         "grade": "B"
     },
     "Gixnni.": {
-        "safety": 81,
-        "races": 9,
-        "contacts": 34,
+        "safety": 75,
+        "races": 10,
+        "contacts": 40,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "D"
@@ -539,10 +539,10 @@
     },
     "Marcus": {
         "safety": 151,
-        "races": 7,
+        "races": 8,
         "contacts": 4,
-        "clean_races": 4,
-        "large_lobby_clean_streak": 0,
+        "clean_races": 5,
+        "large_lobby_clean_streak": 1,
         "grade": "B"
     },
     "Danislav1746": {
@@ -586,9 +586,9 @@
         "grade": "B"
     },
     "mrarcin": {
-        "safety": 116,
-        "races": 4,
-        "contacts": 8,
+        "safety": 112,
+        "races": 5,
+        "contacts": 12,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -714,9 +714,9 @@
         "grade": "B"
     },
     "EgoMan": {
-        "safety": 113,
-        "races": 28,
-        "contacts": 58,
+        "safety": 109,
+        "races": 29,
+        "contacts": 62,
         "clean_races": 10,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -962,12 +962,12 @@
         "grade": "D"
     },
     "CristianBoni22": {
-        "safety": 125,
-        "races": 1,
-        "contacts": 0,
+        "safety": 121,
+        "races": 2,
+        "contacts": 4,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
-        "grade": "B"
+        "grade": "C"
     },
     "Raceboi95": {
         "safety": 109,
@@ -1074,12 +1074,12 @@
         "grade": "B"
     },
     "BOMBOCLATT": {
-        "safety": 130,
-        "races": 3,
-        "contacts": 5,
+        "safety": 124,
+        "races": 4,
+        "contacts": 11,
         "clean_races": 1,
         "large_lobby_clean_streak": 0,
-        "grade": "B"
+        "grade": "C"
     },
     "jackdunabie413": {
         "safety": 119,
@@ -1131,10 +1131,10 @@
     },
     "Danny Hinkelmann14": {
         "safety": 106,
-        "races": 5,
+        "races": 6,
         "contacts": 16,
-        "clean_races": 0,
-        "large_lobby_clean_streak": 0,
+        "clean_races": 1,
+        "large_lobby_clean_streak": 1,
         "grade": "C"
     },
     "popcoin": {
@@ -1435,8 +1435,24 @@
     },
     "HAVEL": {
         "safety": 117,
-        "races": 2,
+        "races": 3,
         "contacts": 5,
+        "clean_races": 1,
+        "large_lobby_clean_streak": 1,
+        "grade": "C"
+    },
+    "revil6745": {
+        "safety": 125,
+        "races": 1,
+        "contacts": 0,
+        "clean_races": 1,
+        "large_lobby_clean_streak": 1,
+        "grade": "B"
+    },
+    "UPVis_watching you": {
+        "safety": 122,
+        "races": 1,
+        "contacts": 3,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
