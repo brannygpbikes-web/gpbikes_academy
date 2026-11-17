@@ -1,11 +1,11 @@
 {
     "Miquel_Sinke60": {
-        "safety": 100,
-        "races": 31,
-        "contacts": 60,
+        "safety": 92,
+        "races": 32,
+        "contacts": 64,
         "clean_races": 10,
         "large_lobby_clean_streak": 0,
-        "grade": "C"
+        "grade": "D"
     },
     "branny": {
         "safety": 88,
@@ -24,10 +24,10 @@
         "grade": "A"
     },
     "Rk_44": {
-        "safety": 233,
-        "races": 28,
+        "safety": 243,
+        "races": 29,
         "contacts": 17,
-        "clean_races": 17,
+        "clean_races": 18,
         "large_lobby_clean_streak": 0,
         "grade": "A"
     },
@@ -114,10 +114,10 @@
         "grade": "B"
     },
     "tacticworks": {
-        "safety": 147,
-        "races": 11,
+        "safety": 157,
+        "races": 12,
         "contacts": 7,
-        "clean_races": 5,
+        "clean_races": 6,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     },
@@ -202,9 +202,9 @@
         "grade": "C"
     },
     "Postal": {
-        "safety": 117,
-        "races": 2,
-        "contacts": 4,
+        "safety": 107,
+        "races": 3,
+        "contacts": 9,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -714,9 +714,9 @@
         "grade": "B"
     },
     "EgoMan": {
-        "safety": 119,
-        "races": 27,
-        "contacts": 55,
+        "safety": 113,
+        "races": 28,
+        "contacts": 58,
         "clean_races": 10,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -1154,9 +1154,9 @@
         "grade": "B"
     },
     "vNoHxpe_KJ45": {
-        "safety": 106,
-        "races": 4,
-        "contacts": 14,
+        "safety": 102,
+        "races": 5,
+        "contacts": 16,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -1266,9 +1266,9 @@
         "grade": "B"
     },
     "fisherman": {
-        "safety": 142,
-        "races": 7,
-        "contacts": 5,
+        "safety": 132,
+        "races": 8,
+        "contacts": 10,
         "clean_races": 5,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -1424,5 +1424,13 @@
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
+    },
+    "AlphaClaw": {
+        "safety": 135,
+        "races": 1,
+        "contacts": 0,
+        "clean_races": 1,
+        "large_lobby_clean_streak": 0,
+        "grade": "B"
     }
 }

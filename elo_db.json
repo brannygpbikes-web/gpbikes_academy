@@ -12,15 +12,15 @@
         "podiums": 8
     },
     "Miquel_Sinke60": {
-        "elo": 1090,
+        "elo": 1103,
         "wins": 9,
-        "races": 31,
-        "podiums": 20
+        "races": 32,
+        "podiums": 21
     },
     "Rk_44": {
-        "elo": 881,
+        "elo": 888,
         "wins": 1,
-        "races": 26,
+        "races": 27,
         "podiums": 3
     },
     "Billy Jones": {
@@ -72,10 +72,10 @@
         "podiums": 7
     },
     "tacticworks": {
-        "elo": 1079,
-        "wins": 3,
-        "races": 11,
-        "podiums": 10
+        "elo": 1101,
+        "wins": 4,
+        "races": 12,
+        "podiums": 11
     },
     "Ricoway46": {
         "elo": 1014,
@@ -144,10 +144,10 @@
         "podiums": 1
     },
     "Postal": {
-        "elo": 975,
+        "elo": 990,
         "wins": 0,
-        "races": 2,
-        "podiums": 0
+        "races": 3,
+        "podiums": 1
     },
     "Kancooi77skins.army": {
         "elo": 1003,
@@ -510,9 +510,9 @@
         "podiums": 1
     },
     "EgoMan": {
-        "elo": 1017,
+        "elo": 995,
         "wins": 4,
-        "races": 24,
+        "races": 25,
         "podiums": 10
     },
     "MARCO": {
@@ -822,9 +822,9 @@
         "podiums": 2
     },
     "vNoHxpe_KJ45": {
-        "elo": 979,
+        "elo": 969,
         "wins": 0,
-        "races": 4,
+        "races": 5,
         "podiums": 1
     },
     "Bacov": {
@@ -906,9 +906,9 @@
         "podiums": 0
     },
     "fisherman": {
-        "elo": 1004,
+        "elo": 1008,
         "wins": 1,
-        "races": 7,
+        "races": 8,
         "podiums": 4
     },
     "Smurruf": {
@@ -1017,6 +1017,12 @@
         "elo": 956,
         "wins": 0,
         "races": 2,
+        "podiums": 0
+    },
+    "AlphaClaw": {
+        "elo": 971,
+        "wins": 0,
+        "races": 1,
         "podiums": 0
     }
 }

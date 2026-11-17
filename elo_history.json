@@ -462,6 +462,15 @@
             "track": "",
             "finish": 1,
             "race_id": "c4b8686ed684f7935904348d1b5f1e54cebe0677cfd93a2270091dfada3fd055"
+        },
+        {
+            "date": "2026-11-17T19:03:17",
+            "elo": 1103,
+            "elo_before": 1090,
+            "change": 13,
+            "track": "",
+            "finish": 2,
+            "race_id": "d48a61f24c590b4407edd6122a89a70b1e89d3fa2ffedfa047841137bb60cb9d"
         }
     ],
     "Rk_44": [
@@ -698,6 +707,15 @@
             "track": "",
             "finish": 5,
             "race_id": "c742f1464dbe14ac80193243f5a69ba729eceb7fbadc56c963615960f3c44813"
+        },
+        {
+            "date": "2026-11-17T19:03:17",
+            "elo": 888,
+            "elo_before": 881,
+            "change": 7,
+            "track": "",
+            "finish": 5,
+            "race_id": "d48a61f24c590b4407edd6122a89a70b1e89d3fa2ffedfa047841137bb60cb9d"
         }
     ],
     "Billy Jones": [
@@ -1265,6 +1283,15 @@
             "track": "",
             "finish": 2,
             "race_id": "11b8232c786719de0e53a08519809fab409cb5500b2e3b484d70c95a4aa85475"
+        },
+        {
+            "date": "2026-11-17T19:03:17",
+            "elo": 1101,
+            "elo_before": 1079,
+            "change": 22,
+            "track": "",
+            "finish": 1,
+            "race_id": "d48a61f24c590b4407edd6122a89a70b1e89d3fa2ffedfa047841137bb60cb9d"
         }
     ],
     "Ricoway46": [
@@ -2072,6 +2099,15 @@
             "track": "",
             "finish": 8,
             "race_id": "11b8232c786719de0e53a08519809fab409cb5500b2e3b484d70c95a4aa85475"
+        },
+        {
+            "date": "2026-11-17T19:03:17",
+            "elo": 990,
+            "elo_before": 975,
+            "change": 15,
+            "track": "",
+            "finish": 3,
+            "race_id": "d48a61f24c590b4407edd6122a89a70b1e89d3fa2ffedfa047841137bb60cb9d"
         }
     ],
     "Kancooi77skins.army": [
@@ -5452,6 +5488,15 @@
             "track": "",
             "finish": 4,
             "race_id": "11b8232c786719de0e53a08519809fab409cb5500b2e3b484d70c95a4aa85475"
+        },
+        {
+            "date": "2026-11-17T19:03:17",
+            "elo": 995,
+            "elo_before": 1017,
+            "change": -22,
+            "track": "",
+            "finish": 7,
+            "race_id": "d48a61f24c590b4407edd6122a89a70b1e89d3fa2ffedfa047841137bb60cb9d"
         }
     ],
     "MARCO": [
@@ -7086,6 +7131,15 @@
             "track": "",
             "finish": 3,
             "race_id": "81200a614f0ef4e4dba6fd9056acbd99954ef5cbb7be4db16f7752b267d7178c"
+        },
+        {
+            "date": "2026-11-17T19:03:17",
+            "elo": 969,
+            "elo_before": 979,
+            "change": -10,
+            "track": "",
+            "finish": 6,
+            "race_id": "d48a61f24c590b4407edd6122a89a70b1e89d3fa2ffedfa047841137bb60cb9d"
         }
     ],
     "Bacov": [
@@ -7402,6 +7456,15 @@
             "track": "",
             "finish": 3,
             "race_id": "11b8232c786719de0e53a08519809fab409cb5500b2e3b484d70c95a4aa85475"
+        },
+        {
+            "date": "2026-11-17T19:03:17",
+            "elo": 1008,
+            "elo_before": 1004,
+            "change": 4,
+            "track": "",
+            "finish": 4,
+            "race_id": "d48a61f24c590b4407edd6122a89a70b1e89d3fa2ffedfa047841137bb60cb9d"
         }
     ],
     "Smurruf": [
@@ -7690,6 +7753,17 @@
             "track": "",
             "finish": 9,
             "race_id": "11b8232c786719de0e53a08519809fab409cb5500b2e3b484d70c95a4aa85475"
+        }
+    ],
+    "AlphaClaw": [
+        {
+            "date": "2026-11-17T19:03:17",
+            "elo": 971,
+            "elo_before": 1000,
+            "change": -29,
+            "track": "",
+            "finish": 8,
+            "race_id": "d48a61f24c590b4407edd6122a89a70b1e89d3fa2ffedfa047841137bb60cb9d"
         }
     ]
 }
