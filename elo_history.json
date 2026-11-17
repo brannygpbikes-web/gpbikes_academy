@@ -2160,6 +2160,15 @@
             "track": "",
             "finish": 2,
             "race_id": "03e8992bc198d28a67beab8cb7e8796911ed5a4837cacf85e3e4b14d0febad75"
+        },
+        {
+            "date": "2026-11-17T20:34:57",
+            "elo": 935,
+            "elo_before": 915,
+            "change": 20,
+            "track": "",
+            "finish": 2,
+            "race_id": "e85f4bc9fa866055b3bf56f0edd0c5cf17d4ad3c13ecfebc616f37d26fbe2e93"
         }
     ],
     "Postal": [
@@ -3785,6 +3794,15 @@
             "track": "",
             "finish": 8,
             "race_id": "882f2cc2013af91abd37331cc5bb6d9dea2fec2729746bd2407c4dbeaba09f8a"
+        },
+        {
+            "date": "2026-11-17T20:34:57",
+            "elo": 1030,
+            "elo_before": 1037,
+            "change": -7,
+            "track": "",
+            "finish": 4,
+            "race_id": "e85f4bc9fa866055b3bf56f0edd0c5cf17d4ad3c13ecfebc616f37d26fbe2e93"
         }
     ],
     "will 77": [
@@ -4531,6 +4549,15 @@
             "track": "",
             "finish": 4,
             "race_id": "bdc32ef87ac5d30e5b2332b83343978f2b2130fb775e7a2056b8d90b57f2a3ce"
+        },
+        {
+            "date": "2026-11-17T20:34:57",
+            "elo": 1040,
+            "elo_before": 1039,
+            "change": 1,
+            "track": "",
+            "finish": 3,
+            "race_id": "e85f4bc9fa866055b3bf56f0edd0c5cf17d4ad3c13ecfebc616f37d26fbe2e93"
         }
     ],
     "JW2Stupid": [
@@ -5668,6 +5695,15 @@
             "track": "",
             "finish": 6,
             "race_id": "bdc32ef87ac5d30e5b2332b83343978f2b2130fb775e7a2056b8d90b57f2a3ce"
+        },
+        {
+            "date": "2026-11-17T20:34:57",
+            "elo": 986,
+            "elo_before": 999,
+            "change": -13,
+            "track": "",
+            "finish": 5,
+            "race_id": "e85f4bc9fa866055b3bf56f0edd0c5cf17d4ad3c13ecfebc616f37d26fbe2e93"
         }
     ],
     "MARCO": [
@@ -7271,6 +7307,15 @@
             "track": "",
             "finish": 2,
             "race_id": "bdc32ef87ac5d30e5b2332b83343978f2b2130fb775e7a2056b8d90b57f2a3ce"
+        },
+        {
+            "date": "2026-11-17T20:34:57",
+            "elo": 1068,
+            "elo_before": 1050,
+            "change": 18,
+            "track": "",
+            "finish": 1,
+            "race_id": "e85f4bc9fa866055b3bf56f0edd0c5cf17d4ad3c13ecfebc616f37d26fbe2e93"
         }
     ],
     "skalf": [
@@ -7903,6 +7948,15 @@
             "track": "",
             "finish": 4,
             "race_id": "669af468baeab0ed75082b9386f8664aac50239ce9ef0e9b6e89e39e2c11ab36"
+        },
+        {
+            "date": "2026-11-17T20:34:57",
+            "elo": 937,
+            "elo_before": 956,
+            "change": -19,
+            "track": "",
+            "finish": 6,
+            "race_id": "e85f4bc9fa866055b3bf56f0edd0c5cf17d4ad3c13ecfebc616f37d26fbe2e93"
         }
     ],
     "Nico Rosbot": [
