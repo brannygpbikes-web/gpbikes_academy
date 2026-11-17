@@ -60,10 +60,10 @@
         "podiums": 5
     },
     "filipknigge20": {
-        "elo": 1072,
-        "wins": 5,
-        "races": 12,
-        "podiums": 11
+        "elo": 1091,
+        "wins": 6,
+        "races": 13,
+        "podiums": 12
     },
     "ShaiGP": {
         "elo": 1030,
@@ -138,9 +138,9 @@
         "podiums": 3
     },
     "collinlanger96": {
-        "elo": 935,
+        "elo": 937,
         "wins": 0,
-        "races": 8,
+        "races": 9,
         "podiums": 2
     },
     "Postal": {
@@ -288,9 +288,9 @@
         "podiums": 0
     },
     "Emir Eyupoglu": {
-        "elo": 1030,
+        "elo": 1007,
         "wins": 4,
-        "races": 12,
+        "races": 13,
         "podiums": 6
     },
     "will 77": {
@@ -366,10 +366,10 @@
         "podiums": 4
     },
     "Marcus": {
-        "elo": 1040,
+        "elo": 1052,
         "wins": 2,
-        "races": 9,
-        "podiums": 7
+        "races": 10,
+        "podiums": 8
     },
     "JW2Stupid": {
         "elo": 1039,
@@ -810,10 +810,10 @@
         "podiums": 1
     },
     "Danny Hinkelmann14": {
-        "elo": 1068,
+        "elo": 1069,
         "wins": 1,
-        "races": 7,
-        "podiums": 5
+        "races": 8,
+        "podiums": 6
     },
     "skalf": {
         "elo": 986,
@@ -1045,6 +1045,12 @@
     },
     "revil6745": {
         "elo": 969,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
+    },
+    "PigroPotatoes": {
+        "elo": 989,
         "wins": 0,
         "races": 1,
         "podiums": 0

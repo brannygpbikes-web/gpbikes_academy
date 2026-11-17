@@ -98,12 +98,12 @@
         "grade": "C"
     },
     "filipknigge20": {
-        "safety": 157,
-        "races": 12,
+        "safety": 167,
+        "races": 13,
         "contacts": 13,
-        "clean_races": 5,
+        "clean_races": 6,
         "large_lobby_clean_streak": 0,
-        "grade": "B"
+        "grade": "A"
     },
     "Ricoway46": {
         "safety": 156,
@@ -178,9 +178,9 @@
         "grade": "C"
     },
     "collinlanger96": {
-        "safety": 94,
-        "races": 8,
-        "contacts": 20,
+        "safety": 80,
+        "races": 9,
+        "contacts": 27,
         "clean_races": 2,
         "large_lobby_clean_streak": 0,
         "grade": "D"
@@ -410,9 +410,9 @@
         "grade": "C"
     },
     "Emir Eyupoglu": {
-        "safety": 109,
-        "races": 12,
-        "contacts": 21,
+        "safety": 101,
+        "races": 13,
+        "contacts": 25,
         "clean_races": 3,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -538,10 +538,10 @@
         "grade": "C"
     },
     "Marcus": {
-        "safety": 145,
-        "races": 9,
+        "safety": 155,
+        "races": 10,
         "contacts": 7,
-        "clean_races": 5,
+        "clean_races": 6,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     },
@@ -1130,12 +1130,12 @@
         "grade": "B"
     },
     "Danny Hinkelmann14": {
-        "safety": 96,
-        "races": 7,
+        "safety": 106,
+        "races": 8,
         "contacts": 21,
-        "clean_races": 1,
+        "clean_races": 2,
         "large_lobby_clean_streak": 0,
-        "grade": "D"
+        "grade": "C"
     },
     "popcoin": {
         "safety": 125,
@@ -1363,7 +1363,7 @@
     },
     "Zachy12345": {
         "safety": 137,
-        "races": 5,
+        "races": 6,
         "contacts": 4,
         "clean_races": 3,
         "large_lobby_clean_streak": 0,
@@ -1451,8 +1451,24 @@
     },
     "UPVis_watching you": {
         "safety": 122,
-        "races": 1,
+        "races": 2,
         "contacts": 3,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "C"
+    },
+    "Travis": {
+        "safety": 125,
+        "races": 1,
+        "contacts": 0,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "B"
+    },
+    "PigroPotatoes": {
+        "safety": 117,
+        "races": 1,
+        "contacts": 4,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
