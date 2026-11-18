@@ -1409,6 +1409,15 @@
             "track": "",
             "finish": 2,
             "race_id": "045931a18ff9b3eb6980d40b129a7b60a33fa41100834f7d5d2aadf4e4d7c823"
+        },
+        {
+            "date": "2026-11-18T16:57:29",
+            "elo": 1104,
+            "elo_before": 1098,
+            "change": 6,
+            "track": "",
+            "finish": 1,
+            "race_id": "77d450fde3b2d2cd062279bbb5b1dba5590772d5f3291b63dc07c8cbcb1cd5de"
         }
     ],
     "Ricoway46": [
@@ -2532,6 +2541,15 @@
             "track": "",
             "finish": 3,
             "race_id": "03e8992bc198d28a67beab8cb7e8796911ed5a4837cacf85e3e4b14d0febad75"
+        },
+        {
+            "date": "2026-11-18T18:34:28",
+            "elo": 996,
+            "elo_before": 1007,
+            "change": -11,
+            "track": "",
+            "finish": 2,
+            "race_id": "6ec2dd4e6a03f330280cfe84a2dcefed074e65fb64c4199d0e67e3274a88c77c"
         }
     ],
     "xXxDeadpoolxXx": [
@@ -2806,6 +2824,33 @@
             "track": "",
             "finish": 11,
             "race_id": "a8c4ba29a88eb61677c6a8ecd204b89df3b846b659bda599feb2d5cf37ad4950"
+        },
+        {
+            "date": "2026-11-18T16:34:36",
+            "elo": 957,
+            "elo_before": 946,
+            "change": 11,
+            "track": "",
+            "finish": 1,
+            "race_id": "c67caac392fac76b1287945e892db7f1b8bbf42e18a382cdab9551a3cfdfdceb"
+        },
+        {
+            "date": "2026-11-18T16:57:29",
+            "elo": 949,
+            "elo_before": 957,
+            "change": -8,
+            "track": "",
+            "finish": 3,
+            "race_id": "77d450fde3b2d2cd062279bbb5b1dba5590772d5f3291b63dc07c8cbcb1cd5de"
+        },
+        {
+            "date": "2026-11-18T18:34:28",
+            "elo": 960,
+            "elo_before": 949,
+            "change": 11,
+            "track": "",
+            "finish": 1,
+            "race_id": "6ec2dd4e6a03f330280cfe84a2dcefed074e65fb64c4199d0e67e3274a88c77c"
         }
     ],
     "rayzenev": [
@@ -5541,6 +5586,15 @@
             "track": "",
             "finish": 5,
             "race_id": "5f6752053399a3987452fe93a83727ef20b6986bb53df1b8ebd3a1c0dba2f192"
+        },
+        {
+            "date": "2026-11-18T16:34:36",
+            "elo": 1000,
+            "elo_before": 1001,
+            "change": -1,
+            "track": "",
+            "finish": 2,
+            "race_id": "c67caac392fac76b1287945e892db7f1b8bbf42e18a382cdab9551a3cfdfdceb"
         }
     ],
     "El-Ninety-Nine": [
@@ -8357,6 +8411,24 @@
             "track": "",
             "finish": 12,
             "race_id": "bdc32ef87ac5d30e5b2332b83343978f2b2130fb775e7a2056b8d90b57f2a3ce"
+        },
+        {
+            "date": "2026-11-18T16:34:36",
+            "elo": 959,
+            "elo_before": 969,
+            "change": -10,
+            "track": "",
+            "finish": 3,
+            "race_id": "c67caac392fac76b1287945e892db7f1b8bbf42e18a382cdab9551a3cfdfdceb"
+        },
+        {
+            "date": "2026-11-18T16:57:29",
+            "elo": 961,
+            "elo_before": 959,
+            "change": 2,
+            "track": "",
+            "finish": 2,
+            "race_id": "77d450fde3b2d2cd062279bbb5b1dba5590772d5f3291b63dc07c8cbcb1cd5de"
         }
     ],
     "PigroPotatoes": [

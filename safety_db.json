@@ -114,9 +114,9 @@
         "grade": "B"
     },
     "tacticworks": {
-        "safety": 163,
-        "races": 14,
-        "contacts": 11,
+        "safety": 155,
+        "races": 15,
+        "contacts": 15,
         "clean_races": 7,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -250,9 +250,9 @@
         "grade": "B"
     },
     "AngeLo": {
-        "safety": 106,
-        "races": 15,
-        "contacts": 20,
+        "safety": 100,
+        "races": 16,
+        "contacts": 22,
         "clean_races": 5,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -266,11 +266,11 @@
         "grade": "B"
     },
     "sergioo14": {
-        "safety": 65,
-        "races": 32,
-        "contacts": 77,
+        "safety": 49,
+        "races": 35,
+        "contacts": 83,
         "clean_races": 4,
-        "large_lobby_clean_streak": 1,
+        "large_lobby_clean_streak": 0,
         "grade": "E"
     },
     "rayzenev": {
@@ -523,7 +523,7 @@
     },
     "JW2Stupid": {
         "safety": 124,
-        "races": 7,
+        "races": 8,
         "contacts": 15,
         "clean_races": 2,
         "large_lobby_clean_streak": 0,
@@ -658,9 +658,9 @@
         "grade": "A"
     },
     "izan curia": {
-        "safety": 122,
-        "races": 5,
-        "contacts": 11,
+        "safety": 116,
+        "races": 7,
+        "contacts": 13,
         "clean_races": 1,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -1442,12 +1442,12 @@
         "grade": "C"
     },
     "revil6745": {
-        "safety": 125,
-        "races": 1,
-        "contacts": 0,
-        "clean_races": 1,
-        "large_lobby_clean_streak": 1,
-        "grade": "B"
+        "safety": 122,
+        "races": 3,
+        "contacts": 4,
+        "clean_races": 2,
+        "large_lobby_clean_streak": 0,
+        "grade": "C"
     },
     "UPVis_watching you": {
         "safety": 122,
