@@ -2851,6 +2851,15 @@
             "track": "",
             "finish": 1,
             "race_id": "6ec2dd4e6a03f330280cfe84a2dcefed074e65fb64c4199d0e67e3274a88c77c"
+        },
+        {
+            "date": "2026-11-19T16:24:28",
+            "elo": 946,
+            "elo_before": 960,
+            "change": -14,
+            "track": "",
+            "finish": 4,
+            "race_id": "50de8c8ad89733ef3656dac4a535bf80c4187c6b1ec253d751916bc0dba08a6d"
         }
     ],
     "rayzenev": [
@@ -5595,6 +5604,15 @@
             "track": "",
             "finish": 2,
             "race_id": "c67caac392fac76b1287945e892db7f1b8bbf42e18a382cdab9551a3cfdfdceb"
+        },
+        {
+            "date": "2026-11-19T16:24:28",
+            "elo": 1015,
+            "elo_before": 1000,
+            "change": 15,
+            "track": "",
+            "finish": 1,
+            "race_id": "50de8c8ad89733ef3656dac4a535bf80c4187c6b1ec253d751916bc0dba08a6d"
         }
     ],
     "El-Ninety-Nine": [
@@ -7016,6 +7034,15 @@
             "track": "",
             "finish": 8,
             "race_id": "7ffea7fa0399a5bdf374427ea34b3a0481b69aee068ef5269c67c1f3fe010a9c"
+        },
+        {
+            "date": "2026-11-19T16:24:28",
+            "elo": 983,
+            "elo_before": 988,
+            "change": -5,
+            "track": "",
+            "finish": 3,
+            "race_id": "50de8c8ad89733ef3656dac4a535bf80c4187c6b1ec253d751916bc0dba08a6d"
         }
     ],
     "DUCKSWORTH": [
@@ -7731,6 +7758,15 @@
             "track": "",
             "finish": 3,
             "race_id": "9abba39d92aae475571d5e5b8fcc2ee11fb9bb66098fac14ca7b21d348dddf30"
+        },
+        {
+            "date": "2026-11-19T16:24:28",
+            "elo": 1015,
+            "elo_before": 1011,
+            "change": 4,
+            "track": "",
+            "finish": 2,
+            "race_id": "50de8c8ad89733ef3656dac4a535bf80c4187c6b1ec253d751916bc0dba08a6d"
         }
     ],
     "Matteo 42": [
