@@ -7321,6 +7321,15 @@
             "track": "",
             "finish": 3,
             "race_id": "d6e39f7c7990e8d5fed3be06e81635a76a0546d9a552e41e2eea86694b9b99e0"
+        },
+        {
+            "date": "2026-11-19T21:41:06",
+            "elo": 996,
+            "elo_before": 986,
+            "change": 10,
+            "track": "",
+            "finish": 1,
+            "race_id": "47ee263d93cd90663fd5c56a4a14ca329253a7289858b26d5d73060930033890"
         }
     ],
     "Dede": [
@@ -8180,6 +8189,15 @@
             "track": "",
             "finish": 4,
             "race_id": "d6e39f7c7990e8d5fed3be06e81635a76a0546d9a552e41e2eea86694b9b99e0"
+        },
+        {
+            "date": "2026-11-19T21:41:06",
+            "elo": 986,
+            "elo_before": 996,
+            "change": -10,
+            "track": "",
+            "finish": 2,
+            "race_id": "47ee263d93cd90663fd5c56a4a14ca329253a7289858b26d5d73060930033890"
         }
     ],
     "The Doctor": [
