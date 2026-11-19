@@ -1840,6 +1840,15 @@
             "track": "",
             "finish": 7,
             "race_id": "11b8232c786719de0e53a08519809fab409cb5500b2e3b484d70c95a4aa85475"
+        },
+        {
+            "date": "2026-11-19T16:45:54",
+            "elo": 965,
+            "elo_before": 957,
+            "change": 8,
+            "track": "",
+            "finish": 3,
+            "race_id": "ded412744bf1fd749ed6380516440b614ad5c5742ea39eea0ad8c2c4dcae18b6"
         }
     ],
     "moleo": [
@@ -2550,6 +2559,15 @@
             "track": "",
             "finish": 2,
             "race_id": "6ec2dd4e6a03f330280cfe84a2dcefed074e65fb64c4199d0e67e3274a88c77c"
+        },
+        {
+            "date": "2026-11-19T16:45:54",
+            "elo": 1010,
+            "elo_before": 996,
+            "change": 14,
+            "track": "",
+            "finish": 2,
+            "race_id": "ded412744bf1fd749ed6380516440b614ad5c5742ea39eea0ad8c2c4dcae18b6"
         }
     ],
     "xXxDeadpoolxXx": [
@@ -5613,6 +5631,15 @@
             "track": "",
             "finish": 1,
             "race_id": "50de8c8ad89733ef3656dac4a535bf80c4187c6b1ec253d751916bc0dba08a6d"
+        },
+        {
+            "date": "2026-11-19T16:45:54",
+            "elo": 1010,
+            "elo_before": 1015,
+            "change": -5,
+            "track": "",
+            "finish": 4,
+            "race_id": "ded412744bf1fd749ed6380516440b614ad5c5742ea39eea0ad8c2c4dcae18b6"
         }
     ],
     "El-Ninety-Nine": [
@@ -6206,6 +6233,15 @@
             "track": "",
             "finish": 4,
             "race_id": "c742f1464dbe14ac80193243f5a69ba729eceb7fbadc56c963615960f3c44813"
+        },
+        {
+            "date": "2026-11-19T16:45:54",
+            "elo": 984,
+            "elo_before": 996,
+            "change": -12,
+            "track": "",
+            "finish": 5,
+            "race_id": "ded412744bf1fd749ed6380516440b614ad5c5742ea39eea0ad8c2c4dcae18b6"
         }
     ],
     "dwiputra": [
@@ -7622,6 +7658,15 @@
             "track": "",
             "finish": 7,
             "race_id": "d272b61556eca3c38387f5d19f382c02724d00e886b4a209a0639c2fd8f7e9f5"
+        },
+        {
+            "date": "2026-11-19T16:45:54",
+            "elo": 1090,
+            "elo_before": 1072,
+            "change": 18,
+            "track": "",
+            "finish": 1,
+            "race_id": "ded412744bf1fd749ed6380516440b614ad5c5742ea39eea0ad8c2c4dcae18b6"
         }
     ],
     "skalf": [
@@ -7767,6 +7812,15 @@
             "track": "",
             "finish": 2,
             "race_id": "50de8c8ad89733ef3656dac4a535bf80c4187c6b1ec253d751916bc0dba08a6d"
+        },
+        {
+            "date": "2026-11-19T16:45:54",
+            "elo": 992,
+            "elo_before": 1015,
+            "change": -23,
+            "track": "",
+            "finish": 6,
+            "race_id": "ded412744bf1fd749ed6380516440b614ad5c5742ea39eea0ad8c2c4dcae18b6"
         }
     ],
     "Matteo 42": [

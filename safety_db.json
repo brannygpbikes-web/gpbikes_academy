@@ -138,9 +138,9 @@
         "grade": "C"
     },
     "moe": {
-        "safety": 175,
-        "races": 37,
-        "contacts": 39,
+        "safety": 173,
+        "races": 38,
+        "contacts": 40,
         "clean_races": 14,
         "large_lobby_clean_streak": 0,
         "grade": "A"
@@ -179,7 +179,7 @@
     },
     "collinlanger96": {
         "safety": 88,
-        "races": 12,
+        "races": 13,
         "contacts": 29,
         "clean_races": 3,
         "large_lobby_clean_streak": 0,
@@ -250,10 +250,10 @@
         "grade": "B"
     },
     "AngeLo": {
-        "safety": 100,
-        "races": 16,
+        "safety": 110,
+        "races": 17,
         "contacts": 22,
-        "clean_races": 5,
+        "clean_races": 6,
         "large_lobby_clean_streak": 0,
         "grade": "C"
     },
@@ -658,9 +658,9 @@
         "grade": "A"
     },
     "izan curia": {
-        "safety": 106,
-        "races": 8,
-        "contacts": 18,
+        "safety": 104,
+        "races": 9,
+        "contacts": 19,
         "clean_races": 1,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -802,9 +802,9 @@
         "grade": "B"
     },
     "Dimitry": {
-        "safety": 152,
-        "races": 7,
-        "contacts": 5,
+        "safety": 148,
+        "races": 8,
+        "contacts": 7,
         "clean_races": 3,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -1130,11 +1130,11 @@
         "grade": "B"
     },
     "Danny Hinkelmann14": {
-        "safety": 103,
-        "races": 11,
-        "contacts": 24,
+        "safety": 101,
+        "races": 12,
+        "contacts": 25,
         "clean_races": 3,
-        "large_lobby_clean_streak": 1,
+        "large_lobby_clean_streak": 0,
         "grade": "C"
     },
     "popcoin": {
@@ -1178,9 +1178,9 @@
         "grade": "B"
     },
     "Abraham Avila": {
-        "safety": 111,
-        "races": 2,
-        "contacts": 9,
+        "safety": 109,
+        "races": 3,
+        "contacts": 10,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
