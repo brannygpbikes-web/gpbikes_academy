@@ -2066,6 +2066,15 @@
             "track": "",
             "finish": 2,
             "race_id": "18fdd7fe99af0ffa5289fca97f610d4da29f8942ffed9dca1ca482067f8fed20"
+        },
+        {
+            "date": "2026-11-19T18:05:53",
+            "elo": 1031,
+            "elo_before": 1024,
+            "change": 7,
+            "track": "",
+            "finish": 1,
+            "race_id": "aead20011aac8686c37284fcbd62957e0f8046a0231895a470fd56a063941365"
         }
     ],
     "HectorLl93": [
@@ -2887,6 +2896,15 @@
             "track": "",
             "finish": 4,
             "race_id": "50de8c8ad89733ef3656dac4a535bf80c4187c6b1ec253d751916bc0dba08a6d"
+        },
+        {
+            "date": "2026-11-19T18:05:53",
+            "elo": 939,
+            "elo_before": 946,
+            "change": -7,
+            "track": "",
+            "finish": 2,
+            "race_id": "aead20011aac8686c37284fcbd62957e0f8046a0231895a470fd56a063941365"
         }
     ],
     "rayzenev": [
