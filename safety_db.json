@@ -1,10 +1,10 @@
 {
     "Miquel_Sinke60": {
-        "safety": 112,
-        "races": 34,
-        "contacts": 64,
+        "safety": 110,
+        "races": 35,
+        "contacts": 65,
         "clean_races": 12,
-        "large_lobby_clean_streak": 1,
+        "large_lobby_clean_streak": 0,
         "grade": "C"
     },
     "branny": {
@@ -314,9 +314,9 @@
         "grade": "B"
     },
     "SleppyGame23": {
-        "safety": 134,
-        "races": 5,
-        "contacts": 6,
+        "safety": 132,
+        "races": 6,
+        "contacts": 7,
         "clean_races": 2,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -418,12 +418,12 @@
         "grade": "D"
     },
     "will 77": {
-        "safety": 100,
-        "races": 11,
-        "contacts": 29,
+        "safety": 98,
+        "races": 12,
+        "contacts": 30,
         "clean_races": 4,
         "large_lobby_clean_streak": 0,
-        "grade": "C"
+        "grade": "D"
     },
     "alexiis_1622": {
         "safety": 133,
@@ -714,9 +714,9 @@
         "grade": "B"
     },
     "EgoMan": {
-        "safety": 104,
-        "races": 32,
-        "contacts": 64,
+        "safety": 102,
+        "races": 33,
+        "contacts": 65,
         "clean_races": 10,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -1370,10 +1370,10 @@
         "grade": "B"
     },
     "Nico Rosbot": {
-        "safety": 130,
-        "races": 1,
+        "safety": 140,
+        "races": 2,
         "contacts": 0,
-        "clean_races": 1,
+        "clean_races": 2,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     },
@@ -1538,11 +1538,11 @@
         "grade": "B"
     },
     "romeo": {
-        "safety": 125,
-        "races": 1,
-        "contacts": 0,
+        "safety": 121,
+        "races": 2,
+        "contacts": 2,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
-        "grade": "B"
+        "grade": "C"
     }
 }

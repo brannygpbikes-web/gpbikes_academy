@@ -12,9 +12,9 @@
         "podiums": 10
     },
     "Miquel_Sinke60": {
-        "elo": 1145,
+        "elo": 1123,
         "wins": 11,
-        "races": 34,
+        "races": 35,
         "podiums": 23
     },
     "Rk_44": {
@@ -234,10 +234,10 @@
         "podiums": 0
     },
     "SleppyGame23": {
-        "elo": 998,
+        "elo": 1013,
         "wins": 0,
-        "races": 4,
-        "podiums": 0
+        "races": 5,
+        "podiums": 1
     },
     "The Gyatt": {
         "elo": 1028,
@@ -294,10 +294,10 @@
         "podiums": 8
     },
     "will 77": {
-        "elo": 972,
+        "elo": 980,
         "wins": 1,
-        "races": 11,
-        "podiums": 3
+        "races": 12,
+        "podiums": 4
     },
     "alexiis_1622": {
         "elo": 998,
@@ -510,9 +510,9 @@
         "podiums": 1
     },
     "EgoMan": {
-        "elo": 997,
+        "elo": 994,
         "wins": 5,
-        "races": 28,
+        "races": 29,
         "podiums": 11
     },
     "MARCO": {
@@ -984,10 +984,10 @@
         "podiums": 1
     },
     "Nico Rosbot": {
-        "elo": 1006,
-        "wins": 0,
-        "races": 1,
-        "podiums": 1
+        "elo": 1029,
+        "wins": 1,
+        "races": 2,
+        "podiums": 2
     },
     "Diego Pugnale": {
         "elo": 1000,
@@ -1102,5 +1102,11 @@
         "wins": 0,
         "races": 1,
         "podiums": 1
+    },
+    "romeo": {
+        "elo": 979,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
     }
 }

@@ -516,6 +516,15 @@
             "track": "",
             "finish": 1,
             "race_id": "045931a18ff9b3eb6980d40b129a7b60a33fa41100834f7d5d2aadf4e4d7c823"
+        },
+        {
+            "date": "2026-11-20T18:06:03",
+            "elo": 1123,
+            "elo_before": 1145,
+            "change": -22,
+            "track": "",
+            "finish": 5,
+            "race_id": "2093d33d4b3fbfab67331362aee861dcd9917bd212105223921bd55c7539a9be"
         }
     ],
     "Rk_44": [
@@ -3461,6 +3470,15 @@
             "track": "",
             "finish": 4,
             "race_id": "9045c65eab3c807436d17d5add4fb0a8a0a73f9d72fe828e9b70391a26fd1e9e"
+        },
+        {
+            "date": "2026-11-20T18:06:03",
+            "elo": 1013,
+            "elo_before": 998,
+            "change": 15,
+            "track": "",
+            "finish": 2,
+            "race_id": "2093d33d4b3fbfab67331362aee861dcd9917bd212105223921bd55c7539a9be"
         }
     ],
     "The Gyatt": [
@@ -4156,6 +4174,15 @@
             "track": "",
             "finish": 3,
             "race_id": "669af468baeab0ed75082b9386f8664aac50239ce9ef0e9b6e89e39e2c11ab36"
+        },
+        {
+            "date": "2026-11-20T18:06:03",
+            "elo": 980,
+            "elo_before": 972,
+            "change": 8,
+            "track": "",
+            "finish": 3,
+            "race_id": "2093d33d4b3fbfab67331362aee861dcd9917bd212105223921bd55c7539a9be"
         }
     ],
     "alexiis_1622": [
@@ -6028,6 +6055,15 @@
             "track": "",
             "finish": 1,
             "race_id": "18fdd7fe99af0ffa5289fca97f610d4da29f8942ffed9dca1ca482067f8fed20"
+        },
+        {
+            "date": "2026-11-20T18:06:03",
+            "elo": 994,
+            "elo_before": 997,
+            "change": -3,
+            "track": "",
+            "finish": 4,
+            "race_id": "2093d33d4b3fbfab67331362aee861dcd9917bd212105223921bd55c7539a9be"
         }
     ],
     "MARCO": [
@@ -8490,6 +8526,15 @@
             "track": "",
             "finish": 2,
             "race_id": "6b98d597ca739754bae2045049226f346a00453fbe761b44e176149c8222a56b"
+        },
+        {
+            "date": "2026-11-20T18:06:03",
+            "elo": 1029,
+            "elo_before": 1006,
+            "change": 23,
+            "track": "",
+            "finish": 1,
+            "race_id": "2093d33d4b3fbfab67331362aee861dcd9917bd212105223921bd55c7539a9be"
         }
     ],
     "Diego Pugnale": [
@@ -8780,6 +8825,17 @@
             "track": "",
             "finish": 2,
             "race_id": "528f0486f1e48ffdbdc34fb49d91f9b35f6b37b0ccdba992273fb2f3eeafea39"
+        }
+    ],
+    "romeo": [
+        {
+            "date": "2026-11-20T18:06:03",
+            "elo": 979,
+            "elo_before": 1000,
+            "change": -21,
+            "track": "",
+            "finish": 6,
+            "race_id": "2093d33d4b3fbfab67331362aee861dcd9917bd212105223921bd55c7539a9be"
         }
     ]
 }
