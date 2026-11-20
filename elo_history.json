@@ -2604,6 +2604,15 @@
             "track": "",
             "finish": 1,
             "race_id": "00043f6b94038bab0af4b32f012dddd8d776f6c93d869b17c1d8a17a868a0743"
+        },
+        {
+            "date": "2026-11-20T17:16:48",
+            "elo": 1029,
+            "elo_before": 1040,
+            "change": -11,
+            "track": "",
+            "finish": 2,
+            "race_id": "af1d3a2c9f41f8e6c57f218b67e55d0bf5a2d1f084b897f3b2813c24f33201c3"
         }
     ],
     "xXxDeadpoolxXx": [
@@ -8731,6 +8740,15 @@
             "track": "",
             "finish": 3,
             "race_id": "00043f6b94038bab0af4b32f012dddd8d776f6c93d869b17c1d8a17a868a0743"
+        },
+        {
+            "date": "2026-11-20T17:16:48",
+            "elo": 1015,
+            "elo_before": 1004,
+            "change": 11,
+            "track": "",
+            "finish": 1,
+            "race_id": "af1d3a2c9f41f8e6c57f218b67e55d0bf5a2d1f084b897f3b2813c24f33201c3"
         }
     ],
     "braedonrichardson15": [

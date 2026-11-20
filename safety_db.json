@@ -250,10 +250,10 @@
         "grade": "B"
     },
     "AngeLo": {
-        "safety": 108,
-        "races": 19,
+        "safety": 113,
+        "races": 20,
         "contacts": 26,
-        "clean_races": 7,
+        "clean_races": 8,
         "large_lobby_clean_streak": 0,
         "grade": "C"
     },
@@ -659,7 +659,7 @@
     },
     "izan curia": {
         "safety": 98,
-        "races": 10,
+        "races": 11,
         "contacts": 22,
         "clean_races": 1,
         "large_lobby_clean_streak": 0,
@@ -1515,18 +1515,18 @@
     },
     "braedonrichardson15": {
         "safety": 123,
-        "races": 1,
+        "races": 2,
         "contacts": 1,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
     },
     "Shimmy": {
-        "safety": 121,
-        "races": 1,
+        "safety": 126,
+        "races": 2,
         "contacts": 2,
-        "clean_races": 0,
+        "clean_races": 1,
         "large_lobby_clean_streak": 0,
-        "grade": "C"
+        "grade": "B"
     }
 }
