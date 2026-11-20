@@ -1894,6 +1894,15 @@
             "track": "",
             "finish": 3,
             "race_id": "a4b1d3a868896aa03adc2e6b58e969b9a5b6fee02fabd0b03b953682e49d43b5"
+        },
+        {
+            "date": "2026-11-20T22:06:14",
+            "elo": 954,
+            "elo_before": 962,
+            "change": -8,
+            "track": "",
+            "finish": 3,
+            "race_id": "9af6e701ddd46148df346b01b1704f32d97868575e05bd869d6732e1a7061d8d"
         }
     ],
     "moleo": [
@@ -6425,6 +6434,15 @@
             "track": "",
             "finish": 1,
             "race_id": "a4b1d3a868896aa03adc2e6b58e969b9a5b6fee02fabd0b03b953682e49d43b5"
+        },
+        {
+            "date": "2026-11-20T22:06:14",
+            "elo": 1042,
+            "elo_before": 1034,
+            "change": 8,
+            "track": "",
+            "finish": 1,
+            "race_id": "9af6e701ddd46148df346b01b1704f32d97868575e05bd869d6732e1a7061d8d"
         }
     ],
     "Riccardo": [
@@ -8606,6 +8624,15 @@
             "track": "",
             "finish": 2,
             "race_id": "a4b1d3a868896aa03adc2e6b58e969b9a5b6fee02fabd0b03b953682e49d43b5"
+        },
+        {
+            "date": "2026-11-20T22:06:14",
+            "elo": 1012,
+            "elo_before": 1012,
+            "change": 0,
+            "track": "",
+            "finish": 2,
+            "race_id": "9af6e701ddd46148df346b01b1704f32d97868575e05bd869d6732e1a7061d8d"
         }
     ],
     "Yuri Semenov": [

@@ -96,10 +96,10 @@
         "podiums": 1
     },
     "moe": {
-        "elo": 962,
+        "elo": 954,
         "wins": 1,
-        "races": 34,
-        "podiums": 11
+        "races": 35,
+        "podiums": 12
     },
     "moleo": {
         "elo": 1040,
@@ -540,10 +540,10 @@
         "podiums": 1
     },
     "Maximo Giro": {
-        "elo": 1034,
-        "wins": 1,
-        "races": 9,
-        "podiums": 3
+        "elo": 1042,
+        "wins": 2,
+        "races": 10,
+        "podiums": 4
     },
     "Riccardo": {
         "elo": 1031,
@@ -956,8 +956,8 @@
     "Sergi04ab": {
         "elo": 1012,
         "wins": 0,
-        "races": 3,
-        "podiums": 2
+        "races": 4,
+        "podiums": 3
     },
     "Yuri Semenov": {
         "elo": 965,
