@@ -283,7 +283,7 @@
     },
     "Sullivan Mounsey": {
         "safety": 69,
-        "races": 13,
+        "races": 14,
         "contacts": 35,
         "clean_races": 1,
         "large_lobby_clean_streak": 0,
@@ -1522,10 +1522,26 @@
         "grade": "C"
     },
     "Shimmy": {
-        "safety": 126,
-        "races": 2,
+        "safety": 131,
+        "races": 3,
         "contacts": 2,
+        "clean_races": 2,
+        "large_lobby_clean_streak": 0,
+        "grade": "B"
+    },
+    "Xxx.Trayhard.xxX": {
+        "safety": 130,
+        "races": 1,
+        "contacts": 0,
         "clean_races": 1,
+        "large_lobby_clean_streak": 0,
+        "grade": "B"
+    },
+    "romeo": {
+        "safety": 125,
+        "races": 1,
+        "contacts": 0,
+        "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     }

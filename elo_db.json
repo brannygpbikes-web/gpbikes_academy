@@ -1086,15 +1086,21 @@
         "podiums": 0
     },
     "Shimmy": {
-        "elo": 1015,
-        "wins": 1,
-        "races": 2,
-        "podiums": 2
+        "elo": 1024,
+        "wins": 2,
+        "races": 3,
+        "podiums": 3
     },
     "braedonrichardson15": {
         "elo": 986,
         "wins": 0,
         "races": 1,
         "podiums": 0
+    },
+    "Xxx.Trayhard.xxX": {
+        "elo": 991,
+        "wins": 0,
+        "races": 1,
+        "podiums": 1
     }
 }

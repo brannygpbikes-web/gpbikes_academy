@@ -8749,6 +8749,15 @@
             "track": "",
             "finish": 1,
             "race_id": "af1d3a2c9f41f8e6c57f218b67e55d0bf5a2d1f084b897f3b2813c24f33201c3"
+        },
+        {
+            "date": "2026-11-20T17:40:17",
+            "elo": 1024,
+            "elo_before": 1015,
+            "change": 9,
+            "track": "",
+            "finish": 1,
+            "race_id": "528f0486f1e48ffdbdc34fb49d91f9b35f6b37b0ccdba992273fb2f3eeafea39"
         }
     ],
     "braedonrichardson15": [
@@ -8760,6 +8769,17 @@
             "track": "",
             "finish": 5,
             "race_id": "00043f6b94038bab0af4b32f012dddd8d776f6c93d869b17c1d8a17a868a0743"
+        }
+    ],
+    "Xxx.Trayhard.xxX": [
+        {
+            "date": "2026-11-20T17:40:17",
+            "elo": 991,
+            "elo_before": 1000,
+            "change": -9,
+            "track": "",
+            "finish": 2,
+            "race_id": "528f0486f1e48ffdbdc34fb49d91f9b35f6b37b0ccdba992273fb2f3eeafea39"
         }
     ]
 }
