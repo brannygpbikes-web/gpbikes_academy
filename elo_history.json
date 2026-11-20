@@ -8884,6 +8884,15 @@
             "track": "",
             "finish": 1,
             "race_id": "0f448c42fd044ab6337cdabc8a450c16764f34bfb1407ea8f3648e0c1bbb97e0"
+        },
+        {
+            "date": "2026-11-20T19:52:14",
+            "elo": 1037,
+            "elo_before": 1048,
+            "change": -11,
+            "track": "",
+            "finish": 2,
+            "race_id": "51d6409c2ff93c397dc96add5dddbc4cf02c1bdfb277b187c69526a8ffa99e22"
         }
     ],
     "braedonrichardson15": [
@@ -8939,6 +8948,15 @@
             "track": "",
             "finish": 2,
             "race_id": "0f448c42fd044ab6337cdabc8a450c16764f34bfb1407ea8f3648e0c1bbb97e0"
+        },
+        {
+            "date": "2026-11-20T19:52:14",
+            "elo": 1012,
+            "elo_before": 1001,
+            "change": 11,
+            "track": "",
+            "finish": 1,
+            "race_id": "51d6409c2ff93c397dc96add5dddbc4cf02c1bdfb277b187c69526a8ffa99e22"
         }
     ]
 }

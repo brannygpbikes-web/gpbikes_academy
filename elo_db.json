@@ -1086,10 +1086,10 @@
         "podiums": 0
     },
     "Shimmy": {
-        "elo": 1048,
+        "elo": 1037,
         "wins": 4,
-        "races": 5,
-        "podiums": 5
+        "races": 6,
+        "podiums": 6
     },
     "braedonrichardson15": {
         "elo": 986,
@@ -1116,9 +1116,9 @@
         "podiums": 0
     },
     "pableko": {
-        "elo": 1001,
-        "wins": 0,
-        "races": 1,
-        "podiums": 1
+        "elo": 1012,
+        "wins": 1,
+        "races": 2,
+        "podiums": 2
     }
 }
