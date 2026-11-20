@@ -3004,6 +3004,15 @@
             "track": "",
             "finish": 8,
             "race_id": "418b738e84878baa8e70df9742db23090f56e9aa89edd3fac6cca129e5ff1f79"
+        },
+        {
+            "date": "2026-11-20T21:25:08",
+            "elo": 918,
+            "elo_before": 915,
+            "change": 3,
+            "track": "",
+            "finish": 2,
+            "race_id": "37df6133b377b20ac4d6645bcc2cbd0d561e8e96d2aded7a829fa0c7af98714c"
         }
     ],
     "rayzenev": [
@@ -4264,6 +4273,15 @@
             "track": "",
             "finish": 1,
             "race_id": "ccaf8de42aa0635c5255b7c3b2466f38217003abef5a0977adb9faceb50dd066"
+        },
+        {
+            "date": "2026-11-20T21:25:08",
+            "elo": 1035,
+            "elo_before": 1027,
+            "change": 8,
+            "track": "",
+            "finish": 1,
+            "race_id": "37df6133b377b20ac4d6645bcc2cbd0d561e8e96d2aded7a829fa0c7af98714c"
         }
     ],
     "alexiis_1622": [
@@ -9103,6 +9121,17 @@
             "track": "",
             "finish": 3,
             "race_id": "418b738e84878baa8e70df9742db23090f56e9aa89edd3fac6cca129e5ff1f79"
+        }
+    ],
+    "Shoop46": [
+        {
+            "date": "2026-11-20T21:25:08",
+            "elo": 989,
+            "elo_before": 1000,
+            "change": -11,
+            "track": "",
+            "finish": 3,
+            "race_id": "37df6133b377b20ac4d6645bcc2cbd0d561e8e96d2aded7a829fa0c7af98714c"
         }
     ]
 }

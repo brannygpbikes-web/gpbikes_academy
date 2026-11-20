@@ -266,9 +266,9 @@
         "grade": "B"
     },
     "sergioo14": {
-        "safety": 23,
-        "races": 41,
-        "contacts": 100,
+        "safety": 5,
+        "races": 42,
+        "contacts": 106,
         "clean_races": 6,
         "large_lobby_clean_streak": 0,
         "grade": "E"
@@ -418,12 +418,12 @@
         "grade": "D"
     },
     "will 77": {
-        "safety": 87,
-        "races": 15,
-        "contacts": 35,
+        "safety": 69,
+        "races": 16,
+        "contacts": 41,
         "clean_races": 4,
         "large_lobby_clean_streak": 0,
-        "grade": "D"
+        "grade": "E"
     },
     "alexiis_1622": {
         "safety": 133,
@@ -1564,6 +1564,14 @@
     "Scottogden19": {
         "safety": 135,
         "races": 2,
+        "contacts": 0,
+        "clean_races": 1,
+        "large_lobby_clean_streak": 0,
+        "grade": "B"
+    },
+    "Shoop46": {
+        "safety": 130,
+        "races": 1,
         "contacts": 0,
         "clean_races": 1,
         "large_lobby_clean_streak": 0,

@@ -186,10 +186,10 @@
         "podiums": 1
     },
     "sergioo14": {
-        "elo": 915,
+        "elo": 918,
         "wins": 6,
-        "races": 38,
-        "podiums": 20
+        "races": 39,
+        "podiums": 21
     },
     "rayzenev": {
         "elo": 981,
@@ -294,10 +294,10 @@
         "podiums": 8
     },
     "will 77": {
-        "elo": 1027,
-        "wins": 3,
-        "races": 15,
-        "podiums": 7
+        "elo": 1035,
+        "wins": 4,
+        "races": 16,
+        "podiums": 8
     },
     "alexiis_1622": {
         "elo": 998,
@@ -1123,6 +1123,12 @@
     },
     "Scottogden19": {
         "elo": 1012,
+        "wins": 0,
+        "races": 1,
+        "podiums": 1
+    },
+    "Shoop46": {
+        "elo": 989,
         "wins": 0,
         "races": 1,
         "podiums": 1
