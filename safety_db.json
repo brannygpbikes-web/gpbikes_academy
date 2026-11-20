@@ -90,9 +90,9 @@
         "grade": "C"
     },
     "ShaiGP": {
-        "safety": 108,
-        "races": 11,
-        "contacts": 23,
+        "safety": 106,
+        "races": 12,
+        "contacts": 24,
         "clean_races": 3,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -138,9 +138,9 @@
         "grade": "C"
     },
     "moe": {
-        "safety": 173,
-        "races": 38,
-        "contacts": 40,
+        "safety": 171,
+        "races": 39,
+        "contacts": 41,
         "clean_races": 14,
         "large_lobby_clean_streak": 0,
         "grade": "A"
@@ -1354,9 +1354,9 @@
         "grade": "B"
     },
     "victorcubeles": {
-        "safety": 121,
-        "races": 1,
-        "contacts": 4,
+        "safety": 119,
+        "races": 2,
+        "contacts": 5,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -1522,9 +1522,9 @@
         "grade": "C"
     },
     "Shimmy": {
-        "safety": 131,
-        "races": 3,
-        "contacts": 2,
+        "safety": 129,
+        "races": 4,
+        "contacts": 3,
         "clean_races": 2,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -1544,5 +1544,13 @@
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
+    },
+    "Lookin": {
+        "safety": 130,
+        "races": 1,
+        "contacts": 0,
+        "clean_races": 1,
+        "large_lobby_clean_streak": 0,
+        "grade": "B"
     }
 }

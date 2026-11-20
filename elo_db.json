@@ -66,10 +66,10 @@
         "podiums": 15
     },
     "ShaiGP": {
-        "elo": 1030,
+        "elo": 1029,
         "wins": 2,
-        "races": 11,
-        "podiums": 7
+        "races": 12,
+        "podiums": 8
     },
     "tacticworks": {
         "elo": 1104,
@@ -96,9 +96,9 @@
         "podiums": 1
     },
     "moe": {
-        "elo": 965,
+        "elo": 959,
         "wins": 1,
-        "races": 32,
+        "races": 33,
         "podiums": 10
     },
     "moleo": {
@@ -966,10 +966,10 @@
         "podiums": 0
     },
     "victorcubeles": {
-        "elo": 1002,
+        "elo": 1010,
         "wins": 0,
-        "races": 1,
-        "podiums": 0
+        "races": 2,
+        "podiums": 1
     },
     "Mario_29": {
         "elo": 975,
@@ -1086,10 +1086,10 @@
         "podiums": 0
     },
     "Shimmy": {
-        "elo": 1024,
-        "wins": 2,
-        "races": 3,
-        "podiums": 3
+        "elo": 1039,
+        "wins": 3,
+        "races": 4,
+        "podiums": 4
     },
     "braedonrichardson15": {
         "elo": 986,
@@ -1105,6 +1105,12 @@
     },
     "romeo": {
         "elo": 979,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
+    },
+    "Lookin": {
+        "elo": 984,
         "wins": 0,
         "races": 1,
         "podiums": 0
