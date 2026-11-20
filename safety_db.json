@@ -314,9 +314,9 @@
         "grade": "B"
     },
     "SleppyGame23": {
-        "safety": 132,
-        "races": 6,
-        "contacts": 7,
+        "safety": 129,
+        "races": 7,
+        "contacts": 8,
         "clean_races": 2,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -418,9 +418,9 @@
         "grade": "D"
     },
     "will 77": {
-        "safety": 98,
-        "races": 12,
-        "contacts": 30,
+        "safety": 95,
+        "races": 13,
+        "contacts": 31,
         "clean_races": 4,
         "large_lobby_clean_streak": 0,
         "grade": "D"
@@ -714,10 +714,10 @@
         "grade": "B"
     },
     "EgoMan": {
-        "safety": 102,
-        "races": 33,
+        "safety": 107,
+        "races": 34,
         "contacts": 65,
-        "clean_races": 10,
+        "clean_races": 11,
         "large_lobby_clean_streak": 0,
         "grade": "C"
     },

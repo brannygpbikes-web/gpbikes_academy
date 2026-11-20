@@ -3479,6 +3479,15 @@
             "track": "",
             "finish": 2,
             "race_id": "2093d33d4b3fbfab67331362aee861dcd9917bd212105223921bd55c7539a9be"
+        },
+        {
+            "date": "2026-11-20T18:26:40",
+            "elo": 1012,
+            "elo_before": 1013,
+            "change": -1,
+            "track": "",
+            "finish": 2,
+            "race_id": "b756c0463ec192e1e02039d3033a1348f9d43ba4616881ad61224208fda8f47a"
         }
     ],
     "The Gyatt": [
@@ -4183,6 +4192,15 @@
             "track": "",
             "finish": 3,
             "race_id": "2093d33d4b3fbfab67331362aee861dcd9917bd212105223921bd55c7539a9be"
+        },
+        {
+            "date": "2026-11-20T18:26:40",
+            "elo": 990,
+            "elo_before": 980,
+            "change": 10,
+            "track": "",
+            "finish": 1,
+            "race_id": "b756c0463ec192e1e02039d3033a1348f9d43ba4616881ad61224208fda8f47a"
         }
     ],
     "alexiis_1622": [
@@ -6064,6 +6082,15 @@
             "track": "",
             "finish": 4,
             "race_id": "2093d33d4b3fbfab67331362aee861dcd9917bd212105223921bd55c7539a9be"
+        },
+        {
+            "date": "2026-11-20T18:26:40",
+            "elo": 985,
+            "elo_before": 994,
+            "change": -9,
+            "track": "",
+            "finish": 3,
+            "race_id": "b756c0463ec192e1e02039d3033a1348f9d43ba4616881ad61224208fda8f47a"
         }
     ],
     "MARCO": [
