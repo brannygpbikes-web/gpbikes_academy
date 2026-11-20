@@ -186,9 +186,9 @@
         "podiums": 1
     },
     "sergioo14": {
-        "elo": 939,
+        "elo": 915,
         "wins": 6,
-        "races": 37,
+        "races": 38,
         "podiums": 20
     },
     "rayzenev": {
@@ -294,10 +294,10 @@
         "podiums": 8
     },
     "will 77": {
-        "elo": 990,
+        "elo": 1011,
         "wins": 2,
-        "races": 13,
-        "podiums": 5
+        "races": 14,
+        "podiums": 6
     },
     "alexiis_1622": {
         "elo": 998,
@@ -510,9 +510,9 @@
         "podiums": 1
     },
     "EgoMan": {
-        "elo": 985,
+        "elo": 990,
         "wins": 5,
-        "races": 30,
+        "races": 31,
         "podiums": 12
     },
     "MARCO": {
@@ -546,10 +546,10 @@
         "podiums": 2
     },
     "Riccardo": {
-        "elo": 998,
-        "wins": 0,
-        "races": 1,
-        "podiums": 0
+        "elo": 1026,
+        "wins": 1,
+        "races": 2,
+        "podiums": 1
     },
     "Speedy4RL": {
         "elo": 1011,
@@ -1086,9 +1086,9 @@
         "podiums": 0
     },
     "Shimmy": {
-        "elo": 1039,
+        "elo": 1014,
         "wins": 4,
-        "races": 7,
+        "races": 8,
         "podiums": 7
     },
     "braedonrichardson15": {
@@ -1104,9 +1104,9 @@
         "podiums": 1
     },
     "romeo": {
-        "elo": 964,
+        "elo": 963,
         "wins": 0,
-        "races": 2,
+        "races": 3,
         "podiums": 0
     },
     "Lookin": {
@@ -1116,9 +1116,15 @@
         "podiums": 0
     },
     "pableko": {
-        "elo": 1027,
+        "elo": 1011,
         "wins": 2,
-        "races": 3,
+        "races": 4,
         "podiums": 3
+    },
+    "Scottogden19": {
+        "elo": 1012,
+        "wins": 0,
+        "races": 1,
+        "podiums": 1
     }
 }
