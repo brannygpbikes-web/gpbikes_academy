@@ -2586,6 +2586,15 @@
             "track": "",
             "finish": 2,
             "race_id": "ded412744bf1fd749ed6380516440b614ad5c5742ea39eea0ad8c2c4dcae18b6"
+        },
+        {
+            "date": "2026-11-20T16:34:10",
+            "elo": 1020,
+            "elo_before": 1010,
+            "change": 10,
+            "track": "",
+            "finish": 1,
+            "race_id": "664cdb9e71328870c7871b4581d45d6329d35ffe8530e9285ab2b476678500b1"
         }
     ],
     "xXxDeadpoolxXx": [
@@ -2905,6 +2914,15 @@
             "track": "",
             "finish": 2,
             "race_id": "aead20011aac8686c37284fcbd62957e0f8046a0231895a470fd56a063941365"
+        },
+        {
+            "date": "2026-11-20T16:34:10",
+            "elo": 942,
+            "elo_before": 939,
+            "change": 3,
+            "track": "",
+            "finish": 2,
+            "race_id": "664cdb9e71328870c7871b4581d45d6329d35ffe8530e9285ab2b476678500b1"
         }
     ],
     "rayzenev": [
@@ -7712,6 +7730,15 @@
             "track": "",
             "finish": 1,
             "race_id": "ded412744bf1fd749ed6380516440b614ad5c5742ea39eea0ad8c2c4dcae18b6"
+        },
+        {
+            "date": "2026-11-20T16:34:10",
+            "elo": 1077,
+            "elo_before": 1090,
+            "change": -13,
+            "track": "",
+            "finish": 3,
+            "race_id": "664cdb9e71328870c7871b4581d45d6329d35ffe8530e9285ab2b476678500b1"
         }
     ],
     "skalf": [
