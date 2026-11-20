@@ -4255,6 +4255,15 @@
             "track": "",
             "finish": 2,
             "race_id": "418b738e84878baa8e70df9742db23090f56e9aa89edd3fac6cca129e5ff1f79"
+        },
+        {
+            "date": "2026-11-20T21:03:18",
+            "elo": 1027,
+            "elo_before": 1011,
+            "change": 16,
+            "track": "",
+            "finish": 1,
+            "race_id": "ccaf8de42aa0635c5255b7c3b2466f38217003abef5a0977adb9faceb50dd066"
         }
     ],
     "alexiis_1622": [
@@ -6154,6 +6163,15 @@
             "track": "",
             "finish": 4,
             "race_id": "418b738e84878baa8e70df9742db23090f56e9aa89edd3fac6cca129e5ff1f79"
+        },
+        {
+            "date": "2026-11-20T21:03:18",
+            "elo": 975,
+            "elo_before": 990,
+            "change": -15,
+            "track": "",
+            "finish": 4,
+            "race_id": "ccaf8de42aa0635c5255b7c3b2466f38217003abef5a0977adb9faceb50dd066"
         }
     ],
     "MARCO": [
@@ -6382,6 +6400,15 @@
             "track": "",
             "finish": 1,
             "race_id": "418b738e84878baa8e70df9742db23090f56e9aa89edd3fac6cca129e5ff1f79"
+        },
+        {
+            "date": "2026-11-20T21:03:18",
+            "elo": 1031,
+            "elo_before": 1026,
+            "change": 5,
+            "track": "",
+            "finish": 2,
+            "race_id": "ccaf8de42aa0635c5255b7c3b2466f38217003abef5a0977adb9faceb50dd066"
         }
     ],
     "Speedy4RL": [
@@ -7094,6 +7121,15 @@
             "track": "",
             "finish": 3,
             "race_id": "d272b61556eca3c38387f5d19f382c02724d00e886b4a209a0639c2fd8f7e9f5"
+        },
+        {
+            "date": "2026-11-20T21:03:18",
+            "elo": 1023,
+            "elo_before": 1029,
+            "change": -6,
+            "track": "",
+            "finish": 3,
+            "race_id": "ccaf8de42aa0635c5255b7c3b2466f38217003abef5a0977adb9faceb50dd066"
         }
     ],
     "Raceboi95": [
