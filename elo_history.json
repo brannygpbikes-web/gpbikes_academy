@@ -6981,6 +6981,15 @@
             "track": "",
             "finish": 6,
             "race_id": "2ac9bed65eaea1f525aab9fb5135894dd5154d8d49b9150862ad6f648a459cb7"
+        },
+        {
+            "date": "2026-11-20T22:58:02",
+            "elo": 1002,
+            "elo_before": 996,
+            "change": 6,
+            "track": "",
+            "finish": 2,
+            "race_id": "5e0e198ee60052a553f1f44b048ccdc8ddffe9226651bab29e63cb900c7e75b5"
         }
     ],
     "teolato": [
@@ -7081,6 +7090,15 @@
             "track": "",
             "finish": 13,
             "race_id": "c99926c5358fbeeae0c4f89a927d2c1b871e355d43b0901a94c5021cfe4884e8"
+        },
+        {
+            "date": "2026-11-20T22:58:02",
+            "elo": 975,
+            "elo_before": 990,
+            "change": -15,
+            "track": "",
+            "finish": 4,
+            "race_id": "5e0e198ee60052a553f1f44b048ccdc8ddffe9226651bab29e63cb900c7e75b5"
         }
     ],
     "Maximoquiles28": [
@@ -8595,6 +8613,15 @@
             "track": "",
             "finish": 6,
             "race_id": "691fc25c90612b2176586763d10f34d0dbb4d746343860ef5575ba020cf2e4f7"
+        },
+        {
+            "date": "2026-11-20T22:58:02",
+            "elo": 1046,
+            "elo_before": 1031,
+            "change": 15,
+            "track": "",
+            "finish": 1,
+            "race_id": "5e0e198ee60052a553f1f44b048ccdc8ddffe9226651bab29e63cb900c7e75b5"
         }
     ],
     "Sergi04ab": [
@@ -8633,6 +8660,15 @@
             "track": "",
             "finish": 2,
             "race_id": "9af6e701ddd46148df346b01b1704f32d97868575e05bd869d6732e1a7061d8d"
+        },
+        {
+            "date": "2026-11-20T22:58:02",
+            "elo": 1006,
+            "elo_before": 1012,
+            "change": -6,
+            "track": "",
+            "finish": 3,
+            "race_id": "5e0e198ee60052a553f1f44b048ccdc8ddffe9226651bab29e63cb900c7e75b5"
         }
     ],
     "Yuri Semenov": [
