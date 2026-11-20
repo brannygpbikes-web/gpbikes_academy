@@ -90,10 +90,10 @@
         "grade": "C"
     },
     "ShaiGP": {
-        "safety": 106,
-        "races": 12,
+        "safety": 111,
+        "races": 13,
         "contacts": 24,
-        "clean_races": 3,
+        "clean_races": 4,
         "large_lobby_clean_streak": 0,
         "grade": "C"
     },
@@ -1522,10 +1522,10 @@
         "grade": "C"
     },
     "Shimmy": {
-        "safety": 129,
-        "races": 4,
+        "safety": 134,
+        "races": 5,
         "contacts": 3,
-        "clean_races": 2,
+        "clean_races": 3,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     },
@@ -1546,6 +1546,14 @@
         "grade": "C"
     },
     "Lookin": {
+        "safety": 130,
+        "races": 1,
+        "contacts": 0,
+        "clean_races": 1,
+        "large_lobby_clean_streak": 0,
+        "grade": "B"
+    },
+    "pableko": {
         "safety": 130,
         "races": 1,
         "contacts": 0,

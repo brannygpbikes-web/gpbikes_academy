@@ -66,10 +66,10 @@
         "podiums": 15
     },
     "ShaiGP": {
-        "elo": 1029,
+        "elo": 1019,
         "wins": 2,
-        "races": 12,
-        "podiums": 8
+        "races": 13,
+        "podiums": 9
     },
     "tacticworks": {
         "elo": 1104,
@@ -1086,10 +1086,10 @@
         "podiums": 0
     },
     "Shimmy": {
-        "elo": 1039,
-        "wins": 3,
-        "races": 4,
-        "podiums": 4
+        "elo": 1048,
+        "wins": 4,
+        "races": 5,
+        "podiums": 5
     },
     "braedonrichardson15": {
         "elo": 986,
@@ -1114,5 +1114,11 @@
         "wins": 0,
         "races": 1,
         "podiums": 0
+    },
+    "pableko": {
+        "elo": 1001,
+        "wins": 0,
+        "races": 1,
+        "podiums": 1
     }
 }

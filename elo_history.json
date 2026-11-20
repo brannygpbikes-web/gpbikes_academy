@@ -1299,6 +1299,15 @@
             "track": "",
             "finish": 3,
             "race_id": "0710226db840c10bd516a1f23ddeab84aa3ce2a516e3f637f68ebdb6412c0e11"
+        },
+        {
+            "date": "2026-11-20T19:30:28",
+            "elo": 1019,
+            "elo_before": 1029,
+            "change": -10,
+            "track": "",
+            "finish": 3,
+            "race_id": "0f448c42fd044ab6337cdabc8a450c16764f34bfb1407ea8f3648e0c1bbb97e0"
         }
     ],
     "tacticworks": [
@@ -8866,6 +8875,15 @@
             "track": "",
             "finish": 1,
             "race_id": "0710226db840c10bd516a1f23ddeab84aa3ce2a516e3f637f68ebdb6412c0e11"
+        },
+        {
+            "date": "2026-11-20T19:30:28",
+            "elo": 1048,
+            "elo_before": 1039,
+            "change": 9,
+            "track": "",
+            "finish": 1,
+            "race_id": "0f448c42fd044ab6337cdabc8a450c16764f34bfb1407ea8f3648e0c1bbb97e0"
         }
     ],
     "braedonrichardson15": [
@@ -8910,6 +8928,17 @@
             "track": "",
             "finish": 5,
             "race_id": "0710226db840c10bd516a1f23ddeab84aa3ce2a516e3f637f68ebdb6412c0e11"
+        }
+    ],
+    "pableko": [
+        {
+            "date": "2026-11-20T19:30:28",
+            "elo": 1001,
+            "elo_before": 1000,
+            "change": 1,
+            "track": "",
+            "finish": 2,
+            "race_id": "0f448c42fd044ab6337cdabc8a450c16764f34bfb1407ea8f3648e0c1bbb97e0"
         }
     ]
 }
