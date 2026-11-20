@@ -2595,6 +2595,15 @@
             "track": "",
             "finish": 1,
             "race_id": "664cdb9e71328870c7871b4581d45d6329d35ffe8530e9285ab2b476678500b1"
+        },
+        {
+            "date": "2026-11-20T16:56:27",
+            "elo": 1040,
+            "elo_before": 1020,
+            "change": 20,
+            "track": "",
+            "finish": 1,
+            "race_id": "00043f6b94038bab0af4b32f012dddd8d776f6c93d869b17c1d8a17a868a0743"
         }
     ],
     "xXxDeadpoolxXx": [
@@ -2923,6 +2932,15 @@
             "track": "",
             "finish": 2,
             "race_id": "664cdb9e71328870c7871b4581d45d6329d35ffe8530e9285ab2b476678500b1"
+        },
+        {
+            "date": "2026-11-20T16:56:27",
+            "elo": 941,
+            "elo_before": 942,
+            "change": -1,
+            "track": "",
+            "finish": 4,
+            "race_id": "00043f6b94038bab0af4b32f012dddd8d776f6c93d869b17c1d8a17a868a0743"
         }
     ],
     "rayzenev": [
@@ -5685,6 +5703,15 @@
             "track": "",
             "finish": 4,
             "race_id": "ded412744bf1fd749ed6380516440b614ad5c5742ea39eea0ad8c2c4dcae18b6"
+        },
+        {
+            "date": "2026-11-20T16:56:27",
+            "elo": 1022,
+            "elo_before": 1010,
+            "change": 12,
+            "track": "",
+            "finish": 2,
+            "race_id": "00043f6b94038bab0af4b32f012dddd8d776f6c93d869b17c1d8a17a868a0743"
         }
     ],
     "El-Ninety-Nine": [
@@ -6106,6 +6133,15 @@
             "track": "",
             "finish": 10,
             "race_id": "c99926c5358fbeeae0c4f89a927d2c1b871e355d43b0901a94c5021cfe4884e8"
+        },
+        {
+            "date": "2026-11-20T16:56:27",
+            "elo": 952,
+            "elo_before": 973,
+            "change": -21,
+            "track": "",
+            "finish": 6,
+            "race_id": "00043f6b94038bab0af4b32f012dddd8d776f6c93d869b17c1d8a17a868a0743"
         }
     ],
     "Quidel Gaétan": [
@@ -8684,6 +8720,28 @@
             "track": "",
             "finish": 12,
             "race_id": "d272b61556eca3c38387f5d19f382c02724d00e886b4a209a0639c2fd8f7e9f5"
+        }
+    ],
+    "Shimmy": [
+        {
+            "date": "2026-11-20T16:56:27",
+            "elo": 1004,
+            "elo_before": 1000,
+            "change": 4,
+            "track": "",
+            "finish": 3,
+            "race_id": "00043f6b94038bab0af4b32f012dddd8d776f6c93d869b17c1d8a17a868a0743"
+        }
+    ],
+    "braedonrichardson15": [
+        {
+            "date": "2026-11-20T16:56:27",
+            "elo": 986,
+            "elo_before": 1000,
+            "change": -14,
+            "track": "",
+            "finish": 5,
+            "race_id": "00043f6b94038bab0af4b32f012dddd8d776f6c93d869b17c1d8a17a868a0743"
         }
     ]
 }
