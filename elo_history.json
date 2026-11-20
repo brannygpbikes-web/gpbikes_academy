@@ -2986,6 +2986,15 @@
             "track": "",
             "finish": 4,
             "race_id": "00043f6b94038bab0af4b32f012dddd8d776f6c93d869b17c1d8a17a868a0743"
+        },
+        {
+            "date": "2026-11-20T20:15:01",
+            "elo": 939,
+            "elo_before": 941,
+            "change": -2,
+            "track": "",
+            "finish": 3,
+            "race_id": "ef36741311601be19343060ca778f3178a707521e8bf2941b952623dbad999b8"
         }
     ],
     "rayzenev": [
@@ -8893,6 +8902,15 @@
             "track": "",
             "finish": 2,
             "race_id": "51d6409c2ff93c397dc96add5dddbc4cf02c1bdfb277b187c69526a8ffa99e22"
+        },
+        {
+            "date": "2026-11-20T20:15:01",
+            "elo": 1039,
+            "elo_before": 1037,
+            "change": 2,
+            "track": "",
+            "finish": 2,
+            "race_id": "ef36741311601be19343060ca778f3178a707521e8bf2941b952623dbad999b8"
         }
     ],
     "braedonrichardson15": [
@@ -8926,6 +8944,15 @@
             "track": "",
             "finish": 6,
             "race_id": "2093d33d4b3fbfab67331362aee861dcd9917bd212105223921bd55c7539a9be"
+        },
+        {
+            "date": "2026-11-20T20:15:01",
+            "elo": 964,
+            "elo_before": 979,
+            "change": -15,
+            "track": "",
+            "finish": 4,
+            "race_id": "ef36741311601be19343060ca778f3178a707521e8bf2941b952623dbad999b8"
         }
     ],
     "Lookin": [
@@ -8957,6 +8984,15 @@
             "track": "",
             "finish": 1,
             "race_id": "51d6409c2ff93c397dc96add5dddbc4cf02c1bdfb277b187c69526a8ffa99e22"
+        },
+        {
+            "date": "2026-11-20T20:15:01",
+            "elo": 1027,
+            "elo_before": 1012,
+            "change": 15,
+            "track": "",
+            "finish": 1,
+            "race_id": "ef36741311601be19343060ca778f3178a707521e8bf2941b952623dbad999b8"
         }
     ]
 }

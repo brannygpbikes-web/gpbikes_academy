@@ -266,9 +266,9 @@
         "grade": "B"
     },
     "sergioo14": {
-        "safety": 47,
-        "races": 39,
-        "contacts": 88,
+        "safety": 27,
+        "races": 40,
+        "contacts": 98,
         "clean_races": 6,
         "large_lobby_clean_streak": 0,
         "grade": "E"
@@ -715,7 +715,7 @@
     },
     "EgoMan": {
         "safety": 107,
-        "races": 34,
+        "races": 35,
         "contacts": 65,
         "clean_races": 11,
         "large_lobby_clean_streak": 0,
@@ -1522,9 +1522,9 @@
         "grade": "C"
     },
     "Shimmy": {
-        "safety": 139,
-        "races": 6,
-        "contacts": 3,
+        "safety": 129,
+        "races": 7,
+        "contacts": 8,
         "clean_races": 4,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -1538,9 +1538,9 @@
         "grade": "B"
     },
     "romeo": {
-        "safety": 121,
-        "races": 2,
-        "contacts": 2,
+        "safety": 101,
+        "races": 3,
+        "contacts": 12,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -1554,10 +1554,18 @@
         "grade": "B"
     },
     "pableko": {
-        "safety": 135,
-        "races": 2,
-        "contacts": 0,
+        "safety": 121,
+        "races": 3,
+        "contacts": 7,
         "clean_races": 2,
+        "large_lobby_clean_streak": 0,
+        "grade": "C"
+    },
+    "Scottogden19": {
+        "safety": 125,
+        "races": 1,
+        "contacts": 0,
+        "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     }
