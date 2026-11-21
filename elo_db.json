@@ -24,10 +24,10 @@
         "podiums": 3
     },
     "Billy Jones": {
-        "elo": 996,
+        "elo": 997,
         "wins": 1,
-        "races": 3,
-        "podiums": 2
+        "races": 4,
+        "podiums": 3
     },
     "sandnes": {
         "elo": 994,
@@ -132,10 +132,10 @@
         "podiums": 5
     },
     "HectorLl93": {
-        "elo": 1028,
+        "elo": 1018,
         "wins": 0,
-        "races": 11,
-        "podiums": 3
+        "races": 12,
+        "podiums": 4
     },
     "collinlanger96": {
         "elo": 895,
@@ -1134,10 +1134,10 @@
         "podiums": 1
     },
     "Triton": {
-        "elo": 1051,
-        "wins": 2,
-        "races": 2,
-        "podiums": 2
+        "elo": 1060,
+        "wins": 3,
+        "races": 3,
+        "podiums": 3
     },
     "Boxeador": {
         "elo": 994,

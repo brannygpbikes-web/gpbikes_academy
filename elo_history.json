@@ -826,6 +826,15 @@
             "track": "",
             "finish": 12,
             "race_id": "0f5cb702c0d2f2f9ea3f5dfb67614f63637003cbaabb637b035e22e9752d1587"
+        },
+        {
+            "date": "2026-11-21T17:38:05",
+            "elo": 997,
+            "elo_before": 996,
+            "change": 1,
+            "track": "",
+            "finish": 2,
+            "race_id": "bc3edc714c7d38de0f63f8af661a0b52b2884ed798342b89c73864be10317015"
         }
     ],
     "sandnes": [
@@ -2293,6 +2302,15 @@
             "track": "",
             "finish": 5,
             "race_id": "228674c4317bf93a1f927fc911d9833341c1f8aef26206e173a27f842be6b03b"
+        },
+        {
+            "date": "2026-11-21T17:38:05",
+            "elo": 1018,
+            "elo_before": 1028,
+            "change": -10,
+            "track": "",
+            "finish": 3,
+            "race_id": "bc3edc714c7d38de0f63f8af661a0b52b2884ed798342b89c73864be10317015"
         }
     ],
     "collinlanger96": [
@@ -9656,6 +9674,15 @@
             "track": "",
             "finish": 1,
             "race_id": "e7cd67ba811af7060d1369ea629be4c9e8892d919c78ec875132c0df77478d46"
+        },
+        {
+            "date": "2026-11-21T17:38:05",
+            "elo": 1060,
+            "elo_before": 1051,
+            "change": 9,
+            "track": "",
+            "finish": 1,
+            "race_id": "bc3edc714c7d38de0f63f8af661a0b52b2884ed798342b89c73864be10317015"
         }
     ],
     "Boxeador": [
