@@ -12,10 +12,10 @@
         "podiums": 10
     },
     "Miquel_Sinke60": {
-        "elo": 1123,
+        "elo": 1135,
         "wins": 11,
-        "races": 35,
-        "podiums": 23
+        "races": 36,
+        "podiums": 24
     },
     "Rk_44": {
         "elo": 858,
@@ -96,9 +96,9 @@
         "podiums": 1
     },
     "moe": {
-        "elo": 954,
+        "elo": 959,
         "wins": 1,
-        "races": 35,
+        "races": 36,
         "podiums": 12
     },
     "moleo": {
@@ -312,10 +312,10 @@
         "podiums": 0
     },
     "BNJMN": {
-        "elo": 1034,
-        "wins": 2,
-        "races": 6,
-        "podiums": 4
+        "elo": 1061,
+        "wins": 3,
+        "races": 7,
+        "podiums": 5
     },
     "A.Garcia": {
         "elo": 1004,
@@ -414,9 +414,9 @@
         "podiums": 1
     },
     "chilliams": {
-        "elo": 1003,
+        "elo": 989,
         "wins": 1,
-        "races": 11,
+        "races": 12,
         "podiums": 5
     },
     "thecrivi28": {
@@ -462,9 +462,9 @@
         "podiums": 0
     },
     "jmanuel_fs": {
-        "elo": 968,
+        "elo": 979,
         "wins": 0,
-        "races": 5,
+        "races": 6,
         "podiums": 0
     },
     "Nuno": {
@@ -480,9 +480,9 @@
         "podiums": 0
     },
     "izan curia": {
-        "elo": 1045,
+        "elo": 1013,
         "wins": 1,
-        "races": 11,
+        "races": 12,
         "podiums": 8
     },
     "El-Ninety-Nine": {
@@ -606,10 +606,10 @@
         "podiums": 0
     },
     "Tarmacsurfer": {
-        "elo": 989,
+        "elo": 1006,
         "wins": 1,
-        "races": 8,
-        "podiums": 1
+        "races": 9,
+        "podiums": 2
     },
     "IG: tom_kuil_racing": {
         "elo": 1017,
@@ -684,9 +684,9 @@
         "podiums": 2
     },
     "alejandroo226": {
-        "elo": 996,
+        "elo": 976,
         "wins": 0,
-        "races": 9,
+        "races": 10,
         "podiums": 4
     },
     "Raceboi95": {
@@ -1138,5 +1138,11 @@
         "wins": 2,
         "races": 2,
         "podiums": 2
+    },
+    "Boxeador": {
+        "elo": 994,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
     }
 }
