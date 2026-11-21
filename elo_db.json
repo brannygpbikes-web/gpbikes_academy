@@ -414,9 +414,9 @@
         "podiums": 1
     },
     "chilliams": {
-        "elo": 1027,
+        "elo": 1003,
         "wins": 1,
-        "races": 10,
+        "races": 11,
         "podiums": 5
     },
     "thecrivi28": {
@@ -462,9 +462,9 @@
         "podiums": 0
     },
     "jmanuel_fs": {
-        "elo": 989,
+        "elo": 977,
         "wins": 0,
-        "races": 3,
+        "races": 4,
         "podiums": 0
     },
     "Nuno": {
@@ -480,10 +480,10 @@
         "podiums": 0
     },
     "izan curia": {
-        "elo": 1022,
+        "elo": 1026,
         "wins": 1,
-        "races": 9,
-        "podiums": 6
+        "races": 10,
+        "podiums": 7
     },
     "El-Ninety-Nine": {
         "elo": 995,
@@ -522,10 +522,10 @@
         "podiums": 4
     },
     "Dani": {
-        "elo": 990,
+        "elo": 1005,
         "wins": 0,
-        "races": 4,
-        "podiums": 1
+        "races": 5,
+        "podiums": 2
     },
     "AITORGP": {
         "elo": 952,
@@ -684,9 +684,9 @@
         "podiums": 2
     },
     "alejandroo226": {
-        "elo": 1023,
+        "elo": 1017,
         "wins": 0,
-        "races": 7,
+        "races": 8,
         "podiums": 4
     },
     "Raceboi95": {
@@ -1130,6 +1130,12 @@
     "Shoop46": {
         "elo": 989,
         "wins": 0,
+        "races": 1,
+        "podiums": 1
+    },
+    "Triton": {
+        "elo": 1023,
+        "wins": 1,
         "races": 1,
         "podiums": 1
     }
