@@ -2378,6 +2378,15 @@
             "track": "",
             "finish": 3,
             "race_id": "bdc32ef87ac5d30e5b2332b83343978f2b2130fb775e7a2056b8d90b57f2a3ce"
+        },
+        {
+            "date": "2026-11-21T15:47:19",
+            "elo": 1029,
+            "elo_before": 1036,
+            "change": -7,
+            "track": "",
+            "finish": 5,
+            "race_id": "e7cd67ba811af7060d1369ea629be4c9e8892d919c78ec875132c0df77478d46"
         }
     ],
     "Kancooi77skins.army": [
@@ -4405,6 +4414,15 @@
             "track": "",
             "finish": 2,
             "race_id": "62607d65559d140ccc89b29d197f26ee3f3cf5e8611e6044c153c29a87d0462e"
+        },
+        {
+            "date": "2026-11-21T15:47:19",
+            "elo": 1034,
+            "elo_before": 1023,
+            "change": 11,
+            "track": "",
+            "finish": 3,
+            "race_id": "e7cd67ba811af7060d1369ea629be4c9e8892d919c78ec875132c0df77478d46"
         }
     ],
     "A.Garcia": [
@@ -5652,6 +5670,15 @@
             "track": "",
             "finish": 5,
             "race_id": "0dd9b09a7b870b75ec245e0e312cf6cd0192b6ef078b6af4107bcbcb5e276860"
+        },
+        {
+            "date": "2026-11-21T15:47:19",
+            "elo": 968,
+            "elo_before": 977,
+            "change": -9,
+            "track": "",
+            "finish": 6,
+            "race_id": "e7cd67ba811af7060d1369ea629be4c9e8892d919c78ec875132c0df77478d46"
         }
     ],
     "Nuno": [
@@ -5901,6 +5928,15 @@
             "track": "",
             "finish": 3,
             "race_id": "0dd9b09a7b870b75ec245e0e312cf6cd0192b6ef078b6af4107bcbcb5e276860"
+        },
+        {
+            "date": "2026-11-21T15:47:19",
+            "elo": 1045,
+            "elo_before": 1026,
+            "change": 19,
+            "track": "",
+            "finish": 2,
+            "race_id": "e7cd67ba811af7060d1369ea629be4c9e8892d919c78ec875132c0df77478d46"
         }
     ],
     "El-Ninety-Nine": [
@@ -6329,6 +6365,15 @@
             "track": "",
             "finish": 2,
             "race_id": "0dd9b09a7b870b75ec245e0e312cf6cd0192b6ef078b6af4107bcbcb5e276860"
+        },
+        {
+            "date": "2026-11-21T15:47:19",
+            "elo": 977,
+            "elo_before": 1005,
+            "change": -28,
+            "track": "",
+            "finish": 8,
+            "race_id": "e7cd67ba811af7060d1369ea629be4c9e8892d919c78ec875132c0df77478d46"
         }
     ],
     "AITORGP": [
@@ -6852,6 +6897,15 @@
             "track": "",
             "finish": 8,
             "race_id": "c742f1464dbe14ac80193243f5a69ba729eceb7fbadc56c963615960f3c44813"
+        },
+        {
+            "date": "2026-11-21T15:47:19",
+            "elo": 989,
+            "elo_before": 982,
+            "change": 7,
+            "track": "",
+            "finish": 4,
+            "race_id": "e7cd67ba811af7060d1369ea629be4c9e8892d919c78ec875132c0df77478d46"
         }
     ],
     "IG: tom_kuil_racing": [
@@ -7265,6 +7319,15 @@
             "track": "",
             "finish": 4,
             "race_id": "0dd9b09a7b870b75ec245e0e312cf6cd0192b6ef078b6af4107bcbcb5e276860"
+        },
+        {
+            "date": "2026-11-21T15:47:19",
+            "elo": 996,
+            "elo_before": 1017,
+            "change": -21,
+            "track": "",
+            "finish": 7,
+            "race_id": "e7cd67ba811af7060d1369ea629be4c9e8892d919c78ec875132c0df77478d46"
         }
     ],
     "Raceboi95": [
@@ -9296,6 +9359,15 @@
             "track": "",
             "finish": 1,
             "race_id": "0dd9b09a7b870b75ec245e0e312cf6cd0192b6ef078b6af4107bcbcb5e276860"
+        },
+        {
+            "date": "2026-11-21T15:47:19",
+            "elo": 1051,
+            "elo_before": 1023,
+            "change": 28,
+            "track": "",
+            "finish": 1,
+            "race_id": "e7cd67ba811af7060d1369ea629be4c9e8892d919c78ec875132c0df77478d46"
         }
     ]
 }

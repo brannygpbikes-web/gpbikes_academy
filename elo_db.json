@@ -144,9 +144,9 @@
         "podiums": 2
     },
     "Postal": {
-        "elo": 1036,
+        "elo": 1029,
         "wins": 0,
-        "races": 6,
+        "races": 7,
         "podiums": 3
     },
     "Kancooi77skins.army": {
@@ -312,10 +312,10 @@
         "podiums": 0
     },
     "BNJMN": {
-        "elo": 1023,
+        "elo": 1034,
         "wins": 2,
-        "races": 5,
-        "podiums": 3
+        "races": 6,
+        "podiums": 4
     },
     "A.Garcia": {
         "elo": 1004,
@@ -462,9 +462,9 @@
         "podiums": 0
     },
     "jmanuel_fs": {
-        "elo": 977,
+        "elo": 968,
         "wins": 0,
-        "races": 4,
+        "races": 5,
         "podiums": 0
     },
     "Nuno": {
@@ -480,10 +480,10 @@
         "podiums": 0
     },
     "izan curia": {
-        "elo": 1026,
+        "elo": 1045,
         "wins": 1,
-        "races": 10,
-        "podiums": 7
+        "races": 11,
+        "podiums": 8
     },
     "El-Ninety-Nine": {
         "elo": 995,
@@ -522,9 +522,9 @@
         "podiums": 4
     },
     "Dani": {
-        "elo": 1005,
+        "elo": 977,
         "wins": 0,
-        "races": 5,
+        "races": 6,
         "podiums": 2
     },
     "AITORGP": {
@@ -606,9 +606,9 @@
         "podiums": 0
     },
     "Tarmacsurfer": {
-        "elo": 982,
+        "elo": 989,
         "wins": 1,
-        "races": 7,
+        "races": 8,
         "podiums": 1
     },
     "IG: tom_kuil_racing": {
@@ -684,9 +684,9 @@
         "podiums": 2
     },
     "alejandroo226": {
-        "elo": 1017,
+        "elo": 996,
         "wins": 0,
-        "races": 8,
+        "races": 9,
         "podiums": 4
     },
     "Raceboi95": {
@@ -1134,9 +1134,9 @@
         "podiums": 1
     },
     "Triton": {
-        "elo": 1023,
-        "wins": 1,
-        "races": 1,
-        "podiums": 1
+        "elo": 1051,
+        "wins": 2,
+        "races": 2,
+        "podiums": 2
     }
 }
