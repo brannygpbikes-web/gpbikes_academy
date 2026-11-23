@@ -80,6 +80,15 @@
             "track": "",
             "finish": 3,
             "race_id": "0d77a6b281071d38f1f4727a45807aebd95db3b0e5e2aac4152e4528de5dc417"
+        },
+        {
+            "date": "2026-11-23T17:04:26",
+            "elo": 1026,
+            "elo_before": 1018,
+            "change": 8,
+            "track": "",
+            "finish": 1,
+            "race_id": "e39360370eb83aa433de0f30ea534b035f537483cf5cfc9f58104b2e55caf461"
         }
     ],
     "branny": [
@@ -1975,6 +1984,15 @@
             "track": "",
             "finish": 4,
             "race_id": "228674c4317bf93a1f927fc911d9833341c1f8aef26206e173a27f842be6b03b"
+        },
+        {
+            "date": "2026-11-23T17:04:26",
+            "elo": 956,
+            "elo_before": 964,
+            "change": -8,
+            "track": "",
+            "finish": 2,
+            "race_id": "e39360370eb83aa433de0f30ea534b035f537483cf5cfc9f58104b2e55caf461"
         }
     ],
     "moleo": [

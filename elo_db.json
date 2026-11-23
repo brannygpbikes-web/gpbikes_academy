@@ -1,9 +1,9 @@
 {
     "AhyaAL": {
-        "elo": 1018,
-        "wins": 2,
-        "races": 9,
-        "podiums": 4
+        "elo": 1026,
+        "wins": 3,
+        "races": 10,
+        "podiums": 5
     },
     "branny": {
         "elo": 1078,
@@ -96,10 +96,10 @@
         "podiums": 1
     },
     "moe": {
-        "elo": 964,
+        "elo": 956,
         "wins": 1,
-        "races": 39,
-        "podiums": 12
+        "races": 40,
+        "podiums": 13
     },
     "moleo": {
         "elo": 1040,

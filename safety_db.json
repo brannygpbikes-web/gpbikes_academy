@@ -16,10 +16,10 @@
         "grade": "D"
     },
     "AhyaAL": {
-        "safety": 171,
-        "races": 10,
+        "safety": 176,
+        "races": 11,
         "contacts": 7,
-        "clean_races": 6,
+        "clean_races": 7,
         "large_lobby_clean_streak": 0,
         "grade": "A"
     },
@@ -138,10 +138,10 @@
         "grade": "C"
     },
     "moe": {
-        "safety": 183,
-        "races": 45,
+        "safety": 188,
+        "races": 46,
         "contacts": 47,
-        "clean_races": 16,
+        "clean_races": 17,
         "large_lobby_clean_streak": 0,
         "grade": "A"
     },
