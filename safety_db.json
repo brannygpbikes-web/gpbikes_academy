@@ -8,12 +8,12 @@
         "grade": "C"
     },
     "branny": {
-        "safety": 99,
-        "races": 15,
+        "safety": 109,
+        "races": 16,
         "contacts": 35,
-        "clean_races": 4,
+        "clean_races": 5,
         "large_lobby_clean_streak": 1,
-        "grade": "D"
+        "grade": "C"
     },
     "AhyaAL": {
         "safety": 181,
@@ -24,12 +24,12 @@
         "grade": "A"
     },
     "Rk_44": {
-        "safety": 263,
-        "races": 31,
+        "safety": 273,
+        "races": 32,
         "contacts": 17,
-        "clean_races": 20,
+        "clean_races": 21,
         "large_lobby_clean_streak": 1,
-        "grade": "A"
+        "grade": "S"
     },
     "safety_grades": {
         "S": 265,
@@ -138,9 +138,9 @@
         "grade": "C"
     },
     "moe": {
-        "safety": 200,
-        "races": 51,
-        "contacts": 48,
+        "safety": 196,
+        "races": 52,
+        "contacts": 50,
         "clean_races": 20,
         "large_lobby_clean_streak": 0,
         "grade": "A"
@@ -386,12 +386,12 @@
         "grade": "B"
     },
     "Gixnni.": {
-        "safety": 70,
-        "races": 12,
-        "contacts": 44,
+        "safety": 66,
+        "races": 13,
+        "contacts": 46,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
-        "grade": "D"
+        "grade": "E"
     },
     "A.Arenas": {
         "safety": 73,
@@ -802,10 +802,10 @@
         "grade": "B"
     },
     "Dimitry": {
-        "safety": 148,
-        "races": 10,
+        "safety": 158,
+        "races": 11,
         "contacts": 7,
-        "clean_races": 3,
+        "clean_races": 4,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     },
@@ -1266,10 +1266,10 @@
         "grade": "B"
     },
     "fisherman": {
-        "safety": 130,
-        "races": 9,
+        "safety": 140,
+        "races": 10,
         "contacts": 11,
-        "clean_races": 5,
+        "clean_races": 6,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     },
@@ -1610,11 +1610,11 @@
         "grade": "C"
     },
     "Mikrowelle": {
-        "safety": 121,
-        "races": 2,
+        "safety": 131,
+        "races": 3,
         "contacts": 3,
-        "clean_races": 1,
+        "clean_races": 2,
         "large_lobby_clean_streak": 0,
-        "grade": "C"
+        "grade": "B"
     }
 }
