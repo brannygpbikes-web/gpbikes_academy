@@ -96,10 +96,10 @@
         "podiums": 1
     },
     "moe": {
-        "elo": 968,
+        "elo": 964,
         "wins": 2,
-        "races": 43,
-        "podiums": 16
+        "races": 44,
+        "podiums": 17
     },
     "moleo": {
         "elo": 1040,
@@ -258,9 +258,9 @@
         "podiums": 0
     },
     "Gixnni.": {
-        "elo": 997,
+        "elo": 981,
         "wins": 1,
-        "races": 11,
+        "races": 12,
         "podiums": 3
     },
     "A.Arenas": {
@@ -906,10 +906,10 @@
         "podiums": 0
     },
     "fisherman": {
-        "elo": 1008,
-        "wins": 1,
-        "races": 8,
-        "podiums": 4
+        "elo": 1023,
+        "wins": 2,
+        "races": 9,
+        "podiums": 5
     },
     "Smurruf": {
         "elo": 1002,
@@ -1158,9 +1158,9 @@
         "podiums": 0
     },
     "Mikrowelle": {
-        "elo": 1009,
+        "elo": 1014,
         "wins": 1,
-        "races": 1,
-        "podiums": 1
+        "races": 2,
+        "podiums": 2
     }
 }

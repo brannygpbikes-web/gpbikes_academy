@@ -2038,6 +2038,15 @@
             "track": "",
             "finish": 3,
             "race_id": "0c8468652152530a0c034412d008369630a19ce00909e0f2668d04716aa34e15"
+        },
+        {
+            "date": "2026-11-24T17:30:49",
+            "elo": 964,
+            "elo_before": 968,
+            "change": -4,
+            "track": "",
+            "finish": 3,
+            "race_id": "3ed93d80d5ba2509208c53cecbe574957d6033dfaaca84f764ae0825ca784faa"
         }
     ],
     "moleo": [
@@ -3973,6 +3982,15 @@
             "track": "",
             "finish": 9,
             "race_id": "536353f6a2b672071d6f9d9be3351710b57f2d9350ab0be37b4954668f91e702"
+        },
+        {
+            "date": "2026-11-24T17:30:49",
+            "elo": 981,
+            "elo_before": 997,
+            "change": -16,
+            "track": "",
+            "finish": 4,
+            "race_id": "3ed93d80d5ba2509208c53cecbe574957d6033dfaaca84f764ae0825ca784faa"
         }
     ],
     "A.Arenas": [
@@ -8995,6 +9013,15 @@
             "track": "",
             "finish": 4,
             "race_id": "d48a61f24c590b4407edd6122a89a70b1e89d3fa2ffedfa047841137bb60cb9d"
+        },
+        {
+            "date": "2026-11-24T17:30:49",
+            "elo": 1023,
+            "elo_before": 1008,
+            "change": 15,
+            "track": "",
+            "finish": 1,
+            "race_id": "3ed93d80d5ba2509208c53cecbe574957d6033dfaaca84f764ae0825ca784faa"
         }
     ],
     "Smurruf": [
@@ -9862,6 +9889,15 @@
             "track": "",
             "finish": 1,
             "race_id": "d46ff17b33193a9a617bcc97162ebe30cd0f4a20e25af516607e9cacd4265d08"
+        },
+        {
+            "date": "2026-11-24T17:30:49",
+            "elo": 1014,
+            "elo_before": 1009,
+            "change": 5,
+            "track": "",
+            "finish": 2,
+            "race_id": "3ed93d80d5ba2509208c53cecbe574957d6033dfaaca84f764ae0825ca784faa"
         }
     ]
 }

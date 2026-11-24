@@ -138,10 +138,10 @@
         "grade": "C"
     },
     "moe": {
-        "safety": 195,
-        "races": 50,
+        "safety": 200,
+        "races": 51,
         "contacts": 48,
-        "clean_races": 19,
+        "clean_races": 20,
         "large_lobby_clean_streak": 0,
         "grade": "A"
     },
@@ -386,9 +386,9 @@
         "grade": "B"
     },
     "Gixnni.": {
-        "safety": 72,
-        "races": 11,
-        "contacts": 43,
+        "safety": 70,
+        "races": 12,
+        "contacts": 44,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "D"
@@ -803,7 +803,7 @@
     },
     "Dimitry": {
         "safety": 148,
-        "races": 9,
+        "races": 10,
         "contacts": 7,
         "clean_races": 3,
         "large_lobby_clean_streak": 0,
@@ -1266,9 +1266,9 @@
         "grade": "B"
     },
     "fisherman": {
-        "safety": 132,
-        "races": 8,
-        "contacts": 10,
+        "safety": 130,
+        "races": 9,
+        "contacts": 11,
         "clean_races": 5,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -1610,10 +1610,10 @@
         "grade": "C"
     },
     "Mikrowelle": {
-        "safety": 116,
-        "races": 1,
+        "safety": 121,
+        "races": 2,
         "contacts": 3,
-        "clean_races": 0,
+        "clean_races": 1,
         "large_lobby_clean_streak": 0,
         "grade": "C"
     }
