@@ -8,10 +8,10 @@
         "grade": "C"
     },
     "branny": {
-        "safety": 107,
-        "races": 17,
+        "safety": 117,
+        "races": 18,
         "contacts": 37,
-        "clean_races": 5,
+        "clean_races": 6,
         "large_lobby_clean_streak": 0,
         "grade": "C"
     },
@@ -24,10 +24,10 @@
         "grade": "A"
     },
     "Rk_44": {
-        "safety": 283,
-        "races": 33,
+        "safety": 293,
+        "races": 34,
         "contacts": 17,
-        "clean_races": 22,
+        "clean_races": 23,
         "large_lobby_clean_streak": 1,
         "grade": "S"
     },
@@ -138,10 +138,10 @@
         "grade": "C"
     },
     "moe": {
-        "safety": 206,
-        "races": 53,
+        "safety": 216,
+        "races": 54,
         "contacts": 50,
-        "clean_races": 21,
+        "clean_races": 22,
         "large_lobby_clean_streak": 0,
         "grade": "A"
     },
@@ -490,10 +490,10 @@
         "grade": "D"
     },
     "oover": {
-        "safety": 111,
-        "races": 18,
+        "safety": 121,
+        "races": 19,
         "contacts": 42,
-        "clean_races": 9,
+        "clean_races": 10,
         "large_lobby_clean_streak": 0,
         "grade": "C"
     },
@@ -730,12 +730,12 @@
         "grade": "B"
     },
     "AITORGP": {
-        "safety": 103,
-        "races": 5,
-        "contacts": 16,
+        "safety": 89,
+        "races": 6,
+        "contacts": 23,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
-        "grade": "C"
+        "grade": "D"
     },
     "Dani": {
         "safety": 112,
@@ -914,10 +914,10 @@
         "grade": "B"
     },
     "teolato": {
-        "safety": 125,
-        "races": 3,
+        "safety": 135,
+        "races": 4,
         "contacts": 10,
-        "clean_races": 1,
+        "clean_races": 2,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     },
@@ -1106,10 +1106,10 @@
         "grade": "C"
     },
     "juancarloslm02": {
-        "safety": 141,
-        "races": 6,
+        "safety": 151,
+        "races": 7,
         "contacts": 6,
-        "clean_races": 2,
+        "clean_races": 3,
         "large_lobby_clean_streak": 1,
         "grade": "B"
     },
@@ -1242,9 +1242,9 @@
         "grade": "C"
     },
     "ALFONIC": {
-        "safety": 143,
-        "races": 3,
-        "contacts": 2,
+        "safety": 125,
+        "races": 4,
+        "contacts": 11,
         "clean_races": 2,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -1610,10 +1610,10 @@
         "grade": "C"
     },
     "Mikrowelle": {
-        "safety": 141,
-        "races": 4,
+        "safety": 151,
+        "races": 5,
         "contacts": 3,
-        "clean_races": 3,
+        "clean_races": 4,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     },
