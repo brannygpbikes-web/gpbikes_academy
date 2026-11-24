@@ -8,9 +8,9 @@
         "grade": "C"
     },
     "branny": {
-        "safety": 117,
-        "races": 18,
-        "contacts": 37,
+        "safety": 109,
+        "races": 19,
+        "contacts": 41,
         "clean_races": 6,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -24,11 +24,11 @@
         "grade": "A"
     },
     "Rk_44": {
-        "safety": 293,
-        "races": 34,
-        "contacts": 17,
+        "safety": 281,
+        "races": 35,
+        "contacts": 23,
         "clean_races": 23,
-        "large_lobby_clean_streak": 1,
+        "large_lobby_clean_streak": 0,
         "grade": "S"
     },
     "safety_grades": {
@@ -490,18 +490,18 @@
         "grade": "D"
     },
     "oover": {
-        "safety": 121,
-        "races": 19,
+        "safety": 131,
+        "races": 20,
         "contacts": 42,
-        "clean_races": 10,
+        "clean_races": 11,
         "large_lobby_clean_streak": 0,
-        "grade": "C"
+        "grade": "B"
     },
     "Lou": {
-        "safety": 41,
-        "races": 15,
+        "safety": 51,
+        "races": 16,
         "contacts": 61,
-        "clean_races": 2,
+        "clean_races": 3,
         "large_lobby_clean_streak": 1,
         "grade": "E"
     },
@@ -714,12 +714,12 @@
         "grade": "B"
     },
     "EgoMan": {
-        "safety": 94,
-        "races": 37,
+        "safety": 104,
+        "races": 38,
         "contacts": 74,
-        "clean_races": 12,
+        "clean_races": 13,
         "large_lobby_clean_streak": 0,
-        "grade": "D"
+        "grade": "C"
     },
     "TheJr": {
         "safety": 125,
@@ -802,10 +802,10 @@
         "grade": "B"
     },
     "Dimitry": {
-        "safety": 168,
-        "races": 12,
+        "safety": 178,
+        "races": 13,
         "contacts": 7,
-        "clean_races": 5,
+        "clean_races": 6,
         "large_lobby_clean_streak": 0,
         "grade": "A"
     },
@@ -914,10 +914,10 @@
         "grade": "B"
     },
     "teolato": {
-        "safety": 135,
-        "races": 4,
+        "safety": 145,
+        "races": 5,
         "contacts": 10,
-        "clean_races": 2,
+        "clean_races": 3,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     },
@@ -1106,10 +1106,10 @@
         "grade": "C"
     },
     "juancarloslm02": {
-        "safety": 151,
-        "races": 7,
+        "safety": 161,
+        "races": 8,
         "contacts": 6,
-        "clean_races": 3,
+        "clean_races": 4,
         "large_lobby_clean_streak": 1,
         "grade": "B"
     },
@@ -1242,10 +1242,10 @@
         "grade": "C"
     },
     "ALFONIC": {
-        "safety": 125,
-        "races": 4,
+        "safety": 135,
+        "races": 5,
         "contacts": 11,
-        "clean_races": 2,
+        "clean_races": 3,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     },
