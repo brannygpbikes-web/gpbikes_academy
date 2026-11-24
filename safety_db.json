@@ -138,9 +138,9 @@
         "grade": "C"
     },
     "moe": {
-        "safety": 193,
-        "races": 47,
-        "contacts": 47,
+        "safety": 190,
+        "races": 48,
+        "contacts": 48,
         "clean_races": 18,
         "large_lobby_clean_streak": 0,
         "grade": "A"
@@ -314,9 +314,9 @@
         "grade": "B"
     },
     "SleppyGame23": {
-        "safety": 129,
-        "races": 7,
-        "contacts": 8,
+        "safety": 126,
+        "races": 8,
+        "contacts": 9,
         "clean_races": 2,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -899,7 +899,7 @@
     },
     "LaPirana24": {
         "safety": 89,
-        "races": 6,
+        "races": 7,
         "contacts": 27,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,

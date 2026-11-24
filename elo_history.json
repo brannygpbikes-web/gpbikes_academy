@@ -2011,6 +2011,15 @@
             "track": "",
             "finish": 3,
             "race_id": "b6163147632a4b780cd66023a403fd888c943c234b35a49aa5fe896cf5da2476"
+        },
+        {
+            "date": "2026-11-24T16:22:24",
+            "elo": 965,
+            "elo_before": 954,
+            "change": 11,
+            "track": "",
+            "finish": 1,
+            "race_id": "eb2478839c4f37bb263fe869923fd08939a39db3f0565f11bf50516981612a40"
         }
     ],
     "moleo": [
@@ -3695,6 +3704,15 @@
             "track": "",
             "finish": 2,
             "race_id": "b756c0463ec192e1e02039d3033a1348f9d43ba4616881ad61224208fda8f47a"
+        },
+        {
+            "date": "2026-11-24T16:22:24",
+            "elo": 1001,
+            "elo_before": 1012,
+            "change": -11,
+            "track": "",
+            "finish": 2,
+            "race_id": "eb2478839c4f37bb263fe869923fd08939a39db3f0565f11bf50516981612a40"
         }
     ],
     "The Gyatt": [
