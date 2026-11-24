@@ -226,6 +226,15 @@
             "track": "",
             "finish": 1,
             "race_id": "bdc32ef87ac5d30e5b2332b83343978f2b2130fb775e7a2056b8d90b57f2a3ce"
+        },
+        {
+            "date": "2026-11-24T16:44:57",
+            "elo": 1090,
+            "elo_before": 1078,
+            "change": 12,
+            "track": "",
+            "finish": 1,
+            "race_id": "0c8468652152530a0c034412d008369630a19ce00909e0f2668d04716aa34e15"
         }
     ],
     "Miquel_Sinke60": [
@@ -2020,6 +2029,15 @@
             "track": "",
             "finish": 1,
             "race_id": "eb2478839c4f37bb263fe869923fd08939a39db3f0565f11bf50516981612a40"
+        },
+        {
+            "date": "2026-11-24T16:44:57",
+            "elo": 968,
+            "elo_before": 965,
+            "change": 3,
+            "track": "",
+            "finish": 3,
+            "race_id": "0c8468652152530a0c034412d008369630a19ce00909e0f2668d04716aa34e15"
         }
     ],
     "moleo": [
@@ -3713,6 +3731,15 @@
             "track": "",
             "finish": 2,
             "race_id": "eb2478839c4f37bb263fe869923fd08939a39db3f0565f11bf50516981612a40"
+        },
+        {
+            "date": "2026-11-24T16:44:57",
+            "elo": 994,
+            "elo_before": 1001,
+            "change": -7,
+            "track": "",
+            "finish": 4,
+            "race_id": "0c8468652152530a0c034412d008369630a19ce00909e0f2668d04716aa34e15"
         }
     ],
     "The Gyatt": [
@@ -4307,6 +4334,15 @@
             "track": "",
             "finish": 6,
             "race_id": "d272b61556eca3c38387f5d19f382c02724d00e886b4a209a0639c2fd8f7e9f5"
+        },
+        {
+            "date": "2026-11-24T16:44:57",
+            "elo": 1048,
+            "elo_before": 1041,
+            "change": 7,
+            "track": "",
+            "finish": 2,
+            "race_id": "0c8468652152530a0c034412d008369630a19ce00909e0f2668d04716aa34e15"
         }
     ],
     "will 77": [
@@ -7350,6 +7386,15 @@
             "track": "",
             "finish": 2,
             "race_id": "5e0e198ee60052a553f1f44b048ccdc8ddffe9226651bab29e63cb900c7e75b5"
+        },
+        {
+            "date": "2026-11-24T16:44:57",
+            "elo": 987,
+            "elo_before": 1002,
+            "change": -15,
+            "track": "",
+            "finish": 5,
+            "race_id": "0c8468652152530a0c034412d008369630a19ce00909e0f2668d04716aa34e15"
         }
     ],
     "teolato": [
