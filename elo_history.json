@@ -3740,6 +3740,15 @@
             "track": "",
             "finish": 4,
             "race_id": "0c8468652152530a0c034412d008369630a19ce00909e0f2668d04716aa34e15"
+        },
+        {
+            "date": "2026-11-24T17:07:45",
+            "elo": 985,
+            "elo_before": 994,
+            "change": -9,
+            "track": "",
+            "finish": 2,
+            "race_id": "d46ff17b33193a9a617bcc97162ebe30cd0f4a20e25af516607e9cacd4265d08"
         }
     ],
     "The Gyatt": [
@@ -9842,6 +9851,17 @@
             "track": "",
             "finish": 10,
             "race_id": "228674c4317bf93a1f927fc911d9833341c1f8aef26206e173a27f842be6b03b"
+        }
+    ],
+    "Mikrowelle": [
+        {
+            "date": "2026-11-24T17:07:45",
+            "elo": 1009,
+            "elo_before": 1000,
+            "change": 9,
+            "track": "",
+            "finish": 1,
+            "race_id": "d46ff17b33193a9a617bcc97162ebe30cd0f4a20e25af516607e9cacd4265d08"
         }
     ]
 }

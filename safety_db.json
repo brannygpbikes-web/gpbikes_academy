@@ -139,7 +139,7 @@
     },
     "moe": {
         "safety": 195,
-        "races": 49,
+        "races": 50,
         "contacts": 48,
         "clean_races": 19,
         "large_lobby_clean_streak": 0,
@@ -314,12 +314,12 @@
         "grade": "B"
     },
     "SleppyGame23": {
-        "safety": 131,
-        "races": 9,
-        "contacts": 9,
+        "safety": 122,
+        "races": 10,
+        "contacts": 12,
         "clean_races": 3,
         "large_lobby_clean_streak": 0,
-        "grade": "B"
+        "grade": "C"
     },
     "MaonFedrick50": {
         "safety": 120,
@@ -1606,6 +1606,14 @@
         "races": 2,
         "contacts": 5,
         "clean_races": 1,
+        "large_lobby_clean_streak": 0,
+        "grade": "C"
+    },
+    "Mikrowelle": {
+        "safety": 116,
+        "races": 1,
+        "contacts": 3,
+        "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
     }

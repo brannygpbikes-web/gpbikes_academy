@@ -234,10 +234,10 @@
         "podiums": 0
     },
     "SleppyGame23": {
-        "elo": 994,
+        "elo": 985,
         "wins": 0,
-        "races": 8,
-        "podiums": 3
+        "races": 9,
+        "podiums": 4
     },
     "The Gyatt": {
         "elo": 1028,
@@ -1156,5 +1156,11 @@
         "wins": 0,
         "races": 2,
         "podiums": 0
+    },
+    "Mikrowelle": {
+        "elo": 1009,
+        "wins": 1,
+        "races": 1,
+        "podiums": 1
     }
 }
