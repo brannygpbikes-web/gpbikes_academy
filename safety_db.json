@@ -714,9 +714,9 @@
         "grade": "B"
     },
     "EgoMan": {
-        "safety": 170,
-        "races": 51,
-        "contacts": 84,
+        "safety": 166,
+        "races": 52,
+        "contacts": 86,
         "clean_races": 21,
         "large_lobby_clean_streak": 0,
         "grade": "A"
@@ -731,10 +731,10 @@
     },
     "AITORGP": {
         "safety": 100,
-        "races": 12,
+        "races": 13,
         "contacts": 31,
         "clean_races": 3,
-        "large_lobby_clean_streak": 1,
+        "large_lobby_clean_streak": 0,
         "grade": "C"
     },
     "Dani": {
@@ -1562,11 +1562,11 @@
         "grade": "B"
     },
     "Scottogden19": {
-        "safety": 160,
-        "races": 3,
-        "contacts": 0,
+        "safety": 158,
+        "races": 4,
+        "contacts": 1,
         "clean_races": 2,
-        "large_lobby_clean_streak": 1,
+        "large_lobby_clean_streak": 0,
         "grade": "B"
     },
     "Shoop46": {
@@ -1712,5 +1712,13 @@
         "clean_races": 1,
         "large_lobby_clean_streak": 0,
         "grade": "B"
+    },
+    "GeorgeBowes67": {
+        "safety": 119,
+        "races": 1,
+        "contacts": 3,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "C"
     }
 }

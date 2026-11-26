@@ -7477,6 +7477,15 @@
             "track": "",
             "finish": 7,
             "race_id": "4298058f2f988d613773327ef2850ab14fd7948be89b75cc8f5f5e10221cb690"
+        },
+        {
+            "date": "2026-11-26T21:21:05",
+            "elo": 986,
+            "elo_before": 975,
+            "change": 11,
+            "track": "",
+            "finish": 1,
+            "race_id": "9231d5c0ae06bafd3550cdbfa7ccf4261d4770fae61c7e8784c6d983f3f10c75"
         }
     ],
     "MARCO": [
@@ -11056,6 +11065,15 @@
             "track": "",
             "finish": 5,
             "race_id": "221ed2dcd8fa2b8b641e9fcf9d372ff81b7b41f88223941302b09175751aa886"
+        },
+        {
+            "date": "2026-11-26T21:21:05",
+            "elo": 1028,
+            "elo_before": 1029,
+            "change": -1,
+            "track": "",
+            "finish": 2,
+            "race_id": "9231d5c0ae06bafd3550cdbfa7ccf4261d4770fae61c7e8784c6d983f3f10c75"
         }
     ],
     "Shoop46": [
@@ -11407,6 +11425,17 @@
             "track": "",
             "finish": 4,
             "race_id": "4298058f2f988d613773327ef2850ab14fd7948be89b75cc8f5f5e10221cb690"
+        }
+    ],
+    "GeorgeBowes67": [
+        {
+            "date": "2026-11-26T21:21:05",
+            "elo": 990,
+            "elo_before": 1000,
+            "change": -10,
+            "track": "",
+            "finish": 3,
+            "race_id": "9231d5c0ae06bafd3550cdbfa7ccf4261d4770fae61c7e8784c6d983f3f10c75"
         }
     ]
 }
