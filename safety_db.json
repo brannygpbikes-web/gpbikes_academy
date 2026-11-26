@@ -90,9 +90,9 @@
         "grade": "C"
     },
     "ShaiGP": {
-        "safety": 118,
-        "races": 19,
-        "contacts": 37,
+        "safety": 116,
+        "races": 20,
+        "contacts": 38,
         "clean_races": 6,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -114,9 +114,9 @@
         "grade": "B"
     },
     "tacticworks": {
-        "safety": 157,
-        "races": 21,
-        "contacts": 23,
+        "safety": 155,
+        "races": 22,
+        "contacts": 24,
         "clean_races": 9,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -138,9 +138,9 @@
         "grade": "C"
     },
     "moe": {
-        "safety": 217,
-        "races": 59,
-        "contacts": 56,
+        "safety": 215,
+        "races": 60,
+        "contacts": 57,
         "clean_races": 23,
         "large_lobby_clean_streak": 0,
         "grade": "A"
@@ -714,11 +714,11 @@
         "grade": "B"
     },
     "EgoMan": {
-        "safety": 152,
-        "races": 48,
-        "contacts": 83,
+        "safety": 150,
+        "races": 49,
+        "contacts": 84,
         "clean_races": 19,
-        "large_lobby_clean_streak": 2,
+        "large_lobby_clean_streak": 0,
         "grade": "B"
     },
     "TheJr": {
@@ -1554,10 +1554,10 @@
         "grade": "B"
     },
     "pableko": {
-        "safety": 105,
-        "races": 7,
+        "safety": 115,
+        "races": 8,
         "contacts": 19,
-        "clean_races": 2,
+        "clean_races": 3,
         "large_lobby_clean_streak": 0,
         "grade": "C"
     },
@@ -1666,12 +1666,12 @@
         "grade": "C"
     },
     "Revil6745": {
-        "safety": 163,
-        "races": 5,
+        "safety": 173,
+        "races": 6,
         "contacts": 6,
-        "clean_races": 3,
+        "clean_races": 4,
         "large_lobby_clean_streak": 1,
-        "grade": "B"
+        "grade": "A"
     },
     "P-DUKIsalmon": {
         "safety": 119,

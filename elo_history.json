@@ -1560,6 +1560,15 @@
             "track": "",
             "finish": 6,
             "race_id": "d90f4d6f82b0f0e52f51ddcad3590dcc053539660413e909e7674be367f06286"
+        },
+        {
+            "date": "2026-11-26T20:20:09",
+            "elo": 1084,
+            "elo_before": 1065,
+            "change": 19,
+            "track": "",
+            "finish": 1,
+            "race_id": "97ce39dc4c2905d8b560b814631005dbc251333c4238f20faa1697b7673bdbe6"
         }
     ],
     "tacticworks": [
@@ -1742,6 +1751,15 @@
             "track": "",
             "finish": 2,
             "race_id": "d90f4d6f82b0f0e52f51ddcad3590dcc053539660413e909e7674be367f06286"
+        },
+        {
+            "date": "2026-11-26T20:20:09",
+            "elo": 1123,
+            "elo_before": 1146,
+            "change": -23,
+            "track": "",
+            "finish": 5,
+            "race_id": "97ce39dc4c2905d8b560b814631005dbc251333c4238f20faa1697b7673bdbe6"
         }
     ],
     "Ricoway46": [
@@ -2353,6 +2371,15 @@
             "track": "",
             "finish": 8,
             "race_id": "169b9deee6a8fc56d8b61860f18a0225f910b20a9663c0c56f687db612a347af"
+        },
+        {
+            "date": "2026-11-26T20:20:09",
+            "elo": 984,
+            "elo_before": 967,
+            "change": 17,
+            "track": "",
+            "finish": 2,
+            "race_id": "97ce39dc4c2905d8b560b814631005dbc251333c4238f20faa1697b7673bdbe6"
         }
     ],
     "moleo": [
@@ -7333,6 +7360,15 @@
             "track": "",
             "finish": 7,
             "race_id": "d90f4d6f82b0f0e52f51ddcad3590dcc053539660413e909e7674be367f06286"
+        },
+        {
+            "date": "2026-11-26T20:20:09",
+            "elo": 986,
+            "elo_before": 979,
+            "change": 7,
+            "track": "",
+            "finish": 3,
+            "race_id": "97ce39dc4c2905d8b560b814631005dbc251333c4238f20faa1697b7673bdbe6"
         }
     ],
     "MARCO": [
@@ -10838,6 +10874,15 @@
             "track": "",
             "finish": 15,
             "race_id": "221ed2dcd8fa2b8b641e9fcf9d372ff81b7b41f88223941302b09175751aa886"
+        },
+        {
+            "date": "2026-11-26T20:20:09",
+            "elo": 981,
+            "elo_before": 983,
+            "change": -2,
+            "track": "",
+            "finish": 4,
+            "race_id": "97ce39dc4c2905d8b560b814631005dbc251333c4238f20faa1697b7673bdbe6"
         }
     ],
     "Scottogden19": [
@@ -11118,6 +11163,15 @@
             "track": "",
             "finish": 5,
             "race_id": "d90f4d6f82b0f0e52f51ddcad3590dcc053539660413e909e7674be367f06286"
+        },
+        {
+            "date": "2026-11-26T20:20:09",
+            "elo": 928,
+            "elo_before": 946,
+            "change": -18,
+            "track": "",
+            "finish": 6,
+            "race_id": "97ce39dc4c2905d8b560b814631005dbc251333c4238f20faa1697b7673bdbe6"
         }
     ],
     "P-DUKIsalmon": [

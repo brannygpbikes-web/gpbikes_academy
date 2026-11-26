@@ -66,15 +66,15 @@
         "podiums": 18
     },
     "ShaiGP": {
-        "elo": 1065,
-        "wins": 3,
-        "races": 19,
-        "podiums": 13
+        "elo": 1084,
+        "wins": 4,
+        "races": 20,
+        "podiums": 14
     },
     "tacticworks": {
-        "elo": 1146,
+        "elo": 1123,
         "wins": 6,
-        "races": 20,
+        "races": 21,
         "podiums": 16
     },
     "Ricoway46": {
@@ -96,10 +96,10 @@
         "podiums": 1
     },
     "moe": {
-        "elo": 967,
+        "elo": 984,
         "wins": 2,
-        "races": 52,
-        "podiums": 20
+        "races": 53,
+        "podiums": 21
     },
     "moleo": {
         "elo": 1040,
@@ -510,10 +510,10 @@
         "podiums": 1
     },
     "EgoMan": {
-        "elo": 979,
+        "elo": 986,
         "wins": 5,
-        "races": 43,
-        "podiums": 16
+        "races": 44,
+        "podiums": 17
     },
     "MARCO": {
         "elo": 1038,
@@ -1116,9 +1116,9 @@
         "podiums": 0
     },
     "pableko": {
-        "elo": 983,
+        "elo": 981,
         "wins": 2,
-        "races": 6,
+        "races": 7,
         "podiums": 3
     },
     "Scottogden19": {
@@ -1200,9 +1200,9 @@
         "podiums": 0
     },
     "Revil6745": {
-        "elo": 946,
+        "elo": 928,
         "wins": 0,
-        "races": 5,
+        "races": 6,
         "podiums": 0
     },
     "P-DUKIsalmon": {
