@@ -90,20 +90,20 @@
         "grade": "C"
     },
     "ShaiGP": {
-        "safety": 108,
-        "races": 18,
+        "safety": 118,
+        "races": 19,
         "contacts": 37,
-        "clean_races": 5,
+        "clean_races": 6,
         "large_lobby_clean_streak": 0,
         "grade": "C"
     },
     "filipknigge20": {
-        "safety": 162,
-        "races": 19,
+        "safety": 172,
+        "races": 20,
         "contacts": 28,
-        "clean_races": 7,
+        "clean_races": 8,
         "large_lobby_clean_streak": 0,
-        "grade": "B"
+        "grade": "A"
     },
     "Ricoway46": {
         "safety": 156,
@@ -114,9 +114,9 @@
         "grade": "B"
     },
     "tacticworks": {
-        "safety": 159,
-        "races": 20,
-        "contacts": 21,
+        "safety": 157,
+        "races": 21,
+        "contacts": 23,
         "clean_races": 9,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -483,10 +483,10 @@
     },
     "Gonzalo Molina": {
         "safety": 117,
-        "races": 12,
+        "races": 13,
         "contacts": 23,
         "clean_races": 3,
-        "large_lobby_clean_streak": 2,
+        "large_lobby_clean_streak": 0,
         "grade": "C"
     },
     "oover": {
@@ -714,10 +714,10 @@
         "grade": "B"
     },
     "EgoMan": {
-        "safety": 142,
-        "races": 47,
+        "safety": 152,
+        "races": 48,
         "contacts": 83,
-        "clean_races": 18,
+        "clean_races": 19,
         "large_lobby_clean_streak": 2,
         "grade": "B"
     },
@@ -1130,11 +1130,11 @@
         "grade": "B"
     },
     "Danny Hinkelmann14": {
-        "safety": 120,
-        "races": 17,
-        "contacts": 32,
+        "safety": 118,
+        "races": 18,
+        "contacts": 34,
         "clean_races": 5,
-        "large_lobby_clean_streak": 1,
+        "large_lobby_clean_streak": 0,
         "grade": "C"
     },
     "popcoin": {
@@ -1555,7 +1555,7 @@
     },
     "pableko": {
         "safety": 105,
-        "races": 6,
+        "races": 7,
         "contacts": 19,
         "clean_races": 2,
         "large_lobby_clean_streak": 0,
@@ -1619,7 +1619,7 @@
     },
     "Bitxo": {
         "safety": 140,
-        "races": 2,
+        "races": 3,
         "contacts": 0,
         "clean_races": 2,
         "large_lobby_clean_streak": 0,
@@ -1666,10 +1666,10 @@
         "grade": "C"
     },
     "Revil6745": {
-        "safety": 153,
-        "races": 4,
+        "safety": 163,
+        "races": 5,
         "contacts": 6,
-        "clean_races": 2,
+        "clean_races": 3,
         "large_lobby_clean_streak": 1,
         "grade": "B"
     },
@@ -1698,10 +1698,10 @@
         "grade": "B"
     },
     "Creisi48": {
-        "safety": 150,
-        "races": 2,
+        "safety": 160,
+        "races": 3,
         "contacts": 0,
-        "clean_races": 2,
+        "clean_races": 3,
         "large_lobby_clean_streak": 2,
         "grade": "B"
     }
