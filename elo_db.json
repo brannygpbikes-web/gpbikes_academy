@@ -1,8 +1,8 @@
 {
     "AhyaAL": {
-        "elo": 1077,
+        "elo": 1082,
         "wins": 5,
-        "races": 14,
+        "races": 15,
         "podiums": 8
     },
     "branny": {
@@ -60,16 +60,16 @@
         "podiums": 5
     },
     "filipknigge20": {
-        "elo": 1146,
+        "elo": 1159,
         "wins": 8,
-        "races": 16,
-        "podiums": 15
+        "races": 17,
+        "podiums": 16
     },
     "ShaiGP": {
-        "elo": 1060,
+        "elo": 1074,
         "wins": 3,
-        "races": 15,
-        "podiums": 11
+        "races": 16,
+        "podiums": 12
     },
     "tacticworks": {
         "elo": 1134,
@@ -96,9 +96,9 @@
         "podiums": 1
     },
     "moe": {
-        "elo": 981,
+        "elo": 967,
         "wins": 2,
-        "races": 51,
+        "races": 52,
         "podiums": 20
     },
     "moleo": {
@@ -276,9 +276,9 @@
         "podiums": 3
     },
     "alerelinque": {
-        "elo": 985,
+        "elo": 992,
         "wins": 0,
-        "races": 4,
+        "races": 5,
         "podiums": 0
     },
     "J_44": {
@@ -414,9 +414,9 @@
         "podiums": 2
     },
     "chilliams": {
-        "elo": 1027,
+        "elo": 1023,
         "wins": 1,
-        "races": 14,
+        "races": 15,
         "podiums": 7
     },
     "thecrivi28": {
@@ -510,9 +510,9 @@
         "podiums": 1
     },
     "EgoMan": {
-        "elo": 977,
+        "elo": 971,
         "wins": 5,
-        "races": 39,
+        "races": 40,
         "podiums": 16
     },
     "MARCO": {
@@ -528,9 +528,9 @@
         "podiums": 2
     },
     "AITORGP": {
-        "elo": 905,
+        "elo": 891,
         "wins": 0,
-        "races": 10,
+        "races": 11,
         "podiums": 2
     },
     "Quidel Gaétan": {
@@ -810,10 +810,10 @@
         "podiums": 1
     },
     "Danny Hinkelmann14": {
-        "elo": 1058,
-        "wins": 2,
-        "races": 13,
-        "podiums": 8
+        "elo": 1087,
+        "wins": 3,
+        "races": 14,
+        "podiums": 9
     },
     "skalf": {
         "elo": 986,
@@ -1213,6 +1213,12 @@
     },
     "pr1c3y": {
         "elo": 980,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
+    },
+    "Rayo__Wombat": {
+        "elo": 970,
         "wins": 0,
         "races": 1,
         "podiums": 0
