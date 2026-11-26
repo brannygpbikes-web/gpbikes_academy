@@ -74,10 +74,10 @@
         "grade": "C"
     },
     "Dario Andreoni": {
-        "safety": 132,
-        "races": 7,
+        "safety": 142,
+        "races": 8,
         "contacts": 6,
-        "clean_races": 4,
+        "clean_races": 5,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     },
@@ -90,10 +90,10 @@
         "grade": "C"
     },
     "ShaiGP": {
-        "safety": 114,
-        "races": 21,
+        "safety": 124,
+        "races": 22,
         "contacts": 40,
-        "clean_races": 6,
+        "clean_races": 7,
         "large_lobby_clean_streak": 0,
         "grade": "C"
     },
@@ -106,10 +106,10 @@
         "grade": "A"
     },
     "Ricoway46": {
-        "safety": 166,
-        "races": 13,
+        "safety": 176,
+        "races": 14,
         "contacts": 12,
-        "clean_races": 8,
+        "clean_races": 9,
         "large_lobby_clean_streak": 0,
         "grade": "A"
     },
@@ -267,7 +267,7 @@
     },
     "sergioo14": {
         "safety": 58,
-        "races": 47,
+        "races": 48,
         "contacts": 117,
         "clean_races": 6,
         "large_lobby_clean_streak": 0,
@@ -602,10 +602,10 @@
         "grade": "B"
     },
     "Vinsky": {
-        "safety": 143,
-        "races": 4,
+        "safety": 153,
+        "races": 5,
         "contacts": 3,
-        "clean_races": 2,
+        "clean_races": 3,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     },
@@ -714,12 +714,12 @@
         "grade": "B"
     },
     "EgoMan": {
-        "safety": 160,
-        "races": 50,
+        "safety": 170,
+        "races": 51,
         "contacts": 84,
-        "clean_races": 20,
+        "clean_races": 21,
         "large_lobby_clean_streak": 0,
-        "grade": "B"
+        "grade": "A"
     },
     "TheJr": {
         "safety": 125,
@@ -730,12 +730,12 @@
         "grade": "B"
     },
     "AITORGP": {
-        "safety": 90,
-        "races": 11,
+        "safety": 100,
+        "races": 12,
         "contacts": 31,
-        "clean_races": 2,
+        "clean_races": 3,
         "large_lobby_clean_streak": 1,
-        "grade": "D"
+        "grade": "C"
     },
     "Dani": {
         "safety": 112,
@@ -802,10 +802,10 @@
         "grade": "B"
     },
     "Dimitry": {
-        "safety": 171,
-        "races": 15,
+        "safety": 181,
+        "races": 16,
         "contacts": 12,
-        "clean_races": 6,
+        "clean_races": 7,
         "large_lobby_clean_streak": 0,
         "grade": "A"
     },
@@ -1703,6 +1703,14 @@
         "contacts": 0,
         "clean_races": 3,
         "large_lobby_clean_streak": 2,
+        "grade": "B"
+    },
+    "Jardoo": {
+        "safety": 135,
+        "races": 1,
+        "contacts": 0,
+        "clean_races": 1,
+        "large_lobby_clean_streak": 0,
         "grade": "B"
     }
 }

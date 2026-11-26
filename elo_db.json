@@ -48,10 +48,10 @@
         "podiums": 2
     },
     "Dario Andreoni": {
-        "elo": 1022,
+        "elo": 1033,
         "wins": 2,
-        "races": 7,
-        "podiums": 6
+        "races": 8,
+        "podiums": 7
     },
     "Andro": {
         "elo": 982,
@@ -66,9 +66,9 @@
         "podiums": 18
     },
     "ShaiGP": {
-        "elo": 1061,
+        "elo": 1044,
         "wins": 4,
-        "races": 21,
+        "races": 22,
         "podiums": 14
     },
     "tacticworks": {
@@ -78,10 +78,10 @@
         "podiums": 17
     },
     "Ricoway46": {
-        "elo": 1027,
-        "wins": 4,
-        "races": 13,
-        "podiums": 7
+        "elo": 1054,
+        "wins": 5,
+        "races": 14,
+        "podiums": 8
     },
     "Mopee": {
         "elo": 1005,
@@ -432,9 +432,9 @@
         "podiums": 0
     },
     "Vinsky": {
-        "elo": 1066,
+        "elo": 1032,
         "wins": 1,
-        "races": 4,
+        "races": 5,
         "podiums": 3
     },
     "titonagom08": {
@@ -510,9 +510,9 @@
         "podiums": 1
     },
     "EgoMan": {
-        "elo": 994,
+        "elo": 975,
         "wins": 5,
-        "races": 45,
+        "races": 46,
         "podiums": 17
     },
     "MARCO": {
@@ -528,9 +528,9 @@
         "podiums": 2
     },
     "AITORGP": {
-        "elo": 891,
+        "elo": 898,
         "wins": 0,
-        "races": 11,
+        "races": 12,
         "podiums": 2
     },
     "Quidel Gaétan": {
@@ -558,10 +558,10 @@
         "podiums": 1
     },
     "Dimitry": {
-        "elo": 1012,
+        "elo": 1032,
         "wins": 0,
-        "races": 11,
-        "podiums": 3
+        "races": 12,
+        "podiums": 4
     },
     "dwiputra": {
         "elo": 999,
@@ -1228,5 +1228,11 @@
         "wins": 1,
         "races": 3,
         "podiums": 1
+    },
+    "Jardoo": {
+        "elo": 1005,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
     }
 }

@@ -1149,6 +1149,15 @@
             "track": "",
             "finish": 6,
             "race_id": "5972feb824bdd37f793e9e0cb5c369380da1f44488b8bf5388668d8bc205da43"
+        },
+        {
+            "date": "2026-11-26T21:01:00",
+            "elo": 1033,
+            "elo_before": 1022,
+            "change": 11,
+            "track": "",
+            "finish": 3,
+            "race_id": "4298058f2f988d613773327ef2850ab14fd7948be89b75cc8f5f5e10221cb690"
         }
     ],
     "Andro": [
@@ -1587,6 +1596,15 @@
             "track": "",
             "finish": 8,
             "race_id": "5972feb824bdd37f793e9e0cb5c369380da1f44488b8bf5388668d8bc205da43"
+        },
+        {
+            "date": "2026-11-26T21:01:00",
+            "elo": 1044,
+            "elo_before": 1061,
+            "change": -17,
+            "track": "",
+            "finish": 6,
+            "race_id": "4298058f2f988d613773327ef2850ab14fd7948be89b75cc8f5f5e10221cb690"
         }
     ],
     "tacticworks": [
@@ -1906,6 +1924,15 @@
             "track": "",
             "finish": 4,
             "race_id": "5972feb824bdd37f793e9e0cb5c369380da1f44488b8bf5388668d8bc205da43"
+        },
+        {
+            "date": "2026-11-26T21:01:00",
+            "elo": 1054,
+            "elo_before": 1027,
+            "change": 27,
+            "track": "",
+            "finish": 1,
+            "race_id": "4298058f2f988d613773327ef2850ab14fd7948be89b75cc8f5f5e10221cb690"
         }
     ],
     "Mopee": [
@@ -6506,6 +6533,15 @@
             "track": "",
             "finish": 4,
             "race_id": "ebe68dacde9a3646730d92d903ea3154f6b13df79addf1d435386a926bcf1e01"
+        },
+        {
+            "date": "2026-11-26T21:01:00",
+            "elo": 1032,
+            "elo_before": 1066,
+            "change": -34,
+            "track": "",
+            "finish": 8,
+            "race_id": "4298058f2f988d613773327ef2850ab14fd7948be89b75cc8f5f5e10221cb690"
         }
     ],
     "titonagom08": [
@@ -7432,6 +7468,15 @@
             "track": "",
             "finish": 5,
             "race_id": "5972feb824bdd37f793e9e0cb5c369380da1f44488b8bf5388668d8bc205da43"
+        },
+        {
+            "date": "2026-11-26T21:01:00",
+            "elo": 975,
+            "elo_before": 994,
+            "change": -19,
+            "track": "",
+            "finish": 7,
+            "race_id": "4298058f2f988d613773327ef2850ab14fd7948be89b75cc8f5f5e10221cb690"
         }
     ],
     "MARCO": [
@@ -7627,6 +7672,15 @@
             "track": "",
             "finish": 9,
             "race_id": "169b9deee6a8fc56d8b61860f18a0225f910b20a9663c0c56f687db612a347af"
+        },
+        {
+            "date": "2026-11-26T21:01:00",
+            "elo": 898,
+            "elo_before": 891,
+            "change": 7,
+            "track": "",
+            "finish": 5,
+            "race_id": "4298058f2f988d613773327ef2850ab14fd7948be89b75cc8f5f5e10221cb690"
         }
     ],
     "Quidel Gaétan": [
@@ -7907,6 +7961,15 @@
             "track": "",
             "finish": 7,
             "race_id": "5972feb824bdd37f793e9e0cb5c369380da1f44488b8bf5388668d8bc205da43"
+        },
+        {
+            "date": "2026-11-26T21:01:00",
+            "elo": 1032,
+            "elo_before": 1012,
+            "change": 20,
+            "track": "",
+            "finish": 2,
+            "race_id": "4298058f2f988d613773327ef2850ab14fd7948be89b75cc8f5f5e10221cb690"
         }
     ],
     "dwiputra": [
@@ -11333,6 +11396,17 @@
             "track": "",
             "finish": 4,
             "race_id": "d90f4d6f82b0f0e52f51ddcad3590dcc053539660413e909e7674be367f06286"
+        }
+    ],
+    "Jardoo": [
+        {
+            "date": "2026-11-26T21:01:00",
+            "elo": 1005,
+            "elo_before": 1000,
+            "change": 5,
+            "track": "",
+            "finish": 4,
+            "race_id": "4298058f2f988d613773327ef2850ab14fd7948be89b75cc8f5f5e10221cb690"
         }
     ]
 }
