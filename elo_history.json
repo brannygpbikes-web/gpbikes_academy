@@ -10806,6 +10806,15 @@
             "track": "",
             "finish": 10,
             "race_id": "d272b61556eca3c38387f5d19f382c02724d00e886b4a209a0639c2fd8f7e9f5"
+        },
+        {
+            "date": "2026-11-26T22:32:36",
+            "elo": 992,
+            "elo_before": 983,
+            "change": 9,
+            "track": "",
+            "finish": 1,
+            "race_id": "8f37508f7ab79fae137f07867c4b802e63c3ada4fe3d1a9a568cfdf2b2bf339b"
         }
     ],
     "CLG21": [
@@ -10817,6 +10826,15 @@
             "track": "",
             "finish": 12,
             "race_id": "d272b61556eca3c38387f5d19f382c02724d00e886b4a209a0639c2fd8f7e9f5"
+        },
+        {
+            "date": "2026-11-26T22:32:36",
+            "elo": 962,
+            "elo_before": 971,
+            "change": -9,
+            "track": "",
+            "finish": 2,
+            "race_id": "8f37508f7ab79fae137f07867c4b802e63c3ada4fe3d1a9a568cfdf2b2bf339b"
         }
     ],
     "Shimmy": [
