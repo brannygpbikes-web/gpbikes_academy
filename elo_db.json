@@ -1,9 +1,9 @@
 {
     "AhyaAL": {
-        "elo": 1042,
-        "wins": 4,
-        "races": 11,
-        "podiums": 6
+        "elo": 1056,
+        "wins": 5,
+        "races": 12,
+        "podiums": 7
     },
     "branny": {
         "elo": 1028,
@@ -132,10 +132,10 @@
         "podiums": 5
     },
     "HectorLl93": {
-        "elo": 1018,
+        "elo": 1023,
         "wins": 0,
-        "races": 12,
-        "podiums": 4
+        "races": 13,
+        "podiums": 5
     },
     "collinlanger96": {
         "elo": 895,
@@ -510,10 +510,10 @@
         "podiums": 1
     },
     "EgoMan": {
-        "elo": 992,
+        "elo": 988,
         "wins": 5,
-        "races": 36,
-        "podiums": 15
+        "races": 37,
+        "podiums": 16
     },
     "MARCO": {
         "elo": 1038,
@@ -1195,6 +1195,12 @@
     },
     "CT87": {
         "elo": 972,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
+    },
+    "Revil6745": {
+        "elo": 985,
         "wins": 0,
         "races": 1,
         "podiums": 0

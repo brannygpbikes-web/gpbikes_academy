@@ -98,6 +98,15 @@
             "track": "",
             "finish": 1,
             "race_id": "b6163147632a4b780cd66023a403fd888c943c234b35a49aa5fe896cf5da2476"
+        },
+        {
+            "date": "2026-11-26T17:52:34",
+            "elo": 1056,
+            "elo_before": 1042,
+            "change": 14,
+            "track": "",
+            "finish": 1,
+            "race_id": "6c4496e66923005a2bd6051aab698767baa20516376217feb80365652cfa650f"
         }
     ],
     "branny": [
@@ -2500,6 +2509,15 @@
             "track": "",
             "finish": 3,
             "race_id": "bc3edc714c7d38de0f63f8af661a0b52b2884ed798342b89c73864be10317015"
+        },
+        {
+            "date": "2026-11-26T17:52:34",
+            "elo": 1023,
+            "elo_before": 1018,
+            "change": 5,
+            "track": "",
+            "finish": 2,
+            "race_id": "6c4496e66923005a2bd6051aab698767baa20516376217feb80365652cfa650f"
         }
     ],
     "collinlanger96": [
@@ -6937,6 +6955,15 @@
             "track": "",
             "finish": 3,
             "race_id": "b643f7486eb3d2d1e4186bfc9c9ffa484ea3c57954964aac3796883d0effb0be"
+        },
+        {
+            "date": "2026-11-26T17:52:34",
+            "elo": 988,
+            "elo_before": 992,
+            "change": -4,
+            "track": "",
+            "finish": 3,
+            "race_id": "6c4496e66923005a2bd6051aab698767baa20516376217feb80365652cfa650f"
         }
     ],
     "MARCO": [
@@ -10558,6 +10585,17 @@
             "track": "",
             "finish": 9,
             "race_id": "c609dbcead3a682e3218f7af4caaa82417faba39469841d87eebd329cdfad1ae"
+        }
+    ],
+    "Revil6745": [
+        {
+            "date": "2026-11-26T17:52:34",
+            "elo": 985,
+            "elo_before": 1000,
+            "change": -15,
+            "track": "",
+            "finish": 4,
+            "race_id": "6c4496e66923005a2bd6051aab698767baa20516376217feb80365652cfa650f"
         }
     ]
 }
