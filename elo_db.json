@@ -1,8 +1,8 @@
 {
     "AhyaAL": {
-        "elo": 1072,
+        "elo": 1077,
         "wins": 5,
-        "races": 13,
+        "races": 14,
         "podiums": 8
     },
     "branny": {
@@ -66,10 +66,10 @@
         "podiums": 15
     },
     "ShaiGP": {
-        "elo": 1046,
+        "elo": 1060,
         "wins": 3,
-        "races": 14,
-        "podiums": 10
+        "races": 15,
+        "podiums": 11
     },
     "tacticworks": {
         "elo": 1134,
@@ -96,9 +96,9 @@
         "podiums": 1
     },
     "moe": {
-        "elo": 973,
+        "elo": 981,
         "wins": 2,
-        "races": 50,
+        "races": 51,
         "podiums": 20
     },
     "moleo": {
@@ -276,9 +276,9 @@
         "podiums": 3
     },
     "alerelinque": {
-        "elo": 984,
+        "elo": 985,
         "wins": 0,
-        "races": 3,
+        "races": 4,
         "podiums": 0
     },
     "J_44": {
@@ -414,10 +414,10 @@
         "podiums": 2
     },
     "chilliams": {
-        "elo": 1002,
+        "elo": 1027,
         "wins": 1,
-        "races": 13,
-        "podiums": 6
+        "races": 14,
+        "podiums": 7
     },
     "thecrivi28": {
         "elo": 1024,
@@ -432,10 +432,10 @@
         "podiums": 0
     },
     "Vinsky": {
-        "elo": 1025,
-        "wins": 0,
-        "races": 2,
-        "podiums": 2
+        "elo": 1054,
+        "wins": 1,
+        "races": 3,
+        "podiums": 3
     },
     "titonagom08": {
         "elo": 962,
@@ -510,9 +510,9 @@
         "podiums": 1
     },
     "EgoMan": {
-        "elo": 989,
+        "elo": 977,
         "wins": 5,
-        "races": 38,
+        "races": 39,
         "podiums": 16
     },
     "MARCO": {
@@ -528,9 +528,9 @@
         "podiums": 2
     },
     "AITORGP": {
-        "elo": 931,
+        "elo": 905,
         "wins": 0,
-        "races": 9,
+        "races": 10,
         "podiums": 2
     },
     "Quidel Gaétan": {
@@ -978,9 +978,9 @@
         "podiums": 0
     },
     "Zachy12345": {
-        "elo": 910,
+        "elo": 893,
         "wins": 0,
-        "races": 8,
+        "races": 9,
         "podiums": 1
     },
     "Nico Rosbot": {
@@ -1203,6 +1203,18 @@
         "elo": 964,
         "wins": 0,
         "races": 2,
+        "podiums": 0
+    },
+    "P-DUKIsalmon": {
+        "elo": 993,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
+    },
+    "pr1c3y": {
+        "elo": 980,
+        "wins": 0,
+        "races": 1,
         "podiums": 0
     }
 }

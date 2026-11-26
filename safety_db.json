@@ -16,11 +16,11 @@
         "grade": "C"
     },
     "AhyaAL": {
-        "safety": 196,
-        "races": 14,
+        "safety": 206,
+        "races": 15,
         "contacts": 7,
-        "clean_races": 10,
-        "large_lobby_clean_streak": 0,
+        "clean_races": 11,
+        "large_lobby_clean_streak": 1,
         "grade": "A"
     },
     "Rk_44": {
@@ -90,9 +90,9 @@
         "grade": "C"
     },
     "ShaiGP": {
-        "safety": 121,
-        "races": 14,
-        "contacts": 24,
+        "safety": 119,
+        "races": 15,
+        "contacts": 26,
         "clean_races": 5,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -138,9 +138,9 @@
         "grade": "C"
     },
     "moe": {
-        "safety": 221,
-        "races": 57,
-        "contacts": 52,
+        "safety": 219,
+        "races": 58,
+        "contacts": 54,
         "clean_races": 23,
         "large_lobby_clean_streak": 0,
         "grade": "A"
@@ -370,9 +370,9 @@
         "grade": "B"
     },
     "alerelinque": {
-        "safety": 110,
-        "races": 4,
-        "contacts": 11,
+        "safety": 108,
+        "races": 5,
+        "contacts": 13,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -594,19 +594,19 @@
         "grade": "C"
     },
     "chilliams": {
-        "safety": 152,
-        "races": 14,
-        "contacts": 13,
+        "safety": 149,
+        "races": 15,
+        "contacts": 16,
         "clean_races": 5,
         "large_lobby_clean_streak": 0,
         "grade": "B"
     },
     "Vinsky": {
-        "safety": 135,
-        "races": 2,
+        "safety": 145,
+        "races": 3,
         "contacts": 1,
-        "clean_races": 1,
-        "large_lobby_clean_streak": 0,
+        "clean_races": 2,
+        "large_lobby_clean_streak": 1,
         "grade": "B"
     },
     "Nepodar z Albrechtic": {
@@ -714,9 +714,9 @@
         "grade": "B"
     },
     "EgoMan": {
-        "safety": 123,
-        "races": 43,
-        "contacts": 77,
+        "safety": 119,
+        "races": 44,
+        "contacts": 81,
         "clean_races": 16,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -730,9 +730,9 @@
         "grade": "B"
     },
     "AITORGP": {
-        "safety": 82,
-        "races": 9,
-        "contacts": 29,
+        "safety": 80,
+        "races": 10,
+        "contacts": 31,
         "clean_races": 1,
         "large_lobby_clean_streak": 0,
         "grade": "D"
@@ -1362,9 +1362,9 @@
         "grade": "C"
     },
     "Zachy12345": {
-        "safety": 142,
-        "races": 9,
-        "contacts": 8,
+        "safety": 140,
+        "races": 10,
+        "contacts": 10,
         "clean_races": 4,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -1672,5 +1672,21 @@
         "clean_races": 1,
         "large_lobby_clean_streak": 0,
         "grade": "B"
+    },
+    "P-DUKIsalmon": {
+        "safety": 119,
+        "races": 1,
+        "contacts": 6,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "C"
+    },
+    "pr1c3y": {
+        "safety": 123,
+        "races": 1,
+        "contacts": 2,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "C"
     }
 }
