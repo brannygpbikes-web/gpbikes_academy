@@ -1167,6 +1167,15 @@
             "track": "",
             "finish": 3,
             "race_id": "4298058f2f988d613773327ef2850ab14fd7948be89b75cc8f5f5e10221cb690"
+        },
+        {
+            "date": "2026-11-27T20:23:25",
+            "elo": 1024,
+            "elo_before": 1033,
+            "change": -9,
+            "track": "",
+            "finish": 2,
+            "race_id": "c0ed8d38c31d4f6d8f704c7e40d4e5be41f2af279792cc2cb9e38172f0be649d"
         }
     ],
     "Andro": [
@@ -1951,6 +1960,15 @@
             "track": "",
             "finish": 1,
             "race_id": "4298058f2f988d613773327ef2850ab14fd7948be89b75cc8f5f5e10221cb690"
+        },
+        {
+            "date": "2026-11-27T20:23:25",
+            "elo": 1063,
+            "elo_before": 1054,
+            "change": 9,
+            "track": "",
+            "finish": 1,
+            "race_id": "c0ed8d38c31d4f6d8f704c7e40d4e5be41f2af279792cc2cb9e38172f0be649d"
         }
     ],
     "Mopee": [
