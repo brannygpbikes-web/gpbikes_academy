@@ -418,10 +418,10 @@
         "grade": "D"
     },
     "will 77": {
-        "safety": 53,
-        "races": 21,
+        "safety": 63,
+        "races": 22,
         "contacts": 51,
-        "clean_races": 6,
+        "clean_races": 7,
         "large_lobby_clean_streak": 0,
         "grade": "E"
     },
@@ -602,9 +602,9 @@
         "grade": "B"
     },
     "Vinsky": {
-        "safety": 153,
-        "races": 5,
-        "contacts": 3,
+        "safety": 151,
+        "races": 6,
+        "contacts": 4,
         "clean_races": 3,
         "large_lobby_clean_streak": 0,
         "grade": "B"
@@ -714,9 +714,9 @@
         "grade": "B"
     },
     "EgoMan": {
-        "safety": 182,
-        "races": 56,
-        "contacts": 88,
+        "safety": 180,
+        "races": 57,
+        "contacts": 89,
         "clean_races": 23,
         "large_lobby_clean_streak": 0,
         "grade": "A"
@@ -730,10 +730,10 @@
         "grade": "B"
     },
     "AITORGP": {
-        "safety": 100,
-        "races": 13,
+        "safety": 110,
+        "races": 14,
         "contacts": 31,
-        "clean_races": 3,
+        "clean_races": 4,
         "large_lobby_clean_streak": 0,
         "grade": "C"
     },
@@ -1106,10 +1106,10 @@
         "grade": "C"
     },
     "juancarloslm02": {
-        "safety": 179,
-        "races": 11,
+        "safety": 189,
+        "races": 12,
         "contacts": 8,
-        "clean_races": 6,
+        "clean_races": 7,
         "large_lobby_clean_streak": 0,
         "grade": "A"
     },
@@ -1754,11 +1754,11 @@
         "grade": "C"
     },
     "Simone Ghilardini": {
-        "safety": 119,
-        "races": 1,
+        "safety": 129,
+        "races": 2,
         "contacts": 3,
-        "clean_races": 0,
+        "clean_races": 1,
         "large_lobby_clean_streak": 0,
-        "grade": "C"
+        "grade": "B"
     }
 }

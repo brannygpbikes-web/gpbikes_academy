@@ -5182,6 +5182,15 @@
             "track": "",
             "finish": 10,
             "race_id": "221ed2dcd8fa2b8b641e9fcf9d372ff81b7b41f88223941302b09175751aa886"
+        },
+        {
+            "date": "2026-11-27T18:03:57",
+            "elo": 997,
+            "elo_before": 1021,
+            "change": -24,
+            "track": "",
+            "finish": 6,
+            "race_id": "ff91d7ea97824bb9ba6d948e40e2931589c28af8d695a8daf5fb08d767c03e79"
         }
     ],
     "alexiis_1622": [
@@ -6596,6 +6605,15 @@
             "track": "",
             "finish": 8,
             "race_id": "4298058f2f988d613773327ef2850ab14fd7948be89b75cc8f5f5e10221cb690"
+        },
+        {
+            "date": "2026-11-27T18:03:57",
+            "elo": 1016,
+            "elo_before": 1032,
+            "change": -16,
+            "track": "",
+            "finish": 5,
+            "race_id": "ff91d7ea97824bb9ba6d948e40e2931589c28af8d695a8daf5fb08d767c03e79"
         }
     ],
     "titonagom08": [
@@ -7630,6 +7648,15 @@
             "track": "",
             "finish": 4,
             "race_id": "a83b66c7dff946b30839dcc128871e9bd19e3f03d4cb357c0213a2af49da9f4b"
+        },
+        {
+            "date": "2026-11-27T18:03:57",
+            "elo": 969,
+            "elo_before": 972,
+            "change": -3,
+            "track": "",
+            "finish": 4,
+            "race_id": "ff91d7ea97824bb9ba6d948e40e2931589c28af8d695a8daf5fb08d767c03e79"
         }
     ],
     "MARCO": [
@@ -7834,6 +7861,15 @@
             "track": "",
             "finish": 5,
             "race_id": "4298058f2f988d613773327ef2850ab14fd7948be89b75cc8f5f5e10221cb690"
+        },
+        {
+            "date": "2026-11-27T18:03:57",
+            "elo": 910,
+            "elo_before": 898,
+            "change": 12,
+            "track": "",
+            "finish": 3,
+            "race_id": "ff91d7ea97824bb9ba6d948e40e2931589c28af8d695a8daf5fb08d767c03e79"
         }
     ],
     "Quidel Gaétan": [
@@ -9603,6 +9639,15 @@
             "track": "",
             "finish": 1,
             "race_id": "a83b66c7dff946b30839dcc128871e9bd19e3f03d4cb357c0213a2af49da9f4b"
+        },
+        {
+            "date": "2026-11-27T18:03:57",
+            "elo": 1077,
+            "elo_before": 1059,
+            "change": 18,
+            "track": "",
+            "finish": 1,
+            "race_id": "ff91d7ea97824bb9ba6d948e40e2931589c28af8d695a8daf5fb08d767c03e79"
         }
     ],
     "arifinekohartono": [
@@ -11696,6 +11741,15 @@
             "track": "",
             "finish": 2,
             "race_id": "a83b66c7dff946b30839dcc128871e9bd19e3f03d4cb357c0213a2af49da9f4b"
+        },
+        {
+            "date": "2026-11-27T18:03:57",
+            "elo": 1021,
+            "elo_before": 1008,
+            "change": 13,
+            "track": "",
+            "finish": 2,
+            "race_id": "ff91d7ea97824bb9ba6d948e40e2931589c28af8d695a8daf5fb08d767c03e79"
         }
     ],
     "Stokkies4711": [
