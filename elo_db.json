@@ -186,10 +186,10 @@
         "podiums": 1
     },
     "sergioo14": {
-        "elo": 910,
+        "elo": 927,
         "wins": 7,
-        "races": 44,
-        "podiums": 23
+        "races": 45,
+        "podiums": 24
     },
     "rayzenev": {
         "elo": 1005,
@@ -468,9 +468,9 @@
         "podiums": 1
     },
     "Nuno": {
-        "elo": 1055,
+        "elo": 1040,
         "wins": 5,
-        "races": 16,
+        "races": 17,
         "podiums": 8
     },
     "vat1028": {
@@ -480,10 +480,10 @@
         "podiums": 0
     },
     "izan curia": {
-        "elo": 992,
+        "elo": 1011,
         "wins": 1,
-        "races": 16,
-        "podiums": 9
+        "races": 17,
+        "podiums": 10
     },
     "El-Ninety-Nine": {
         "elo": 995,
@@ -510,9 +510,9 @@
         "podiums": 1
     },
     "EgoMan": {
-        "elo": 986,
+        "elo": 987,
         "wins": 6,
-        "races": 48,
+        "races": 49,
         "podiums": 19
     },
     "MARCO": {
@@ -840,10 +840,10 @@
         "podiums": 0
     },
     "Abraham Avila": {
-        "elo": 998,
-        "wins": 0,
-        "races": 5,
-        "podiums": 2
+        "elo": 1026,
+        "wins": 1,
+        "races": 6,
+        "podiums": 3
     },
     "Matteo 42": {
         "elo": 984,
@@ -1246,5 +1246,17 @@
         "wins": 1,
         "races": 1,
         "podiums": 1
+    },
+    "maxithm": {
+        "elo": 980,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
+    },
+    "sslahynek": {
+        "elo": 970,
+        "wins": 0,
+        "races": 1,
+        "podiums": 0
     }
 }

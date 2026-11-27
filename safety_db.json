@@ -266,9 +266,9 @@
         "grade": "B"
     },
     "sergioo14": {
-        "safety": 54,
-        "races": 49,
-        "contacts": 119,
+        "safety": 50,
+        "races": 50,
+        "contacts": 121,
         "clean_races": 6,
         "large_lobby_clean_streak": 0,
         "grade": "E"
@@ -650,17 +650,17 @@
         "grade": "B"
     },
     "Nuno": {
-        "safety": 188,
-        "races": 16,
-        "contacts": 18,
+        "safety": 184,
+        "races": 17,
+        "contacts": 20,
         "clean_races": 7,
         "large_lobby_clean_streak": 0,
         "grade": "A"
     },
     "izan curia": {
-        "safety": 95,
-        "races": 18,
-        "contacts": 40,
+        "safety": 85,
+        "races": 19,
+        "contacts": 45,
         "clean_races": 3,
         "large_lobby_clean_streak": 0,
         "grade": "D"
@@ -714,12 +714,12 @@
         "grade": "B"
     },
     "EgoMan": {
-        "safety": 164,
-        "races": 53,
+        "safety": 174,
+        "races": 54,
         "contacts": 87,
-        "clean_races": 21,
+        "clean_races": 22,
         "large_lobby_clean_streak": 0,
-        "grade": "B"
+        "grade": "A"
     },
     "TheJr": {
         "safety": 125,
@@ -1178,10 +1178,10 @@
         "grade": "B"
     },
     "Abraham Avila": {
-        "safety": 107,
-        "races": 6,
+        "safety": 117,
+        "races": 7,
         "contacts": 12,
-        "clean_races": 1,
+        "clean_races": 2,
         "large_lobby_clean_streak": 0,
         "grade": "C"
     },
@@ -1539,7 +1539,7 @@
     },
     "romeo": {
         "safety": 83,
-        "races": 4,
+        "races": 5,
         "contacts": 21,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
@@ -1725,6 +1725,22 @@
         "safety": 115,
         "races": 1,
         "contacts": 5,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "C"
+    },
+    "sslahynek": {
+        "safety": 135,
+        "races": 1,
+        "contacts": 0,
+        "clean_races": 1,
+        "large_lobby_clean_streak": 0,
+        "grade": "B"
+    },
+    "maxithm": {
+        "safety": 121,
+        "races": 1,
+        "contacts": 2,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
