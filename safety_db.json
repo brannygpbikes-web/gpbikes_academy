@@ -115,7 +115,7 @@
     },
     "tacticworks": {
         "safety": 165,
-        "races": 23,
+        "races": 24,
         "contacts": 24,
         "clean_races": 10,
         "large_lobby_clean_streak": 0,
@@ -138,9 +138,9 @@
         "grade": "C"
     },
     "moe": {
-        "safety": 225,
-        "races": 61,
-        "contacts": 57,
+        "safety": 223,
+        "races": 62,
+        "contacts": 58,
         "clean_races": 24,
         "large_lobby_clean_streak": 0,
         "grade": "A"
@@ -714,9 +714,9 @@
         "grade": "B"
     },
     "EgoMan": {
-        "safety": 184,
-        "races": 55,
-        "contacts": 87,
+        "safety": 182,
+        "races": 56,
+        "contacts": 88,
         "clean_races": 23,
         "large_lobby_clean_streak": 0,
         "grade": "A"
@@ -1106,10 +1106,10 @@
         "grade": "C"
     },
     "juancarloslm02": {
-        "safety": 169,
-        "races": 10,
+        "safety": 179,
+        "races": 11,
         "contacts": 8,
-        "clean_races": 5,
+        "clean_races": 6,
         "large_lobby_clean_streak": 0,
         "grade": "A"
     },
@@ -1744,5 +1744,21 @@
         "clean_races": 1,
         "large_lobby_clean_streak": 0,
         "grade": "B"
+    },
+    "Stokkies4711": {
+        "safety": 123,
+        "races": 1,
+        "contacts": 1,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "C"
+    },
+    "Simone Ghilardini": {
+        "safety": 119,
+        "races": 1,
+        "contacts": 3,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "C"
     }
 }

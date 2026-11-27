@@ -96,9 +96,9 @@
         "podiums": 1
     },
     "moe": {
-        "elo": 1011,
+        "elo": 995,
         "wins": 2,
-        "races": 54,
+        "races": 55,
         "podiums": 22
     },
     "moleo": {
@@ -510,9 +510,9 @@
         "podiums": 1
     },
     "EgoMan": {
-        "elo": 978,
+        "elo": 972,
         "wins": 6,
-        "races": 50,
+        "races": 51,
         "podiums": 19
     },
     "MARCO": {
@@ -786,10 +786,10 @@
         "podiums": 0
     },
     "juancarloslm02": {
-        "elo": 1045,
-        "wins": 2,
-        "races": 9,
-        "podiums": 6
+        "elo": 1059,
+        "wins": 3,
+        "races": 10,
+        "podiums": 7
     },
     "arifinekohartono": {
         "elo": 994,
@@ -1258,5 +1258,17 @@
         "wins": 0,
         "races": 1,
         "podiums": 0
+    },
+    "Simone Ghilardini": {
+        "elo": 1008,
+        "wins": 0,
+        "races": 1,
+        "podiums": 1
+    },
+    "Stokkies4711": {
+        "elo": 1000,
+        "wins": 0,
+        "races": 1,
+        "podiums": 1
     }
 }
