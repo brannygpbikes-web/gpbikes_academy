@@ -510,10 +510,10 @@
         "podiums": 1
     },
     "EgoMan": {
-        "elo": 966,
+        "elo": 960,
         "wins": 6,
-        "races": 54,
-        "podiums": 20
+        "races": 55,
+        "podiums": 21
     },
     "MARCO": {
         "elo": 1038,
@@ -786,10 +786,10 @@
         "podiums": 0
     },
     "juancarloslm02": {
-        "elo": 1087,
-        "wins": 5,
-        "races": 13,
-        "podiums": 10
+        "elo": 1093,
+        "wins": 6,
+        "races": 14,
+        "podiums": 11
     },
     "arifinekohartono": {
         "elo": 994,

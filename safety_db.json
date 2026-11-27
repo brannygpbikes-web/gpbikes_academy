@@ -714,10 +714,10 @@
         "grade": "B"
     },
     "EgoMan": {
-        "safety": 179,
-        "races": 59,
+        "safety": 184,
+        "races": 60,
         "contacts": 92,
-        "clean_races": 24,
+        "clean_races": 25,
         "large_lobby_clean_streak": 0,
         "grade": "A"
     },
@@ -1106,10 +1106,10 @@
         "grade": "C"
     },
     "juancarloslm02": {
-        "safety": 196,
-        "races": 14,
+        "safety": 201,
+        "races": 15,
         "contacts": 9,
-        "clean_races": 8,
+        "clean_races": 9,
         "large_lobby_clean_streak": 0,
         "grade": "A"
     },

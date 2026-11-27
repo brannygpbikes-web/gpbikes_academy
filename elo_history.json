@@ -7693,6 +7693,15 @@
             "track": "",
             "finish": 2,
             "race_id": "b800756da12affee94a03bb0f847babfeb491fbef9802d5117e888f1e64aeeed"
+        },
+        {
+            "date": "2026-11-27T19:08:19",
+            "elo": 960,
+            "elo_before": 966,
+            "change": -6,
+            "track": "",
+            "finish": 2,
+            "race_id": "74e2a0c6766cad1e303f5d1c20cba53645af35d3f8159f3956db5609c921bd16"
         }
     ],
     "MARCO": [
@@ -9720,6 +9729,15 @@
             "track": "",
             "finish": 3,
             "race_id": "b800756da12affee94a03bb0f847babfeb491fbef9802d5117e888f1e64aeeed"
+        },
+        {
+            "date": "2026-11-27T19:08:19",
+            "elo": 1093,
+            "elo_before": 1087,
+            "change": 6,
+            "track": "",
+            "finish": 1,
+            "race_id": "74e2a0c6766cad1e303f5d1c20cba53645af35d3f8159f3956db5609c921bd16"
         }
     ],
     "arifinekohartono": [
