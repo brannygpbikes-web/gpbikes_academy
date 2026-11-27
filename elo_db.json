@@ -510,10 +510,10 @@
         "podiums": 1
     },
     "EgoMan": {
-        "elo": 965,
+        "elo": 966,
         "wins": 6,
-        "races": 53,
-        "podiums": 19
+        "races": 54,
+        "podiums": 20
     },
     "MARCO": {
         "elo": 1038,
@@ -528,10 +528,10 @@
         "podiums": 2
     },
     "AITORGP": {
-        "elo": 901,
-        "wins": 0,
-        "races": 14,
-        "podiums": 3
+        "elo": 914,
+        "wins": 1,
+        "races": 15,
+        "podiums": 4
     },
     "Quidel Gaétan": {
         "elo": 1000,
@@ -786,10 +786,10 @@
         "podiums": 0
     },
     "juancarloslm02": {
-        "elo": 1101,
+        "elo": 1087,
         "wins": 5,
-        "races": 12,
-        "podiums": 9
+        "races": 13,
+        "podiums": 10
     },
     "arifinekohartono": {
         "elo": 994,

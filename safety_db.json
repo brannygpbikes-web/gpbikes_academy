@@ -714,10 +714,10 @@
         "grade": "B"
     },
     "EgoMan": {
-        "safety": 174,
-        "races": 58,
+        "safety": 179,
+        "races": 59,
         "contacts": 92,
-        "clean_races": 23,
+        "clean_races": 24,
         "large_lobby_clean_streak": 0,
         "grade": "A"
     },
@@ -730,9 +730,9 @@
         "grade": "B"
     },
     "AITORGP": {
-        "safety": 106,
-        "races": 15,
-        "contacts": 33,
+        "safety": 103,
+        "races": 16,
+        "contacts": 34,
         "clean_races": 4,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -1106,9 +1106,9 @@
         "grade": "C"
     },
     "juancarloslm02": {
-        "safety": 199,
-        "races": 13,
-        "contacts": 8,
+        "safety": 196,
+        "races": 14,
+        "contacts": 9,
         "clean_races": 8,
         "large_lobby_clean_streak": 0,
         "grade": "A"

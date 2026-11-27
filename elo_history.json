@@ -7684,6 +7684,15 @@
             "track": "",
             "finish": 5,
             "race_id": "4e105dc0695e339e25e3ae1fdedb05685ef8659ba67f7ea388c8d891f9b19d03"
+        },
+        {
+            "date": "2026-11-27T18:47:49",
+            "elo": 966,
+            "elo_before": 965,
+            "change": 1,
+            "track": "",
+            "finish": 2,
+            "race_id": "b800756da12affee94a03bb0f847babfeb491fbef9802d5117e888f1e64aeeed"
         }
     ],
     "MARCO": [
@@ -7906,6 +7915,15 @@
             "track": "",
             "finish": 6,
             "race_id": "4e105dc0695e339e25e3ae1fdedb05685ef8659ba67f7ea388c8d891f9b19d03"
+        },
+        {
+            "date": "2026-11-27T18:47:49",
+            "elo": 914,
+            "elo_before": 901,
+            "change": 13,
+            "track": "",
+            "finish": 1,
+            "race_id": "b800756da12affee94a03bb0f847babfeb491fbef9802d5117e888f1e64aeeed"
         }
     ],
     "Quidel Gaétan": [
@@ -9693,6 +9711,15 @@
             "track": "",
             "finish": 1,
             "race_id": "4e105dc0695e339e25e3ae1fdedb05685ef8659ba67f7ea388c8d891f9b19d03"
+        },
+        {
+            "date": "2026-11-27T18:47:49",
+            "elo": 1087,
+            "elo_before": 1101,
+            "change": -14,
+            "track": "",
+            "finish": 3,
+            "race_id": "b800756da12affee94a03bb0f847babfeb491fbef9802d5117e888f1e64aeeed"
         }
     ],
     "arifinekohartono": [
