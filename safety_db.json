@@ -266,9 +266,9 @@
         "grade": "B"
     },
     "sergioo14": {
-        "safety": 58,
-        "races": 48,
-        "contacts": 117,
+        "safety": 54,
+        "races": 49,
+        "contacts": 119,
         "clean_races": 6,
         "large_lobby_clean_streak": 0,
         "grade": "E"
@@ -650,20 +650,20 @@
         "grade": "B"
     },
     "Nuno": {
-        "safety": 194,
-        "races": 15,
-        "contacts": 15,
+        "safety": 188,
+        "races": 16,
+        "contacts": 18,
         "clean_races": 7,
         "large_lobby_clean_streak": 0,
         "grade": "A"
     },
     "izan curia": {
-        "safety": 105,
-        "races": 17,
-        "contacts": 35,
+        "safety": 95,
+        "races": 18,
+        "contacts": 40,
         "clean_races": 3,
         "large_lobby_clean_streak": 0,
-        "grade": "C"
+        "grade": "D"
     },
     "vat1028": {
         "safety": 121,
@@ -714,12 +714,12 @@
         "grade": "B"
     },
     "EgoMan": {
-        "safety": 166,
-        "races": 52,
-        "contacts": 86,
+        "safety": 164,
+        "races": 53,
+        "contacts": 87,
         "clean_races": 21,
         "large_lobby_clean_streak": 0,
-        "grade": "A"
+        "grade": "B"
     },
     "TheJr": {
         "safety": 125,
@@ -1717,6 +1717,14 @@
         "safety": 119,
         "races": 1,
         "contacts": 3,
+        "clean_races": 0,
+        "large_lobby_clean_streak": 0,
+        "grade": "C"
+    },
+    "AwashMicrobe": {
+        "safety": 115,
+        "races": 1,
+        "contacts": 5,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"

@@ -3643,6 +3643,15 @@
             "track": "",
             "finish": 12,
             "race_id": "221ed2dcd8fa2b8b641e9fcf9d372ff81b7b41f88223941302b09175751aa886"
+        },
+        {
+            "date": "2026-11-27T16:33:11",
+            "elo": 910,
+            "elo_before": 922,
+            "change": -12,
+            "track": "",
+            "finish": 5,
+            "race_id": "df068ff4c7d4af1e3550eb7e7d1c197530254208307b304d9d392f7a79a0809b"
         }
     ],
     "rayzenev": [
@@ -6851,6 +6860,15 @@
             "track": "",
             "finish": 1,
             "race_id": "11b8232c786719de0e53a08519809fab409cb5500b2e3b484d70c95a4aa85475"
+        },
+        {
+            "date": "2026-11-27T16:33:11",
+            "elo": 1055,
+            "elo_before": 1050,
+            "change": 5,
+            "track": "",
+            "finish": 2,
+            "race_id": "df068ff4c7d4af1e3550eb7e7d1c197530254208307b304d9d392f7a79a0809b"
         }
     ],
     "vat1028": [
@@ -7008,6 +7026,15 @@
             "track": "",
             "finish": 9,
             "race_id": "228674c4317bf93a1f927fc911d9833341c1f8aef26206e173a27f842be6b03b"
+        },
+        {
+            "date": "2026-11-27T16:33:11",
+            "elo": 992,
+            "elo_before": 1001,
+            "change": -9,
+            "track": "",
+            "finish": 4,
+            "race_id": "df068ff4c7d4af1e3550eb7e7d1c197530254208307b304d9d392f7a79a0809b"
         }
     ],
     "El-Ninety-Nine": [
@@ -7486,6 +7513,15 @@
             "track": "",
             "finish": 1,
             "race_id": "9231d5c0ae06bafd3550cdbfa7ccf4261d4770fae61c7e8784c6d983f3f10c75"
+        },
+        {
+            "date": "2026-11-27T16:33:11",
+            "elo": 986,
+            "elo_before": 986,
+            "change": 0,
+            "track": "",
+            "finish": 3,
+            "race_id": "df068ff4c7d4af1e3550eb7e7d1c197530254208307b304d9d392f7a79a0809b"
         }
     ],
     "MARCO": [
@@ -11454,6 +11490,17 @@
             "track": "",
             "finish": 3,
             "race_id": "9231d5c0ae06bafd3550cdbfa7ccf4261d4770fae61c7e8784c6d983f3f10c75"
+        }
+    ],
+    "AwashMicrobe": [
+        {
+            "date": "2026-11-27T16:33:11",
+            "elo": 1016,
+            "elo_before": 1000,
+            "change": 16,
+            "track": "",
+            "finish": 1,
+            "race_id": "df068ff4c7d4af1e3550eb7e7d1c197530254208307b304d9d392f7a79a0809b"
         }
     ]
 }
