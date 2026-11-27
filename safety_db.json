@@ -8,9 +8,9 @@
         "grade": "C"
     },
     "branny": {
-        "safety": 109,
-        "races": 19,
-        "contacts": 41,
+        "safety": 107,
+        "races": 20,
+        "contacts": 43,
         "clean_races": 6,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -138,10 +138,10 @@
         "grade": "C"
     },
     "moe": {
-        "safety": 215,
-        "races": 60,
+        "safety": 225,
+        "races": 61,
         "contacts": 57,
-        "clean_races": 23,
+        "clean_races": 24,
         "large_lobby_clean_streak": 0,
         "grade": "A"
     },
@@ -266,9 +266,9 @@
         "grade": "B"
     },
     "sergioo14": {
-        "safety": 50,
-        "races": 50,
-        "contacts": 121,
+        "safety": 48,
+        "races": 51,
+        "contacts": 123,
         "clean_races": 6,
         "large_lobby_clean_streak": 0,
         "grade": "E"
@@ -650,18 +650,18 @@
         "grade": "B"
     },
     "Nuno": {
-        "safety": 184,
-        "races": 17,
+        "safety": 194,
+        "races": 18,
         "contacts": 20,
-        "clean_races": 7,
+        "clean_races": 8,
         "large_lobby_clean_streak": 0,
         "grade": "A"
     },
     "izan curia": {
-        "safety": 85,
-        "races": 19,
+        "safety": 95,
+        "races": 20,
         "contacts": 45,
-        "clean_races": 3,
+        "clean_races": 4,
         "large_lobby_clean_streak": 0,
         "grade": "D"
     },
@@ -714,10 +714,10 @@
         "grade": "B"
     },
     "EgoMan": {
-        "safety": 174,
-        "races": 54,
+        "safety": 184,
+        "races": 55,
         "contacts": 87,
-        "clean_races": 22,
+        "clean_races": 23,
         "large_lobby_clean_streak": 0,
         "grade": "A"
     },
@@ -1106,12 +1106,12 @@
         "grade": "C"
     },
     "juancarloslm02": {
-        "safety": 159,
-        "races": 9,
+        "safety": 169,
+        "races": 10,
         "contacts": 8,
-        "clean_races": 4,
+        "clean_races": 5,
         "large_lobby_clean_streak": 0,
-        "grade": "B"
+        "grade": "A"
     },
     "arifinekohartono": {
         "safety": 135,
@@ -1642,10 +1642,10 @@
         "grade": "C"
     },
     "Outrunning Child Support": {
-        "safety": 111,
-        "races": 2,
+        "safety": 121,
+        "races": 3,
         "contacts": 7,
-        "clean_races": 0,
+        "clean_races": 1,
         "large_lobby_clean_streak": 0,
         "grade": "C"
     },
@@ -1722,9 +1722,9 @@
         "grade": "C"
     },
     "AwashMicrobe": {
-        "safety": 115,
-        "races": 1,
-        "contacts": 5,
+        "safety": 113,
+        "races": 2,
+        "contacts": 7,
         "clean_races": 0,
         "large_lobby_clean_streak": 0,
         "grade": "C"
@@ -1738,11 +1738,11 @@
         "grade": "B"
     },
     "maxithm": {
-        "safety": 121,
-        "races": 1,
+        "safety": 131,
+        "races": 2,
         "contacts": 2,
-        "clean_races": 0,
+        "clean_races": 1,
         "large_lobby_clean_streak": 0,
-        "grade": "C"
+        "grade": "B"
     }
 }
